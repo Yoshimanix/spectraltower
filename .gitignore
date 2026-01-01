@@ -1,0 +1,9 @@
+duckstation-windows-x64-release/
+ghidra_11.4.2_PUBLIC/
+pcsx-redux/
+tile_molester_021/
+yychr20210606/
+*.bin
+*.cue
+SLPS*.*
+ps1_font_vertical_strip_8px.png

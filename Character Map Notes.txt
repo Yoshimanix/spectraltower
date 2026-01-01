@@ -1,0 +1,39 @@
+The first character map is at 0x7DB20 of the main executable.
+The second character map is at 0x80850 of the main executable.
+
+Since it's easier to just use the characters already in the BIOS,
+which are mapped in RAM during runtime anyway, we can simply
+load those glyphs to the text buffer instead.
+
+For the sake of simplicity, we'll make the game print ASCII instead.
+
+Let's summarize how the game prints text as-is:
+It reads a 2-byte Shift-JIS value.
+It finds where in RAM this is situated.
+It converts it to the format the game understands.
+It copies to the buffer.
+It prints.
+It increments counters, and proceeds to the next character.
+
+Instead, we'll do the following:
+Read one byte.
+If it's 0x00, we stop, just like the game does already. It's a NUL character.
+If it's 0x01 through 0x09 or so, we treat those as control codes.
+We ignore everything up to 0x1F inclusive.
+0x20 is a space, so we use a particular spot in RAM for a space.
+For the rest up until 0x7F inclusive, we use their ASCII equivalents.
+For the rest up until 0xFF inclusive, mojibake will be printed, but it doesn't matter.
+Repeat from the top.
+
+The result will be a fixed-width ASCII, with double the characters being printable.
+
+We'll need to account for all the times where the game stores and reads a word (2 bytes),
+and replace them with byte reads.
+
+The BIOS copy of the ASCII character map is at 0x1FC7F8DE (or 0xBFC7F8DE, if https://psx-spx.consoledev.net/kernelbios/#bios-memory-map is correct)
+When copied to RAM, the font should end up at 0x8007F8DE.
+For 16x14 glyphs, the game flips endianess of each byte, and prints it to the buffer.
+Each 8 bytes is a line (16 1bpp pixels).
+For 8x15, we'll have to do 4 bytes, and skip the next 4 every time.
+There's enough of a gap between lines that won't make the change in height that noticeable.
+However, we will have to start copying 0x8 bytes earlier to the framebuffer, to account for the height difference.
