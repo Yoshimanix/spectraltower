@@ -1,3 +1,0 @@
-.org 0x80090850 ; go to where the kanji charbank begins...
-.fill 120 ; zero-fill the first 120 bytes to account for ASCII 0x20
-.incbin "scph1001.bin", 0x7F8DE, 0x7FE6F - 0x7F8DE ; and include the BIOS's ASCII font.
