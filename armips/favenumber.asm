@@ -18,6 +18,11 @@ StartOfTextDump:
 jal BlitToRamOriginal
 .org 0x8004692c
 jal BlitToRamOriginal
+;.org 0x800466a4
+;jal BlitToRamOriginal
+
+.org 0x800473cc
+jal BlitToRamOriginal
 
 ;also repoint the special character VRAM initialization to call the same function
 .org 0x8005562c
