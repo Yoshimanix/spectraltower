@@ -520,18 +520,20 @@
 83D5=ψ
 83D6=ω
 
-8441=[PLAYER]
-8442=[CLASS]
-8443=[COMMAND]
-8444=[ENEMY]
-8445=[NUMBER]
-8446=[ITEM1]
-8447=[ITEM2]
-8448=[ITEM3]
-8449=[ITEM4]
-844A=[SPACE1]
-844B=[SPACE2]
-844C=[SPACE3]
+# The folllowing replace the original control codes.
+# The original versions are included to the right.
+8441=[PLAYER]   # a
+8442=[CLASS]    # b
+8443=[COMMAND]  # c
+8444=[ENEMY]    # d
+8445=[NUMBER]   # e
+8446=[ITEM1]    # f
+8447=[ITEM2]    # g
+8448=[ITEM3]    # h
+8449=[ITEM4]    # i
+844A=[SPACE1]   # j
+844B=[SPACE2]   # k
+844C=[SPACE3]   # l
 
 8440=А
 8441=Б
