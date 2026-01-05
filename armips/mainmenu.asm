@@ -1,8 +1,8 @@
 ; Adjust hard-coded character length for main menu text
 .org 0x80039894
-.byte 4
-.byte 4
-.byte 4
+.byte 8 ; Continue
+.byte 8 ; New Game
+.byte 8 ; Options
 
 ; Adjust option menu pointer X position
 .org 0x8003A11A
@@ -44,3 +44,23 @@ sra v1,v1,0x2
 sra v1,v1,0x2
 .org 0x800662ac
 sra v1,v1,0x2
+
+; Adjust main menu rect target X coordinate offset.
+.org 0x800583b8
+sra a0,a0,0xd
+
+; Adjust options menu rect target X coordinate offset
+.org 0x800584f4
+sra v1,v1,0xd
+.org 0x800585cc
+sra v1,v1,0xd
+.org 0x80058750
+sra v1,v1,0xd
+.org 0x800586a4
+sra v1,v1,0xd
+.org 0x800587cc
+.byte 0x6
+.org 0x80058648
+.byte 0x6
+.org 0x80058718
+.byte 0xa

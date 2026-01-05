@@ -1,0 +1,593 @@
+.org 0x800299BC
+
+; Entry @ 0x800299BC
+.word str_0x800C0540
+.word str_0x800C0540
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0000
+
+; Entry @ 0x800299CC
+.word str_0x800C057C
+.word str_0x800C0574
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0001
+.halfword 0x0000
+
+; Entry @ 0x800299DC
+.word str_0x800C057C
+.word str_0x800C056C
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0001
+.halfword 0x0000
+
+; Entry @ 0x800299EC
+.word str_0x800C057C
+.word str_0x800C0564
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0001
+.halfword 0x0000
+
+; Entry @ 0x800299FC
+.word str_0x8002A3D8
+.word str_0x800C0540
+.halfword 0x0001
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029A0C
+.word str_0x800C055C
+.word str_0x8002A3C4
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029A1C
+.word str_0x8002A3B4
+.word str_0x8002A3C4
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029A2C
+.word str_0x8002A3A4
+.word str_0x8002A3C4
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029A3C
+.word str_0x8002A390
+.word str_0x8002A3C4
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029A4C
+.word str_0x8002A380
+.word str_0x8002A3C4
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029A5C
+.word str_0x8002A370
+.word str_0x8002A3C4
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029A6C
+.word str_0x8002A360
+.word str_0x8002A3C4
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029A7C
+.word str_0x8002A350
+.word str_0x8002A3C4
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029A8C
+.word str_0x8002A340
+.word str_0x8002A3C4
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029A9C
+.word str_0x8002A330
+.word str_0x8002A3C4
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029AAC
+.word str_0x800C055C
+.word str_0x8002A3C4
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029ABC
+.word str_0x8002A320
+.word str_0x8002A310
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029ACC
+.word str_0x8002A2FC
+.word str_0x8002A2E8
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029ADC
+.word str_0x8002A2D8
+.word str_0x8002A2C4
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029AEC
+.word str_0x8002A2A8
+.word str_0x8002A294
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029AFC
+.word str_0x800C0554
+.word str_0x8002A27C
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029B0C
+.word str_0x8002A26C
+.word str_0x8002A258
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0003
+.halfword 0x0000
+
+; Entry @ 0x80029B1C
+.word str_0x8002A248
+.word str_0x8002A23C
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029B2C
+.word str_0x8002A228
+.word str_0x800C0540
+.halfword 0x0001
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029B3C
+.word str_0x800C057C
+.word str_0x8002A218
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0000
+
+; Entry @ 0x80029B4C
+.word str_0x800C057C
+.word str_0x8002A208
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0000
+
+; Entry @ 0x80029B5C
+.word str_0x800C054C
+.word str_0x8002A1F8
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0000
+
+; Entry @ 0x80029B6C
+.word str_0x8002A1E8
+.word str_0x8002A1CC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0001
+
+; Entry @ 0x80029B7C
+.word str_0x8002A1BC
+.word str_0x8002A1A8
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029B8C
+.word str_0x8002A1E8
+.word str_0x8002A1CC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0001
+
+; Entry @ 0x80029B9C
+.word str_0x8002A198
+.word str_0x8002A184
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029BAC
+.word str_0x8002A1E8
+.word str_0x8002A1CC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0001
+
+; Entry @ 0x80029BBC
+.word str_0x8002A174
+.word str_0x8002A15C
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029BCC
+.word str_0x8002A1E8
+.word str_0x8002A1CC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0001
+
+; Entry @ 0x80029BDC
+.word str_0x8002A14C
+.word str_0x8002A13C
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029BEC
+.word str_0x8002A1E8
+.word str_0x8002A1CC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0001
+
+; Entry @ 0x80029BFC
+.word str_0x8002A12C
+.word str_0x8002A118
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029C0C
+.word str_0x8002A1E8
+.word str_0x8002A1CC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0001
+
+; Entry @ 0x80029C1C
+.word str_0x8002A108
+.word str_0x8002A0EC
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029C2C
+.word str_0x8002A1E8
+.word str_0x8002A1CC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0001
+
+; Entry @ 0x80029C3C
+.word str_0x8002A0DC
+.word str_0x8002A0C4
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029C4C
+.word str_0x8002A1E8
+.word str_0x8002A1CC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0001
+
+; Entry @ 0x80029C5C
+.word str_0x8002A0B4
+.word str_0x8002A09C
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029C6C
+.word str_0x8002A1E8
+.word str_0x8002A1CC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0001
+
+; Entry @ 0x80029C7C
+.word str_0x8002A08C
+.word str_0x8002A074
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029C8C
+.word str_0x8002A1E8
+.word str_0x8002A1CC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0001
+
+; Entry @ 0x80029C9C
+.word str_0x8002A064
+.word str_0x8002A048
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029CAC
+.word str_0x8002A1E8
+.word str_0x8002A1CC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0001
+
+; Entry @ 0x80029CBC
+.word str_0x8002A030
+.word str_0x8002A014
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029CCC
+.word str_0x8002A1E8
+.word str_0x8002A1CC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0001
+
+; Entry @ 0x80029CDC
+.word str_0x8002A004
+.word str_0x80029FEC
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029CEC
+.word str_0x8002A1E8
+.word str_0x8002A1CC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0001
+
+; Entry @ 0x80029CFC
+.word str_0x80029FE0
+.word str_0x80029FC8
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029D0C
+.word str_0x8002A1E8
+.word str_0x8002A1CC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0001
+
+; Entry @ 0x80029D1C
+.word str_0x80029FB8
+.word str_0x80029FA4
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029D2C
+.word str_0x8002A1E8
+.word str_0x8002A1CC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0001
+
+; Entry @ 0x80029D3C
+.word str_0x80029F8C
+.word str_0x80029F74
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029D4C
+.word str_0x8002A1E8
+.word str_0x8002A1CC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0001
+
+; Entry @ 0x80029D5C
+.word str_0x80029F58
+.word str_0x80029F44
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029D6C
+.word str_0x800C057C
+.word str_0x800C0544
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0001
+.halfword 0x0000
+
+; Entry @ 0x80029D7C
+.word str_0x8002A320
+.word str_0x80029F30
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029D8C
+.word str_0x80029F1C
+.word str_0x80029F04
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0000
+.halfword 0x0000
+
+; Entry @ 0x80029D9C
+.word str_0x80029EF0
+.word str_0x80029EE0
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029DAC
+.word str_0x80029ED0
+.word str_0x800C0540
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029DBC
+.word str_0x8002A3B4
+.word str_0x80029EBC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029DCC
+.word str_0x8002A3A4
+.word str_0x80029EBC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029DDC
+.word str_0x8002A390
+.word str_0x80029EBC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029DEC
+.word str_0x8002A380
+.word str_0x80029EBC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029DFC
+.word str_0x8002A370
+.word str_0x80029EBC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029E0C
+.word str_0x8002A360
+.word str_0x80029EBC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029E1C
+.word str_0x8002A350
+.word str_0x80029EBC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029E2C
+.word str_0x8002A340
+.word str_0x80029EBC
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029E3C
+.word str_0x80029E9C
+.word str_0x80029E84
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000
+
+; Entry @ 0x80029E4C
+.word str_0x80029E70
+.word str_0x80029E5C
+.halfword 0x0002
+.halfword 0x0000
+.halfword 0x0002
+.halfword 0x0000

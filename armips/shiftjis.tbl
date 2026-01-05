@@ -519,35 +519,38 @@
 83D4=χ
 83D5=ψ
 83D6=ω
+8440=А
+
 
 # The folllowing replace the original control codes.
-# The original versions are included to the right.
-8441=[PLAYER]   # a
-8442=[CLASS]    # b
-8443=[COMMAND]  # c
-8444=[ENEMY]    # d
-8445=[NUMBER]   # e
-8446=[ITEM1]    # f
-8447=[ITEM2]    # g
-8448=[ITEM3]    # h
-8449=[ITEM4]    # i
-844A=[SPACE1]   # j
-844B=[SPACE2]   # k
-844C=[SPACE3]   # l
+# The original versions are included above the replacements.
 
-8440=А
+# a = [PLAYER]
 8441=Б
+# b = [CLASS]
 8442=В
+# c = [COMMAND]
 8443=Г
+# d = [ENEMY]
 8444=Д
+# e = [NUMBER]
 8445=Е
+# f = [ITEM1]
 8446=Ё
+# g = [ITEM2]
 8447=Ж
+# h = [ITEM3]
 8448=З
+# i = [ITEM4]
 8449=И
+# j = [SPACE1]
 844A=Й
+# k = [SPACE2]
 844B=К
+# l = [SPACE3]  
 844C=Л
+
+
 844D=М
 844E=Н
 844F=О

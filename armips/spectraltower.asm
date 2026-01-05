@@ -15,4 +15,8 @@
 .include "text_itemnames_ptr.asm"
 .include "text_itemdescriptions.asm"
 .include "text_itemdescriptions_ptr.asm"
+.include "text_itemonuse.asm"
+.include "text_itemonuse_ptr.asm"
+.include "text_system.asm"
+.include "text_system_ptr.asm"
 .close
