@@ -32,9 +32,15 @@ sll v1,a0,0x3
 .org 0x800449e4
 .byte 0x60
 
-; Adjust drawing rect of item names
-.org 0x80064bf8
-;.byte 7
+; Fix Inventory Item Name Text
+; Divide item name lengths by half,
+; to prevent drawing overflows.
+; VERY HACKY
+; WILL REQUIRE ITEM NAMES TO BE EVEN NUMBER IN LENGTH
 
-
-; TODO: Fix Inventory Item Name Text (;-;)
+.org 0x800666a4
+sra v1,v1,0x2
+.org 0x80064240
+sra v1,v1,0x2
+.org 0x800662ac
+sra v1,v1,0x2

@@ -1,3 +1,7 @@
+; Due to a quirk with how item names are drawn,
+; please ensure the below strings are even number in length.
+; If you end up with an odd number, add a trailing space.
+
 .org EnemyNameTextEnd
 .loadtable "shiftjis.tbl"
 
@@ -13,7 +17,7 @@ str_8003CCF0:
 
 str_800C07F0:
 ;JP TEXT: "ナイフ"
-.string "Knife"
+.string "Knife "
 
 str_8003CCE0:
 ;JP TEXT: "ブロンズソード"
@@ -21,15 +25,15 @@ str_8003CCE0:
 
 str_8003CCD0:
 ;JP TEXT: "ロングソード"
-.string "Longsword"
+.string "Longsword "
 
 str_8003CCC0:
 ;JP TEXT: "マルスブレイド"
-.string "マルスブレイド"
+.string "Mars Blade"
 
 str_8003CCAC:
 ;JP TEXT: "サムライブレイド"
-.string "Samurai Blade"
+.string "Samurai Blade "
 
 str_8003CC98:
 ;JP TEXT: "フラッシュソード"
@@ -49,7 +53,7 @@ str_8003CC64:
 
 str_8003CC54:
 ;JP TEXT: "エクスカリバー"
-.string "エクスカリバー"
+.string "Excalibur "
 
 str_8003CC44:
 ;JP TEXT: "ワールドヘブン"
@@ -93,11 +97,11 @@ str_8003CBB8:
 
 str_8003CBA8:
 ;JP TEXT: "シェフのメダル"
-.string "シェフのメダル"
+.string "Chef's Medal"
 
 str_8003CB98:
 ;JP TEXT: "シーフのメダル"
-.string "シーフのメダル"
+.string "Thief's Medal "
 
 str_8003CB8C:
 ;JP TEXT: "こげら玉"
@@ -153,7 +157,7 @@ str_8003CB04:
 
 str_8003CAF0:
 ;JP TEXT: "ユニコーンロッド"
-.string "Unicorn Rod"
+.string "Unicorn Rod "
 
 str_8003CAE0:
 ;JP TEXT: "リターンロッド"
@@ -169,7 +173,7 @@ str_8003CAC0:
 
 str_8003CAB4:
 ;JP TEXT: "パピルス"
-.string "Papyrus"
+.string "Papyrus "
 
 str_8003CAA4:
 ;JP TEXT: "まほうのといし"
@@ -185,7 +189,7 @@ str_8003CA84:
 
 str_8003CA70:
 ;JP TEXT: "フェアリーロッド"
-.string "Fairy Rod"
+.string "Fairy Rod "
 
 str_8003CA64:
 ;JP TEXT: "金のかけら"
@@ -213,11 +217,11 @@ str_8003CA38:
 
 str_8003CA24:
 ;JP TEXT: "フォースアックス"
-.string "Force Axe"
+.string "Force Axe "
 
 str_8003CA14:
 ;JP TEXT: "イーグルソード"
-.string "Eagle Sword"
+.string "Eagle Sword "
 
 str_8003CA04:
 ;JP TEXT: "ダークナイフ"
@@ -225,7 +229,7 @@ str_8003CA04:
 
 str_8003C9F4:
 ;JP TEXT: "ダークダガー"
-.string "ダークダガー"
+.string "Dark Dagger "
 
 str_8003C9E4:
 ;JP TEXT: "ダークアックス"
