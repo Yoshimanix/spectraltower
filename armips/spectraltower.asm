@@ -27,4 +27,6 @@
 .include "text_dialogue2_ptr.asm"
 .include "text_dialogue3.asm"
 .include "text_dialogue3_ptr.asm"
+.include "text_enemyui.asm"
+.include "text_enemyui_ptr.asm"
 .close

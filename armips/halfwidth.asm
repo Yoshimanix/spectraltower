@@ -37,3 +37,9 @@ sra v0,v0,0xd
 .byte 0x7
 .org 0x80056404
 .byte 0x7
+
+; adjust enemy UI name rect
+.org 0x8004b0d8
+nop
+.org 0x8004b10c
+sll a0,a0,0x3
