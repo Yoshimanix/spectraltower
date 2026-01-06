@@ -1,6 +1,5 @@
-; Due to a quirk with how item names are drawn,
-; please ensure the below strings are even number in length.
-; If you end up with an odd number, add a trailing space.
+; This is a table of item names.
+; Simple enough, just don't exceed 16 characters.
 
 .org EnemyNameTextEnd
 .loadtable "shiftjis.tbl"
@@ -33,7 +32,7 @@ str_8003CCC0:
 
 str_8003CCAC:
 ;JP TEXT: "サムライブレイド"
-.string "Samurai Blade "
+.string "Samurai Blade"
 
 str_8003CC98:
 ;JP TEXT: "フラッシュソード"
@@ -53,7 +52,7 @@ str_8003CC64:
 
 str_8003CC54:
 ;JP TEXT: "エクスカリバー"
-.string "Excalibur "
+.string "Excalibur"
 
 str_8003CC44:
 ;JP TEXT: "ワールドヘブン"
@@ -101,7 +100,7 @@ str_8003CBA8:
 
 str_8003CB98:
 ;JP TEXT: "シーフのメダル"
-.string "Thief's Medal "
+.string "Thief's Medal"
 
 str_8003CB8C:
 ;JP TEXT: "こげら玉"
@@ -157,7 +156,7 @@ str_8003CB04:
 
 str_8003CAF0:
 ;JP TEXT: "ユニコーンロッド"
-.string "Unicorn Rod "
+.string "Unicorn Rod"
 
 str_8003CAE0:
 ;JP TEXT: "リターンロッド"
@@ -217,11 +216,11 @@ str_8003CA38:
 
 str_8003CA24:
 ;JP TEXT: "フォースアックス"
-.string "Force Axe "
+.string "Force Axe"
 
 str_8003CA14:
 ;JP TEXT: "イーグルソード"
-.string "Eagle Sword "
+.string "Eagle Sword"
 
 str_8003CA04:
 ;JP TEXT: "ダークナイフ"
@@ -229,7 +228,7 @@ str_8003CA04:
 
 str_8003C9F4:
 ;JP TEXT: "ダークダガー"
-.string "Dark Dagger "
+.string "Dark Dagger"
 
 str_8003C9E4:
 ;JP TEXT: "ダークアックス"

@@ -33,17 +33,10 @@ sll v1,a0,0x3
 .byte 0x60
 
 ; Fix Inventory Item Name Text
-; Divide item name lengths by half,
-; to prevent drawing overflows.
-; VERY HACKY
-; WILL REQUIRE ITEM NAMES TO BE EVEN NUMBER IN LENGTH
+; Essentially run half the original loop length
+.org 0x80064c2c
+sra a0,a0,0xf
 
-.org 0x800666a4
-sra v1,v1,0x2
-.org 0x80064240
-sra v1,v1,0x2
-.org 0x800662ac
-sra v1,v1,0x2
 
 ; Adjust main menu rect target X coordinate offset.
 .org 0x800583b8
