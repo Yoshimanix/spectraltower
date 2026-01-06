@@ -19,4 +19,12 @@
 .include "text_itemonuse_ptr.asm"
 .include "text_system.asm"
 .include "text_system_ptr.asm"
+.include "text_battle.asm"
+.include "text_battle_ptr.asm"
+.include "text_dialogue1.asm"
+.include "text_dialogue1_ptr.asm"
+.include "text_dialogue2.asm"
+.include "text_dialogue2_ptr.asm"
+.include "text_dialogue3.asm"
+.include "text_dialogue3_ptr.asm"
 .close

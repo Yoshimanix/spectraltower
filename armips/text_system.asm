@@ -39,7 +39,7 @@ str_0x8002B304:
 
 str_0x8002B2F0:
 ;JP Text: "ｇ　を手に入れた"
-.string "Ж was obtained."
+.string "You got the Ж."
 
 str_0x800C0594:
 ;JP Text: "しかし"
@@ -303,7 +303,7 @@ str_0x8002ADA4:
 
 str_0x8002AD88:
 ;JP Text: "出口のカギを入手しました"
-.string "You got the exit key!"
+.string "You got the key to the exit!"
 
 str_0x8002AD78:
 ;JP Text: "ゴブリンタワー"
