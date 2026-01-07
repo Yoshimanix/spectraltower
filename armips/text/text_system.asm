@@ -12,7 +12,7 @@
 ; Please refer to text_system_ptr.asm
 ; to see which lines are used where.
 
-.org ItemOnUseTextEnd
+.org 0x8002A9A4
 .loadtable "shiftjis.tbl"
 
 SystemTextStart:

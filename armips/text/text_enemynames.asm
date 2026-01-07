@@ -1,4 +1,6 @@
-.org ClassNameTextEnd
+; Hard limit: 16 characters
+
+.org 0x8003A2F8 ; Start of Enemy UI text block
 .loadtable "shiftjis.tbl"
 
 EnemyNameTextStart:
@@ -57,11 +59,11 @@ str_8003AA04:
 
 str_8003A9F8:
 ;JP TEXT: "コインマン"
-.string "コインマン"
+.string "Coin Man"
 
 str_8003A9E8:
 ;JP TEXT: "メッキコイン"
-.string "メッキコイン"
+.string "Mech Coin"
 
 str_8003A9D8:
 ;JP TEXT: "ホブゴブリン"
@@ -177,15 +179,15 @@ str_800C072C:
 
 str_8003A900:
 ;JP TEXT: "黒ドラゴン"
-.string "黒ドラゴン"
+.string "Black Dragon"
 
 str_8003A8F4:
 ;JP TEXT: "青ドラゴン"
-.string "青ドラゴン"
+.string "Blue Dragon"
 
 str_8003A8E8:
 ;JP TEXT: "金ドラゴン"
-.string "金ドラゴン"
+.string "Gold Dragon"
 
 str_8003A8DC:
 ;JP TEXT: "銀ドラゴン"
@@ -197,7 +199,7 @@ str_800C0724:
 
 str_8003A8CC:
 ;JP TEXT: "スペクトラル竜"
-.string "スペクトラル竜"
+.string "Spectral Dragon"
 
 str_8003A8BC:
 ;JP TEXT: "あばれコイン"
@@ -257,7 +259,7 @@ str_800C0704:
 
 str_8003A854:
 ;JP TEXT: "セーブの像"
-.string "セーブの像"
+.string "Save Statue"
 
 str_800C06FC:
 ;JP TEXT: "宝箱"

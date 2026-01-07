@@ -1,4 +1,4 @@
-.org SystemTextEnd
+.org 0x8002B724
 .loadtable "shiftjis.tbl"
 
 BattleTextStart:

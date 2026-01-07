@@ -5,9 +5,9 @@
 ; The level text should be right-aligned,
 ; since they appear right next to the enemy's level.
 ; Hard Limit: 16 characters
-; Make sure to leave a trailing space for level strings.
+; Make sure to leave a trailing space for level strings. (at least until I fix where numbers print)
 
-.org Dialogue3TextEnd
+.org EnemyNameTextEnd
 .loadtable "shiftjis.tbl"
 
 EnemyUITextStart:

@@ -11,7 +11,7 @@
 ; Please refer to text_itemonuse_ptr.asm
 ; to see which lines are used where.
 
-.org ItemDescriptionTextEnd
+.org 0x80029E5C
 .loadtable "shiftjis.tbl"
 
 ItemOnUseTextStart:

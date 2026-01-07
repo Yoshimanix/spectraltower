@@ -3,7 +3,7 @@
 ; DONE
 
 
-.org 0x800BE5F0
+.org 0x800BE4B4 ; Start of Class Names block, since it's normally before Numbers
 
 str_800C0504:
 .asciiz "0"
@@ -3004,3 +3004,5 @@ str_800BE5F8:
 
 str_800BE5F0:
 .asciiz "999"
+
+NumbersTextEnd:

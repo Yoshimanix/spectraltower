@@ -11,7 +11,7 @@
 ; Please refer to text_itemdescriptions_ptr.asm
 ; to see which lines are used where.
 
-.org ItemNameTextEnd
+.org 0x80028FFC
 .loadtable "shiftjis.tbl"
 
 ItemDescriptionTextStart:

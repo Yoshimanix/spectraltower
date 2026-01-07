@@ -6,7 +6,7 @@
 
 .loadtable "shiftjis.tbl"
 
-.org StartOfTextDump
+.org 0x80028668 ; Start of Misc Text block
 
 MiscTextStart:
 

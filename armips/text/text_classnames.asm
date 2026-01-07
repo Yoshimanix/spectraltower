@@ -6,7 +6,7 @@
 ; If you end up with an odd number, simply add a space.
 ; Pointer table start: 0x800a35f8
 
-.org MiscTextEnd
+.org NumbersTextEnd
 .loadtable "shiftjis.tbl"
 
 ClassNameTextStart:

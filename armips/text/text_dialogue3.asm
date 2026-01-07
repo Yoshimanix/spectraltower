@@ -1,4 +1,4 @@
-.org Dialogue2TextEnd
+.org 0x80037E94
 .loadtable "shiftjis.tbl"
 
 Dialogue3TextStart:

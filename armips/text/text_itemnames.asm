@@ -1,14 +1,14 @@
 ; This is a table of item names.
 ; Simple enough, just don't exceed 16 characters.
 
-.org EnemyNameTextEnd
+.org 0x8003C918
 .loadtable "shiftjis.tbl"
 
 ItemNameTextStart:
 
 str_800C07F8:
 ;JP TEXT: "　"
-.string "　"
+.string " "
 
 str_8003CCF0:
 ;JP TEXT: "さびた剣？"

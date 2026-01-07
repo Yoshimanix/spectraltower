@@ -1,7 +1,7 @@
 ; This is the dialogue spoken by NPCs.
 ; It's also the largest text block in the entire game.
 
-.org BattleTextEnd
+.org 0x8002E8D4
 .loadtable "shiftjis.tbl"
 
 Dialogue1TextStart:

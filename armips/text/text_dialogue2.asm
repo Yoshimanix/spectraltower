@@ -1,6 +1,6 @@
 ; I'm honestly not sure where these are used...
 
-.org Dialogue1TextEnd
+.org 0x80036490
 .loadtable "shiftjis.tbl"
 
 Dialogue2TextStart:
