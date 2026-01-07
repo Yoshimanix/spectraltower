@@ -20,7 +20,7 @@
 .org 0x80055354
 sll a0,a0,0x3
 .org 0x80055314
-nop
+sll v0,v0,0x0
 .org 0x8008d09c
 .byte 7
 
@@ -35,7 +35,7 @@ sll v1,a0,0x3
 ; Fix Inventory Item Name Text
 ; Essentially run half the original loop length
 .org 0x80064c2c
-sra a0,a0,0xf
+;sra a0,a0,0xf
 
 
 ; Adjust main menu rect target X coordinate offset.
@@ -57,3 +57,14 @@ sra v1,v1,0xd
 .byte 0x6
 .org 0x80058718
 .byte 0xa
+
+; modify name entry to use ASCII asterisk
+.org 0x80010198
+.asciiz "********"
+; TODO: Edit naming screen input chars, to properly test transition to ASCII
+
+; don't divide player name and class lengths by 2
+.org 0x800551ac
+srl v0,v0,0x0
+.org 0x8005520c
+srl v0,v0,0x0

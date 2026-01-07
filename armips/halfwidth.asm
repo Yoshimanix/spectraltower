@@ -8,11 +8,11 @@
 
 ; do the same for main textbox text
 .org 0x800534f4
-.byte 0x02
+;.byte 0x02
 
 ; and for special strings, too
 .org 0x800533ac
-.byte 0x02
+;.byte 0x02
 
 ; adjust rectangle width of text box glyphs
 .org 0x800561c0
