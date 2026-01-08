@@ -68,3 +68,7 @@ sra v1,v1,0xd
 srl v0,v0,0x0
 .org 0x8005520c
 srl v0,v0,0x0
+
+; change default player name
+.org 0x800BE424
+.asciiz "Climber"
