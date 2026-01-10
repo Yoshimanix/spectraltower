@@ -6,6 +6,8 @@
 .include "sjis2ascii.asm"
 .include "mainmenu.asm"
 .include "controlcodes.asm"
+.include "specialtext.asm"
+.include "defaultnames.asm"
 
 .include "text/text_misc.asm"
 .include "text/text_misc_ptr.asm"
@@ -88,7 +90,6 @@
 	.warning Dialogue3TextEnd - 0x80039677
 .endif
 
-.include "text/text_special.asm"
-.include "text/text_special_ptr.asm"
+;.include "text/text_special.asm"
 ;TODO: Modify special text functions and glyph list.
 .close

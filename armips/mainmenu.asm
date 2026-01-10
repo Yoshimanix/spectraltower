@@ -71,4 +71,34 @@ srl v0,v0,0x0
 
 ; change default player name
 .org 0x800BE424
-.asciiz "Climber"
+.string "Climber"
+
+; draw player current and max hp a bit more to the right
+.org 0x80055464
+addiu a1,a1,128
+.org 0x800554b8
+addiu a1,a1,180
+
+;draw status screen numbers a bit more to the right
+.org 0x8004b574
+ori a1,zero,66
+.org 0x8004b594
+ori a1,zero,66
+.org 0x8004b5b4
+ori a1,zero,66
+.org 0x8004b5d4
+ori a1,zero,66
+.org 0x8004b5f4
+ori a1,zero,66
+.org 0x8004b614
+ori a1,zero,162
+.org 0x8004b624
+ori a1,zero,162
+.org 0x8004b63c
+ori a1,zero,162
+.org 0x8004b654
+ori a1,zero,162
+.org 0x8004b67c
+ori a1,zero,52
+.org 0x8004b6b0
+ori a1,zero,136

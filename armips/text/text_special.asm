@@ -16,17 +16,17 @@
 ; Max length: 12 characters
 SpecialOverworld:
 ;JP TEXT: "ステータス　"
-.stringn "ステータス　"
+.stringn "Status      "
 
 ;JP TEXT: "アイテム　　"
-.stringn "アイテム　　"
+.stringn "Items       "
 
 ; Combat
 ; These show up when it's the player's turn in combat.
 ; Max length: 8 characters
 SpecialCombat:
-;JP TEXT: "戦　　う　"
-.stringn "戦　　う　"
+;JP TEXT: "戦　う　"
+.stringn "Attack  "
 
 ;JP TEXT: "必殺技　"
 .stringn "必殺技　"
@@ -36,13 +36,13 @@ SpecialCombat:
 ; Max length: 6 characters
 SpecialInventory:
 ;JP TEXT: "使用　"
-.stringn "使用　"
+.stringn "Use   "
 
 ;JP TEXT: "装備　　"
-.stringn "装備　　"
+.stringn "Equip "
 
 ;JP TEXT: "捨てる"
-.stringn "捨てる"
+.stringn "Toss  "
 
 ; Status menu
 ; These show up when confirming the player's character
@@ -52,7 +52,7 @@ SpecialInventory:
 SpecialStatusHeader:
 ; This one in particular has a max length of 14 characters
 ;JP TEXT: "ー対戦レベルー"
-.stringn "ー対戦レベルー"
+.stringn "-Combat Levels-"
 
 ; The rest in this category has a max length of 6 characters
 SpecialStatusCategories:
@@ -61,7 +61,7 @@ SpecialStatusCategories:
 .stringn "対鬼："
 
 ;JP TEXT: "対霊："
-.stringn "対霊："
+.stringn "Spirits:"
 
 ;JP TEXT: "対霊："
 .stringn "対霊："
@@ -100,17 +100,17 @@ SpecialStatusCounters:
 ; Max length: 6 characters
 SpecialYesNo:
 ;JP TEXT: "はい　"
-.stringn "はい　"
+.stringn "Yes   "
 
 ;JP TEXT: "いいえ"
-.stringn "いいえ"
+.stringn "No    "
 
 ; Chest prompt
 ; This shows up when interacting with a chest of any category (normal, skull, golden)
 ;Max length: 8 characters
 SpecialChestPrompt:
 ;JP TEXT: "開ける　"
-.stringn "開ける　"
+.stringn "Open    "
 
 ;JP TEXT: "やめる　"
-.stringn "やめる　"
+.stringn "Stop    "
