@@ -91,4 +91,5 @@
 .endif
 
 .include "text/text_special.asm"
+.include "text/text_memcard.asm"
 .close

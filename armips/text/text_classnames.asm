@@ -451,7 +451,7 @@ str_800285C8:
 
 str_800285A4:
 ;JP TEXT: "：鬼霊魔竜人悪武食注呪病はいえ使"
-.string "H I J K L M N O P Q R S T U V W "
+.string "H I J K L M N O P Q R S T U G W "
 
 str_80028580:
 ;JP TEXT: "用捨てるステータ装アイム必殺技う"

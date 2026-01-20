@@ -2,7 +2,7 @@
 
 ;patch chestprompt stride
 .org 0x800560dc
-slti v0,v0,0x6
+slti v0,v0,0x7
 .org 0x800560e4
 .byte 7
 .org 0x80056068
