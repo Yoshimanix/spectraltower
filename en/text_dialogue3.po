@@ -1,0 +1,1192 @@
+msgctxt "0"
+msgid "逃げた"
+msgstr ""
+
+msgctxt "1"
+msgid "逃げられない！"
+msgstr ""
+
+msgctxt "2"
+msgid "聖神コリーアに祈った"
+msgstr ""
+
+msgctxt "3"
+msgid "しかし　祈りはとどかなかった"
+msgstr ""
+
+msgctxt "4"
+msgid "ｃ　を"
+msgstr ""
+
+msgctxt "5"
+msgid "倒した"
+msgstr ""
+
+msgctxt "6"
+msgid "知恵をふりしぼった"
+msgstr ""
+
+msgctxt "7"
+msgid "何も考えつかなかった…"
+msgstr ""
+
+msgctxt "8"
+msgid "戦いに役立てます！"
+msgstr ""
+
+msgctxt "9"
+msgid "ｃ　に"
+msgstr ""
+
+msgctxt "10"
+msgid "ダメージをあたえた"
+msgstr ""
+
+msgctxt "11"
+msgid "ｃ　を倒した"
+msgstr ""
+
+msgctxt "12"
+msgid "あまり効果がなかった…"
+msgstr ""
+
+msgctxt "13"
+msgid "ぬすみを　働いた"
+msgstr ""
+
+msgctxt "14"
+msgid "うまくぬすみだした"
+msgstr ""
+
+msgctxt "15"
+msgid "しかし　何もぬすめなかった"
+msgstr ""
+
+msgctxt "16"
+msgid "大地の歌を歌った"
+msgstr ""
+
+msgctxt "17"
+msgid "やさしい歌は　母の声"
+msgstr ""
+
+msgctxt "18"
+msgid "みんなをやさしくてらすのよ"
+msgstr ""
+
+msgctxt "19"
+msgid "不思議な光が"
+msgstr ""
+
+msgctxt "20"
+msgid "あたりをてらす"
+msgstr ""
+
+msgctxt "21"
+msgid "体力がｅ回復！"
+msgstr ""
+
+msgctxt "22"
+msgid "しかし何もおこらない"
+msgstr ""
+
+msgctxt "23"
+msgid "商談をもちかけた"
+msgstr ""
+
+msgctxt "24"
+msgid "商談をもちかけようとしたが…"
+msgstr ""
+
+msgctxt "25"
+msgid "アイテムが　なかった"
+msgstr ""
+
+msgctxt "26"
+msgid "しかしｃ　は"
+msgstr ""
+
+msgctxt "27"
+msgid "きにいらなかったようだ"
+msgstr ""
+
+msgctxt "28"
+msgid "ものすごくよろこんでいる"
+msgstr ""
+
+msgctxt "29"
+msgid "なっとくして去っていった"
+msgstr ""
+
+msgctxt "30"
+msgid "アイテムをくれて去っていった"
+msgstr ""
+
+msgctxt "31"
+msgid "ｃ　を食べた"
+msgstr ""
+
+msgctxt "32"
+msgid "とても　おいしかった"
+msgstr ""
+
+msgctxt "33"
+msgid "変な味がした"
+msgstr ""
+
+msgctxt "34"
+msgid "呪われてしまった"
+msgstr ""
+
+msgctxt "35"
+msgid "病気になってしまった"
+msgstr ""
+
+msgctxt "36"
+msgid "連続攻撃！"
+msgstr ""
+
+msgctxt "37"
+msgid "「聖神コリーアよ　あなたに"
+msgstr ""
+
+msgctxt "38"
+msgid "　ｇをささげます」"
+msgstr ""
+
+msgctxt "39"
+msgid "何もおこらなかった"
+msgstr ""
+
+msgctxt "40"
+msgid "アイテムがないので"
+msgstr ""
+
+msgctxt "41"
+msgid "この技は使えなかった…"
+msgstr ""
+
+msgctxt "42"
+msgid "電撃の呪文をとなえた"
+msgstr ""
+
+msgctxt "43"
+msgid "しかし　ｃ　は"
+msgstr ""
+
+msgctxt "44"
+msgid "呪文をかわした"
+msgstr ""
+
+msgctxt "45"
+msgid "病魔の呪文をとなえた"
+msgstr ""
+
+msgctxt "46"
+msgid "アイテム取りを行った"
+msgstr ""
+
+msgctxt "47"
+msgid "ゲットした"
+msgstr ""
+
+msgctxt "48"
+msgid "さけんだ"
+msgstr ""
+
+msgctxt "49"
+msgid "爆・裂・斬！"
+msgstr ""
+
+msgctxt "50"
+msgid "超・連続攻撃！！"
+msgstr ""
+
+msgctxt "51"
+msgid "病気レベルが０なので"
+msgstr ""
+
+msgctxt "52"
+msgid "この技は使えない"
+msgstr ""
+
+msgctxt "53"
+msgid "呪いレベルが０なので"
+msgstr ""
+
+msgctxt "54"
+msgid "強く念じた！"
+msgstr ""
+
+msgctxt "55"
+msgid "聖なる波動が"
+msgstr ""
+
+msgctxt "56"
+msgid "ｃ　をおそう！！"
+msgstr ""
+
+msgctxt "57"
+msgid "ｃ　を口説いた"
+msgstr ""
+
+msgctxt "58"
+msgid "わかってくれなかった"
+msgstr ""
+
+msgctxt "59"
+msgid "てれている"
+msgstr ""
+
+msgctxt "60"
+msgid "逃げだした"
+msgstr ""
+
+msgctxt "61"
+msgid "ドギマギしてる"
+msgstr ""
+
+msgctxt "62"
+msgid "「す…好きです"
+msgstr ""
+
+msgctxt "63"
+msgid "　ａさん」"
+msgstr ""
+
+msgctxt "64"
+msgid "急にペコペコしだした"
+msgstr ""
+
+msgctxt "65"
+msgid "「ｃさん"
+msgstr ""
+
+msgctxt "66"
+msgid "　いや〜これでもどうぞ」"
+msgstr ""
+
+msgctxt "67"
+msgid "ｇ　をてわたした"
+msgstr ""
+
+msgctxt "68"
+msgid "ｃ　は…"
+msgstr ""
+
+msgctxt "69"
+msgid "よろこんでいる"
+msgstr ""
+
+msgctxt "70"
+msgid "去っていった"
+msgstr ""
+
+msgctxt "71"
+msgid "きょうみをしめさない！"
+msgstr ""
+
+msgctxt "72"
+msgid "ａ　には"
+msgstr ""
+
+msgctxt "73"
+msgid "わたせるアイテムがない"
+msgstr ""
+
+msgctxt "74"
+msgid "花と風の歌を歌った"
+msgstr ""
+
+msgctxt "75"
+msgid "やさしい大地で　眠りなさい"
+msgstr ""
+
+msgctxt "76"
+msgid "白い白い風の中で…"
+msgstr ""
+
+msgctxt "77"
+msgid "ふしぎな音楽がながれだす"
+msgstr ""
+
+msgctxt "78"
+msgid "おどりながら　たちさった"
+msgstr ""
+
+msgctxt "79"
+msgid "清らかな風がふいてきた"
+msgstr ""
+
+msgctxt "80"
+msgid "戦うきりょくをなくした"
+msgstr ""
+
+msgctxt "81"
+msgid "その場をたちさった"
+msgstr ""
+
+msgctxt "82"
+msgid "命の力を魔力に変えた"
+msgstr ""
+
+msgctxt "83"
+msgid "剣・魔・合成波っ！！"
+msgstr ""
+
+msgctxt "84"
+msgid "この一撃にかけている"
+msgstr ""
+
+msgctxt "85"
+msgid "天地破滅斬！"
+msgstr ""
+
+msgctxt "86"
+msgid "ｃ　にキスをした"
+msgstr ""
+
+msgctxt "87"
+msgid "デレーとしている"
+msgstr ""
+
+msgctxt "88"
+msgid "はずかしそうに逃げだした"
+msgstr ""
+
+msgctxt "89"
+msgid "しかし…"
+msgstr ""
+
+msgctxt "90"
+msgid "きもちわるくなった"
+msgstr ""
+
+msgctxt "91"
+msgid "どうやら病気になったようだ"
+msgstr ""
+
+msgctxt "92"
+msgid "口がかぶれた"
+msgstr ""
+
+msgctxt "93"
+msgid "１０のダメージをうけた"
+msgstr ""
+
+msgctxt "94"
+msgid "決意をかためた"
+msgstr ""
+
+msgctxt "95"
+msgid "剣魔連撃"
+msgstr ""
+
+msgctxt "96"
+msgid "パワーの"
+msgstr ""
+
+msgctxt "97"
+msgid "せいぎょができない！"
+msgstr ""
+
+msgctxt "98"
+msgid "２０のダメージをうけた"
+msgstr ""
+
+msgctxt "99"
+msgid "祈りながら剣をかまえた"
+msgstr ""
+
+msgctxt "100"
+msgid "聖なる力で"
+msgstr ""
+
+msgctxt "101"
+msgid "ｃ　を攻撃"
+msgstr ""
+
+msgctxt "102"
+msgid "疾風の呪文をとなえた"
+msgstr ""
+
+msgctxt "103"
+msgid "ａ　も"
+msgstr ""
+
+msgctxt "104"
+msgid "はげしい疾風によりダメージ"
+msgstr ""
+
+msgctxt "105"
+msgid "１００のダメージをうけた"
+msgstr ""
+
+msgctxt "106"
+msgid "口笛を吹いた"
+msgstr ""
+
+msgctxt "107"
+msgid "ユニコーンを呼びだした"
+msgstr ""
+
+msgctxt "108"
+msgid "体力がｅ回復した"
+msgstr ""
+
+msgctxt "109"
+msgid "ノグノグを呼びだした"
+msgstr ""
+
+msgctxt "110"
+msgid "「じゃ！！」"
+msgstr ""
+
+msgctxt "111"
+msgid "ノグノグは帰っていった"
+msgstr ""
+
+msgctxt "112"
+msgid "ホヘホヘを呼びだした"
+msgstr ""
+
+msgctxt "113"
+msgid "ホヘホヘは"
+msgstr ""
+
+msgctxt "114"
+msgid "０Ｐのダメージをあたえた"
+msgstr ""
+
+msgctxt "115"
+msgid "大声でさけんだ"
+msgstr ""
+
+msgctxt "116"
+msgid "きまぐれまじんがあらわれた"
+msgstr ""
+
+msgctxt "117"
+msgid "きまぐれまじんにつぶされた"
+msgstr ""
+
+msgctxt "118"
+msgid "きまぐれまじんにふっとばされた"
+msgstr ""
+
+msgctxt "119"
+msgid "きまぐれ獣があらわれた"
+msgstr ""
+
+msgctxt "120"
+msgid "きまぐれ獣にかまれた"
+msgstr ""
+
+msgctxt "121"
+msgid "きまぐれ獣に足をふまれた"
+msgstr ""
+
+msgctxt "122"
+msgid "きまぐれ君があらわれた"
+msgstr ""
+
+msgctxt "123"
+msgid "「またね！」"
+msgstr ""
+
+msgctxt "124"
+msgid "きまぐれ君はさっていった"
+msgstr ""
+
+msgctxt "125"
+msgid "変なおどりをおどった"
+msgstr ""
+
+msgctxt "126"
+msgid "「俺のおどりを見ろ！"
+msgstr ""
+
+msgctxt "127"
+msgid "　あつい俺のおどりをっ！」"
+msgstr ""
+
+msgctxt "128"
+msgid "ｃ　も"
+msgstr ""
+
+msgctxt "129"
+msgid "はげしくおどりだした！"
+msgstr ""
+
+msgctxt "130"
+msgid "まんぞくして帰っていった"
+msgstr ""
+
+msgctxt "131"
+msgid "！"
+msgstr ""
+
+msgctxt "132"
+msgid "コシをいためてしまった"
+msgstr ""
+
+msgctxt "133"
+msgid "きげんが悪くなった"
+msgstr ""
+
+msgctxt "134"
+msgid "太古の神々にいのった"
+msgstr ""
+
+msgctxt "135"
+msgid "大地がはげしくゆれ"
+msgstr ""
+
+msgctxt "136"
+msgid "ｃ　を飲み込んだ"
+msgstr ""
+
+msgctxt "137"
+msgid "大地が少しゆれた"
+msgstr ""
+
+msgctxt "138"
+msgid "別に何もおこらなかった"
+msgstr ""
+
+msgctxt "139"
+msgid "突然、大雨がふってきた"
+msgstr ""
+
+msgctxt "140"
+msgid "全員、ずぶぬれになった"
+msgstr ""
+
+msgctxt "141"
+msgid "身をかまえた"
+msgstr ""
+
+msgctxt "142"
+msgid "うぉ〜〜"
+msgstr ""
+
+msgctxt "143"
+msgid "こうなりゃ、やけだー"
+msgstr ""
+
+msgctxt "144"
+msgid "自分の体に火をはなった"
+msgstr ""
+
+msgctxt "145"
+msgid "敵にとっしんしていった"
+msgstr ""
+
+msgctxt "146"
+msgid "身をひるがえしてかわした"
+msgstr ""
+
+msgctxt "147"
+msgid "大やけどをおった"
+msgstr ""
+
+msgctxt "148"
+msgid "武器をふりまわした"
+msgstr ""
+
+msgctxt "149"
+msgid "聖回復の呪文をとなえた"
+msgstr ""
+
+msgctxt "150"
+msgid "体に力がみなぎっていく"
+msgstr ""
+
+msgctxt "151"
+msgid "アイテムが消えていく"
+msgstr ""
+
+msgctxt "152"
+msgid "しかし　何もおこらなかった"
+msgstr ""
+
+msgctxt "153"
+msgid "爆炎の呪文をとなえた"
+msgstr ""
+
+msgctxt "154"
+msgid "もえあがった"
+msgstr ""
+
+msgctxt "155"
+msgid "炎にまきこまれた"
+msgstr ""
+
+msgctxt "156"
+msgid "ａ　に"
+msgstr ""
+
+msgctxt "157"
+msgid "全ての炎がはね返ってきました"
+msgstr ""
+
+msgctxt "158"
+msgid "祈りはじめた"
+msgstr ""
+
+msgctxt "159"
+msgid "ミス　ホワイトがあらわれた"
+msgstr ""
+
+msgctxt "160"
+msgid "「祈りなさい」"
+msgstr ""
+
+msgctxt "161"
+msgid "体力が全回復した"
+msgstr ""
+
+msgctxt "162"
+msgid "リトルスノーがあらわれた"
+msgstr ""
+
+msgctxt "163"
+msgid "「ヒュ〜〜〜」"
+msgstr ""
+
+msgctxt "164"
+msgid "ささやかなしあわせを"
+msgstr ""
+
+msgctxt "165"
+msgid "はこんできた"
+msgstr ""
+
+msgctxt "166"
+msgid "ノグノグがあらわれた"
+msgstr ""
+
+msgctxt "167"
+msgid "「ノグ？」"
+msgstr ""
+
+msgctxt "168"
+msgid "ノグノグは去っていった"
+msgstr ""
+
+msgctxt "169"
+msgid "カードマジックをひろうした"
+msgstr ""
+
+msgctxt "170"
+msgid "目を丸くして逃げだした"
+msgstr ""
+
+msgctxt "171"
+msgid "見ていなかった"
+msgstr ""
+
+msgctxt "172"
+msgid "コインマジックをひろうした"
+msgstr ""
+
+msgctxt "173"
+msgid "あわてて逃げだした"
+msgstr ""
+
+msgctxt "174"
+msgid "赤のカードを引いた"
+msgstr ""
+
+msgctxt "175"
+msgid "赤のカードは…"
+msgstr ""
+
+msgctxt "176"
+msgid "血のカードだ！！"
+msgstr ""
+
+msgctxt "177"
+msgid "白のカードを引いた"
+msgstr ""
+
+msgctxt "178"
+msgid "白のカードは…"
+msgstr ""
+
+msgctxt "179"
+msgid "正義のカードだ！！"
+msgstr ""
+
+msgctxt "180"
+msgid "体力が回復した"
+msgstr ""
+
+msgctxt "181"
+msgid "黒のカードを引いた"
+msgstr ""
+
+msgctxt "182"
+msgid "黒のカードは…"
+msgstr ""
+
+msgctxt "183"
+msgid "死のカードだ！！"
+msgstr ""
+
+msgctxt "184"
+msgid "死のカードに"
+msgstr ""
+
+msgctxt "185"
+msgid "たましいをすいとられた"
+msgstr ""
+
+msgctxt "186"
+msgid "呪いの言葉をつぶやいた"
+msgstr ""
+
+msgctxt "187"
+msgid "ぐるぐる回り始めた"
+msgstr ""
+
+msgctxt "188"
+msgid "回ったまま体当たりをした"
+msgstr ""
+
+msgctxt "189"
+msgid "身をかわした"
+msgstr ""
+
+msgctxt "190"
+msgid "目を回した"
+msgstr ""
+
+msgctxt "191"
+msgid "病気レベルが１０上がった"
+msgstr ""
+
+msgctxt "192"
+msgid "空と光の歌を歌った"
+msgstr ""
+
+msgctxt "193"
+msgid "大空を飛ぶ鳥のように"
+msgstr ""
+
+msgctxt "194"
+msgid "大地をてらす太陽のように"
+msgstr ""
+
+msgctxt "195"
+msgid "不思議な光を発した"
+msgstr ""
+
+msgctxt "196"
+msgid "光につらぬかれた"
+msgstr ""
+
+msgctxt "197"
+msgid "体に力がみなぎった"
+msgstr ""
+
+msgctxt "198"
+msgid "歌はあたりにひびきわたった"
+msgstr ""
+
+msgctxt "199"
+msgid "ｃ　をなめてみた"
+msgstr ""
+
+msgctxt "200"
+msgid "気もち悪がって逃げだした"
+msgstr ""
+
+msgctxt "201"
+msgid "顔色が悪くなった"
+msgstr ""
+
+msgctxt "202"
+msgid "病気になった"
+msgstr ""
+
+msgctxt "203"
+msgid "ベロベロベロベロ"
+msgstr ""
+
+msgctxt "204"
+msgid "うっ、うまい！"
+msgstr ""
+
+msgctxt "205"
+msgid "体力は回復した"
+msgstr ""
+
+msgctxt "206"
+msgid "チェンジをして攻撃！"
+msgstr ""
+
+msgctxt "207"
+msgid "「チェンジ！」"
+msgstr ""
+
+msgctxt "208"
+msgid "身がわり君を呼んでみた"
+msgstr ""
+
+msgctxt "209"
+msgid "「身がわりくーん」"
+msgstr ""
+
+msgctxt "210"
+msgid "「は〜い」"
+msgstr ""
+
+msgctxt "211"
+msgid "身がわり君が現れた"
+msgstr ""
+
+msgctxt "212"
+msgid "「え〜い」"
+msgstr ""
+
+msgctxt "213"
+msgid "身がわり君が攻撃を受けてくれた"
+msgstr ""
+
+msgctxt "214"
+msgid "身がわり君は　しょうめつした"
+msgstr ""
+
+msgctxt "215"
+msgid "攻撃君を呼んでみた"
+msgstr ""
+
+msgctxt "216"
+msgid "攻撃君が現れた"
+msgstr ""
+
+msgctxt "217"
+msgid "「オイラにまかせて」"
+msgstr ""
+
+msgctxt "218"
+msgid "「オイラにまかせ…」"
+msgstr ""
+
+msgctxt "219"
+msgid "攻撃君は　ころんでしまった"
+msgstr ""
+
+msgctxt "220"
+msgid "攻撃君は　しょうめつした"
+msgstr ""
+
+msgctxt "221"
+msgid "「オイラが倒す」"
+msgstr ""
+
+msgctxt "222"
+msgid "攻撃君のすごい攻撃"
+msgstr ""
+
+msgctxt "223"
+msgid "ほほえみかけてみた"
+msgstr ""
+
+msgctxt "224"
+msgid "ぶきみな笑みをうかべている"
+msgstr ""
+
+msgctxt "225"
+msgid "ｃ　には"
+msgstr ""
+
+msgctxt "226"
+msgid "きかなかったようだ"
+msgstr ""
+
+msgctxt "227"
+msgid "はにかんでいる"
+msgstr ""
+
+msgctxt "228"
+msgid "アイテムをおいて"
+msgstr ""
+
+msgctxt "229"
+msgid "走って逃げてしまった"
+msgstr ""
+
+msgctxt "230"
+msgid "ぶんしん！"
+msgstr ""
+
+msgctxt "231"
+msgid "どろろん！"
+msgstr ""
+
+msgctxt "232"
+msgid "３人になった"
+msgstr ""
+
+msgctxt "233"
+msgid "３人がかりで攻撃した"
+msgstr ""
+
+msgctxt "234"
+msgid "変なことをした"
+msgstr ""
+
+msgctxt "235"
+msgid "こんらんしたようだ"
+msgstr ""
+
+msgctxt "236"
+msgid "おこりだした"
+msgstr ""
+
+msgctxt "237"
+msgid "自分がこんらんした"
+msgstr ""
+
+msgctxt "238"
+msgid "間合いを広げた"
+msgstr ""
+
+msgctxt "239"
+msgid "必殺"
+msgstr ""
+
+msgctxt "240"
+msgid "月光１０連打！"
+msgstr ""
+
+msgctxt "241"
+msgid "しかし　ａ　も"
+msgstr ""
+
+msgctxt "242"
+msgid "ｃ　と組み合った"
+msgstr ""
+
+msgctxt "243"
+msgid "幻の必殺技"
+msgstr ""
+
+msgctxt "244"
+msgid "やまあらし　だー"
+msgstr ""
+
+msgctxt "245"
+msgid "地面にたたきつけられた"
+msgstr ""
+
+msgctxt "246"
+msgid "１０　のダメージを受けた！"
+msgstr ""
+
+msgctxt "247"
+msgid "ｃ　にふれた"
+msgstr ""
+
+msgctxt "248"
+msgid "ドレインタッチだ！"
+msgstr ""
+
+msgctxt "249"
+msgid "ｃ　の生気を"
+msgstr ""
+
+msgctxt "250"
+msgid "ｅ吸収した"
+msgstr ""
+
+msgctxt "251"
+msgid "しかし　かわされた"
+msgstr ""
+
+msgctxt "252"
+msgid "うららららーっ"
+msgstr ""
+
+msgctxt "253"
+msgid "しかし何もおこらなかった…"
+msgstr ""
+
+msgctxt "254"
+msgid "そのはくりょくにあっとうされた"
+msgstr ""
+
+msgctxt "255"
+msgid "「ゴキッ！」"
+msgstr ""
+
+msgctxt "256"
+msgid "きばりすぎてコシをいためた"
+msgstr ""
+
+msgctxt "257"
+msgid "ザビレダブータリア"
+msgstr ""
+
+msgctxt "258"
+msgid "ゾンビを呼びよせた"
+msgstr ""
+
+msgctxt "259"
+msgid "しかしゾンビはその場に"
+msgstr ""
+
+msgctxt "260"
+msgid "くずれ落ちた"
+msgstr ""
+
+msgctxt "261"
+msgid "ゾンビはｃ　に"
+msgstr ""
+
+msgctxt "262"
+msgid "だきついた！"
+msgstr ""
+
+msgctxt "263"
+msgid "しめつけられた"
+msgstr ""
+
+msgctxt "264"
+msgid "ゾンビはドロドロにとけた"
+msgstr ""
+
+msgctxt "265"
+msgid "えいようになった！"
+msgstr ""
+
+msgctxt "266"
+msgid "いちげきをあびせかける"
+msgstr ""
+
+msgctxt "267"
+msgid "まともにくらってしまった"
+msgstr ""
+
+msgctxt "268"
+msgid "かんたんによけてしまった"
+msgstr ""
+
+msgctxt "269"
+msgid "まわりに炎がうずまく"
+msgstr ""
+
+msgctxt "270"
+msgid "ｃ　の体は"
+msgstr ""
+
+msgctxt "271"
+msgid "動かない！"
+msgstr ""
+
+msgctxt "272"
+msgid "攻撃で天地がゆらぐ！！"
+msgstr ""
+
+msgctxt "273"
+msgid "マルス　カーット！"
+msgstr ""
+
+msgctxt "274"
+msgid "まっぷたつになった！"
+msgstr ""
+
+msgctxt "275"
+msgid "反動でｅのダメージをうけた"
+msgstr ""
+
+msgctxt "276"
+msgid "しかし攻撃はあたらなかった"
+msgstr ""
+
+msgctxt "277"
+msgid "その場にたたずんでいる"
+msgstr ""
+
+msgctxt "278"
+msgid "ゆっくりと考えごとをしてみた"
+msgstr ""
+
+msgctxt "279"
+msgid "しかし、それどころではなかった"
+msgstr ""
+
+msgctxt "280"
+msgid "思い出し笑いをした"
+msgstr ""
+
+msgctxt "281"
+msgid "「ぷぷぷっ」"
+msgstr ""
+
+msgctxt "282"
+msgid "エッチなことをそうぞうした"
+msgstr ""
+
+msgctxt "283"
+msgid "「イヤ〜ン」"
+msgstr ""
+
+msgctxt "284"
+msgid "かっこいいポーズを考えた"
+msgstr ""
+
+msgctxt "285"
+msgid "ポーズをとった"
+msgstr ""
+
+msgctxt "286"
+msgid "ふかいねむりについた"
+msgstr ""
+
+msgctxt "287"
+msgid "「スヤスヤ…」"
+msgstr ""
+
+msgctxt "288"
+msgid "自分にほれぼれとした"
+msgstr ""
+
+msgctxt "289"
+msgid "「ふっ　きまった」"
+msgstr ""
+
+msgctxt "290"
+msgid "自分をたたえる歌を歌った"
+msgstr ""
+
+msgctxt "291"
+msgid "「ぼーくは　かっこいい"
+msgstr ""
+
+msgctxt "292"
+msgid "　てーんさーいだー」"
+msgstr ""
+
+msgctxt "293"
+msgid "すべてがめんどうになった"
+msgstr ""
+
+msgctxt "294"
+msgid "「もう、どうでもいいやー」"
+msgstr ""
+
+msgctxt "295"
+msgid "ｃ　は霊ではない…"
+msgstr ""
+
+msgctxt "296"
+msgid "祈りはとどかなかった"
+msgstr ""
+
+msgctxt "297"
+msgid "みごと着地をした"
+msgstr ""
+

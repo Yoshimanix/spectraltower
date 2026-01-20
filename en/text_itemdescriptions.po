@@ -1,0 +1,444 @@
+msgctxt "0"
+msgid ""
+msgstr ""
+
+msgctxt "1"
+msgid "さびていて使えない剣"
+msgstr ""
+
+msgctxt "2"
+msgid "鉄でできた普通のナイフ"
+msgstr ""
+
+msgctxt "3"
+msgid "装備すると少し強くなる"
+msgstr ""
+
+msgctxt "4"
+msgid "銅でできた普通の剣"
+msgstr ""
+
+msgctxt "5"
+msgid "装備すると普通に強くなる"
+msgstr ""
+
+msgctxt "6"
+msgid "戦士が使う大きな剣"
+msgstr ""
+
+msgctxt "7"
+msgid "装備するとかなり強くなる"
+msgstr ""
+
+msgctxt "8"
+msgid "伝説の遺跡戦士マルスの剣"
+msgstr ""
+
+msgctxt "9"
+msgid "装備するとマルスの力を得る"
+msgstr ""
+
+msgctxt "10"
+msgid "鬼斬り人サムライの剣"
+msgstr ""
+
+msgctxt "11"
+msgid "鬼を斬るための剣"
+msgstr ""
+
+msgctxt "12"
+msgid "聖なる光をはなつ剣"
+msgstr ""
+
+msgctxt "13"
+msgid "ゴーストに強い聖剣"
+msgstr ""
+
+msgctxt "14"
+msgid "なぜかやわらかい不思議な剣"
+msgstr ""
+
+msgctxt "15"
+msgid "コインマンに強い剣"
+msgstr ""
+
+msgctxt "16"
+msgid "ドラゴンバスター達の剣"
+msgstr ""
+
+msgctxt "17"
+msgid "ドラゴンを倒すにはこの剣"
+msgstr ""
+
+msgctxt "18"
+msgid "人を斬るための魔剣"
+msgstr ""
+
+msgctxt "19"
+msgid "人間に強い"
+msgstr ""
+
+msgctxt "20"
+msgid "神々が人に与えし聖剣"
+msgstr ""
+
+msgctxt "21"
+msgid "悪魔に強い"
+msgstr ""
+
+msgctxt "22"
+msgid "最強にして最高の剣"
+msgstr ""
+
+msgctxt "23"
+msgid "あらゆる敵に対し強い"
+msgstr ""
+
+msgctxt "24"
+msgid "何のたしにもならない剣"
+msgstr ""
+
+msgctxt "25"
+msgid "使ってみるまで　わからない"
+msgstr ""
+
+msgctxt "26"
+msgid "なぞのメダル"
+msgstr ""
+
+msgctxt "27"
+msgid "使うと"
+msgstr ""
+
+msgctxt "28"
+msgid "ＨＰの最大値が上がる"
+msgstr ""
+
+msgctxt "29"
+msgid "対鬼レベルが上がる"
+msgstr ""
+
+msgctxt "30"
+msgid "対霊レベルが上がる"
+msgstr ""
+
+msgctxt "31"
+msgid "対魔（使い魔）レベルが上がる"
+msgstr ""
+
+msgctxt "32"
+msgid "対竜レベルが上がる"
+msgstr ""
+
+msgctxt "33"
+msgid "対人（人間）レベルが上がる"
+msgstr ""
+
+msgctxt "34"
+msgid "対悪（邪神）レベルが上がる"
+msgstr ""
+
+msgctxt "35"
+msgid "グルメレベルが上がる"
+msgstr ""
+
+msgctxt "36"
+msgid "注意レベルが上がる"
+msgstr ""
+
+msgctxt "37"
+msgid "使うとＨＰの最大値が"
+msgstr ""
+
+msgctxt "38"
+msgid "大きく上がる"
+msgstr ""
+
+msgctxt "39"
+msgid "黄金に輝く木の実、病気中以外"
+msgstr ""
+
+msgctxt "40"
+msgid "食べるとＨＰが完全に回復"
+msgstr ""
+
+msgctxt "41"
+msgid "食べておいしい大きな木の実"
+msgstr ""
+
+msgctxt "42"
+msgid "ＨＰを１００回復する"
+msgstr ""
+
+msgctxt "43"
+msgid "食べておいしい小さな木の実"
+msgstr ""
+
+msgctxt "44"
+msgid "ＨＰを２０回復する"
+msgstr ""
+
+msgctxt "45"
+msgid "食べられるかもしれない"
+msgstr ""
+
+msgctxt "46"
+msgid "ほし肉"
+msgstr ""
+
+msgctxt "47"
+msgid "きれいな色の　きのこ"
+msgstr ""
+
+msgctxt "48"
+msgid "ボール状に丸まった　こけ"
+msgstr ""
+
+msgctxt "49"
+msgid "よく太った　いもむし"
+msgstr ""
+
+msgctxt "50"
+msgid "ねずみのしっぽ"
+msgstr ""
+
+msgctxt "51"
+msgid "病気のレベルが下がる薬"
+msgstr ""
+
+msgctxt "52"
+msgid "呪いのレベルが下がる薬"
+msgstr ""
+
+msgctxt "53"
+msgid "石化していて使えないロッド"
+msgstr ""
+
+msgctxt "54"
+msgid "使うと上のステージに"
+msgstr ""
+
+msgctxt "55"
+msgid "ワープする"
+msgstr ""
+
+msgctxt "56"
+msgid "ユニコーンの角でできている"
+msgstr ""
+
+msgctxt "57"
+msgid "使うとステータスが完全回復"
+msgstr ""
+
+msgctxt "58"
+msgid "使用するとタワーを脱出して"
+msgstr ""
+
+msgctxt "59"
+msgid "全体マップへ戻る"
+msgstr ""
+
+msgctxt "60"
+msgid "使用すると"
+msgstr ""
+
+msgctxt "61"
+msgid "セーブの像を呼び出します"
+msgstr ""
+
+msgctxt "62"
+msgid "何のたしにもならない"
+msgstr ""
+
+msgctxt "63"
+msgid "ブリキ製のロッド"
+msgstr ""
+
+msgctxt "64"
+msgid "古代の文字でかかれた巻物"
+msgstr ""
+
+msgctxt "65"
+msgid "さびている剣や石のロッドを"
+msgstr ""
+
+msgctxt "66"
+msgid "別のアイテムに変える"
+msgstr ""
+
+msgctxt "67"
+msgid "役に立たない　がらくた"
+msgstr ""
+
+msgctxt "68"
+msgid "武器レベルが上がる"
+msgstr ""
+
+msgctxt "69"
+msgid "使うと道案内のようせいを"
+msgstr ""
+
+msgctxt "70"
+msgid "呼び出すことができます"
+msgstr ""
+
+msgctxt "71"
+msgid "どろぼうが　ほしがる"
+msgstr ""
+
+msgctxt "72"
+msgid "金のかけら"
+msgstr ""
+
+msgctxt "73"
+msgid "不思議に光る石"
+msgstr ""
+
+msgctxt "74"
+msgid "光輝くといし"
+msgstr ""
+
+msgctxt "75"
+msgid "何かをみがけそうです"
+msgstr ""
+
+msgctxt "76"
+msgid "天魔石と呼ばれる石です"
+msgstr ""
+
+msgctxt "77"
+msgid "使うと……"
+msgstr ""
+
+msgctxt "78"
+msgid "天魔石から削り出した剣"
+msgstr ""
+
+msgctxt "79"
+msgid "不思議な力を秘めている"
+msgstr ""
+
+msgctxt "80"
+msgid "天魔石で作った棒"
+msgstr ""
+
+msgctxt "81"
+msgid "武器として使えます"
+msgstr ""
+
+msgctxt "82"
+msgid "装備するとレベルは下がるが"
+msgstr ""
+
+msgctxt "83"
+msgid "１の出る確率が上がる"
+msgstr ""
+
+msgctxt "84"
+msgid "装備すると"
+msgstr ""
+
+msgctxt "85"
+msgid "敵の通常攻撃をかわしやすくなる"
+msgstr ""
+
+msgctxt "86"
+msgid "がらくたから作られたナイフ"
+msgstr ""
+
+msgctxt "87"
+msgid "鬼に対して強い"
+msgstr ""
+
+msgctxt "88"
+msgid "がらくたから作られた短剣"
+msgstr ""
+
+msgctxt "89"
+msgid "霊に対して強い"
+msgstr ""
+
+msgctxt "90"
+msgid "がらくたから作られた斧"
+msgstr ""
+
+msgctxt "91"
+msgid "魔物に対して強い"
+msgstr ""
+
+msgctxt "92"
+msgid "がらくたから作られた剣"
+msgstr ""
+
+msgctxt "93"
+msgid "竜に対して強い"
+msgstr ""
+
+msgctxt "94"
+msgid "人間に対して強い"
+msgstr ""
+
+msgctxt "95"
+msgid "悪魔に対して強い"
+msgstr ""
+
+msgctxt "96"
+msgid "使うと何が起こるかわからない"
+msgstr ""
+
+msgctxt "97"
+msgid "がらくたからできたロッド"
+msgstr ""
+
+msgctxt "98"
+msgid "がらくたからできたメダル"
+msgstr ""
+
+msgctxt "99"
+msgid "持っているだけで"
+msgstr ""
+
+msgctxt "100"
+msgid "いいことがある天使の羽"
+msgstr ""
+
+msgctxt "101"
+msgid "持っていると"
+msgstr ""
+
+msgctxt "102"
+msgid "敵の呪い攻撃をふせいでくれる"
+msgstr ""
+
+msgctxt "103"
+msgid "アイテムをこわされなくなる"
+msgstr ""
+
+msgctxt "104"
+msgid "敵に乗りうつられなくなる"
+msgstr ""
+
+msgctxt "105"
+msgid "ただのがらくたを"
+msgstr ""
+
+msgctxt "106"
+msgid "使えるアイテムに変える"
+msgstr ""
+
+msgctxt "107"
+msgid "使うといっきに５０階以上"
+msgstr ""
+
+msgctxt "108"
+msgid "上の階へワープできる"
+msgstr ""
+
+msgctxt "109"
+msgid "何だかわからない不思議な物"
+msgstr ""
+
+msgctxt "110"
+msgid "一体なんだろう"
+msgstr ""
+

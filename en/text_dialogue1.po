@@ -1,0 +1,5112 @@
+msgctxt "0"
+msgid "ぼくらノームぞくは人間とも"
+msgstr ""
+
+msgctxt "1"
+msgid "モンスターとも　なかよしさ"
+msgstr ""
+
+msgctxt "2"
+msgid "つまり"
+msgstr ""
+
+msgctxt "3"
+msgid "どっちつかずってことだね"
+msgstr ""
+
+msgctxt "4"
+msgid "剣やロッドには　さびついて"
+msgstr ""
+
+msgctxt "5"
+msgid "石化しているものもある"
+msgstr ""
+
+msgctxt "6"
+msgid "しかし　まほうのといしを"
+msgstr ""
+
+msgctxt "7"
+msgid "使えば正体がわかるらしいよ"
+msgstr ""
+
+msgctxt "8"
+msgid "この世界の神様ムゲンは"
+msgstr ""
+
+msgctxt "9"
+msgid "ぼくらノームをつくったんだ"
+msgstr ""
+
+msgctxt "10"
+msgid "でも人間は別の世界の神様が"
+msgstr ""
+
+msgctxt "11"
+msgid "つくったんだってさ"
+msgstr ""
+
+msgctxt "12"
+msgid "まてども　まてども"
+msgstr ""
+
+msgctxt "13"
+msgid "彼女はやってこない…"
+msgstr ""
+
+msgctxt "14"
+msgid "やっぱり"
+msgstr ""
+
+msgctxt "15"
+msgid "ふられちゃったんですかねぇ"
+msgstr ""
+
+msgctxt "16"
+msgid "ぼくの一番スキなたべものは"
+msgstr ""
+
+msgctxt "17"
+msgid "ねずみのしっぽ　だよ"
+msgstr ""
+
+msgctxt "18"
+msgid "だけどたべられない子もいるよ"
+msgstr ""
+
+msgctxt "19"
+msgid "グルメレベルがひくいのかなぁ"
+msgstr ""
+
+msgctxt "20"
+msgid "ユカに何やら"
+msgstr ""
+
+msgctxt "21"
+msgid "絵がかかれている場所がある"
+msgstr ""
+
+msgctxt "22"
+msgid "ヨユウのある時にふんで"
+msgstr ""
+
+msgctxt "23"
+msgid "こうかを調べておくべきだな"
+msgstr ""
+
+msgctxt "24"
+msgid "この前お化けが出てきたんで"
+msgstr ""
+
+msgctxt "25"
+msgid "おもわず　お祈りをしたんだ"
+msgstr ""
+
+msgctxt "26"
+msgid "そしたらお化けは消えちゃった"
+msgstr ""
+
+msgctxt "27"
+msgid "聖神コリーアさまのおかげかな"
+msgstr ""
+
+msgctxt "28"
+msgid "プレイするごとにタワーの"
+msgstr ""
+
+msgctxt "29"
+msgid "中がかわるのはナゼか？"
+msgstr ""
+
+msgctxt "30"
+msgid "なにやら不思議な力が"
+msgstr ""
+
+msgctxt "31"
+msgid "働いているとしか　おもえません"
+msgstr ""
+
+msgctxt "32"
+msgid "ふると体力が回復する"
+msgstr ""
+
+msgctxt "33"
+msgid "ユニコーンロッド…"
+msgstr ""
+
+msgctxt "34"
+msgid "調子にのって使いまくったら"
+msgstr ""
+
+msgctxt "35"
+msgid "こわれちゃいました　トホホ"
+msgstr ""
+
+msgctxt "36"
+msgid "この前すごく強そうな剣を"
+msgstr ""
+
+msgctxt "37"
+msgid "もっていた人間がいたよ"
+msgstr ""
+
+msgctxt "38"
+msgid "さびた剣から作りだした"
+msgstr ""
+
+msgctxt "39"
+msgid "みたいだけど…どうするんだろ"
+msgstr ""
+
+msgctxt "40"
+msgid "ブーブーブーブー"
+msgstr ""
+
+msgctxt "41"
+msgid "ブブブー"
+msgstr ""
+
+msgctxt "42"
+msgid "まだブタのクセが残ってるブウ"
+msgstr ""
+
+msgctxt "43"
+msgid "きのう食べたパンのせいだブウ"
+msgstr ""
+
+msgctxt "44"
+msgid "お金のために生きている人間は"
+msgstr ""
+
+msgctxt "45"
+msgid "のんびりしているとダメあつかい"
+msgstr ""
+
+msgctxt "46"
+msgid "ぼくはそんな人間がキライだ！"
+msgstr ""
+
+msgctxt "47"
+msgid "だから　どっかにいってよ"
+msgstr ""
+
+msgctxt "48"
+msgid "なにごとも　楽しめる人は"
+msgstr ""
+
+msgctxt "49"
+msgid "しあわせです"
+msgstr ""
+
+msgctxt "50"
+msgid "ゆっくり　のんびり　じっくり"
+msgstr ""
+
+msgctxt "51"
+msgid "ああ…しあわせだなぁ"
+msgstr ""
+
+msgctxt "52"
+msgid "あわただしく生きる人間！"
+msgstr ""
+
+msgctxt "53"
+msgid "わたしに言わせりゃアホですな"
+msgstr ""
+
+msgctxt "54"
+msgid "外の世界じゃアレなんだし"
+msgstr ""
+
+msgctxt "55"
+msgid "この中ではノンビリいきましょ"
+msgstr ""
+
+msgctxt "56"
+msgid "こんにちは　たびのひと"
+msgstr ""
+
+msgctxt "57"
+msgid "どうか　お気をつけて…"
+msgstr ""
+
+msgctxt "58"
+msgid "はなしかけないでよ"
+msgstr ""
+
+msgctxt "59"
+msgid "考えごとをしてるんだから…"
+msgstr ""
+
+msgctxt "60"
+msgid "わしはタワーをのぼるのは"
+msgstr ""
+
+msgctxt "61"
+msgid "あきらめたのじゃ"
+msgstr ""
+
+msgctxt "62"
+msgid "今はここで　しずかに"
+msgstr ""
+
+msgctxt "63"
+msgid "生活しているのじゃよ"
+msgstr ""
+
+msgctxt "64"
+msgid "わたしは長年モンスターを"
+msgstr ""
+
+msgctxt "65"
+msgid "研究しているのじゃが…"
+msgstr ""
+
+msgctxt "66"
+msgid "こちらを攻撃してこないヤツ"
+msgstr ""
+
+msgctxt "67"
+msgid "あれは意味不明じゃよ"
+msgstr ""
+
+msgctxt "68"
+msgid "わしはこう見えても"
+msgstr ""
+
+msgctxt "69"
+msgid "アーマーナイトなんじゃ！"
+msgstr ""
+
+msgctxt "70"
+msgid "何回もこのタワーに入るうち"
+msgstr ""
+
+msgctxt "71"
+msgid "ジジイになっちまったがな"
+msgstr ""
+
+msgctxt "72"
+msgid "私は伝説のトイレを探して"
+msgstr ""
+
+msgctxt "73"
+msgid "このタワーに入ったのじゃ"
+msgstr ""
+
+msgctxt "74"
+msgid "でもトイレはどこにもない！"
+msgstr ""
+
+msgctxt "75"
+msgid "だまされたのじゃろうか…トホホ"
+msgstr ""
+
+msgctxt "76"
+msgid "ゆっくり考えて行動！"
+msgstr ""
+
+msgctxt "77"
+msgid "これが生き残るコツじゃよ"
+msgstr ""
+
+msgctxt "78"
+msgid "タワーに入って　はや１０年…"
+msgstr ""
+
+msgctxt "79"
+msgid "ずいぶんとジジイになったなぁ"
+msgstr ""
+
+msgctxt "80"
+msgid "ああ…まよってしまった"
+msgstr ""
+
+msgctxt "81"
+msgid "オロオロ"
+msgstr ""
+
+msgctxt "82"
+msgid "このタワーには様々な"
+msgstr ""
+
+msgctxt "83"
+msgid "アイテムが眠っている"
+msgstr ""
+
+msgctxt "84"
+msgid "しかし一番すばらしい"
+msgstr ""
+
+msgctxt "85"
+msgid "アイテムは何か？"
+msgstr ""
+
+msgctxt "86"
+msgid "それはズバリ"
+msgstr ""
+
+msgctxt "87"
+msgid "リターンロッドじゃ！"
+msgstr ""
+
+msgctxt "88"
+msgid "あきらめちゃえ"
+msgstr ""
+
+msgctxt "89"
+msgid "あきらめちゃえ〜"
+msgstr ""
+
+msgctxt "90"
+msgid "君には　このタワーはムリ"
+msgstr ""
+
+msgctxt "91"
+msgid "ムリだから　あきらめちゃえ〜"
+msgstr ""
+
+msgctxt "92"
+msgid "もうやめちゃいなよ"
+msgstr ""
+
+msgctxt "93"
+msgid "君じゃ　このタワーはムリだよ"
+msgstr ""
+
+msgctxt "94"
+msgid "やめちゃって"
+msgstr ""
+
+msgctxt "95"
+msgid "グチるのも　また人生だよ"
+msgstr ""
+
+msgctxt "96"
+msgid "ずいぶんショボい"
+msgstr ""
+
+msgctxt "97"
+msgid "キャラクターだねぇ"
+msgstr ""
+
+msgctxt "98"
+msgid "はじめから　やり直したら？"
+msgstr ""
+
+msgctxt "99"
+msgid "ぼくらシロウサギは"
+msgstr ""
+
+msgctxt "100"
+msgid "人間のやる気を食べて生きている"
+msgstr ""
+
+msgctxt "101"
+msgid "だから…"
+msgstr ""
+
+msgctxt "102"
+msgid "せなかむきに"
+msgstr ""
+
+msgctxt "103"
+msgid "敵とぶつかってみよう！ワオ！"
+msgstr ""
+
+msgctxt "104"
+msgid "ガイコツマークの上で"
+msgstr ""
+
+msgctxt "105"
+msgid "敵と戦ってみよう！イエイ！"
+msgstr ""
+
+msgctxt "106"
+msgid "メダルは使わずに"
+msgstr ""
+
+msgctxt "107"
+msgid "しまっておこう！イエ〜イ！"
+msgstr ""
+
+msgctxt "108"
+msgid "さびた剣ってもっている？"
+msgstr ""
+
+msgctxt "109"
+msgid "もし　もっていたら"
+msgstr ""
+
+msgctxt "110"
+msgid "ゴミだから　すぐ捨てよう！"
+msgstr ""
+
+msgctxt "111"
+msgid "あなたとは"
+msgstr ""
+
+msgctxt "112"
+msgid "何も　しゃべりたくありません"
+msgstr ""
+
+msgctxt "113"
+msgid "あなたは生まれる前に"
+msgstr ""
+
+msgctxt "114"
+msgid "別の世界で生きていたのです"
+msgstr ""
+
+msgctxt "115"
+msgid "その意味を"
+msgstr ""
+
+msgctxt "116"
+msgid "ゆっくりと考えなさい…"
+msgstr ""
+
+msgctxt "117"
+msgid "どこまでも続くタワーを"
+msgstr ""
+
+msgctxt "118"
+msgid "のぼるのは　つらく苦しい…"
+msgstr ""
+
+msgctxt "119"
+msgid "しかしそれは"
+msgstr ""
+
+msgctxt "120"
+msgid "「つぐない」なのです"
+msgstr ""
+
+msgctxt "121"
+msgid "わたしは　まだ子供なの"
+msgstr ""
+
+msgctxt "122"
+msgid "だから別の世界のことは"
+msgstr ""
+
+msgctxt "123"
+msgid "おねえさん達を探してきいてね"
+msgstr ""
+
+msgctxt "124"
+msgid "ガハハハハ"
+msgstr ""
+
+msgctxt "125"
+msgid "おやじなんで　おどろいたろ？"
+msgstr ""
+
+msgctxt "126"
+msgid "１００人にひとりくらいは"
+msgstr ""
+
+msgctxt "127"
+msgid "男のフェアリーもいるんだぜ！"
+msgstr ""
+
+msgctxt "128"
+msgid "この世界は"
+msgstr ""
+
+msgctxt "129"
+msgid "「つみびと」の世界なのです"
+msgstr ""
+
+msgctxt "130"
+msgid "そして世界の５つのタワーは"
+msgstr ""
+
+msgctxt "131"
+msgid "別の世界の人がこの世界を"
+msgstr ""
+
+msgctxt "132"
+msgid "なんて呼んでいるのか知ってる？"
+msgstr ""
+
+msgctxt "133"
+msgid "「ジゴク」ですって"
+msgstr ""
+
+msgctxt "134"
+msgid "変な名前だよね"
+msgstr ""
+
+msgctxt "135"
+msgid "あなたは何も知らないのですね"
+msgstr ""
+
+msgctxt "136"
+msgid "でもタワーを登り続ける…"
+msgstr ""
+
+msgctxt "137"
+msgid "！！"
+msgstr ""
+
+msgctxt "138"
+msgid "キャハハハハハ　キャハ"
+msgstr ""
+
+msgctxt "139"
+msgid "ごめんなさい"
+msgstr ""
+
+msgctxt "140"
+msgid "あなたの顔が変だったから…"
+msgstr ""
+
+msgctxt "141"
+msgid "しかばねの横のユカに"
+msgstr ""
+
+msgctxt "142"
+msgid "文字がきざまれている…"
+msgstr ""
+
+msgctxt "143"
+msgid "「無念」"
+msgstr ""
+
+msgctxt "144"
+msgid "わたしの力を"
+msgstr ""
+
+msgctxt "145"
+msgid "お前にたくそう"
+msgstr ""
+
+msgctxt "146"
+msgid "前回のプレーヤーの力を得た！"
+msgstr ""
+
+msgctxt "147"
+msgid "……ような気がした"
+msgstr ""
+
+msgctxt "148"
+msgid "しかばねだ"
+msgstr ""
+
+msgctxt "149"
+msgid "別に何もない"
+msgstr ""
+
+msgctxt "150"
+msgid "俺はこう見えても呪術師だ"
+msgstr ""
+
+msgctxt "151"
+msgid "お前に呪いをかけてやるぜ…"
+msgstr ""
+
+msgctxt "152"
+msgid "なーんてな！"
+msgstr ""
+
+msgctxt "153"
+msgid "呪いはウソだよ　わはははは"
+msgstr ""
+
+msgctxt "154"
+msgid "何とかがんばって"
+msgstr ""
+
+msgctxt "155"
+msgid "ここまで　やってきたのですが"
+msgstr ""
+
+msgctxt "156"
+msgid "敵が強くて先にすすめません"
+msgstr ""
+
+msgctxt "157"
+msgid "後もどりもできないしなぁ…"
+msgstr ""
+
+msgctxt "158"
+msgid "マントでわかりづらいけど"
+msgstr ""
+
+msgctxt "159"
+msgid "わたしは　ゆうぼくみんなの"
+msgstr ""
+
+msgctxt "160"
+msgid "じっくりこのタワーを"
+msgstr ""
+
+msgctxt "161"
+msgid "楽しんでるのよ"
+msgstr ""
+
+msgctxt "162"
+msgid "じまんさせてもらうけど"
+msgstr ""
+
+msgctxt "163"
+msgid "俺のＨＰは９００以上だ！"
+msgstr ""
+
+msgctxt "164"
+msgid "お前もヤバくなったら"
+msgstr ""
+
+msgctxt "165"
+msgid "リターンロッドを使うといいぜ"
+msgstr ""
+
+msgctxt "166"
+msgid "俺は本当はアーマーナイトに"
+msgstr ""
+
+msgctxt "167"
+msgid "なりたかったんだが…"
+msgstr ""
+
+msgctxt "168"
+msgid "番号がわからなかったんで"
+msgstr ""
+
+msgctxt "169"
+msgid "フリーファイターをしている"
+msgstr ""
+
+msgctxt "170"
+msgid "しかしフリーファイターも"
+msgstr ""
+
+msgctxt "171"
+msgid "やってみると味わいがあるよな"
+msgstr ""
+
+msgctxt "172"
+msgid "きいてください！"
+msgstr ""
+
+msgctxt "173"
+msgid "セーブロッドがこわれたんです"
+msgstr ""
+
+msgctxt "174"
+msgid "なんだか急にこわくなって"
+msgstr ""
+
+msgctxt "175"
+msgid "先に進めませんよ　ブルブル"
+msgstr ""
+
+msgctxt "176"
+msgid "このままタワーをのぼるべきか"
+msgstr ""
+
+msgctxt "177"
+msgid "新しい番号でやり直すか…"
+msgstr ""
+
+msgctxt "178"
+msgid "まあ長い人生"
+msgstr ""
+
+msgctxt "179"
+msgid "ゆっくりと考えることにします"
+msgstr ""
+
+msgctxt "180"
+msgid "この前ヘンテコなベッドで"
+msgstr ""
+
+msgctxt "181"
+msgid "ねむったんだよ…"
+msgstr ""
+
+msgctxt "182"
+msgid "そしたら別の場所に運ばれて"
+msgstr ""
+
+msgctxt "183"
+msgid "ひどい目にあったよなぁ　トホホ"
+msgstr ""
+
+msgctxt "184"
+msgid "剣は何本か集めて敵ごとに"
+msgstr ""
+
+msgctxt "185"
+msgid "戦う前に持ちかえるんだ！"
+msgstr ""
+
+msgctxt "186"
+msgid "例えばドラゴンには"
+msgstr ""
+
+msgctxt "187"
+msgid "ドラゴンブレイクで戦うとかな"
+msgstr ""
+
+msgctxt "188"
+msgid "モンスターの中にはアイテムを"
+msgstr ""
+
+msgctxt "189"
+msgid "こわしてくるヤツもいるからな"
+msgstr ""
+
+msgctxt "190"
+msgid "ゴミアイテムもダミーとして"
+msgstr ""
+
+msgctxt "191"
+msgid "持っておくといいだろう…"
+msgstr ""
+
+msgctxt "192"
+msgid "ここにきて色々な番号が"
+msgstr ""
+
+msgctxt "193"
+msgid "わかってきました"
+msgstr ""
+
+msgctxt "194"
+msgid "オーラファイター、ソーサラー"
+msgstr ""
+
+msgctxt "195"
+msgid "魔法戦士、エルフナイト…"
+msgstr ""
+
+msgctxt "196"
+msgid "えっ？私ですか？"
+msgstr ""
+
+msgctxt "197"
+msgid "私はたびびとですよ　ガハハハ"
+msgstr ""
+
+msgctxt "198"
+msgid "いや〜"
+msgstr ""
+
+msgctxt "199"
+msgid "おもしろくなってきました"
+msgstr ""
+
+msgctxt "200"
+msgid "やりこめば　なかなか"
+msgstr ""
+
+msgctxt "201"
+msgid "このタワーいいじゃないですか"
+msgstr ""
+
+msgctxt "202"
+msgid "あまり期待せずに"
+msgstr ""
+
+msgctxt "203"
+msgid "このタワーに入ってみたが"
+msgstr ""
+
+msgctxt "204"
+msgid "俺は好きだな　このタワー"
+msgstr ""
+
+msgctxt "205"
+msgid "じっくり一生かけて楽しむぜ"
+msgstr ""
+
+msgctxt "206"
+msgid "グルメレベルを上げて"
+msgstr ""
+
+msgctxt "207"
+msgid "こけだんごを食べてみました"
+msgstr ""
+
+msgctxt "208"
+msgid "いや〜意外にうまいんですよ〜"
+msgstr ""
+
+msgctxt "209"
+msgid "プニプニしててね"
+msgstr ""
+
+msgctxt "210"
+msgid "戦士も魔法使いもタワー内では"
+msgstr ""
+
+msgctxt "211"
+msgid "みなマントをつけている"
+msgstr ""
+
+msgctxt "212"
+msgid "だから同じにみえるが"
+msgstr ""
+
+msgctxt "213"
+msgid "中身は全然ちがうんだぜっ！"
+msgstr ""
+
+msgctxt "214"
+msgid "わたくしは全国のタワーを"
+msgstr ""
+
+msgctxt "215"
+msgid "研究しているタワー評論家です"
+msgstr ""
+
+msgctxt "216"
+msgid "このタワーの悪いところは"
+msgstr ""
+
+msgctxt "217"
+msgid "あそこと　あそこですね"
+msgstr ""
+
+msgctxt "218"
+msgid "でもって好きなところは"
+msgstr ""
+
+msgctxt "219"
+msgid "あそこと　ここですかねぇ"
+msgstr ""
+
+msgctxt "220"
+msgid "どうしても上に行けない！"
+msgstr ""
+
+msgctxt "221"
+msgid "あきらめて帰るところだ"
+msgstr ""
+
+msgctxt "222"
+msgid "あう〜"
+msgstr ""
+
+msgctxt "223"
+msgid "くやしいダス"
+msgstr ""
+
+msgctxt "224"
+msgid "敵は全て俺達がたおした！"
+msgstr ""
+
+msgctxt "225"
+msgid "たおした…んだけどなぁ…"
+msgstr ""
+
+msgctxt "226"
+msgid "俺達もお前と同じ挑戦者だ"
+msgstr ""
+
+msgctxt "227"
+msgid "みんな同じ様なマントをきているぜ"
+msgstr ""
+
+msgctxt "228"
+msgid "塔の中には"
+msgstr ""
+
+msgctxt "229"
+msgid "宝箱がおちているゾイ"
+msgstr ""
+
+msgctxt "230"
+msgid "宝箱はブッたたけば開くゾイ"
+msgstr ""
+
+msgctxt "231"
+msgid "やってみろ"
+msgstr ""
+
+msgctxt "232"
+msgid "アイテムを使うには"
+msgstr ""
+
+msgctxt "233"
+msgid "△ボタンでアイテムを選ぶベシ"
+msgstr ""
+
+msgctxt "234"
+msgid "その間、時間は止まってるベシ"
+msgstr ""
+
+msgctxt "235"
+msgid "宝箱のワナには注意が必要だ"
+msgstr ""
+
+msgctxt "236"
+msgid "注意レベルの低い者は特にな！"
+msgstr ""
+
+msgctxt "237"
+msgid "イタタタ…"
+msgstr ""
+
+msgctxt "238"
+msgid "宝箱を開けることが"
+msgstr ""
+
+msgctxt "239"
+msgid "得意な奴ら…"
+msgstr ""
+
+msgctxt "240"
+msgid "シーフやアイテムハンター！"
+msgstr ""
+
+msgctxt "241"
+msgid "う、うらやましいなぁ…"
+msgstr ""
+
+msgctxt "242"
+msgid "宝箱には色々な種類があり"
+msgstr ""
+
+msgctxt "243"
+msgid "１つ１つレベルも違う"
+msgstr ""
+
+msgctxt "244"
+msgid "例えば下にある宝箱は"
+msgstr ""
+
+msgctxt "245"
+msgid "レベルが高いぞ"
+msgstr ""
+
+msgctxt "246"
+msgid "左にあるのがフロアの出口…"
+msgstr ""
+
+msgctxt "247"
+msgid "しかしトビラが開かないんだ！"
+msgstr ""
+
+msgctxt "248"
+msgid "ちくしょう！"
+msgstr ""
+
+msgctxt "249"
+msgid "カエルのユカの上では動きが"
+msgstr ""
+
+msgctxt "250"
+msgid "逆になるみたいだよ"
+msgstr ""
+
+msgctxt "251"
+msgid "つまり進みたい方向と逆側に"
+msgstr ""
+
+msgctxt "252"
+msgid "方向キーを入れるといいんだよ"
+msgstr ""
+
+msgctxt "253"
+msgid "画面の上にある表示部分…"
+msgstr ""
+
+msgctxt "254"
+msgid "あれってジャマだよね"
+msgstr ""
+
+msgctxt "255"
+msgid "ぼくはＲボタンを押して"
+msgstr ""
+
+msgctxt "256"
+msgid "冒険しているんだ"
+msgstr ""
+
+msgctxt "257"
+msgid "ぼくは小人のヤッシーくん"
+msgstr ""
+
+msgctxt "258"
+msgid "この部屋は　ぼくが作ったんだ"
+msgstr ""
+
+msgctxt "259"
+msgid "ヤッシーのまわりは"
+msgstr ""
+
+msgctxt "260"
+msgid "ネバネバしているなぁ…"
+msgstr ""
+
+msgctxt "261"
+msgid "イエィ！"
+msgstr ""
+
+msgctxt "262"
+msgid "なんかタワーの中って"
+msgstr ""
+
+msgctxt "263"
+msgid "気がしないなぁ…"
+msgstr ""
+
+msgctxt "264"
+msgid "土の中って気がするよなぁ…"
+msgstr ""
+
+msgctxt "265"
+msgid "がんばってね"
+msgstr ""
+
+msgctxt "266"
+msgid "タワーにマドを開けようと"
+msgstr ""
+
+msgctxt "267"
+msgid "カベに穴をほり続けたんだ"
+msgstr ""
+
+msgctxt "268"
+msgid "そしたら　こんな大きな部屋に…"
+msgstr ""
+
+msgctxt "269"
+msgid "でも　ぼくは穴をほり続けるぞ！"
+msgstr ""
+
+msgctxt "270"
+msgid "フフフ…"
+msgstr ""
+
+msgctxt "271"
+msgid "いいことを教えてやろう…"
+msgstr ""
+
+msgctxt "272"
+msgid "この部屋の左下みたいな"
+msgstr ""
+
+msgctxt "273"
+msgid "ナナメのスキマは通れるんだゼ"
+msgstr ""
+
+msgctxt "274"
+msgid "ナナメのスキマは重要だゼ"
+msgstr ""
+
+msgctxt "275"
+msgid "ウフフフフ…………"
+msgstr ""
+
+msgctxt "276"
+msgid "フン！"
+msgstr ""
+
+msgctxt "277"
+msgid "アタイはここをどかないよ"
+msgstr ""
+
+msgctxt "278"
+msgid "えっ？"
+msgstr ""
+
+msgctxt "279"
+msgid "ナナメのスキマから通るって？"
+msgstr ""
+
+msgctxt "280"
+msgid "ウフフフフ…"
+msgstr ""
+
+msgctxt "281"
+msgid "Ｌボタンを押し続けながら"
+msgstr ""
+
+msgctxt "282"
+msgid "歩くとダッシュになるワ"
+msgstr ""
+
+msgctxt "283"
+msgid "アイテムは２０個まで"
+msgstr ""
+
+msgctxt "284"
+msgid "持って歩くことができるよ"
+msgstr ""
+
+msgctxt "285"
+msgid "いらないものを持ってないかい？"
+msgstr ""
+
+msgctxt "286"
+msgid "よーく考えてね！"
+msgstr ""
+
+msgctxt "287"
+msgid "食べ物を食べると"
+msgstr ""
+
+msgctxt "288"
+msgid "体力回復できるけど………"
+msgstr ""
+
+msgctxt "289"
+msgid "変なモノを食べると"
+msgstr ""
+
+msgctxt "290"
+msgid "病気になるぞ！"
+msgstr ""
+
+msgctxt "291"
+msgid "あんた…病気していない？"
+msgstr ""
+
+msgctxt "292"
+msgid "呪われていない？"
+msgstr ""
+
+msgctxt "293"
+msgid "△ボタンでステータス"
+msgstr ""
+
+msgctxt "294"
+msgid "健康管理はマメにしなきゃネ！"
+msgstr ""
+
+msgctxt "295"
+msgid "武器にもレベルがある！"
+msgstr ""
+
+msgctxt "296"
+msgid "手に入れたからって"
+msgstr ""
+
+msgctxt "297"
+msgid "使いこなせなきゃタダのゴミだ"
+msgstr ""
+
+msgctxt "298"
+msgid "使いこなせる武器は"
+msgstr ""
+
+msgctxt "299"
+msgid "装備ができる…"
+msgstr ""
+
+msgctxt "300"
+msgid "えっ？攻撃力の表示？"
+msgstr ""
+
+msgctxt "301"
+msgid "なんだ　そりゃ？"
+msgstr ""
+
+msgctxt "302"
+msgid "武器とは使いながら"
+msgstr ""
+
+msgctxt "303"
+msgid "強さを感じるものだ…"
+msgstr ""
+
+msgctxt "304"
+msgid "ステータス画面で"
+msgstr ""
+
+msgctxt "305"
+msgid "強くなったのは確認できるがな"
+msgstr ""
+
+msgctxt "306"
+msgid "人によって得意な敵がいるように"
+msgstr ""
+
+msgctxt "307"
+msgid "武器にも有効な敵がある"
+msgstr ""
+
+msgctxt "308"
+msgid "敵によって"
+msgstr ""
+
+msgctxt "309"
+msgid "武器を使いわけるのも手だぞ"
+msgstr ""
+
+msgctxt "310"
+msgid "敵との接触は正面から行え！"
+msgstr ""
+
+msgctxt "311"
+msgid "敵に背中を向ければ"
+msgstr ""
+
+msgctxt "312"
+msgid "やられるぜ！"
+msgstr ""
+
+msgctxt "313"
+msgid "ワープを"
+msgstr ""
+
+msgctxt "314"
+msgid "するのじゃ！"
+msgstr ""
+
+msgctxt "315"
+msgid "ワープポイントは"
+msgstr ""
+
+msgctxt "316"
+msgid "この右なのじゃ！"
+msgstr ""
+
+msgctxt "317"
+msgid "上にあるのはドクよ"
+msgstr ""
+
+msgctxt "318"
+msgid "ふれるとダメージなのよ"
+msgstr ""
+
+msgctxt "319"
+msgid "注意してね"
+msgstr ""
+
+msgctxt "320"
+msgid "上のユカは変なユカよ"
+msgstr ""
+
+msgctxt "321"
+msgid "ふれると混乱するか"
+msgstr ""
+
+msgctxt "322"
+msgid "小人になっちゃうのよ"
+msgstr ""
+
+msgctxt "323"
+msgid "上のユカは不幸のユカよ"
+msgstr ""
+
+msgctxt "324"
+msgid "この上で戦うと"
+msgstr ""
+
+msgctxt "325"
+msgid "必ず敵が先攻になっちゃうのよ"
+msgstr ""
+
+msgctxt "326"
+msgid "上のユカは　おそいユカよ"
+msgstr ""
+
+msgctxt "327"
+msgid "歩くスピードが"
+msgstr ""
+
+msgctxt "328"
+msgid "おそくなっちゃうのよ"
+msgstr ""
+
+msgctxt "329"
+msgid "上のユカは逆のユカよ"
+msgstr ""
+
+msgctxt "330"
+msgid "歩きたい方向と"
+msgstr ""
+
+msgctxt "331"
+msgid "逆に進んじゃうのよ"
+msgstr ""
+
+msgctxt "332"
+msgid "えへへ…"
+msgstr ""
+
+msgctxt "333"
+msgid "右上ハジにカギがおいてあるよ"
+msgstr ""
+
+msgctxt "334"
+msgid "えへへ"
+msgstr ""
+
+msgctxt "335"
+msgid "しあわせだなぁ…"
+msgstr ""
+
+msgctxt "336"
+msgid "ウフフ"
+msgstr ""
+
+msgctxt "337"
+msgid "しあわせだわぁ…"
+msgstr ""
+
+msgctxt "338"
+msgid "ねっ"
+msgstr ""
+
+msgctxt "339"
+msgid "あ・な・た！"
+msgstr ""
+
+msgctxt "340"
+msgid "おいかけてくる敵が"
+msgstr ""
+
+msgctxt "341"
+msgid "このフロアには多くいます"
+msgstr ""
+
+msgctxt "342"
+msgid "Ｌボタンのダッシュを"
+msgstr ""
+
+msgctxt "343"
+msgid "うまく使ってね"
+msgstr ""
+
+msgctxt "344"
+msgid "この上のフロアからは"
+msgstr ""
+
+msgctxt "345"
+msgid "毎回、構成が変わっていくの"
+msgstr ""
+
+msgctxt "346"
+msgid "まあ"
+msgstr ""
+
+msgctxt "347"
+msgid "これからが本番かな？"
+msgstr ""
+
+msgctxt "348"
+msgid "冒険の記録はセーブ像で行うの"
+msgstr ""
+
+msgctxt "349"
+msgid "他の場所ではできないのよ"
+msgstr ""
+
+msgctxt "350"
+msgid "一回ここで"
+msgstr ""
+
+msgctxt "351"
+msgid "セーブしてみたらどうかな？"
+msgstr ""
+
+msgctxt "352"
+msgid "ねえ　ねえ　ねえ"
+msgstr ""
+
+msgctxt "353"
+msgid "あそぼうよぉ"
+msgstr ""
+
+msgctxt "354"
+msgid "冒険なんかつまんないよお"
+msgstr ""
+
+msgctxt "355"
+msgid "あそぼうったら　ねえ"
+msgstr ""
+
+msgctxt "356"
+msgid "るんるんるん"
+msgstr ""
+
+msgctxt "357"
+msgid "らんらんらん"
+msgstr ""
+
+msgctxt "358"
+msgid "困ったときには歌を歌おう"
+msgstr ""
+
+msgctxt "359"
+msgid "悩むなんてバカらしいじゃん"
+msgstr ""
+
+msgctxt "360"
+msgid "アーッ　かっこいい武器！！"
+msgstr ""
+
+msgctxt "361"
+msgid "ちょうだい　ちょうだい！！"
+msgstr ""
+
+msgctxt "362"
+msgid "え　ダメなの？"
+msgstr ""
+
+msgctxt "363"
+msgid "ちぇっ　ケチぃ！！"
+msgstr ""
+
+msgctxt "364"
+msgid "エッヘン　エッヘン"
+msgstr ""
+
+msgctxt "365"
+msgid "ボクたちはこの塔に住み着く小人さ"
+msgstr ""
+
+msgctxt "366"
+msgid "イタズラ大好き"
+msgstr ""
+
+msgctxt "367"
+msgid "おしゃべり大好き"
+msgstr ""
+
+msgctxt "368"
+msgid "妖精たちって　きらーい"
+msgstr ""
+
+msgctxt "369"
+msgid "だってツーンとすましちゃって"
+msgstr ""
+
+msgctxt "370"
+msgid "おもしろくないんだもん"
+msgstr ""
+
+msgctxt "371"
+msgid "この前すっごくおおきい人を"
+msgstr ""
+
+msgctxt "372"
+msgid "見たんだよ"
+msgstr ""
+
+msgctxt "373"
+msgid "ズシーン　ズシーンって"
+msgstr ""
+
+msgctxt "374"
+msgid "すごい足音をならしてたんだ"
+msgstr ""
+
+msgctxt "375"
+msgid "このまえきれいなお姉ちゃんが"
+msgstr ""
+
+msgctxt "376"
+msgid "あそんでくれたよ"
+msgstr ""
+
+msgctxt "377"
+msgid "とっても歌が上手だったんだ"
+msgstr ""
+
+msgctxt "378"
+msgid "ボクらは光るモノは"
+msgstr ""
+
+msgctxt "379"
+msgid "なんでも好きなんだ"
+msgstr ""
+
+msgctxt "380"
+msgid "コインとかペンダントとかね"
+msgstr ""
+
+msgctxt "381"
+msgid "でも　盗んだりはしないよ"
+msgstr ""
+
+msgctxt "382"
+msgid "妖精が空を飛べるからって"
+msgstr ""
+
+msgctxt "383"
+msgid "驚いちゃいけないよ"
+msgstr ""
+
+msgctxt "384"
+msgid "ボクら小人は姿を消したり"
+msgstr ""
+
+msgctxt "385"
+msgid "土の中を自由に歩いたりできるんだ"
+msgstr ""
+
+msgctxt "386"
+msgid "うえーん　うえーん"
+msgstr ""
+
+msgctxt "387"
+msgid "迷子になっちゃったよー"
+msgstr ""
+
+msgctxt "388"
+msgid "ボクらは別に妖精族が"
+msgstr ""
+
+msgctxt "389"
+msgid "キライなわけじゃないよ"
+msgstr ""
+
+msgctxt "390"
+msgid "あいつらがボクたちを"
+msgstr ""
+
+msgctxt "391"
+msgid "バカにしているだけさ"
+msgstr ""
+
+msgctxt "392"
+msgid "ご飯を食べようと思ったら"
+msgstr ""
+
+msgctxt "393"
+msgid "ウサギが持っていっちゃった"
+msgstr ""
+
+msgctxt "394"
+msgid "ぷん　ぷん"
+msgstr ""
+
+msgctxt "395"
+msgid "ボクたちは"
+msgstr ""
+
+msgctxt "396"
+msgid "小人って呼ばれてるけど"
+msgstr ""
+
+msgctxt "397"
+msgid "本当は大地の精なんだよ"
+msgstr ""
+
+msgctxt "398"
+msgid "知ってた？"
+msgstr ""
+
+msgctxt "399"
+msgid "この塔にある不思議な床は"
+msgstr ""
+
+msgctxt "400"
+msgid "ボクたちが作ったんだ"
+msgstr ""
+
+msgctxt "401"
+msgid "おもしろいでしょ"
+msgstr ""
+
+msgctxt "402"
+msgid "え　迷惑だって？　そんなあ"
+msgstr ""
+
+msgctxt "403"
+msgid "むかしはボクたちも"
+msgstr ""
+
+msgctxt "404"
+msgid "妖精族とも仲がよかったんだって"
+msgstr ""
+
+msgctxt "405"
+msgid "なんか信じられないなあ"
+msgstr ""
+
+msgctxt "406"
+msgid "ボクらは誰とでも仲良くなれるんだ"
+msgstr ""
+
+msgctxt "407"
+msgid "それがたとえ魔物でもね"
+msgstr ""
+
+msgctxt "408"
+msgid "だから一緒にあそぼーよー"
+msgstr ""
+
+msgctxt "409"
+msgid "フリーファイターって"
+msgstr ""
+
+msgctxt "410"
+msgid "カッコいいよね"
+msgstr ""
+
+msgctxt "411"
+msgid "そういえばこの前もっとカッコいい"
+msgstr ""
+
+msgctxt "412"
+msgid "戦士を見たよ　名前は……？？"
+msgstr ""
+
+msgctxt "413"
+msgid "この塔にはいろんな人間が来るね"
+msgstr ""
+
+msgctxt "414"
+msgid "だからボクらは"
+msgstr ""
+
+msgctxt "415"
+msgid "退屈しないですんでるんだ"
+msgstr ""
+
+msgctxt "416"
+msgid "ルルルー　ルルルルー"
+msgstr ""
+
+msgctxt "417"
+msgid "ルールルー　ルルルー"
+msgstr ""
+
+msgctxt "418"
+msgid "どうボクの歌？"
+msgstr ""
+
+msgctxt "419"
+msgid "なかなか　さまになってるでしょ"
+msgstr ""
+
+msgctxt "420"
+msgid "ぐすん　ぐすん"
+msgstr ""
+
+msgctxt "421"
+msgid "ボクって小人のくせにオンチだから"
+msgstr ""
+
+msgctxt "422"
+msgid "仲間はずれにされるんだ"
+msgstr ""
+
+msgctxt "423"
+msgid "本当の話をしてあげようか？"
+msgstr ""
+
+msgctxt "424"
+msgid "じつは（実話）ね……"
+msgstr ""
+
+msgctxt "425"
+msgid "あれ　おもしろくなかったかな"
+msgstr ""
+
+msgctxt "426"
+msgid "わっ！！"
+msgstr ""
+
+msgctxt "427"
+msgid "わーい　わーい"
+msgstr ""
+
+msgctxt "428"
+msgid "ビックリしたー"
+msgstr ""
+
+msgctxt "429"
+msgid "ちぇっ"
+msgstr ""
+
+msgctxt "430"
+msgid "最近　誰もあそんでくれないんだ"
+msgstr ""
+
+msgctxt "431"
+msgid "うー　あそびたい　あそびたい"
+msgstr ""
+
+msgctxt "432"
+msgid "あそびたい　あそびたいよー！！"
+msgstr ""
+
+msgctxt "433"
+msgid "ボクたちが"
+msgstr ""
+
+msgctxt "434"
+msgid "どこに住んでいるかって？"
+msgstr ""
+
+msgctxt "435"
+msgid "それは教えられないよ"
+msgstr ""
+
+msgctxt "436"
+msgid "秘密の場所にあるんだ"
+msgstr ""
+
+msgctxt "437"
+msgid "妖精族のプラムちゃんと"
+msgstr ""
+
+msgctxt "438"
+msgid "待ち合わせたんだけど行けないんだ"
+msgstr ""
+
+msgctxt "439"
+msgid "もし会ったら"
+msgstr ""
+
+msgctxt "440"
+msgid "かわりにあやまっといてね"
+msgstr ""
+
+msgctxt "441"
+msgid "オレは"
+msgstr ""
+
+msgctxt "442"
+msgid "小人族のガキ大将　マックス"
+msgstr ""
+
+msgctxt "443"
+msgid "ちゃんとあいさつしろよな"
+msgstr ""
+
+msgctxt "444"
+msgid "エッヘン"
+msgstr ""
+
+msgctxt "445"
+msgid "小人族のガキ大将　マックスは"
+msgstr ""
+
+msgctxt "446"
+msgid "いばってるけど　ホントは弱虫だよ"
+msgstr ""
+
+msgctxt "447"
+msgid "あ　このことは誰にも"
+msgstr ""
+
+msgctxt "448"
+msgid "言わないでね"
+msgstr ""
+
+msgctxt "449"
+msgid "ふあぁ　ねむい……"
+msgstr ""
+
+msgctxt "450"
+msgid "今日はもう帰って寝よっと"
+msgstr ""
+
+msgctxt "451"
+msgid "ふあぁ……"
+msgstr ""
+
+msgctxt "452"
+msgid "ボク思うんだけど"
+msgstr ""
+
+msgctxt "453"
+msgid "どうして人間はせっかちなのかな"
+msgstr ""
+
+msgctxt "454"
+msgid "もっとゆっくり"
+msgstr ""
+
+msgctxt "455"
+msgid "あそんでくれてもいいのに"
+msgstr ""
+
+msgctxt "456"
+msgid "お歌の上手なお姉ちゃんが"
+msgstr ""
+
+msgctxt "457"
+msgid "あそんでくれたんだ"
+msgstr ""
+
+msgctxt "458"
+msgid "ルーチェっていう人だよ"
+msgstr ""
+
+msgctxt "459"
+msgid "知ってる？"
+msgstr ""
+
+msgctxt "460"
+msgid "ルーチェっていう"
+msgstr ""
+
+msgctxt "461"
+msgid "吟遊詩人のお姉さんがいるんだ"
+msgstr ""
+
+msgctxt "462"
+msgid "またあの"
+msgstr ""
+
+msgctxt "463"
+msgid "きれいな歌声が聞きたいなあ"
+msgstr ""
+
+msgctxt "464"
+msgid "へっくしょん！！"
+msgstr ""
+
+msgctxt "465"
+msgid "あれれ"
+msgstr ""
+
+msgctxt "466"
+msgid "どこかでオイラの噂をしているな"
+msgstr ""
+
+msgctxt "467"
+msgid "へーっくしょん！！"
+msgstr ""
+
+msgctxt "468"
+msgid "ボク"
+msgstr ""
+
+msgctxt "469"
+msgid "アイテムハンターはキライなんだ"
+msgstr ""
+
+msgctxt "470"
+msgid "だってボクの好きな宝物"
+msgstr ""
+
+msgctxt "471"
+msgid "ぜーんぶ持っていっちゃうんだモン"
+msgstr ""
+
+msgctxt "472"
+msgid "ボクらは宝物が大好きなんだ"
+msgstr ""
+
+msgctxt "473"
+msgid "この塔にあるアイテムも"
+msgstr ""
+
+msgctxt "474"
+msgid "本当はボクらのものなんだよ"
+msgstr ""
+
+msgctxt "475"
+msgid "まてー"
+msgstr ""
+
+msgctxt "476"
+msgid "ドロボー！！"
+msgstr ""
+
+msgctxt "477"
+msgid "ボケっと見てないで"
+msgstr ""
+
+msgctxt "478"
+msgid "捕まえるの手伝ってよー！！"
+msgstr ""
+
+msgctxt "479"
+msgid "あわわ……"
+msgstr ""
+
+msgctxt "480"
+msgid "ボク見ちゃったんだ"
+msgstr ""
+
+msgctxt "481"
+msgid "死んだ人が"
+msgstr ""
+
+msgctxt "482"
+msgid "魔物に変身するところを"
+msgstr ""
+
+msgctxt "483"
+msgid "よく宝箱に"
+msgstr ""
+
+msgctxt "484"
+msgid "ガラクタが入っているだろ？"
+msgstr ""
+
+msgctxt "485"
+msgid "あれってボクらがやってるんだ"
+msgstr ""
+
+msgctxt "486"
+msgid "ひー　怒らないでよー"
+msgstr ""
+
+msgctxt "487"
+msgid "冒険者も勝手だよな"
+msgstr ""
+
+msgctxt "488"
+msgid "どんどんアイテムを"
+msgstr ""
+
+msgctxt "489"
+msgid "取っていっちゃうんだもん"
+msgstr ""
+
+msgctxt "490"
+msgid "さいきん"
+msgstr ""
+
+msgctxt "491"
+msgid "この塔の様子がヘンなんだ"
+msgstr ""
+
+msgctxt "492"
+msgid "ときどき"
+msgstr ""
+
+msgctxt "493"
+msgid "不思議な揺れがおこったりする……"
+msgstr ""
+
+msgctxt "494"
+msgid "ボクたちにとっては"
+msgstr ""
+
+msgctxt "495"
+msgid "ゴブリンもドラゴンも友達さ"
+msgstr ""
+
+msgctxt "496"
+msgid "なんで人間は争ってばっかり"
+msgstr ""
+
+msgctxt "497"
+msgid "なんだろう　フシギ……"
+msgstr ""
+
+msgctxt "498"
+msgid "ボクたちの王様に会いたいって？"
+msgstr ""
+
+msgctxt "499"
+msgid "それはムチャだよ"
+msgstr ""
+
+msgctxt "500"
+msgid "ボクだってみたことないんだモン"
+msgstr ""
+
+msgctxt "501"
+msgid "えっ　ボクらがなんで"
+msgstr ""
+
+msgctxt "502"
+msgid "この塔に住んでいるかって？"
+msgstr ""
+
+msgctxt "503"
+msgid "それは簡単だよ"
+msgstr ""
+
+msgctxt "504"
+msgid "ここにいれば退屈しないからさ"
+msgstr ""
+
+msgctxt "505"
+msgid "冒険者は乱暴者が多くて"
+msgstr ""
+
+msgctxt "506"
+msgid "困っちゃうよな"
+msgstr ""
+
+msgctxt "507"
+msgid "おかげでボクたちがいっつも"
+msgstr ""
+
+msgctxt "508"
+msgid "塔の中の掃除をしなきゃなんない"
+msgstr ""
+
+msgctxt "509"
+msgid "ワシは小人族の王　スワード"
+msgstr ""
+
+msgctxt "510"
+msgid "よく来てくれた　と言いたい所だが"
+msgstr ""
+
+msgctxt "511"
+msgid "おぬしらは招かれざる客じゃ"
+msgstr ""
+
+msgctxt "512"
+msgid "あっ　冒険者さんだ"
+msgstr ""
+
+msgctxt "513"
+msgid "ワーイ　あそぼうよー"
+msgstr ""
+
+msgctxt "514"
+msgid "朝早く起きると"
+msgstr ""
+
+msgctxt "515"
+msgid "気分がスッキリしない？"
+msgstr ""
+
+msgctxt "516"
+msgid "えっ　塔の中だから時間が"
+msgstr ""
+
+msgctxt "517"
+msgid "わからないって？　そうだよねえ"
+msgstr ""
+
+msgctxt "518"
+msgid "そこの冒険者！！"
+msgstr ""
+
+msgctxt "519"
+msgid "このボクと勝負しろ！！"
+msgstr ""
+
+msgctxt "520"
+msgid "ポカッ！！　ひーん"
+msgstr ""
+
+msgctxt "521"
+msgid "本気で叩かなくてもいいじゃないか"
+msgstr ""
+
+msgctxt "522"
+msgid "フッ…"
+msgstr ""
+
+msgctxt "523"
+msgid "道に迷ったぜ"
+msgstr ""
+
+msgctxt "524"
+msgid "知っていますか？"
+msgstr ""
+
+msgctxt "525"
+msgid "伝説の剣のうわさを！！"
+msgstr ""
+
+msgctxt "526"
+msgid "やくたたずな剣！"
+msgstr ""
+
+msgctxt "527"
+msgid "ああ…装備してみたい…"
+msgstr ""
+
+msgctxt "528"
+msgid "この塔から"
+msgstr ""
+
+msgctxt "529"
+msgid "不思議な力を感じませんか？"
+msgstr ""
+
+msgctxt "530"
+msgid "心が洗われるような…"
+msgstr ""
+
+msgctxt "531"
+msgid "なんなんでしょうねぇ？"
+msgstr ""
+
+msgctxt "532"
+msgid "キャラクターには"
+msgstr ""
+
+msgctxt "533"
+msgid "それぞれ成長力が決まっている"
+msgstr ""
+
+msgctxt "534"
+msgid "最初　弱そうな奴も"
+msgstr ""
+
+msgctxt "535"
+msgid "後から強くなるかもしれないぞ"
+msgstr ""
+
+msgctxt "536"
+msgid "うーん…この塔には"
+msgstr ""
+
+msgctxt "537"
+msgid "「お金」は落ちていないのかな？"
+msgstr ""
+
+msgctxt "538"
+msgid "落ちてても"
+msgstr ""
+
+msgctxt "539"
+msgid "使うところもないしなぁ…"
+msgstr ""
+
+msgctxt "540"
+msgid "オロ　オロ"
+msgstr ""
+
+msgctxt "541"
+msgid "家のカギ閉めてきたっけかなぁ…"
+msgstr ""
+
+msgctxt "542"
+msgid "リターンロッド使って"
+msgstr ""
+
+msgctxt "543"
+msgid "家に帰ろうかなぁ…オロ　オロ"
+msgstr ""
+
+msgctxt "544"
+msgid "ぼくは町一番の"
+msgstr ""
+
+msgctxt "545"
+msgid "オシャレ小僧だったんだ"
+msgstr ""
+
+msgctxt "546"
+msgid "でも　この塔に来てから"
+msgstr ""
+
+msgctxt "547"
+msgid "お風呂に入っていないなぁ…"
+msgstr ""
+
+msgctxt "548"
+msgid "あのですネ"
+msgstr ""
+
+msgctxt "549"
+msgid "この塔には風呂がないからですネ"
+msgstr ""
+
+msgctxt "550"
+msgid "風呂ぎらいの私には天国ですネ"
+msgstr ""
+
+msgctxt "551"
+msgid "すごいだろ！"
+msgstr ""
+
+msgctxt "552"
+msgid "シーフの必殺技が使えるんだぜ！"
+msgstr ""
+
+msgctxt "553"
+msgid "で　ぼくの職業はライトメイジ！"
+msgstr ""
+
+msgctxt "554"
+msgid "なり方は秘密！自分で考えてね"
+msgstr ""
+
+msgctxt "555"
+msgid "どうも戦闘の調子が悪い！"
+msgstr ""
+
+msgctxt "556"
+msgid "なぜか攻撃を外しまくる！"
+msgstr ""
+
+msgctxt "557"
+msgid "もしかして"
+msgstr ""
+
+msgctxt "558"
+msgid "生まれつき運がないのかなあ？"
+msgstr ""
+
+msgctxt "559"
+msgid "ムカつきません？"
+msgstr ""
+
+msgctxt "560"
+msgid "あの白うさぎ！"
+msgstr ""
+
+msgctxt "561"
+msgid "ぼくはもう"
+msgstr ""
+
+msgctxt "562"
+msgid "あいつとは話さないことにしますよ"
+msgstr ""
+
+msgctxt "563"
+msgid "いや〜まいりましたよ"
+msgstr ""
+
+msgctxt "564"
+msgid "せっかくの剣を壊されてしまって…"
+msgstr ""
+
+msgctxt "565"
+msgid "また　探さないとなぁ…"
+msgstr ""
+
+msgctxt "566"
+msgid "今まで色々な冒険をしてきたが…"
+msgstr ""
+
+msgctxt "567"
+msgid "感動できる話しばかりだったぜ！"
+msgstr ""
+
+msgctxt "568"
+msgid "この塔に　それは無いな…"
+msgstr ""
+
+msgctxt "569"
+msgid "…でも…　　自由がある…"
+msgstr ""
+
+msgctxt "570"
+msgid "目的は塔を登るだけ！"
+msgstr ""
+
+msgctxt "571"
+msgid "あとは　無し！"
+msgstr ""
+
+msgctxt "572"
+msgid "手紙を誰かに届けなくてもいい…"
+msgstr ""
+
+msgctxt "573"
+msgid "俺は自由だぁぁぁ！！！"
+msgstr ""
+
+msgctxt "574"
+msgid "よう　あんちゃん！"
+msgstr ""
+
+msgctxt "575"
+msgid "ゆっくり行こうや！ゆっくりと！"
+msgstr ""
+
+msgctxt "576"
+msgid "急いでると大事なものを見落とすぜ"
+msgstr ""
+
+msgctxt "577"
+msgid "人生も同じだぜ！"
+msgstr ""
+
+msgctxt "578"
+msgid "「俺が一番」と口にはするな…"
+msgstr ""
+
+msgctxt "579"
+msgid "まだまだ先は解らない…"
+msgstr ""
+
+msgctxt "580"
+msgid "自分らしく生きろよ…"
+msgstr ""
+
+msgctxt "581"
+msgid "選択肢は無限に探せるはず！"
+msgstr ""
+
+msgctxt "582"
+msgid "なんとなく"
+msgstr ""
+
+msgctxt "583"
+msgid "塔に入ってみたんだけど…"
+msgstr ""
+
+msgctxt "584"
+msgid "ここまで来てしまいました"
+msgstr ""
+
+msgctxt "585"
+msgid "俺は「どろぼうタワー」の"
+msgstr ""
+
+msgctxt "586"
+msgid "「マンビー」様の子分だったんだ…"
+msgstr ""
+
+msgctxt "587"
+msgid "マンビー様は元気かなぁ…"
+msgstr ""
+
+msgctxt "588"
+msgid "お金を愛した人間は死ぬと"
+msgstr ""
+
+msgctxt "589"
+msgid "コインマンに生まれ変わるらしい…"
+msgstr ""
+
+msgctxt "590"
+msgid "この塔にお金が無いのとは"
+msgstr ""
+
+msgctxt "591"
+msgid "なにか関係が　あるのかなぁ"
+msgstr ""
+
+msgctxt "592"
+msgid "すごい秘密を知ってしまった…"
+msgstr ""
+
+msgctxt "593"
+msgid "とても人には言えません！"
+msgstr ""
+
+msgctxt "594"
+msgid "この塔を登ると"
+msgstr ""
+
+msgctxt "595"
+msgid "何か自分が変われる気がします"
+msgstr ""
+
+msgctxt "596"
+msgid "今までの自分にサヨナラ！！"
+msgstr ""
+
+msgctxt "597"
+msgid "…なんちゃって"
+msgstr ""
+
+msgctxt "598"
+msgid "私は不満を言い続ける男！"
+msgstr ""
+
+msgctxt "599"
+msgid "あーつかれた！かったりぃ！"
+msgstr ""
+
+msgctxt "600"
+msgid "ブツブツ…"
+msgstr ""
+
+msgctxt "601"
+msgid "アソコがダメ！ココがダメ！"
+msgstr ""
+
+msgctxt "602"
+msgid "世界が悪い！国が悪い！"
+msgstr ""
+
+msgctxt "603"
+msgid "場所が悪い！…お前が悪い！！"
+msgstr ""
+
+msgctxt "604"
+msgid "私は冒険評論家です！"
+msgstr ""
+
+msgctxt "605"
+msgid "あらゆる冒険に点数をつけています"
+msgstr ""
+
+msgctxt "606"
+msgid "しかし　冒険に点数など"
+msgstr ""
+
+msgctxt "607"
+msgid "付けられるのでしょうか？疑問です"
+msgstr ""
+
+msgctxt "608"
+msgid "ヒイコラ　ヒイコラ"
+msgstr ""
+
+msgctxt "609"
+msgid "ここ　何階なんですかねぇ"
+msgstr ""
+
+msgctxt "610"
+msgid "ヒイコラ　ヒイコラ……"
+msgstr ""
+
+msgctxt "611"
+msgid "……もう　動けないよ"
+msgstr ""
+
+msgctxt "612"
+msgid "俺のことは"
+msgstr ""
+
+msgctxt "613"
+msgid "ほっといてくれ……"
+msgstr ""
+
+msgctxt "614"
+msgid "見てくれ！！"
+msgstr ""
+
+msgctxt "615"
+msgid "すごい武器を手に入れたんだ"
+msgstr ""
+
+msgctxt "616"
+msgid "……でも"
+msgstr ""
+
+msgctxt "617"
+msgid "装備できないんだよぉ！！"
+msgstr ""
+
+msgctxt "618"
+msgid "ムシャムシャ"
+msgstr ""
+
+msgctxt "619"
+msgid "今夜の食事は　こけだんご"
+msgstr ""
+
+msgctxt "620"
+msgid "最近これしか食べてないなあ"
+msgstr ""
+
+msgctxt "621"
+msgid "キョロキョロ"
+msgstr ""
+
+msgctxt "622"
+msgid "　　　キョロキョロ"
+msgstr ""
+
+msgctxt "623"
+msgid "いったいカギは"
+msgstr ""
+
+msgctxt "624"
+msgid "どこにあるんだろう？"
+msgstr ""
+
+msgctxt "625"
+msgid "うーん、眠い…"
+msgstr ""
+
+msgctxt "626"
+msgid "　　ＺＺＺ……"
+msgstr ""
+
+msgctxt "627"
+msgid "起こさないでくれよ"
+msgstr ""
+
+msgctxt "628"
+msgid "ＺＺＺ……"
+msgstr ""
+
+msgctxt "629"
+msgid "なぜこの塔に登るか"
+msgstr ""
+
+msgctxt "630"
+msgid "キミは知っているかい？"
+msgstr ""
+
+msgctxt "631"
+msgid "その答えは心のなかにあるのさ"
+msgstr ""
+
+msgctxt "632"
+msgid "らんらんらんらんらん……"
+msgstr ""
+
+msgctxt "633"
+msgid "歌でも歌わなきゃ"
+msgstr ""
+
+msgctxt "634"
+msgid "こんな塔　登ってられないぜ"
+msgstr ""
+
+msgctxt "635"
+msgid "この塔にはすごいお宝が"
+msgstr ""
+
+msgctxt "636"
+msgid "隠されているって本当かい？"
+msgstr ""
+
+msgctxt "637"
+msgid "だけど　どれもこれも"
+msgstr ""
+
+msgctxt "638"
+msgid "ガラクタばっかりなんだよなあ"
+msgstr ""
+
+msgctxt "639"
+msgid "きえええええ！！"
+msgstr ""
+
+msgctxt "640"
+msgid "必殺　十文字斬りぃぃぃ！！"
+msgstr ""
+
+msgctxt "641"
+msgid "あれ　失敗か"
+msgstr ""
+
+msgctxt "642"
+msgid "罪深き迷える子羊に"
+msgstr ""
+
+msgctxt "643"
+msgid "恵みの光をお与えください"
+msgstr ""
+
+msgctxt "644"
+msgid "あなたの未来に"
+msgstr ""
+
+msgctxt "645"
+msgid "幸福があらんことを……"
+msgstr ""
+
+msgctxt "646"
+msgid "おまえは勇者ってのを"
+msgstr ""
+
+msgctxt "647"
+msgid "見たことがあるかい？"
+msgstr ""
+
+msgctxt "648"
+msgid "すげえ必殺技を使うらしいぜ"
+msgstr ""
+
+msgctxt "649"
+msgid "俺もなりてえなあ"
+msgstr ""
+
+msgctxt "650"
+msgid "ここしばらく"
+msgstr ""
+
+msgctxt "651"
+msgid "太陽を見たことがありません"
+msgstr ""
+
+msgctxt "652"
+msgid "そういえば　今は昼なのでしょうか"
+msgstr ""
+
+msgctxt "653"
+msgid "夜なのでしょうか…"
+msgstr ""
+
+msgctxt "654"
+msgid "えっほ　えっほ"
+msgstr ""
+
+msgctxt "655"
+msgid "下の階に忘れ物をしたんだ"
+msgstr ""
+
+msgctxt "656"
+msgid "えっ　降りる階段がないって？"
+msgstr ""
+
+msgctxt "657"
+msgid "どうしよう……"
+msgstr ""
+
+msgctxt "658"
+msgid "さびた剣を手に入れただけど"
+msgstr ""
+
+msgctxt "659"
+msgid "どうすればいいんだろう？"
+msgstr ""
+
+msgctxt "660"
+msgid "「といし」か何かが"
+msgstr ""
+
+msgctxt "661"
+msgid "あればいいんだけど"
+msgstr ""
+
+msgctxt "662"
+msgid "おまえ聞いたか？"
+msgstr ""
+
+msgctxt "663"
+msgid "塔のてっぺんには"
+msgstr ""
+
+msgctxt "664"
+msgid "すごい奴がいるってうわさ"
+msgstr ""
+
+msgctxt "665"
+msgid "ピーゴロゴロゴロ"
+msgstr ""
+
+msgctxt "666"
+msgid "イモムシを食べたらおなかが…"
+msgstr ""
+
+msgctxt "667"
+msgid "わー　もれる！！"
+msgstr ""
+
+msgctxt "668"
+msgid "トイレはどこだぁ！！"
+msgstr ""
+
+msgctxt "669"
+msgid "アイテムをたくさん"
+msgstr ""
+
+msgctxt "670"
+msgid "持てるのはいいけど……"
+msgstr ""
+
+msgctxt "671"
+msgid "重くて動けないよー"
+msgstr ""
+
+msgctxt "672"
+msgid "おまえはなんのために"
+msgstr ""
+
+msgctxt "673"
+msgid "この塔に登るんだ？"
+msgstr ""
+
+msgctxt "674"
+msgid "俺は忘れた自分を取り戻すために"
+msgstr ""
+
+msgctxt "675"
+msgid "登っているんだ　かっこいいだろ？"
+msgstr ""
+
+msgctxt "676"
+msgid "敵から逃げてばっかりいると"
+msgstr ""
+
+msgctxt "677"
+msgid "ぜんぜん強くならないぞ"
+msgstr ""
+
+msgctxt "678"
+msgid "俺もその一人だけどな"
+msgstr ""
+
+msgctxt "679"
+msgid "はっはっはっ"
+msgstr ""
+
+msgctxt "680"
+msgid "ここまで来ちゃうと"
+msgstr ""
+
+msgctxt "681"
+msgid "もう後戻りもできねえや"
+msgstr ""
+
+msgctxt "682"
+msgid "ただひたすら登るのみ"
+msgstr ""
+
+msgctxt "683"
+msgid "エッホ　エッホ　エッホ"
+msgstr ""
+
+msgctxt "684"
+msgid "気楽な気持ちでやっていると"
+msgstr ""
+
+msgctxt "685"
+msgid "痛い目を見るぞ"
+msgstr ""
+
+msgctxt "686"
+msgid "本当の冒険は"
+msgstr ""
+
+msgctxt "687"
+msgid "これからなんだからな"
+msgstr ""
+
+msgctxt "688"
+msgid "夢を見たんだ"
+msgstr ""
+
+msgctxt "689"
+msgid "俺が赤ん坊になった夢だ"
+msgstr ""
+
+msgctxt "690"
+msgid "あれはいったい何だったんだろう？"
+msgstr ""
+
+msgctxt "691"
+msgid "しーっ！！"
+msgstr ""
+
+msgctxt "692"
+msgid "静かにしてくれ"
+msgstr ""
+
+msgctxt "693"
+msgid "モンスターに見つかるだろ"
+msgstr ""
+
+msgctxt "694"
+msgid "わー　俺が悪かった"
+msgstr ""
+
+msgctxt "695"
+msgid "宝は返すから許して……"
+msgstr ""
+
+msgctxt "696"
+msgid "なんだ　人違いか"
+msgstr ""
+
+msgctxt "697"
+msgid "謝って損しちゃったよ"
+msgstr ""
+
+msgctxt "698"
+msgid "ゆうっくりぃ"
+msgstr ""
+
+msgctxt "699"
+msgid "のぼりぃ　ましょうよぉ"
+msgstr ""
+
+msgctxt "700"
+msgid "いそいだってぇ"
+msgstr ""
+
+msgctxt "701"
+msgid "塔はぁ　にげませんよぉ"
+msgstr ""
+
+msgctxt "702"
+msgid "俺は百戦錬磨の戦士"
+msgstr ""
+
+msgctxt "703"
+msgid "数えきれない敵を倒してきた"
+msgstr ""
+
+msgctxt "704"
+msgid "おまえもそうだろう？"
+msgstr ""
+
+msgctxt "705"
+msgid "目を見ればわかるぜ"
+msgstr ""
+
+msgctxt "706"
+msgid "腕力だけが戦いじゃないぜ"
+msgstr ""
+
+msgctxt "707"
+msgid "ときには頭も使わないとな"
+msgstr ""
+
+msgctxt "708"
+msgid "俺かい？"
+msgstr ""
+
+msgctxt "709"
+msgid "俺はシーフだから逃げるだけさ"
+msgstr ""
+
+msgctxt "710"
+msgid "武器の手入れは戦士の常識"
+msgstr ""
+
+msgctxt "711"
+msgid "おまえも武器には"
+msgstr ""
+
+msgctxt "712"
+msgid "気を使った方がいいぞ"
+msgstr ""
+
+msgctxt "713"
+msgid "へへへ……"
+msgstr ""
+
+msgctxt "714"
+msgid "あんた　無理しない方がいいぜぇ"
+msgstr ""
+
+msgctxt "715"
+msgid "ここは地獄の一丁目さ"
+msgstr ""
+
+msgctxt "716"
+msgid "ヒヒヒ……"
+msgstr ""
+
+msgctxt "717"
+msgid "誰かそこにいるのか？"
+msgstr ""
+
+msgctxt "718"
+msgid "俺は目が見えないんだ"
+msgstr ""
+
+msgctxt "719"
+msgid "戦いの中で目をやられてしまった"
+msgstr ""
+
+msgctxt "720"
+msgid "だが　冒険をあきらめたりはしない"
+msgstr ""
+
+msgctxt "721"
+msgid "拙者は忍者"
+msgstr ""
+
+msgctxt "722"
+msgid "闇に生き　闇に死すものなり"
+msgstr ""
+
+msgctxt "723"
+msgid "おぬしも精進めされよ"
+msgstr ""
+
+msgctxt "724"
+msgid "では　さらば！！"
+msgstr ""
+
+msgctxt "725"
+msgid "女だからってバカにしないで"
+msgstr ""
+
+msgctxt "726"
+msgid "これでも力には自信があるんだから"
+msgstr ""
+
+msgctxt "727"
+msgid "アタシはアマゾネス"
+msgstr ""
+
+msgctxt "728"
+msgid "甘く見てると痛い目にあうわよ"
+msgstr ""
+
+msgctxt "729"
+msgid "野蛮だな"
+msgstr ""
+
+msgctxt "730"
+msgid "剣を振るだけの戦いなど"
+msgstr ""
+
+msgctxt "731"
+msgid "ソーサラーのこの私のように"
+msgstr ""
+
+msgctxt "732"
+msgid "華麗に敵を倒してみたまえ"
+msgstr ""
+
+msgctxt "733"
+msgid "アチョー！！"
+msgstr ""
+
+msgctxt "734"
+msgid "アチャッ！　オチャッ！"
+msgstr ""
+
+msgctxt "735"
+msgid "ホァチャー！！"
+msgstr ""
+
+msgctxt "736"
+msgid "なに　もっと強くなりたいだと？"
+msgstr ""
+
+msgctxt "737"
+msgid "ならば修行するのみだな"
+msgstr ""
+
+msgctxt "738"
+msgid "自分を信じて戦うことだ"
+msgstr ""
+
+msgctxt "739"
+msgid "もう三日もこの階をさまよってます"
+msgstr ""
+
+msgctxt "740"
+msgid "ボクって方向オンチだから……"
+msgstr ""
+
+msgctxt "741"
+msgid "ヒック　ういー"
+msgstr ""
+
+msgctxt "742"
+msgid "酔っぱらっちゃったよ"
+msgstr ""
+
+msgctxt "743"
+msgid "酒？　そんなものないよ"
+msgstr ""
+
+msgctxt "744"
+msgid "酔ったふりをしてるだけさ……"
+msgstr ""
+
+msgctxt "745"
+msgid "よく来たのお　お若いの"
+msgstr ""
+
+msgctxt "746"
+msgid "ここから上に行くには"
+msgstr ""
+
+msgctxt "747"
+msgid "覚悟が必要じゃぞ"
+msgstr ""
+
+msgctxt "748"
+msgid "フオッフオッフオッ"
+msgstr ""
+
+msgctxt "749"
+msgid "マップはきちんと覚えておきなされ"
+msgstr ""
+
+msgctxt "750"
+msgid "ワシのように"
+msgstr ""
+
+msgctxt "751"
+msgid "出られなくなっても知らんぞえ"
+msgstr ""
+
+msgctxt "752"
+msgid "フガフガ……"
+msgstr ""
+
+msgctxt "753"
+msgid "ここに置いてあった入れ歯を"
+msgstr ""
+
+msgctxt "754"
+msgid "見んかったかの？"
+msgstr ""
+
+msgctxt "755"
+msgid "ワシはクラスチェンジの法則を"
+msgstr ""
+
+msgctxt "756"
+msgid "研究しておる"
+msgstr ""
+
+msgctxt "757"
+msgid "数字をたしたりひいたり……"
+msgstr ""
+
+msgctxt "758"
+msgid "おっと　これ以上は言えんわい"
+msgstr ""
+
+msgctxt "759"
+msgid "ひょっひょっひょっ"
+msgstr ""
+
+msgctxt "760"
+msgid "おぬしは強いのお"
+msgstr ""
+
+msgctxt "761"
+msgid "ワシの若い頃にそっくりじゃわい"
+msgstr ""
+
+msgctxt "762"
+msgid "……なんじゃって？"
+msgstr ""
+
+msgctxt "763"
+msgid "ワシはまだボケとらんぞ"
+msgstr ""
+
+msgctxt "764"
+msgid "ワシの歳は……"
+msgstr ""
+
+msgctxt "765"
+msgid "はて？いくつじゃったかのお"
+msgstr ""
+
+msgctxt "766"
+msgid "この塔には志なかばにして倒れた"
+msgstr ""
+
+msgctxt "767"
+msgid "数多くの魂が眠っておる"
+msgstr ""
+
+msgctxt "768"
+msgid "おぬしはそうならんと"
+msgstr ""
+
+msgctxt "769"
+msgid "いいのじゃがな"
+msgstr ""
+
+msgctxt "770"
+msgid "モタモタしとる暇はないぞい"
+msgstr ""
+
+msgctxt "771"
+msgid "若さというものは　あっという間に"
+msgstr ""
+
+msgctxt "772"
+msgid "過ぎ去ってしまうのじゃからな"
+msgstr ""
+
+msgctxt "773"
+msgid "………"
+msgstr ""
+
+msgctxt "774"
+msgid "帰れ　帰れ"
+msgstr ""
+
+msgctxt "775"
+msgid "きさまに話すことなど何もないわい"
+msgstr ""
+
+msgctxt "776"
+msgid "年寄りをバカにするでないぞ"
+msgstr ""
+
+msgctxt "777"
+msgid "おまえのようなヒヨッコなど"
+msgstr ""
+
+msgctxt "778"
+msgid "片手でひとひねりじゃわい"
+msgstr ""
+
+msgctxt "779"
+msgid "この塔を支配する怪物……"
+msgstr ""
+
+msgctxt "780"
+msgid "なんど倒しても"
+msgstr ""
+
+msgctxt "781"
+msgid "いずれまた蘇ってくるのじゃ"
+msgstr ""
+
+msgctxt "782"
+msgid "よう来てくれたのお"
+msgstr ""
+
+msgctxt "783"
+msgid "ささ　遠慮などせずに……"
+msgstr ""
+
+msgctxt "784"
+msgid "話し相手もおらんでのう"
+msgstr ""
+
+msgctxt "785"
+msgid "まあまあ　茶でも一杯どうかね"
+msgstr ""
+
+msgctxt "786"
+msgid "ときおり思うことはないかね"
+msgstr ""
+
+msgctxt "787"
+msgid "なぜ自分がこの塔を登り続けるのか"
+msgstr ""
+
+msgctxt "788"
+msgid "答えはおまえさんの心の中にある"
+msgstr ""
+
+msgctxt "789"
+msgid "胸に手を当てて考えるがいい"
+msgstr ""
+
+msgctxt "790"
+msgid "この塔にいる小人族と"
+msgstr ""
+
+msgctxt "791"
+msgid "妖精族は仲が悪いらしい"
+msgstr ""
+
+msgctxt "792"
+msgid "昔はそうでもなかったようじゃが"
+msgstr ""
+
+msgctxt "793"
+msgid "はて　どうしてなんじゃろう？"
+msgstr ""
+
+msgctxt "794"
+msgid "ワシはこの塔を研究している者じゃ"
+msgstr ""
+
+msgctxt "795"
+msgid "ただのジジイではないぞい"
+msgstr ""
+
+msgctxt "796"
+msgid "この塔はワシら人間が生まれる"
+msgstr ""
+
+msgctxt "797"
+msgid "ずっと以前よりあったのじゃ"
+msgstr ""
+
+msgctxt "798"
+msgid "この塔に秘められた謎……"
+msgstr ""
+
+msgctxt "799"
+msgid "それを解くためには"
+msgstr ""
+
+msgctxt "800"
+msgid "長い道のりを進まねばならんのじゃ"
+msgstr ""
+
+msgctxt "801"
+msgid "はるか昔　この塔に魔物は"
+msgstr ""
+
+msgctxt "802"
+msgid "いなかったという"
+msgstr ""
+
+msgctxt "803"
+msgid "それがいまではこの有様じゃ"
+msgstr ""
+
+msgctxt "804"
+msgid "いったい何があったというのじゃ"
+msgstr ""
+
+msgctxt "805"
+msgid "妖精族と小人族"
+msgstr ""
+
+msgctxt "806"
+msgid "妖精は女だけ　小人は男だけじゃ"
+msgstr ""
+
+msgctxt "807"
+msgid "このことがなにか"
+msgstr ""
+
+msgctxt "808"
+msgid "塔の秘密と関係するのじゃろうか？"
+msgstr ""
+
+msgctxt "809"
+msgid "へっくしょい　へっくしょい！！"
+msgstr ""
+
+msgctxt "810"
+msgid "風邪かのお　くしゃみがとまらん"
+msgstr ""
+
+msgctxt "811"
+msgid "へーっくしょーい！！"
+msgstr ""
+
+msgctxt "812"
+msgid "なあ　ばあさんや"
+msgstr ""
+
+msgctxt "813"
+msgid "ワシはうめこぶ茶がええのお"
+msgstr ""
+
+msgctxt "814"
+msgid "なんと　シイタケ茶しかない"
+msgstr ""
+
+msgctxt "815"
+msgid "かまわんよ　ワシはなんでも……"
+msgstr ""
+
+msgctxt "816"
+msgid "やあ　元気かい"
+msgstr ""
+
+msgctxt "817"
+msgid "ワシはとっても元気だぜ！！"
+msgstr ""
+
+msgctxt "818"
+msgid "チッチッチッ　年寄りがみんな"
+msgstr ""
+
+msgctxt "819"
+msgid "ヨボヨボだと思ったら大間違いさっ"
+msgstr ""
+
+msgctxt "820"
+msgid "ゴホッ　ゴホッ"
+msgstr ""
+
+msgctxt "821"
+msgid "うう……"
+msgstr ""
+
+msgctxt "822"
+msgid "いよいよワシにもお迎えが来たか"
+msgstr ""
+
+msgctxt "823"
+msgid "ゴホッゴホッ　ぐふぅ！！"
+msgstr ""
+
+msgctxt "824"
+msgid "腕立て伏せ１００かーい　ほっほっ"
+msgstr ""
+
+msgctxt "825"
+msgid "腹筋３００かーい　ほっほっ"
+msgstr ""
+
+msgctxt "826"
+msgid "なーに"
+msgstr ""
+
+msgctxt "827"
+msgid "まだまだ若いモンには負けられんて"
+msgstr ""
+
+msgctxt "828"
+msgid "ここの妖精ちゃんたちは"
+msgstr ""
+
+msgctxt "829"
+msgid "ピチピチしとってカワイイのお……"
+msgstr ""
+
+msgctxt "830"
+msgid "き　聞いておったのか！"
+msgstr ""
+
+msgctxt "831"
+msgid "このことは誰にも喋らんでおくれ"
+msgstr ""
+
+msgctxt "832"
+msgid "ワシの名前はアイザック"
+msgstr ""
+
+msgctxt "833"
+msgid "偉大な科学者じゃよ"
+msgstr ""
+
+msgctxt "834"
+msgid "いまこの塔を研究中じゃ"
+msgstr ""
+
+msgctxt "835"
+msgid "ジャマせんでくれんか"
+msgstr ""
+
+msgctxt "836"
+msgid "ワシじゃ　アイザックじゃ"
+msgstr ""
+
+msgctxt "837"
+msgid "どうもこの塔には"
+msgstr ""
+
+msgctxt "838"
+msgid "複雑な過去がありそうじゃ"
+msgstr ""
+
+msgctxt "839"
+msgid "ワシの古い友達に"
+msgstr ""
+
+msgctxt "840"
+msgid "スティーブというのがおる"
+msgstr ""
+
+msgctxt "841"
+msgid "やつもまた"
+msgstr ""
+
+msgctxt "842"
+msgid "この塔を研究しているのじゃよ"
+msgstr ""
+
+msgctxt "843"
+msgid "スティーブはワシじゃが"
+msgstr ""
+
+msgctxt "844"
+msgid "なんか用かの？"
+msgstr ""
+
+msgctxt "845"
+msgid "アイザックのもうろくジジイとは"
+msgstr ""
+
+msgctxt "846"
+msgid "一緒にせんでくれ"
+msgstr ""
+
+msgctxt "847"
+msgid "わかった！！"
+msgstr ""
+
+msgctxt "848"
+msgid "そうか　そうじゃったのか！！"
+msgstr ""
+
+msgctxt "849"
+msgid "ウマとロバをたすとラバになる"
+msgstr ""
+
+msgctxt "850"
+msgid "つまり戦士と魔法使いをたすと……"
+msgstr ""
+
+msgctxt "851"
+msgid "うーむ"
+msgstr ""
+
+msgctxt "852"
+msgid "悩みすぎると頭が薄くなるのお"
+msgstr ""
+
+msgctxt "853"
+msgid "トホホ……"
+msgstr ""
+
+msgctxt "854"
+msgid "ふむふむ　なるほど"
+msgstr ""
+
+msgctxt "855"
+msgid "そういうことか"
+msgstr ""
+
+msgctxt "856"
+msgid "かつて妖精と小人は"
+msgstr ""
+
+msgctxt "857"
+msgid "同じ種族だったらしいのお"
+msgstr ""
+
+msgctxt "858"
+msgid "おまえさん知っとるかい"
+msgstr ""
+
+msgctxt "859"
+msgid "妖精族の女王ウインダールと"
+msgstr ""
+
+msgctxt "860"
+msgid "小人族の王スワードの存在を……"
+msgstr ""
+
+msgctxt "861"
+msgid "むむむ……"
+msgstr ""
+
+msgctxt "862"
+msgid "わからんのお"
+msgstr ""
+
+msgctxt "863"
+msgid "謎が謎を呼ぶ不思議な塔じゃ"
+msgstr ""
+
+msgctxt "864"
+msgid "むむむむむ……"
+msgstr ""
+
+msgctxt "865"
+msgid "ほほう　そうか"
+msgstr ""
+
+msgctxt "866"
+msgid "妖精族と小人族の仲が険悪に"
+msgstr ""
+
+msgctxt "867"
+msgid "なったのは　人間のせいらしいのお"
+msgstr ""
+
+msgctxt "868"
+msgid "これこれ　そこのお若いの"
+msgstr ""
+
+msgctxt "869"
+msgid "そんなに急いでどこへ行くんじゃ"
+msgstr ""
+
+msgctxt "870"
+msgid "人生は長い　後悔は先にたたんと"
+msgstr ""
+
+msgctxt "871"
+msgid "いうことも覚えておいた方がいいぞ"
+msgstr ""
+
+msgctxt "872"
+msgid "なんじゃ　ワシに用かの？"
+msgstr ""
+
+msgctxt "873"
+msgid "ひやかしだったら聞く耳持たんぞ"
+msgstr ""
+
+msgctxt "874"
+msgid "さあ　行った行った"
+msgstr ""
+
+msgctxt "875"
+msgid "なにをジロジロ見とるんじゃ"
+msgstr ""
+
+msgctxt "876"
+msgid "ワシは見せ物じゃないわい"
+msgstr ""
+
+msgctxt "877"
+msgid "とっとと失せろ"
+msgstr ""
+
+msgctxt "878"
+msgid "この盗っ人風情が！！"
+msgstr ""
+
+msgctxt "879"
+msgid "この塔には"
+msgstr ""
+
+msgctxt "880"
+msgid "数多くの冒険者が集まってくる"
+msgstr ""
+
+msgctxt "881"
+msgid "おまえさんもその一人じゃな"
+msgstr ""
+
+msgctxt "882"
+msgid "せいぜい頑張るがいいて"
+msgstr ""
+
+msgctxt "883"
+msgid "塔の中の魔物たち……"
+msgstr ""
+
+msgctxt "884"
+msgid "徐々にその数が増えている……"
+msgstr ""
+
+msgctxt "885"
+msgid "これはいったい"
+msgstr ""
+
+msgctxt "886"
+msgid "どういうわけなのじゃろう"
+msgstr ""
+
+msgctxt "887"
+msgid "不吉じゃ"
+msgstr ""
+
+msgctxt "888"
+msgid "ワシの占いによると破滅は近いぞよ"
+msgstr ""
+
+msgctxt "889"
+msgid "みんな滅びるのじゃあああああ！！"
+msgstr ""
+
+msgctxt "890"
+msgid "よく来たのお　この呪われた塔に"
+msgstr ""
+
+msgctxt "891"
+msgid "おまえさんの命運も"
+msgstr ""
+
+msgctxt "892"
+msgid "ここで尽きたというわけじゃ"
+msgstr ""
+
+msgctxt "893"
+msgid "妖精族の女王ウインダールは"
+msgstr ""
+
+msgctxt "894"
+msgid "風を司る聖霊じゃ"
+msgstr ""
+
+msgctxt "895"
+msgid "下手に怒らせん方が"
+msgstr ""
+
+msgctxt "896"
+msgid "身のためじゃとは思うがの"
+msgstr ""
+
+msgctxt "897"
+msgid "小人族の王スワードは"
+msgstr ""
+
+msgctxt "898"
+msgid "大地の力を支配しておる"
+msgstr ""
+
+msgctxt "899"
+msgid "奴の不信を買うような真似は"
+msgstr ""
+
+msgctxt "900"
+msgid "控えるんじゃな"
+msgstr ""
+
+msgctxt "901"
+msgid "はあ……"
+msgstr ""
+
+msgctxt "902"
+msgid "退屈じゃのお"
+msgstr ""
+
+msgctxt "903"
+msgid "なんかおもしろいコトはないかのお"
+msgstr ""
+
+msgctxt "904"
+msgid "はあ　ヒマじゃ……"
+msgstr ""
+
+msgctxt "905"
+msgid "ワシももう９０歳じゃ"
+msgstr ""
+
+msgctxt "906"
+msgid "確かこの塔に入ったときは"
+msgstr ""
+
+msgctxt "907"
+msgid "２０歳じゃったが　まだ出られん"
+msgstr ""
+
+msgctxt "908"
+msgid "ううむ　どうもこの塔は"
+msgstr ""
+
+msgctxt "909"
+msgid "少しずつ傾いているようじゃ"
+msgstr ""
+
+msgctxt "910"
+msgid "このままだと"
+msgstr ""
+
+msgctxt "911"
+msgid "いずれ倒れるかもしれんのお"
+msgstr ""
+
+msgctxt "912"
+msgid "最近耳が遠くなってのお"
+msgstr ""
+
+msgctxt "913"
+msgid "え　なんだって"
+msgstr ""
+
+msgctxt "914"
+msgid "よお聞こえんのお"
+msgstr ""
+
+msgctxt "915"
+msgid "これでもワシだって昔は"
+msgstr ""
+
+msgctxt "916"
+msgid "ブイブイいわせていたもんじゃ"
+msgstr ""
+
+msgctxt "917"
+msgid "ピチピチギャルにだって"
+msgstr ""
+
+msgctxt "918"
+msgid "もててたんじゃぞい"
+msgstr ""
+
+msgctxt "919"
+msgid "かーっ！！"
+msgstr ""
+
+msgctxt "920"
+msgid "おまえら若いくせになっとらーん！"
+msgstr ""
+
+msgctxt "921"
+msgid "えーい　恥をしれ恥を"
+msgstr ""
+
+msgctxt "922"
+msgid "この青二才がっ！！"
+msgstr ""
+
+msgctxt "923"
+msgid "きゃっ　きゃっ"
+msgstr ""
+
+msgctxt "924"
+msgid "まあ　めずらしい"
+msgstr ""
+
+msgctxt "925"
+msgid "こんなところに人間が"
+msgstr ""
+
+msgctxt "926"
+msgid "入り込んでくるなんて"
+msgstr ""
+
+msgctxt "927"
+msgid "つーん"
+msgstr ""
+
+msgctxt "928"
+msgid "気安く話しかけないでちょうだい"
+msgstr ""
+
+msgctxt "929"
+msgid "あなたたちみたいな野蛮人とは"
+msgstr ""
+
+msgctxt "930"
+msgid "関わりたくないの"
+msgstr ""
+
+msgctxt "931"
+msgid "野蛮人と話しちゃダメって"
+msgstr ""
+
+msgctxt "932"
+msgid "ママに言われてるの"
+msgstr ""
+
+msgctxt "933"
+msgid "ごめんなさいネ"
+msgstr ""
+
+msgctxt "934"
+msgid "ヘー　あなた魔物を倒せるんだ"
+msgstr ""
+
+msgctxt "935"
+msgid "強いのね"
+msgstr ""
+
+msgctxt "936"
+msgid "でも　まだまだネ"
+msgstr ""
+
+msgctxt "937"
+msgid "もっと強い魔物はいっぱいいるわよ"
+msgstr ""
+
+msgctxt "938"
+msgid "キャー！！　たすけてー！！"
+msgstr ""
+
+msgctxt "939"
+msgid "魔物が襲ってくるー！！"
+msgstr ""
+
+msgctxt "940"
+msgid "キャー　こっちは野蛮人！！"
+msgstr ""
+
+msgctxt "941"
+msgid "キャー　キャー　キャアー！！"
+msgstr ""
+
+msgctxt "942"
+msgid "まあ、かっこいい人"
+msgstr ""
+
+msgctxt "943"
+msgid "お友達になってくれる？"
+msgstr ""
+
+msgctxt "944"
+msgid "ウソよ　ウソ！！"
+msgstr ""
+
+msgctxt "945"
+msgid "キャハハハハハ"
+msgstr ""
+
+msgctxt "946"
+msgid "小人族って"
+msgstr ""
+
+msgctxt "947"
+msgid "なんかイヤなのよね"
+msgstr ""
+
+msgctxt "948"
+msgid "ドロ臭いし　ダサイし　オンチだし"
+msgstr ""
+
+msgctxt "949"
+msgid "もうサイテーってカンジー"
+msgstr ""
+
+msgctxt "950"
+msgid "やっぱり冒険者ってのは"
+msgstr ""
+
+msgctxt "951"
+msgid "カッコよくなきゃダメよね"
+msgstr ""
+
+msgctxt "952"
+msgid "あなたはどうかって？"
+msgstr ""
+
+msgctxt "953"
+msgid "鏡を見てものを言いなさいよ"
+msgstr ""
+
+msgctxt "954"
+msgid "美しいって罪よね"
+msgstr ""
+
+msgctxt "955"
+msgid "ああ　美しすぎる自分が"
+msgstr ""
+
+msgctxt "956"
+msgid "コ・ワ・イ……"
+msgstr ""
+
+msgctxt "957"
+msgid "なによあなた"
+msgstr ""
+
+msgctxt "958"
+msgid "イヤらしい目で見ないでくれる"
+msgstr ""
+
+msgctxt "959"
+msgid "これだから野蛮人はキライなのよ"
+msgstr ""
+
+msgctxt "960"
+msgid "すぐに鼻の下をのばすから"
+msgstr ""
+
+msgctxt "961"
+msgid "うーん　そうねえ"
+msgstr ""
+
+msgctxt "962"
+msgid "顔はまずまずってトコかな"
+msgstr ""
+
+msgctxt "963"
+msgid "でも　まだまだよね"
+msgstr ""
+
+msgctxt "964"
+msgid "もうチョイね　もうチョイ"
+msgstr ""
+
+msgctxt "965"
+msgid "えっ"
+msgstr ""
+
+msgctxt "966"
+msgid "アタシの好みが聞きたいって？"
+msgstr ""
+
+msgctxt "967"
+msgid "ウフフフフフ……"
+msgstr ""
+
+msgctxt "968"
+msgid "ナ・イ・ショ"
+msgstr ""
+
+msgctxt "969"
+msgid "いろいろな生き物がいるわ"
+msgstr ""
+
+msgctxt "970"
+msgid "魔物　小人　アタシたち妖精"
+msgstr ""
+
+msgctxt "971"
+msgid "そしてあなたたち野蛮人ね"
+msgstr ""
+
+msgctxt "972"
+msgid "アタシたちの寿命は長くて"
+msgstr ""
+
+msgctxt "973"
+msgid "２０年くらいなの"
+msgstr ""
+
+msgctxt "974"
+msgid "うらやましいわ"
+msgstr ""
+
+msgctxt "975"
+msgid "長生きできるあなたたちが……"
+msgstr ""
+
+msgctxt "976"
+msgid "妖精のすべてが"
+msgstr ""
+
+msgctxt "977"
+msgid "遊び好きではないのよ"
+msgstr ""
+
+msgctxt "978"
+msgid "なかにはおとなしい子もいるから"
+msgstr ""
+
+msgctxt "979"
+msgid "あまり嫌わないでね"
+msgstr ""
+
+msgctxt "980"
+msgid "あなたたちが来るようになってから"
+msgstr ""
+
+msgctxt "981"
+msgid "この塔は変わってしまったわ"
+msgstr ""
+
+msgctxt "982"
+msgid "昔は魔物もいなかったのに"
+msgstr ""
+
+msgctxt "983"
+msgid "それがいまでは……"
+msgstr ""
+
+msgctxt "984"
+msgid "あの……"
+msgstr ""
+
+msgctxt "985"
+msgid "その……　えっと……"
+msgstr ""
+
+msgctxt "986"
+msgid "やっぱりダメっ！！"
+msgstr ""
+
+msgctxt "987"
+msgid "アタシたち妖精はこの姿で生まれて"
+msgstr ""
+
+msgctxt "988"
+msgid "この姿で死んでゆくの"
+msgstr ""
+
+msgctxt "989"
+msgid "あなたたちから見れば"
+msgstr ""
+
+msgctxt "990"
+msgid "変なのかもしれないわね"
+msgstr ""
+
+msgctxt "991"
+msgid "ウッフーン　そこのオ・カ・タ"
+msgstr ""
+
+msgctxt "992"
+msgid "アタシといいコトしなーい"
+msgstr ""
+
+msgctxt "993"
+msgid "キャハハハハ"
+msgstr ""
+
+msgctxt "994"
+msgid "いやらしー目　やっだー"
+msgstr ""
+
+msgctxt "995"
+msgid "その……　アタシ……"
+msgstr ""
+
+msgctxt "996"
+msgid "ダメよ"
+msgstr ""
+
+msgctxt "997"
+msgid "やっぱり言えないわっ！！"
+msgstr ""
+
+msgctxt "998"
+msgid "空を飛べると便利なのよ"
+msgstr ""
+
+msgctxt "999"
+msgid "ピュピューンってね"
+msgstr ""
+
+msgctxt "1000"
+msgid "飛べない野蛮人なんて"
+msgstr ""
+
+msgctxt "1001"
+msgid "カッコわるーい"
+msgstr ""
+
+msgctxt "1002"
+msgid "生まれたばかりの妖精は"
+msgstr ""
+
+msgctxt "1003"
+msgid "とってもシャイなの"
+msgstr ""
+
+msgctxt "1004"
+msgid "だからといって"
+msgstr ""
+
+msgctxt "1005"
+msgid "イタズラしちゃダメよ"
+msgstr ""
+
+msgctxt "1006"
+msgid "妖精は死ぬと風にかわるのよ"
+msgstr ""
+
+msgctxt "1007"
+msgid "世界を飛び回る風に"
+msgstr ""
+
+msgctxt "1008"
+msgid "そしてまた妖精として生まれ変わる"
+msgstr ""
+
+msgctxt "1009"
+msgid "どう　信じられるかしら？"
+msgstr ""
+
+msgctxt "1010"
+msgid "この塔の謎を知りたいの？"
+msgstr ""
+
+msgctxt "1011"
+msgid "うーん　そうねぇ……"
+msgstr ""
+
+msgctxt "1012"
+msgid "アタシ　バカだからわかんなーい"
+msgstr ""
+
+msgctxt "1013"
+msgid "なんでアタシたちが人間を"
+msgstr ""
+
+msgctxt "1014"
+msgid "野蛮人と呼ぶか知ってる？"
+msgstr ""
+
+msgctxt "1015"
+msgid "教えないよーだ"
+msgstr ""
+
+msgctxt "1016"
+msgid "アッカンベーッ！！"
+msgstr ""
+
+msgctxt "1017"
+msgid "むかし人間が　アタシたちを"
+msgstr ""
+
+msgctxt "1018"
+msgid "面白半分で捕まえたことがあったわ"
+msgstr ""
+
+msgctxt "1019"
+msgid "アタシたちをお金で売ったのよ"
+msgstr ""
+
+msgctxt "1020"
+msgid "ぜったいに許せないわ！！"
+msgstr ""
+
+msgctxt "1021"
+msgid "あの……　ほかの姉さんたちは"
+msgstr ""
+
+msgctxt "1022"
+msgid "小人族のことを悪く言うけど"
+msgstr ""
+
+msgctxt "1023"
+msgid "ワタシはそうは思わないの"
+msgstr ""
+
+msgctxt "1024"
+msgid "ごめんなさい　出すぎたこと言って"
+msgstr ""
+
+msgctxt "1025"
+msgid "あの……　その……"
+msgstr ""
+
+msgctxt "1026"
+msgid "冒険　がんばってくださいネ"
+msgstr ""
+
+msgctxt "1027"
+msgid "きゃー　言っちゃったー"
+msgstr ""
+
+msgctxt "1028"
+msgid "はずかしいーっ！！"
+msgstr ""
+
+msgctxt "1029"
+msgid "キャー　野蛮人よー！！"
+msgstr ""
+
+msgctxt "1030"
+msgid "売られちゃうわー！！"
+msgstr ""
+
+msgctxt "1031"
+msgid "イヤーッ！！"
+msgstr ""
+
+msgctxt "1032"
+msgid "ジロジロ見ないでよ"
+msgstr ""
+
+msgctxt "1033"
+msgid "このヘンタイっ！！"
+msgstr ""
+
+msgctxt "1034"
+msgid "あなたたちって　ほんっと"
+msgstr ""
+
+msgctxt "1035"
+msgid "サイテーの生き物ね"
+msgstr ""
+
+msgctxt "1036"
+msgid "なによ　そんなに妖精が珍しいの？"
+msgstr ""
+
+msgctxt "1037"
+msgid "ふーん　"
+msgstr ""
+
+msgctxt "1038"
+msgid "ま　見るだけならいいけどね"
+msgstr ""
+
+msgctxt "1039"
+msgid "アタシの名前はプラム"
+msgstr ""
+
+msgctxt "1040"
+msgid "小人族のシオを待ってるんだけど…"
+msgstr ""
+
+msgctxt "1041"
+msgid "いつまで待たせるのかしら"
+msgstr ""
+
+msgctxt "1042"
+msgid "オホホホホ"
+msgstr ""
+
+msgctxt "1043"
+msgid "まったく鈍くさいわねえ"
+msgstr ""
+
+msgctxt "1044"
+msgid "これだから野蛮人は……"
+msgstr ""
+
+msgctxt "1045"
+msgid "いやーん　そんなに見つめないでよ"
+msgstr ""
+
+msgctxt "1046"
+msgid "その熱い視線……"
+msgstr ""
+
+msgctxt "1047"
+msgid "カ・ン・ジ・ル"
+msgstr ""
+
+msgctxt "1048"
+msgid "立ち去りなさい"
+msgstr ""
+
+msgctxt "1049"
+msgid "呪われた血を引く者よ"
+msgstr ""
+
+msgctxt "1050"
+msgid "そしてもう二度と　私たちの聖域を"
+msgstr ""
+
+msgctxt "1051"
+msgid "荒らさないでください"
+msgstr ""
+
+msgctxt "1052"
+msgid "この塔のすべての災厄は"
+msgstr ""
+
+msgctxt "1053"
+msgid "あなた達人間がもたらしたのですよ"
+msgstr ""
+
+msgctxt "1054"
+msgid "それをきちんと理解しなさい"
+msgstr ""
+
+msgctxt "1055"
+msgid "いいですね"
+msgstr ""
+
+msgctxt "1056"
+msgid "ワタシたちのママって"
+msgstr ""
+
+msgctxt "1057"
+msgid "すっごく怖いのよ"
+msgstr ""
+
+msgctxt "1058"
+msgid "なんでももう１０００年以上"
+msgstr ""
+
+msgctxt "1059"
+msgid "生きているとか……"
+msgstr ""
+
+msgctxt "1060"
+msgid "ワタシたちが"
+msgstr ""
+
+msgctxt "1061"
+msgid "どうやって生まれるかって"
+msgstr ""
+
+msgctxt "1062"
+msgid "やっだー　エッチー"
+msgstr ""
+
+msgctxt "1063"
+msgid "恥ずかしくって言えないわよ"
+msgstr ""
+
+msgctxt "1064"
+msgid "ママについて聞きたいの？"
+msgstr ""
+
+msgctxt "1065"
+msgid "ふーん"
+msgstr ""
+
+msgctxt "1066"
+msgid "ママは一人で"
+msgstr ""
+
+msgctxt "1067"
+msgid "ワタシたちを生んでくれたのよ"
+msgstr ""
+
+msgctxt "1068"
+msgid "ママの名前を聞きたいって？"
+msgstr ""
+
+msgctxt "1069"
+msgid "どーしよっかなー"
+msgstr ""
+
+msgctxt "1070"
+msgid "あのね　えーっとね"
+msgstr ""
+
+msgctxt "1071"
+msgid "わすれちゃった　キャハハハハ"
+msgstr ""
+
+msgctxt "1072"
+msgid "ラララン"
+msgstr ""
+
+msgctxt "1073"
+msgid "アタシは風の精"
+msgstr ""
+
+msgctxt "1074"
+msgid "今日も自由　明日も自由"
+msgstr ""
+
+msgctxt "1075"
+msgid "ルルルルル"
+msgstr ""
+
+msgctxt "1076"
+msgid "もしかしてー　アタシたちのこと"
+msgstr ""
+
+msgctxt "1077"
+msgid "パープーだと思ってるでしょ"
+msgstr ""
+
+msgctxt "1078"
+msgid "まったくそのとーりなのよねー"
+msgstr ""
+
+msgctxt "1079"
+msgid "むっ　来たなこの野蛮人"
+msgstr ""
+
+msgctxt "1080"
+msgid "正義に変わってお仕置きしちゃう！"
+msgstr ""
+
+msgctxt "1081"
+msgid "フェアリービームっっっ！！"
+msgstr ""
+
+msgctxt "1082"
+msgid "キャア　冗談だってばー"
+msgstr ""
+
+msgctxt "1083"
+msgid "最近　私たち妖精族の"
+msgstr ""
+
+msgctxt "1084"
+msgid "数が減っているのです"
+msgstr ""
+
+msgctxt "1085"
+msgid "なにか不吉な出来事の"
+msgstr ""
+
+msgctxt "1086"
+msgid "前触れなのでしょうか……"
+msgstr ""
+
+msgctxt "1087"
+msgid "やーいやーい"
+msgstr ""
+
+msgctxt "1088"
+msgid "鈍くさい野蛮人"
+msgstr ""
+
+msgctxt "1089"
+msgid "悔しかったら飛んでみな"
+msgstr ""
+
+msgctxt "1090"
+msgid "へへーんだ"
+msgstr ""
+
+msgctxt "1091"
+msgid "これ以上塔を登るのはおやめなさい"
+msgstr ""
+
+msgctxt "1092"
+msgid "呪われし野蛮人よ"
+msgstr ""
+
+msgctxt "1093"
+msgid "我々の聖地を"
+msgstr ""
+
+msgctxt "1094"
+msgid "踏み荒らすことは許しません"
+msgstr ""
+
+msgctxt "1095"
+msgid "私は妖精の女王ウインダール"
+msgstr ""
+
+msgctxt "1096"
+msgid "この塔の妖精たちを治める者です"
+msgstr ""
+
+msgctxt "1097"
+msgid "彼女たちはすべて我が子らです"
+msgstr ""
+
+msgctxt "1098"
+msgid "無礼な真似は許しませんよ"
+msgstr ""
+
+msgctxt "1099"
+msgid "きゃいーん"
+msgstr ""
+
+msgctxt "1100"
+msgid "忘れ物をしちゃった"
+msgstr ""
+
+msgctxt "1101"
+msgid "ママに叱られるぅ"
+msgstr ""
+
+msgctxt "1102"
+msgid "どーしよーん"
+msgstr ""
+
+msgctxt "1103"
+msgid "小人や野蛮人って"
+msgstr ""
+
+msgctxt "1104"
+msgid "どうして財宝が好きなのかしら"
+msgstr ""
+
+msgctxt "1105"
+msgid "一番美しいものは自分の中に"
+msgstr ""
+
+msgctxt "1106"
+msgid "あるってコトに気づいてないのね"
+msgstr ""
+
+msgctxt "1107"
+msgid "かわいそーねー"
+msgstr ""
+
+msgctxt "1108"
+msgid "あなたたち野蛮人って"
+msgstr ""
+
+msgctxt "1109"
+msgid "どうしてそんな不細工な顔に"
+msgstr ""
+
+msgctxt "1110"
+msgid "生まれるのかしら"
+msgstr ""
+
+msgctxt "1111"
+msgid "あらゴメンなさい　笑ったりして"
+msgstr ""
+
+msgctxt "1112"
+msgid "あんまりひどい顔だったから"
+msgstr ""
+
+msgctxt "1113"
+msgid "ホントのこと言ってゴメンなさいネ"
+msgstr ""
+
+msgctxt "1114"
+msgid "ケケケッ"
+msgstr ""
+
+msgctxt "1115"
+msgid "また来たね　こりない冒険者"
+msgstr ""
+
+msgctxt "1116"
+msgid "キミなんかがこの塔に登ろうなんて"
+msgstr ""
+
+msgctxt "1117"
+msgid "１００年早いよ　出なおしな"
+msgstr ""
+
+msgctxt "1118"
+msgid "キミみたいな無能な冒険者を見ると"
+msgstr ""
+
+msgctxt "1119"
+msgid "ついからかいたくなるね"
+msgstr ""
+
+msgctxt "1120"
+msgid "やめちゃえば"
+msgstr ""
+
+msgctxt "1121"
+msgid "どうせムダだよ"
+msgstr ""
+
+msgctxt "1122"
+msgid "オイラは"
+msgstr ""
+
+msgctxt "1123"
+msgid "ラブリーなウサギさんさっ！"
+msgstr ""
+
+msgctxt "1124"
+msgid "オイラたちのいうことを"
+msgstr ""
+
+msgctxt "1125"
+msgid "聞いていれば間違いないよ"
+msgstr ""
+
+msgctxt "1126"
+msgid "ダメだねえ　キミは"
+msgstr ""
+
+msgctxt "1127"
+msgid "なにをやらしても鈍くさい"
+msgstr ""
+
+msgctxt "1128"
+msgid "そんなんでこの塔を登ろうっての？"
+msgstr ""
+
+msgctxt "1129"
+msgid "ムダだよ　ムダ　ムダ"
+msgstr ""
+
+msgctxt "1130"
+msgid "さえない顔をしているねえ"
+msgstr ""
+
+msgctxt "1131"
+msgid "アイテムを全部捨ててごらん"
+msgstr ""
+
+msgctxt "1132"
+msgid "身体が軽くなるからさ"
+msgstr ""
+
+msgctxt "1133"
+msgid "ぴょんぴょんぴょん"
+msgstr ""
+
+msgctxt "1134"
+msgid "鬼さんこちら　手のなる方へ"
+msgstr ""
+
+msgctxt "1135"
+msgid "トロいあんたにゃ捕まらないよ"
+msgstr ""
+
+msgctxt "1136"
+msgid "小人族ってからかうには"
+msgstr ""
+
+msgctxt "1137"
+msgid "サイコーの相手だぜ"
+msgstr ""
+
+msgctxt "1138"
+msgid "あんたも今度"
+msgstr ""
+
+msgctxt "1139"
+msgid "一緒にどうだい？"
+msgstr ""
+
+msgctxt "1140"
+msgid "オイラたちは憎まれ口を叩くけど"
+msgstr ""
+
+msgctxt "1141"
+msgid "本当は寂しがりやなのさ"
+msgstr ""
+
+msgctxt "1142"
+msgid "だから仲良くして……"
+msgstr ""
+
+msgctxt "1143"
+msgid "なんてウソだよーん　ひゃはははは"
+msgstr ""
+
+msgctxt "1144"
+msgid "妖精族なんてキライだ　キライだ"
+msgstr ""
+
+msgctxt "1145"
+msgid "だってあいつら　オイラたちより"
+msgstr ""
+
+msgctxt "1146"
+msgid "白くてキレイじゃないか　キー！！"
+msgstr ""
+
+msgctxt "1147"
+msgid "ふふん"
+msgstr ""
+
+msgctxt "1148"
+msgid "キミがこの塔にのぼるだって？"
+msgstr ""
+
+msgctxt "1149"
+msgid "ひゃはははは"
+msgstr ""
+
+msgctxt "1150"
+msgid "ムリムリムリ　ひー　おかしー"
+msgstr ""
+
+msgctxt "1151"
+msgid "反応がない"
+msgstr ""
+
+msgctxt "1152"
+msgid "どうやら死んでいるようだ"
+msgstr ""
+
+msgctxt "1153"
+msgid "うずくまったまま動かない"
+msgstr ""
+
+msgctxt "1154"
+msgid "どうやら死体のようだ……"
+msgstr ""
+
+msgctxt "1155"
+msgid "呼びかけてみたが"
+msgstr ""
+
+msgctxt "1156"
+msgid "答えは返ってこなかった"
+msgstr ""
+
+msgctxt "1157"
+msgid "剣を握ったまま"
+msgstr ""
+
+msgctxt "1158"
+msgid "壮絶な最期を遂げていた"
+msgstr ""
+
+msgctxt "1159"
+msgid "人が死んでいる"
+msgstr ""
+
+msgctxt "1160"
+msgid "だいぶ昔のもののようだ"
+msgstr ""
+
+msgctxt "1161"
+msgid "人が死んでいる……"
+msgstr ""
+
+msgctxt "1162"
+msgid "どうやら女性のようだ"
+msgstr ""
+
+msgctxt "1163"
+msgid "髪飾りが悲く"
+msgstr ""
+
+msgctxt "1164"
+msgid "ほこりに汚れていた……"
+msgstr ""
+
+msgctxt "1165"
+msgid "白骨化した死体だ"
+msgstr ""
+
+msgctxt "1166"
+msgid "いまではどんな姿をしていたか"
+msgstr ""
+
+msgctxt "1167"
+msgid "まったくわからない"
+msgstr ""
+
+msgctxt "1168"
+msgid "う……　うう……"
+msgstr ""
+
+msgctxt "1169"
+msgid "男はかすかにうめき声を上げる"
+msgstr ""
+
+msgctxt "1170"
+msgid "だが　この傷では"
+msgstr ""
+
+msgctxt "1171"
+msgid "もう助からないだろう"
+msgstr ""
+
+msgctxt "1172"
+msgid "死体を調べると"
+msgstr ""
+
+msgctxt "1173"
+msgid "そこからネズミが走り出した"
+msgstr ""
+
+msgctxt "1174"
+msgid "するとすさまじい悪臭が"
+msgstr ""
+
+msgctxt "1175"
+msgid "漂ってきた"
+msgstr ""
+
+msgctxt "1176"
+msgid "あ、あなたは……"
+msgstr ""
+
+msgctxt "1177"
+msgid "瀕死の女がかすかに声を出す"
+msgstr ""
+
+msgctxt "1178"
+msgid "だが　彼女はもう助からない……"
+msgstr ""
+
+msgctxt "1179"
+msgid "若い男の死体だ"
+msgstr ""
+
+msgctxt "1180"
+msgid "しかしその顔は"
+msgstr ""
+
+msgctxt "1181"
+msgid "ほほえんでいるようだった"
+msgstr ""
+
+msgctxt "1182"
+msgid "汚れた衣服だけが残されている"
+msgstr ""
+
+msgctxt "1183"
+msgid "遺体はすでに土に還っていた"
+msgstr ""
+
+msgctxt "1184"
+msgid "返事はなかった"
+msgstr ""
+
+msgctxt "1185"
+msgid "これから"
+msgstr ""
+
+msgctxt "1186"
+msgid "いくつの遺体を見ていくのだろう"
+msgstr ""
+
+msgctxt "1187"
+msgid "黒装束をまとった死体だ"
+msgstr ""
+
+msgctxt "1188"
+msgid "指先で血文字が書かれている"
+msgstr ""
+
+msgctxt "1189"
+msgid "「無念だ」とそこには記されていた"
+msgstr ""
+
+msgctxt "1190"
+msgid "むごい死体だ"
+msgstr ""
+
+msgctxt "1191"
+msgid "とても見られ……ない！！"
+msgstr ""
+
+msgctxt "1192"
+msgid "目を見開いたまま"
+msgstr ""
+
+msgctxt "1193"
+msgid "男は息絶えていた"
+msgstr ""
+
+msgctxt "1194"
+msgid "そっとまぶたを閉じてやる"
+msgstr ""
+
+msgctxt "1195"
+msgid "おびただしい血を流して"
+msgstr ""
+
+msgctxt "1196"
+msgid "いずれは自分も"
+msgstr ""
+
+msgctxt "1197"
+msgid "このような姿になるのだろうか……"
+msgstr ""
+
+msgctxt "1198"
+msgid "青ざめた顔の女……"
+msgstr ""
+
+msgctxt "1199"
+msgid "その死に顔は安らかだった"
+msgstr ""
+
+msgctxt "1200"
+msgid "首のない死体がある"
+msgstr ""
+
+msgctxt "1201"
+msgid "衣服からして女だろうか"
+msgstr ""
+
+msgctxt "1202"
+msgid "マントをかけ"
+msgstr ""
+
+msgctxt "1203"
+msgid "ささやかではあるが弔いをする"
+msgstr ""
+
+msgctxt "1204"
+msgid "寝ているのかと思ったが違った"
+msgstr ""
+
+msgctxt "1205"
+msgid "すでに息はなく"
+msgstr ""
+
+msgctxt "1206"
+msgid "身体は冷たくなっていた……"
+msgstr ""
+
+msgctxt "1207"
+msgid "この男は死んで……"
+msgstr ""
+
+msgctxt "1208"
+msgid "いない"
+msgstr ""
+
+msgctxt "1209"
+msgid "高いびきをかいて"
+msgstr ""
+
+msgctxt "1210"
+msgid "寝ているだけだった"
+msgstr ""
+
+msgctxt "1211"
+msgid "死体だと思った？"
+msgstr ""
+
+msgctxt "1212"
+msgid "チッチッチッ　まだまだ甘いねえ"
+msgstr ""
+
+msgctxt "1213"
+msgid "毒で死んだのだろうか"
+msgstr ""
+
+msgctxt "1214"
+msgid "爪で床をかきむしった跡がある……"
+msgstr ""
+
+msgctxt "1215"
+msgid "女の死体だ"
+msgstr ""
+
+msgctxt "1216"
+msgid "胸元に"
+msgstr ""
+
+msgctxt "1217"
+msgid "銀のペンダントが光っていた……"
+msgstr ""
+
+msgctxt "1218"
+msgid "屈強な戦士が息絶えている"
+msgstr ""
+
+msgctxt "1219"
+msgid "これほどの男が"
+msgstr ""
+
+msgctxt "1220"
+msgid "命を落とすというのか……"
+msgstr ""
+
+msgctxt "1221"
+msgid "話しかけたが"
+msgstr ""
+
+msgctxt "1222"
+msgid "遺体はただ"
+msgstr ""
+
+msgctxt "1223"
+msgid "しずかにうずくまっていた……"
+msgstr ""
+
+msgctxt "1224"
+msgid "目を見開いた死体だ"
+msgstr ""
+
+msgctxt "1225"
+msgid "その濁った瞳が"
+msgstr ""
+
+msgctxt "1226"
+msgid "じっとこちらを見つめていた"
+msgstr ""
+
+msgctxt "1227"
+msgid "遺体がかすかに動いている"
+msgstr ""
+
+msgctxt "1228"
+msgid "その身体は"
+msgstr ""
+
+msgctxt "1229"
+msgid "魔物になりかけていた……"
+msgstr ""
+
+msgctxt "1230"
+msgid "声をかけ"
+msgstr ""
+
+msgctxt "1231"
+msgid "ゆすってみたが動かなかった"
+msgstr ""
+
+msgctxt "1232"
+msgid "冷たい死体がそこにはあった"
+msgstr ""
+
+msgctxt "1233"
+msgid "胸の上で手を組んでいる"
+msgstr ""
+
+msgctxt "1234"
+msgid "誰かがすでに弔ったようだ"
+msgstr ""
+
+msgctxt "1235"
+msgid "火葬された跡がある"
+msgstr ""
+
+msgctxt "1236"
+msgid "遺体はどこにも見あたらなかった"
+msgstr ""
+
+msgctxt "1237"
+msgid "小さな墓標が残されている"
+msgstr ""
+
+msgctxt "1238"
+msgid "「野生児フナフチここに眠る」"
+msgstr ""
+
+msgctxt "1239"
+msgid "折れた剣に"
+msgstr ""
+
+msgctxt "1240"
+msgid "名前が刻まれていた"
+msgstr ""
+
+msgctxt "1241"
+msgid "女戦士ソフィア……"
+msgstr ""
+
+msgctxt "1242"
+msgid "なんど呼びかけても返事はなかった"
+msgstr ""
+
+msgctxt "1243"
+msgid "足元には冷たい死体が"
+msgstr ""
+
+msgctxt "1244"
+msgid "横たわっている"
+msgstr ""
+
+msgctxt "1245"
+msgid "壊れた楽器が転がっている"
+msgstr ""
+
+msgctxt "1246"
+msgid "主人とともに旅立ったというのか"
+msgstr ""
+
+msgctxt "1247"
+msgid "美しい女の遺体だ"
+msgstr ""
+
+msgctxt "1248"
+msgid "白い花が髪に"
+msgstr ""
+
+msgctxt "1249"
+msgid "供えられていた……"
+msgstr ""
+
+msgctxt "1250"
+msgid "死体だ"
+msgstr ""
+
+msgctxt "1251"
+msgid "盗賊に荒らされたのか"
+msgstr ""
+
+msgctxt "1252"
+msgid "なにも身にまとっていなかった"
+msgstr ""
+
+msgctxt "1253"
+msgid "人が倒れている"
+msgstr ""
+
+msgctxt "1254"
+msgid "呼んでも返事がない"
+msgstr ""
+
+msgctxt "1255"
+msgid "………………"
+msgstr ""
+
+msgctxt "1256"
+msgid "くっ　臭い！"
+msgstr ""
+
+msgctxt "1257"
+msgid "ひどく腐乱しているようだ"
+msgstr ""
+
+msgctxt "1258"
+msgid "女がうずくまっていた"
+msgstr ""
+
+msgctxt "1259"
+msgid "話しかけても"
+msgstr ""
+
+msgctxt "1260"
+msgid "帰ってくるのは沈黙だけだった"
+msgstr ""
+
+msgctxt "1261"
+msgid "剣が床に突き立てられている"
+msgstr ""
+
+msgctxt "1262"
+msgid "この男の墓標に違いないだろう"
+msgstr ""
+
+msgctxt "1263"
+msgid "毒を受けて死んだのだろう"
+msgstr ""
+
+msgctxt "1264"
+msgid "顔が紫色に腫れ上がっていた……"
+msgstr ""
+
+msgctxt "1265"
+msgid "白骨化した遺体だ"
+msgstr ""
+
+msgctxt "1266"
+msgid "あごの骨がカタカタと"
+msgstr ""
+
+msgctxt "1267"
+msgid "小さな音を立てていた"
+msgstr ""
+
+msgctxt "1268"
+msgid "遺体が腐りかけている"
+msgstr ""
+
+msgctxt "1269"
+msgid "小さな白い虫が"
+msgstr ""
+
+msgctxt "1270"
+msgid "大量にわいていた……"
+msgstr ""
+
+msgctxt "1271"
+msgid "五体が"
+msgstr ""
+
+msgctxt "1272"
+msgid "バラバラに切り刻まれている"
+msgstr ""
+
+msgctxt "1273"
+msgid "壮絶な死に様だった"
+msgstr ""
+
+msgctxt "1274"
+msgid "さらに　アイテムもいくつか"
+msgstr ""
+
+msgctxt "1275"
+msgid "手に入れることができた！"
+msgstr ""
+
+msgctxt "1276"
+msgid "しかし　アイテムを"
+msgstr ""
+
+msgctxt "1277"
+msgid "いくつか手に入れた！"
+msgstr ""
+

@@ -1,0 +1,256 @@
+msgctxt "0"
+msgid "ｃ　とのバトル"
+msgstr ""
+
+msgctxt "1"
+msgid "ａ　が先攻です"
+msgstr ""
+
+msgctxt "2"
+msgid "ｃ　が先攻です"
+msgstr ""
+
+msgctxt "3"
+msgid "クリティカルヒット！"
+msgstr ""
+
+msgctxt "4"
+msgid "ｃ　をたおした"
+msgstr ""
+
+msgctxt "5"
+msgid "ａ　の攻撃成功"
+msgstr ""
+
+msgctxt "6"
+msgid "ｃ　は少し弱った"
+msgstr ""
+
+msgctxt "7"
+msgid "ａ　の攻撃失敗"
+msgstr ""
+
+msgctxt "8"
+msgid "ｃ　の攻撃"
+msgstr ""
+
+msgctxt "9"
+msgid "ｅのダメージをうけた"
+msgstr ""
+
+msgctxt "10"
+msgid "死んでしまった……"
+msgstr ""
+
+msgctxt "11"
+msgid "ｃ　は"
+msgstr ""
+
+msgctxt "12"
+msgid "ａ　をうらんでいる"
+msgstr ""
+
+msgctxt "13"
+msgid "ａ　を呪った"
+msgstr ""
+
+msgctxt "14"
+msgid "ｃ　は何かが"
+msgstr ""
+
+msgctxt "15"
+msgid "こみあげている"
+msgstr ""
+
+msgctxt "16"
+msgid "病気の息をふきかけた"
+msgstr ""
+
+msgctxt "17"
+msgid "ｃ　は変なことをした"
+msgstr ""
+
+msgctxt "18"
+msgid "ｈ　をこわされた！"
+msgstr ""
+
+msgctxt "19"
+msgid "ｃ　の目が光る"
+msgstr ""
+
+msgctxt "20"
+msgid "ドラゴンブレスだ"
+msgstr ""
+
+msgctxt "21"
+msgid "イヤな予感がする……"
+msgstr ""
+
+msgctxt "22"
+msgid "ものすごく変なことをした"
+msgstr ""
+
+msgctxt "23"
+msgid "ｈ　と"
+msgstr ""
+
+msgctxt "24"
+msgid "ｉ　をこわされた！"
+msgstr ""
+
+msgctxt "25"
+msgid "ｃ　の指先が"
+msgstr ""
+
+msgctxt "26"
+msgid "怪しく　うごめいた"
+msgstr ""
+
+msgctxt "27"
+msgid "ｇ　をぬすまれた"
+msgstr ""
+
+msgctxt "28"
+msgid "ｃ　の"
+msgstr ""
+
+msgctxt "29"
+msgid "はげしい攻撃！"
+msgstr ""
+
+msgctxt "30"
+msgid "ニタニタ笑った"
+msgstr ""
+
+msgctxt "31"
+msgid "おびえている"
+msgstr ""
+
+msgctxt "32"
+msgid "ケムリになった"
+msgstr ""
+
+msgctxt "33"
+msgid "最悪な気分が"
+msgstr ""
+
+msgctxt "34"
+msgid "ａを　おそう！"
+msgstr ""
+
+msgctxt "35"
+msgid "ａ　にのりうつった"
+msgstr ""
+
+msgctxt "36"
+msgid "ブタの息をはいた"
+msgstr ""
+
+msgctxt "37"
+msgid "ブタになった"
+msgstr ""
+
+msgctxt "38"
+msgid "変な目つきで　にらんだ"
+msgstr ""
+
+msgctxt "39"
+msgid "必殺技を　ふうじこめた"
+msgstr ""
+
+msgctxt "40"
+msgid "考えている"
+msgstr ""
+
+msgctxt "41"
+msgid "ａ　に　ふれた"
+msgstr ""
+
+msgctxt "42"
+msgid "しまった！"
+msgstr ""
+
+msgctxt "43"
+msgid "ドレインタッチだ"
+msgstr ""
+
+msgctxt "44"
+msgid "ａ　のＨＰが"
+msgstr ""
+
+msgctxt "45"
+msgid "ｅ吸いとられた"
+msgstr ""
+
+msgctxt "46"
+msgid "消えて　なくなった"
+msgstr ""
+
+msgctxt "47"
+msgid "攻撃をかわした"
+msgstr ""
+
+msgctxt "48"
+msgid "アイテムを"
+msgstr ""
+
+msgctxt "49"
+msgid "かってに捨ててしまった！"
+msgstr ""
+
+msgctxt "50"
+msgid "病気レベルが上がった"
+msgstr ""
+
+msgctxt "51"
+msgid "呪いレベルが上がった"
+msgstr ""
+
+msgctxt "52"
+msgid "うまくかわした！"
+msgstr ""
+
+msgctxt "53"
+msgid "ｈ　ポイ！"
+msgstr ""
+
+msgctxt "54"
+msgid "ｉ　ポイ！"
+msgstr ""
+
+msgctxt "55"
+msgid "ｊ　ポイ！"
+msgstr ""
+
+msgctxt "56"
+msgid "ｋ　ポイ！"
+msgstr ""
+
+msgctxt "57"
+msgid "ｌ　ポイ！"
+msgstr ""
+
+msgctxt "58"
+msgid "気がつくと"
+msgstr ""
+
+msgctxt "59"
+msgid "かってにアイテムを捨てていた！"
+msgstr ""
+
+msgctxt "60"
+msgid "アイテムの力で"
+msgstr ""
+
+msgctxt "61"
+msgid "持ちこたえた！"
+msgstr ""
+
+msgctxt "62"
+msgid "アイテムを持っていなかったので"
+msgstr ""
+
+msgctxt "63"
+msgid "なんともなかった"
+msgstr ""
+

@@ -90,6 +90,5 @@
 	.warning Dialogue3TextEnd - 0x80039677
 .endif
 
-;.include "text/text_special.asm"
-;TODO: Modify special text functions and glyph list.
+.include "text/text_special.asm"
 .close

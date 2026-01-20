@@ -81,24 +81,24 @@ addiu a1,a1,180
 
 ;draw status screen numbers a bit more to the right
 .org 0x8004b574
-ori a1,zero,66
+ori a1,zero,82
 .org 0x8004b594
-ori a1,zero,66
+ori a1,zero,82
 .org 0x8004b5b4
-ori a1,zero,66
+ori a1,zero,82
 .org 0x8004b5d4
-ori a1,zero,66
+ori a1,zero,82
 .org 0x8004b5f4
-ori a1,zero,66
+ori a1,zero,82
 .org 0x8004b614
-ori a1,zero,162
+ori a1,zero,178
 .org 0x8004b624
-ori a1,zero,162
+ori a1,zero,178
 .org 0x8004b63c
-ori a1,zero,162
+ori a1,zero,178
 .org 0x8004b654
-ori a1,zero,162
+ori a1,zero,178
 .org 0x8004b67c
-ori a1,zero,52
+ori a1,zero,68
 .org 0x8004b6b0
-ori a1,zero,136
+ori a1,zero,152

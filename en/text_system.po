@@ -1,0 +1,436 @@
+msgctxt "0"
+msgid "現在のプレーヤーの状態です"
+msgstr ""
+
+msgctxt "1"
+msgid "　　　　　ゴブリンタワー　挑戦中"
+msgstr ""
+
+msgctxt "2"
+msgid "本当にｆを"
+msgstr ""
+
+msgctxt "3"
+msgid "捨ててもいいですか？"
+msgstr ""
+
+msgctxt "4"
+msgid "アイテムを持っていません"
+msgstr ""
+
+msgctxt "5"
+msgid "ｇ　を手に入れた"
+msgstr ""
+
+msgctxt "6"
+msgid "しかし"
+msgstr ""
+
+msgctxt "7"
+msgid "これ以上　持てません"
+msgstr ""
+
+msgctxt "8"
+msgid "ｇ　を"
+msgstr ""
+
+msgctxt "9"
+msgid "宝箱に戻しました"
+msgstr ""
+
+msgctxt "10"
+msgid "病気レベル完全回復！"
+msgstr ""
+
+msgctxt "11"
+msgid "呪いレベル完全回復！"
+msgstr ""
+
+msgctxt "12"
+msgid "どれを捨てますか？"
+msgstr ""
+
+msgctxt "13"
+msgid "使いますか？"
+msgstr ""
+
+msgctxt "14"
+msgid "ｇ　を捨て"
+msgstr ""
+
+msgctxt "15"
+msgid "ｆ　を入手"
+msgstr ""
+
+msgctxt "16"
+msgid "ｆ　を捨て"
+msgstr ""
+
+msgctxt "17"
+msgid "ｇ　を入手"
+msgstr ""
+
+msgctxt "18"
+msgid "ａ　は"
+msgstr ""
+
+msgctxt "19"
+msgid "宝箱に　いどんだ"
+msgstr ""
+
+msgctxt "20"
+msgid "メモリーカードを"
+msgstr ""
+
+msgctxt "21"
+msgid "チェックしています"
+msgstr ""
+
+msgctxt "22"
+msgid "もう一度　確認してください"
+msgstr ""
+
+msgctxt "23"
+msgid "続けますか？"
+msgstr ""
+
+msgctxt "24"
+msgid "セーブ中ですお待ちください"
+msgstr ""
+
+msgctxt "25"
+msgid "メモリーカードが一杯です"
+msgstr ""
+
+msgctxt "26"
+msgid "セーブしました"
+msgstr ""
+
+msgctxt "27"
+msgid "ゲームを続けますか？"
+msgstr ""
+
+msgctxt "28"
+msgid "お化けトイレがある"
+msgstr ""
+
+msgctxt "29"
+msgid "中に入りますか？"
+msgstr ""
+
+msgctxt "30"
+msgid "お化けトイレに入った"
+msgstr ""
+
+msgctxt "31"
+msgid "……………………"
+msgstr ""
+
+msgctxt "32"
+msgid "うっぷ！"
+msgstr ""
+
+msgctxt "33"
+msgid "ひどいにおいだ！"
+msgstr ""
+
+msgctxt "34"
+msgid "こりゃ　たまらない"
+msgstr ""
+
+msgctxt "35"
+msgid "病気をｅうけた！"
+msgstr ""
+
+msgctxt "36"
+msgid "ふう……"
+msgstr ""
+
+msgctxt "37"
+msgid "スッキリと体力ｅ回復"
+msgstr ""
+
+msgctxt "38"
+msgid "ベッドゴーレムだ"
+msgstr ""
+
+msgctxt "39"
+msgid "「ミーはフカフカベッドね"
+msgstr ""
+
+msgctxt "40"
+msgid "　少し眠っていくのね」"
+msgstr ""
+
+msgctxt "41"
+msgid "ベッドゴーレムで"
+msgstr ""
+
+msgctxt "42"
+msgid "ねむってみますか"
+msgstr ""
+
+msgctxt "43"
+msgid "それでは　おやすみなさい"
+msgstr ""
+
+msgctxt "44"
+msgid "「ぐっすりねむれたでしょ"
+msgstr ""
+
+msgctxt "45"
+msgid "　それじゃまたね〜」"
+msgstr ""
+
+msgctxt "46"
+msgid "しかしベッドゴーレムは"
+msgstr ""
+
+msgctxt "47"
+msgid "別の場所に移動していた！"
+msgstr ""
+
+msgctxt "48"
+msgid "しかも　下のステージに！"
+msgstr ""
+
+msgctxt "49"
+msgid "「ぼくはパン屋のユウさん"
+msgstr ""
+
+msgctxt "50"
+msgid "　ようせいのパン屋さんだよ"
+msgstr ""
+
+msgctxt "51"
+msgid "　やきたてホカホカのパン"
+msgstr ""
+
+msgctxt "52"
+msgid "　君にあげるよ」"
+msgstr ""
+
+msgctxt "53"
+msgid "パンを食べますか"
+msgstr ""
+
+msgctxt "54"
+msgid "ユウさんのパンを食べた"
+msgstr ""
+
+msgctxt "55"
+msgid "むしゃ　むしゃ　むしゃ"
+msgstr ""
+
+msgctxt "56"
+msgid "ａ　が食べたのは"
+msgstr ""
+
+msgctxt "57"
+msgid "ブタブーパンだった"
+msgstr ""
+
+msgctxt "58"
+msgid "ブタブタブーになった！"
+msgstr ""
+
+msgctxt "59"
+msgid "ニコニコパンだった"
+msgstr ""
+
+msgctxt "60"
+msgid "ぜっこうちょうになった！"
+msgstr ""
+
+msgctxt "61"
+msgid "モリモリパンだった"
+msgstr ""
+
+msgctxt "62"
+msgid "ちょっぴり強くなった！"
+msgstr ""
+
+msgctxt "63"
+msgid "「わたしは全ての"
+msgstr ""
+
+msgctxt "64"
+msgid "　ぼうけん者の女神ソフラン」"
+msgstr ""
+
+msgctxt "65"
+msgid "セーブを行いますか"
+msgstr ""
+
+msgctxt "66"
+msgid "宝箱があります"
+msgstr ""
+
+msgctxt "67"
+msgid "宝箱も中身もこわれてなくなった"
+msgstr ""
+
+msgctxt "68"
+msgid "宝箱のかぎをこわしました"
+msgstr ""
+
+msgctxt "69"
+msgid "不思議なことに"
+msgstr ""
+
+msgctxt "70"
+msgid "宝箱は消えてなくなった"
+msgstr ""
+
+msgctxt "71"
+msgid "出口のカギを入手しました"
+msgstr ""
+
+msgctxt "72"
+msgid "ゴブリンタワー"
+msgstr ""
+
+msgctxt "73"
+msgid "　　　　　　（全　１０フロア）"
+msgstr ""
+
+msgctxt "74"
+msgid "泥棒タワー"
+msgstr ""
+
+msgctxt "75"
+msgid "　　　　　　（全　２０フロア）"
+msgstr ""
+
+msgctxt "76"
+msgid "クイーン・ローズタワー"
+msgstr ""
+
+msgctxt "77"
+msgid "　　　　　（全　１００フロア）"
+msgstr ""
+
+msgctxt "78"
+msgid "スペクトラルタワー"
+msgstr ""
+
+msgctxt "79"
+msgid "　　　　（全　１０００フロア）"
+msgstr ""
+
+msgctxt "80"
+msgid "最後の塔"
+msgstr ""
+
+msgctxt "81"
+msgid "　　　　　　　（全　？フロア）"
+msgstr ""
+
+msgctxt "82"
+msgid "名前を入力してください"
+msgstr ""
+
+msgctxt "83"
+msgid "お好きな番号を入力してください"
+msgstr ""
+
+msgctxt "84"
+msgid "　このキャラクターで"
+msgstr ""
+
+msgctxt "85"
+msgid "　プレイしますか"
+msgstr ""
+
+msgctxt "86"
+msgid "しかもウデをケガしてしまった"
+msgstr ""
+
+msgctxt "87"
+msgid "ａは１のダメージ！"
+msgstr ""
+
+msgctxt "88"
+msgid "メチャクチャつかれた"
+msgstr ""
+
+msgctxt "89"
+msgid "しかも宝箱にはドクがぬられていた"
+msgstr ""
+
+msgctxt "90"
+msgid "ａはドクをうけた！"
+msgstr ""
+
+msgctxt "91"
+msgid "　　　　　　　泥棒タワー　挑戦中"
+msgstr ""
+
+msgctxt "92"
+msgid "　クイーン・ローズタワー　挑戦中"
+msgstr ""
+
+msgctxt "93"
+msgid "　　　スペクトラルタワー　挑戦中"
+msgstr ""
+
+msgctxt "94"
+msgid "　　　　　　　　最後の塔　挑戦中"
+msgstr ""
+
+msgctxt "95"
+msgid "メモリーカードのチェック中です"
+msgstr ""
+
+msgctxt "96"
+msgid "そのままお待ちください"
+msgstr ""
+
+msgctxt "97"
+msgid "メモリーカードが未初期化です"
+msgstr ""
+
+msgctxt "98"
+msgid "初期化しますか？"
+msgstr ""
+
+msgctxt "99"
+msgid "メモリーカードが認識できません"
+msgstr ""
+
+msgctxt "100"
+msgid "メモリーカードを使用しないで"
+msgstr ""
+
+msgctxt "101"
+msgid "初期化しています"
+msgstr ""
+
+msgctxt "102"
+msgid "初期化終了しました"
+msgstr ""
+
+msgctxt "103"
+msgid "初期化に失敗しました"
+msgstr ""
+
+msgctxt "104"
+msgid "カードをチェックして下さい"
+msgstr ""
+
+msgctxt "105"
+msgid "セーブデータがありません"
+msgstr ""
+
+msgctxt "106"
+msgid "お待たせしましたチェック終了です"
+msgstr ""
+
+msgctxt "107"
+msgid "選択してください"
+msgstr ""
+
+msgctxt "108"
+msgid "セーブデータが壊れています"
+msgstr ""
+

@@ -1,0 +1,324 @@
+msgctxt "0"
+msgid "ｆ　を"
+msgstr ""
+
+msgctxt "1"
+msgid "使った"
+msgstr ""
+
+msgctxt "2"
+msgid "食べた"
+msgstr ""
+
+msgctxt "3"
+msgid "ふった"
+msgstr ""
+
+msgctxt "4"
+msgid "しかし何もおこらなかった"
+msgstr ""
+
+msgctxt "5"
+msgid "ＨＰが"
+msgstr ""
+
+msgctxt "6"
+msgid "ｅポイント上がった"
+msgstr ""
+
+msgctxt "7"
+msgid "対鬼レベルが"
+msgstr ""
+
+msgctxt "8"
+msgid "対霊レベルが"
+msgstr ""
+
+msgctxt "9"
+msgid "対使い魔レベルが"
+msgstr ""
+
+msgctxt "10"
+msgid "対竜レベルが"
+msgstr ""
+
+msgctxt "11"
+msgid "対人間レベルが"
+msgstr ""
+
+msgctxt "12"
+msgid "対悪魔レベルが"
+msgstr ""
+
+msgctxt "13"
+msgid "グルメレベルが"
+msgstr ""
+
+msgctxt "14"
+msgid "注意レベルが"
+msgstr ""
+
+msgctxt "15"
+msgid "武器レベルが"
+msgstr ""
+
+msgctxt "16"
+msgid "力がわいてくる"
+msgstr ""
+
+msgctxt "17"
+msgid "ＨＰがｅ回復"
+msgstr ""
+
+msgctxt "18"
+msgid "元気がわいてくる"
+msgstr ""
+
+msgctxt "19"
+msgid "病気レベルがｅ回復"
+msgstr ""
+
+msgctxt "20"
+msgid "心が　やすらぐ"
+msgstr ""
+
+msgctxt "21"
+msgid "呪いレベルがｅ回復"
+msgstr ""
+
+msgctxt "22"
+msgid "しかし体は　うけつけない"
+msgstr ""
+
+msgctxt "23"
+msgid "病気レベルがｅ上昇"
+msgstr ""
+
+msgctxt "24"
+msgid "ａ　の"
+msgstr ""
+
+msgctxt "25"
+msgid "ステータスが完全回復！"
+msgstr ""
+
+msgctxt "26"
+msgid "ｆ　を使った"
+msgstr ""
+
+msgctxt "27"
+msgid "何をみがきますか？"
+msgstr ""
+
+msgctxt "28"
+msgid "なんと正体は"
+msgstr ""
+
+msgctxt "29"
+msgid "ｇ　だった"
+msgstr ""
+
+msgctxt "30"
+msgid "意味がなかった…"
+msgstr ""
+
+msgctxt "31"
+msgid "装備しました"
+msgstr ""
+
+msgctxt "32"
+msgid "はずしました"
+msgstr ""
+
+msgctxt "33"
+msgid "ｆ　は"
+msgstr ""
+
+msgctxt "34"
+msgid "装備できません"
+msgstr ""
+
+msgctxt "35"
+msgid "パピルスには"
+msgstr ""
+
+msgctxt "36"
+msgid "次のように　かかれている"
+msgstr ""
+
+msgctxt "37"
+msgid "９５　４３００"
+msgstr ""
+
+msgctxt "38"
+msgid "たびびと　の基なり"
+msgstr ""
+
+msgctxt "39"
+msgid "２９　１１３６"
+msgstr ""
+
+msgctxt "40"
+msgid "シーフ　の基なり"
+msgstr ""
+
+msgctxt "41"
+msgid "７　６２３５"
+msgstr ""
+
+msgctxt "42"
+msgid "ゆうぼくみん　の基なり"
+msgstr ""
+
+msgctxt "43"
+msgid "１　２４８９"
+msgstr ""
+
+msgctxt "44"
+msgid "商人　の基なり"
+msgstr ""
+
+msgctxt "45"
+msgid "７１　１１０５"
+msgstr ""
+
+msgctxt "46"
+msgid "野生児　の基なり"
+msgstr ""
+
+msgctxt "47"
+msgid "２１　２１３７"
+msgstr ""
+
+msgctxt "48"
+msgid "フリーファイターの基なり"
+msgstr ""
+
+msgctxt "49"
+msgid "１３　３７１２"
+msgstr ""
+
+msgctxt "50"
+msgid "クレリック　の基なり"
+msgstr ""
+
+msgctxt "51"
+msgid "８２　１６６５"
+msgstr ""
+
+msgctxt "52"
+msgid "ライトメイジ　の基なり"
+msgstr ""
+
+msgctxt "53"
+msgid "５０　３１４６"
+msgstr ""
+
+msgctxt "54"
+msgid "ダークメイジ　の基なり"
+msgstr ""
+
+msgctxt "55"
+msgid "２４　８８６２"
+msgstr ""
+
+msgctxt "56"
+msgid "アイテムハンターの基なり"
+msgstr ""
+
+msgctxt "57"
+msgid "長い塔を　さまよう者"
+msgstr ""
+
+msgctxt "58"
+msgid "それは　地上で罪を負う者"
+msgstr ""
+
+msgctxt "59"
+msgid "罪人は死ぬと"
+msgstr ""
+
+msgctxt "60"
+msgid "この世界に落ちてくる"
+msgstr ""
+
+msgctxt "61"
+msgid "長い塔は"
+msgstr ""
+
+msgctxt "62"
+msgid "世界を　つなぐ道なり"
+msgstr ""
+
+msgctxt "63"
+msgid "魔王ジャネスに"
+msgstr ""
+
+msgctxt "64"
+msgid "この地をあたえる"
+msgstr ""
+
+msgctxt "65"
+msgid "基と基を　あわせし時"
+msgstr ""
+
+msgctxt "66"
+msgid "新たなる基が　生まれる"
+msgstr ""
+
+msgctxt "67"
+msgid "この世界の王　イプシロン"
+msgstr ""
+
+msgctxt "68"
+msgid "５つの塔を　たてる"
+msgstr ""
+
+msgctxt "69"
+msgid "読んだ"
+msgstr ""
+
+msgctxt "70"
+msgid "ＨＰ　完全回復！"
+msgstr ""
+
+msgctxt "71"
+msgid "ｆを装備するには"
+msgstr ""
+
+msgctxt "72"
+msgid "武器レベルが足りません"
+msgstr ""
+
+msgctxt "73"
+msgid "道案内のようせいを"
+msgstr ""
+
+msgctxt "74"
+msgid "呼び出しました"
+msgstr ""
+
+msgctxt "75"
+msgid "ｇ　に変わった"
+msgstr ""
+
+msgctxt "76"
+msgid "ｅポイント下がった"
+msgstr ""
+
+msgctxt "77"
+msgid "ブタ状態は何でも食べられる！"
+msgstr ""
+
+msgctxt "78"
+msgid "病気なんて気にしない"
+msgstr ""
+
+msgctxt "79"
+msgid "最上階にいるので"
+msgstr ""
+
+msgctxt "80"
+msgid "意味がなかった……"
+msgstr ""
+

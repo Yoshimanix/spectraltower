@@ -8,41 +8,53 @@
 ; The max character lengths specified are what the game initially has as a limit.
 ; If you need more space, lemme know, so that I'll adjust the parameters for a specific category.
 
-.loadtable "lookuptable.tbl"
-.org 0x800396E0
+.loadtable "lookuptable_en.tbl"
+;.org 0x800396E0 ;Original location
+.org StartOfTextDump ;Location of (now unused) kanji table
+
+SpecialTextStart:
 
 ; Overworld menu
 ; These show up when pressing Triangle while in the overworld
 ; Max length: 12 characters
 SpecialOverworld:
 ;JP TEXT: "ステータス　"
-.stringn "Status      "
+.stringn "Status"
 
 ;JP TEXT: "アイテム　　"
-.stringn "Items       "
+.stringn "Items "
+
+;.notice "Special Overworld"
+;.notice tohex(SpecialOverworld)
 
 ; Combat
 ; These show up when it's the player's turn in combat.
 ; Max length: 8 characters
 SpecialCombat:
 ;JP TEXT: "戦　う　"
-.stringn "Attack  "
+.stringn "Attack "
 
 ;JP TEXT: "必殺技　"
-.stringn "必殺技　"
+.stringn "Special"
+
+;.notice "Special Combat"
+;.notice tohex(SpecialCombat)
 
 ; Inventory menu
 ; These show up when selecting an item in the inventory.
 ; Max length: 6 characters
 SpecialInventory:
 ;JP TEXT: "使用　"
-.stringn "Use   "
+.stringn "Use  "
 
 ;JP TEXT: "装備　　"
-.stringn "Equip "
+.stringn "Equip"
 
 ;JP TEXT: "捨てる"
-.stringn "Toss  "
+.stringn "Drop "
+
+;.notice "Special Inventory"
+;.notice tohex(SpecialInventory)
 
 ; Status menu
 ; These show up when confirming the player's character
@@ -52,65 +64,79 @@ SpecialInventory:
 SpecialStatusHeader:
 ; This one in particular has a max length of 14 characters
 ;JP TEXT: "ー対戦レベルー"
-.stringn "-Combat Levels-"
+.stringn "-Matchup Level-"
+
+;.notice "Special Status Header"
+;.notice tohex(SpecialStatusHeader)
 
 ; The rest in this category has a max length of 6 characters
 SpecialStatusCategories:
 
 ;JP TEXT: "対鬼："
-.stringn "対鬼："
+.stringn "Monster:    "
 
 ;JP TEXT: "対霊："
-.stringn "Spirits:"
-
-;JP TEXT: "対霊："
-.stringn "対霊："
+.stringn "Spirit:     "
 
 ;JP TEXT: "対魔："
-.stringn "対魔："
+.stringn "Magic:      "
 
 ;JP TEXT: "対竜："
-.stringn "対竜："
+.stringn "Dragon:     "
 
 ;JP TEXT: "対人："
-.stringn "対人："
+.stringn "Human:      "
 
 ;JP TEXT: "対悪："
-.stringn "対悪："
+.stringn "Demon:      "
 
 ;JP TEXT: "対武："
-.stringn "対武："
+.stringn "Weapons:    "
 
 ;JP TEXT: "対食："
-.stringn "対食："
+.stringn "Food:       "
 
 ;JP TEXT: "対注："
-.stringn "対注："
+.stringn "Search:     "
+
+;.notice "Special Status Categories"
+;.notice tohex(SpecialStatusCategories)
 
 ; These last two have a max length of 4 characters
 SpecialStatusCounters:
 ;JP TEXT: "呪："
-.stringn "呪："
+.stringn "Curse:  "
 
 ;JP TEXT: "病："
-.stringn "病："
+.stringn "Illness:"
+
+;.notice "Special Status Counters"
+;.notice tohex(SpecialStatusCounters)
 
 ; Yes / No
 ; No need to explain this one.
 ; Max length: 6 characters
 SpecialYesNo:
 ;JP TEXT: "はい　"
-.stringn "Yes   "
+.stringn "Yes"
 
 ;JP TEXT: "いいえ"
-.stringn "No    "
+.stringn "No "
+
+;.notice "Special Yes No"
+;.notice tohex(SpecialYesNo)
 
 ; Chest prompt
 ; This shows up when interacting with a chest of any category (normal, skull, golden)
 ;Max length: 8 characters
 SpecialChestPrompt:
 ;JP TEXT: "開ける　"
-.stringn "Open    "
+.stringn "Open  "
 
 ;JP TEXT: "やめる　"
-.stringn "Stop    "
+.stringn "Cancel"
+
+;.notice "Special Chest Prompt"
+;.notice tohex(SpecialChestPrompt)
+
+SpecialTextEnd:

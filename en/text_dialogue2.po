@@ -1,0 +1,364 @@
+msgctxt "0"
+msgid "成功すると敵から逃げる"
+msgstr ""
+
+msgctxt "1"
+msgid "聖神コリーアの力で"
+msgstr ""
+
+msgctxt "2"
+msgid "霊を成仏させます"
+msgstr ""
+
+msgctxt "3"
+msgid "持っているアイテムを"
+msgstr ""
+
+msgctxt "4"
+msgid "役立てて敵に攻撃をします"
+msgstr ""
+
+msgctxt "5"
+msgid "敵からアイテムを"
+msgstr ""
+
+msgctxt "6"
+msgid "ぬすみます"
+msgstr ""
+
+msgctxt "7"
+msgid "母なる大地の歌を歌う"
+msgstr ""
+
+msgctxt "8"
+msgid "たまに体力を回復します"
+msgstr ""
+
+msgctxt "9"
+msgid "敵にアイテムを渡し"
+msgstr ""
+
+msgctxt "10"
+msgid "商談を行う"
+msgstr ""
+
+msgctxt "11"
+msgid "敵を食べてしまいますが"
+msgstr ""
+
+msgctxt "12"
+msgid "病気になることもあります"
+msgstr ""
+
+msgctxt "13"
+msgid "自分の攻撃を"
+msgstr ""
+
+msgctxt "14"
+msgid "２回連続で行う"
+msgstr ""
+
+msgctxt "15"
+msgid "アイテムを聖神コリーアに"
+msgstr ""
+
+msgctxt "16"
+msgid "ささげ　体力の回復を行う"
+msgstr ""
+
+msgctxt "17"
+msgid "電撃を指先より発します"
+msgstr ""
+
+msgctxt "18"
+msgid "ＨＰを４０使います"
+msgstr ""
+
+msgctxt "19"
+msgid "自分の病気を敵に"
+msgstr ""
+
+msgctxt "20"
+msgid "ダメージとして与えます"
+msgstr ""
+
+msgctxt "21"
+msgid "はげしい一撃で敵を斬る"
+msgstr ""
+
+msgctxt "22"
+msgid "自分も０〜１００ダメージ"
+msgstr ""
+
+msgctxt "23"
+msgid "１０回連続　攻撃をします"
+msgstr ""
+
+msgctxt "24"
+msgid "聖なる波動で敵を攻撃"
+msgstr ""
+
+msgctxt "25"
+msgid "自分のＨＰを半分失います"
+msgstr ""
+
+msgctxt "26"
+msgid "敵を口説きます"
+msgstr ""
+
+msgctxt "27"
+msgid "ゆるしてもらいます"
+msgstr ""
+
+msgctxt "28"
+msgid "自然をたたえる聖歌"
+msgstr ""
+
+msgctxt "29"
+msgid "様々なことがおこります"
+msgstr ""
+
+msgctxt "30"
+msgid "命の力を解放して生ずる"
+msgstr ""
+
+msgctxt "31"
+msgid "波動を敵にあびせます"
+msgstr ""
+
+msgctxt "32"
+msgid "敵を一撃で倒すが"
+msgstr ""
+
+msgctxt "33"
+msgid "はずすと次に大ダメージ"
+msgstr ""
+
+msgctxt "34"
+msgid "敵にキスをします"
+msgstr ""
+
+msgctxt "35"
+msgid "敵が死ぬまで攻撃し続ける"
+msgstr ""
+
+msgctxt "36"
+msgid "ただし攻撃毎にＨＰ−２０"
+msgstr ""
+
+msgctxt "37"
+msgid "剣装備中なら聖なる波動で"
+msgstr ""
+
+msgctxt "38"
+msgid "ゴースト等を倒します"
+msgstr ""
+
+msgctxt "39"
+msgid "風の力を活かし５連続攻撃"
+msgstr ""
+
+msgctxt "40"
+msgid "ＨＰを１００使う"
+msgstr ""
+
+msgctxt "41"
+msgid "ユニコーンを呼ぶ口笛"
+msgstr ""
+
+msgctxt "42"
+msgid "何者かを呼びよせる"
+msgstr ""
+
+msgctxt "43"
+msgid "敵の前でおどりだす"
+msgstr ""
+
+msgctxt "44"
+msgid "自然の力を操り"
+msgstr ""
+
+msgctxt "45"
+msgid "敵を攻撃"
+msgstr ""
+
+msgctxt "46"
+msgid "めちゃくちゃな攻撃で"
+msgstr ""
+
+msgctxt "47"
+msgid "敵と戦います"
+msgstr ""
+
+msgctxt "48"
+msgid "聖なる力とアイテムにより"
+msgstr ""
+
+msgctxt "49"
+msgid "体力回復をおこないます"
+msgstr ""
+
+msgctxt "50"
+msgid "はげしい炎で敵を攻撃"
+msgstr ""
+
+msgctxt "51"
+msgid "ＨＰを１〜２００失います"
+msgstr ""
+
+msgctxt "52"
+msgid "何者かの登場を祈ります"
+msgstr ""
+
+msgctxt "53"
+msgid "敵に手品を見せます"
+msgstr ""
+
+msgctxt "54"
+msgid "「ワールド」というカード"
+msgstr ""
+
+msgctxt "55"
+msgid "を１枚ひきます"
+msgstr ""
+
+msgctxt "56"
+msgid "自分の呪いを敵に"
+msgstr ""
+
+msgctxt "57"
+msgid "海の男達の攻撃方法"
+msgstr ""
+
+msgctxt "58"
+msgid "ぐるぐる回って敵を斬る"
+msgstr ""
+
+msgctxt "59"
+msgid "世界をたたえる神歌"
+msgstr ""
+
+msgctxt "60"
+msgid "敵を味見します"
+msgstr ""
+
+msgctxt "61"
+msgid "サイコロの結果内容を"
+msgstr ""
+
+msgctxt "62"
+msgid "入れ換えます"
+msgstr ""
+
+msgctxt "63"
+msgid "身がわり君が敵の攻撃を"
+msgstr ""
+
+msgctxt "64"
+msgid "うけてくれる"
+msgstr ""
+
+msgctxt "65"
+msgid "攻撃君がかわりに"
+msgstr ""
+
+msgctxt "66"
+msgid "戦ってくれる"
+msgstr ""
+
+msgctxt "67"
+msgid "敵にやさしく"
+msgstr ""
+
+msgctxt "68"
+msgid "ほほえみかけます"
+msgstr ""
+
+msgctxt "69"
+msgid "分身をして３人がかりで"
+msgstr ""
+
+msgctxt "70"
+msgid "攻撃をおこないます"
+msgstr ""
+
+msgctxt "71"
+msgid "おかしな行動をとって"
+msgstr ""
+
+msgctxt "72"
+msgid "相手を混乱させます"
+msgstr ""
+
+msgctxt "73"
+msgid "必殺の月光連打"
+msgstr ""
+
+msgctxt "74"
+msgid "自分もかなりのダメージ"
+msgstr ""
+
+msgctxt "75"
+msgid "敵を回転して投げとばす"
+msgstr ""
+
+msgctxt "76"
+msgid "ＨＰを１０失います"
+msgstr ""
+
+msgctxt "77"
+msgid "ドレインタッチで"
+msgstr ""
+
+msgctxt "78"
+msgid "敵のＨＰ吸収"
+msgstr ""
+
+msgctxt "79"
+msgid "空き"
+msgstr ""
+
+msgctxt "80"
+msgid "天にむかって"
+msgstr ""
+
+msgctxt "81"
+msgid "おたけびをあげます"
+msgstr ""
+
+msgctxt "82"
+msgid "ゾンビを呼びだし"
+msgstr ""
+
+msgctxt "83"
+msgid "敵を攻撃します"
+msgstr ""
+
+msgctxt "84"
+msgid "力のかぎりの一撃を"
+msgstr ""
+
+msgctxt "85"
+msgid "敵にたたきこみます"
+msgstr ""
+
+msgctxt "86"
+msgid "正義と愛を力に変え"
+msgstr ""
+
+msgctxt "87"
+msgid "敵を斬りさきます"
+msgstr ""
+
+msgctxt "88"
+msgid "何もしません"
+msgstr ""
+
+msgctxt "89"
+msgid "現在の状態では"
+msgstr ""
+
+msgctxt "90"
+msgid "この技は使えません"
+msgstr ""
+

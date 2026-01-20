@@ -1,0 +1,20 @@
+msgctxt "0"
+msgid "スペクトラルタワー　ゴブリンタワー　　　　　　　　　"
+msgstr ""
+
+msgctxt "1"
+msgid "スペクトラルタワー　泥棒タワー　　　　　　　　　　　"
+msgstr ""
+
+msgctxt "2"
+msgid "スペクトラルタワー　クイーン・ローズタワー　　　　　"
+msgstr ""
+
+msgctxt "3"
+msgid "スペクトラルタワー　スペクトラルタワー　　　　　　　"
+msgstr ""
+
+msgctxt "4"
+msgid "スペクトラルタワー　最後の塔　　　　　　　　　　　　"
+msgstr ""
+
