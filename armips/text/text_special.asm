@@ -32,10 +32,10 @@ SpecialOverworld:
 ; Max length: 8 characters
 SpecialCombat:
 ;JP TEXT: "戦　う　"
-.stringn "Attack "
+.stringn "Attack  "
 
 ;JP TEXT: "必殺技　"
-.stringn "Special"
+.stringn "Special "
 
 ;.notice "Special Combat"
 ;.notice tohex(SpecialCombat)
@@ -45,13 +45,13 @@ SpecialCombat:
 ; Max length: 6 characters
 SpecialInventory:
 ;JP TEXT: "使用　"
-.stringn "Use  "
+.stringn "Use   "
 
 ;JP TEXT: "装備　　"
-.stringn "Equip"
+.stringn "Equip "
 
 ;JP TEXT: "捨てる"
-.stringn "Drop "
+.stringn "Drop  "
 
 ;.notice "Special Inventory"
 ;.notice tohex(SpecialInventory)
@@ -131,12 +131,17 @@ SpecialYesNo:
 ;Max length: 8 characters
 SpecialChestPrompt:
 ;JP TEXT: "開ける　"
-.stringn "Open  "
+.stringn "Open    "
 
 ;JP TEXT: "やめる　"
-.stringn "Cancel"
+.stringn "Give Up "
 
 ;.notice "Special Chest Prompt"
 ;.notice tohex(SpecialChestPrompt)
+
+; DO NOT REMOVE THIS LOADTABLE
+; Despite seeming useless, not doing this will make the CLUT for the overworld
+; use (0,0) as its origin for whatever reason.
+.loadtable "shiftjis.tbl"
 
 SpecialTextEnd:
