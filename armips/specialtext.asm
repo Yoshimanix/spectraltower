@@ -7,7 +7,7 @@ slti v0,v0,0x7
 .byte 7
 .org 0x80056068
 lui s5, 0x8009
-addiu s5,s5, 0xb96
+addiu s5,s5, 0xdda
 .org 0x80056094
 sra v0,v0,0xc
 
@@ -18,7 +18,7 @@ slti v0,v0,0x7
 .byte 7
 .org 0x80055af4
 lui s5, 0x8009
-addiu s5,s5, 0xa30
+addiu s5,s5, 0xc74
 .org 0x80055b20
 sra v0,v0,0xc
 
@@ -29,7 +29,7 @@ slti v0,v0,0x5
 .byte 7
 .org 0x80055be4
 lui s5, 0x8009
-addiu s5,s5, 0xa50
+addiu s5,s5, 0xc94
 .org 0x80055c1c
 sll v0,v0,0x2
 
@@ -40,7 +40,7 @@ slti v0,v0,0x6
 .byte 7
 .org 0x800559f8
 lui s5, 0x8009
-addiu s5,s5, 0xa18
+addiu s5,s5, 0xc5c
 
 ;patch status stride
 .org 0x80055d30
@@ -49,7 +49,7 @@ slti v0,v0,0xf
 .byte 7
 .org 0x80055ce0
 lui s0, 0x8009
-addiu s0,s0, 0xa74
+addiu s0,s0, 0xcbb
 
 .org 0x80055da8
 slti v0,v0,0x8
@@ -57,7 +57,7 @@ slti v0,v0,0x8
 .byte 7
 .org 0x80055d48
 lui s5, 0x8009
-addiu s5,s5, 0xa92
+addiu s5,s5, 0xcd6
 .org 0x80055d64
 sll v0,v0,0x3
 
@@ -67,7 +67,7 @@ slti v0,v0,0x8
 .byte 7
 .org 0x80055de0
 lui s5, 0x8009
-addiu s5,s5, 0xa92
+addiu s5,s5, 0xcd6
 .org 0x80055dfc
 sll v0,v0,0x3
 
@@ -77,7 +77,7 @@ slti v0,v0,0x8
 .byte 7
 .org 0x80055e78
 lui s0, 0x8009
-addiu s0,s0, 0xb6a
+addiu s0,s0, 0xdae
 
 
 .org 0x80055ed0
@@ -88,7 +88,7 @@ slti v0,v0,0x10
 .byte 7
 .org 0x80055ed4
 lui s0, 0x8009
-addiu s0,s0, 0xb6a
+addiu s0,s0, 0xdae
 
 ;patch yesno stride
 .org 0x80055fec
@@ -97,6 +97,6 @@ slti v0,v0,0x3
 .byte 7
 .org 0x80055f6c
 lui s5, 0x8009
-addiu s5,s5, 0xb8a
+addiu s5,s5, 0xdce
 
 

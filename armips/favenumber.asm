@@ -8,10 +8,21 @@
 ; copy blit_text_to_vram()
 .align
 BlitToRamOriginal:
-.incbin "SLPS_004.76", 0x435E0, 0x1C4
-nop
+.incbin "SLPS_004.76", 0x435E0, 0x1C8
+.align
+
+; copy get_glyph_offset()
+GetGlyphOffsetOriginal:
+.incbin "SLPS_004.76", 0x43564, 0x7c
+.align
+
+; copy blit_text_to_vram() but modify to use original get_glyph_offset()
+BlitToRamSJIS:
+.incbin "SLPS_004.76", 0x435E0, 0x1C8
 .align
 StartOfTextDump:
+.org 0x80090af0
+jal GetGlyphOffsetOriginal
 
 ; repoint fav_number_update()'s call of blit_text_to_vram() to the newly copied one
 .org 0x800467dc

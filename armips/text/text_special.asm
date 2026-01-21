@@ -24,8 +24,8 @@ SpecialOverworld:
 ;JP TEXT: "アイテム　　"
 .stringn "Items "
 
-;.notice "Special Overworld"
-;.notice tohex(SpecialOverworld)
+.notice "Special Overworld"
+.notice tohex(SpecialOverworld)
 
 ; Combat
 ; These show up when it's the player's turn in combat.
@@ -37,8 +37,8 @@ SpecialCombat:
 ;JP TEXT: "必殺技　"
 .stringn "Special "
 
-;.notice "Special Combat"
-;.notice tohex(SpecialCombat)
+.notice "Special Combat"
+.notice tohex(SpecialCombat)
 
 ; Inventory menu
 ; These show up when selecting an item in the inventory.
@@ -53,8 +53,8 @@ SpecialInventory:
 ;JP TEXT: "捨てる"
 .stringn "Drop  "
 
-;.notice "Special Inventory"
-;.notice tohex(SpecialInventory)
+.notice "Special Inventory"
+.notice tohex(SpecialInventory)
 
 ; Status menu
 ; These show up when confirming the player's character
@@ -66,8 +66,8 @@ SpecialStatusHeader:
 ;JP TEXT: "ー対戦レベルー"
 .stringn "-Matchup Level-"
 
-;.notice "Special Status Header"
-;.notice tohex(SpecialStatusHeader)
+.notice "Special Status Header"
+.notice tohex(SpecialStatusHeader)
 
 ; The rest in this category has a max length of 6 characters
 SpecialStatusCategories:
@@ -91,7 +91,7 @@ SpecialStatusCategories:
 .stringn "Demon:      "
 
 ;JP TEXT: "対武："
-.stringn "Weapons:    "
+.stringn "Weapon:     "
 
 ;JP TEXT: "対食："
 .stringn "Food:       "
@@ -99,8 +99,8 @@ SpecialStatusCategories:
 ;JP TEXT: "対注："
 .stringn "Search:     "
 
-;.notice "Special Status Categories"
-;.notice tohex(SpecialStatusCategories)
+.notice "Special Status Categories"
+.notice tohex(SpecialStatusCategories)
 
 ; These last two have a max length of 4 characters
 SpecialStatusCounters:
@@ -110,8 +110,8 @@ SpecialStatusCounters:
 ;JP TEXT: "病："
 .stringn "Illness:"
 
-;.notice "Special Status Counters"
-;.notice tohex(SpecialStatusCounters)
+.notice "Special Status Counters"
+.notice tohex(SpecialStatusCounters)
 
 ; Yes / No
 ; No need to explain this one.
@@ -123,8 +123,8 @@ SpecialYesNo:
 ;JP TEXT: "いいえ"
 .stringn "No "
 
-;.notice "Special Yes No"
-;.notice tohex(SpecialYesNo)
+.notice "Special Yes No"
+.notice tohex(SpecialYesNo)
 
 ; Chest prompt
 ; This shows up when interacting with a chest of any category (normal, skull, golden)
@@ -136,8 +136,8 @@ SpecialChestPrompt:
 ;JP TEXT: "やめる　"
 .stringn "Give Up "
 
-;.notice "Special Chest Prompt"
-;.notice tohex(SpecialChestPrompt)
+.notice "Special Chest Prompt"
+.notice tohex(SpecialChestPrompt)
 
 ; DO NOT REMOVE THIS LOADTABLE
 ; Despite seeming useless, not doing this will make the CLUT for the overworld
