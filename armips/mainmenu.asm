@@ -99,6 +99,10 @@ ori a1,zero,170
 .org 0x8004b654
 ori a1,zero,170
 .org 0x8004b67c
-ori a1,zero,68
+ori a1,zero,76
 .org 0x8004b6b0
-ori a1,zero,168
+ori a1,zero,186
+
+;draw enemy level 16 pixels more to the right, to fix triple digits
+.org 0x8004b1c4
+ori a1,zero,279

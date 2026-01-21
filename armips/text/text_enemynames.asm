@@ -15,7 +15,7 @@ str_8003AA28:
 
 str_800C07AC:
 ;JP TEXT: "鬼"
-.string "Demon"
+.string "Monster"
 
 str_800C07A4:
 ;JP TEXT: "インプ"
@@ -23,7 +23,7 @@ str_800C07A4:
 
 str_800C079C:
 ;JP TEXT: "使い魔"
-.string "使い魔"
+.string "Familiar"
 
 str_8003AA1C:
 ;JP TEXT: "ゴブリン"
@@ -59,11 +59,11 @@ str_8003AA04:
 
 str_8003A9F8:
 ;JP TEXT: "コインマン"
-.string "Coin Man"
+.string "Coinman"
 
 str_8003A9E8:
 ;JP TEXT: "メッキコイン"
-.string "Mech Coin"
+.string "Plated Coinman"
 
 str_8003A9D8:
 ;JP TEXT: "ホブゴブリン"
@@ -111,15 +111,15 @@ str_8003A98C:
 
 str_8003A980:
 ;JP TEXT: "アクリョウ"
-.string "アクリョウ"
+.string "Evil Spirit"
 
 str_800C075C:
 ;JP TEXT: "呪術師"
-.string "呪術師"
+.string "Sorcerer"
 
 str_8003A974:
 ;JP TEXT: "カエル男爵"
-.string "カエル男爵"
+.string "Frog Baron"
 
 str_8003A964:
 ;JP TEXT: "ウェアウルフ"
@@ -159,23 +159,23 @@ str_800C074C:
 
 str_800C0744:
 ;JP TEXT: "悪魔"
-.string "悪魔"
+.string "Demon"
 
 str_800C073C:
 ;JP TEXT: "マオウ"
-.string "マオウ"
+.string "Demon King"
 
 str_8003A90C:
 ;JP TEXT: "ヘルガイア"
-.string "ヘルガイア"
+.string "Helgaia"
 
 str_800C0734:
 ;JP TEXT: "ココロ"
-.string "ココロ"
+.string "Kokoro"
 
 str_800C072C:
 ;JP TEXT: "キシン"
-.string "キシン"
+.string "Kishin"
 
 str_8003A900:
 ;JP TEXT: "黒ドラゴン"
@@ -191,11 +191,11 @@ str_8003A8E8:
 
 str_8003A8DC:
 ;JP TEXT: "銀ドラゴン"
-.string "銀ドラゴン"
+.string "Silver Dragon"
 
 str_800C0724:
 ;JP TEXT: "極戦鬼"
-.string "極戦鬼"
+.string "Demon Warrior"
 
 str_8003A8CC:
 ;JP TEXT: "スペクトラル竜"
@@ -203,35 +203,35 @@ str_8003A8CC:
 
 str_8003A8BC:
 ;JP TEXT: "あばれコイン"
-.string "あばれコイン"
+.string "Wild Coin"
 
 str_8003A8AC:
 ;JP TEXT: "ビンボコイン"
-.string "ビンボコイン"
+.string "Poor Coin"
 
 str_8003A8A0:
 ;JP TEXT: "呪いコイン"
-.string "呪いコイン"
+.string "Cursed Coin"
 
 str_8003A894:
 ;JP TEXT: "病気コイン"
-.string "病気コイン"
+.string "Sick Coin"
 
 str_8003A888:
 ;JP TEXT: "王様コイン"
-.string "王様コイン"
+.string "King Coin"
 
 str_8003A87C:
 ;JP TEXT: "ブリモリン"
-.string "ブリモリン"
+.string "Brimolin"
 
 str_8003A870:
 ;JP TEXT: "マンビー"
-.string "マンビー"
+.string "Manby"
 
 str_800C071C:
 ;JP TEXT: "ギャプ"
-.string "ギャプ"
+.string "Gap"
 
 str_8003A860:
 ;JP TEXT: "クイーンローズ"
@@ -239,7 +239,7 @@ str_8003A860:
 
 str_800C0718:
 ;JP TEXT: "神"
-.string "God"
+.string "Kami"
 
 str_800C0710:
 ;JP TEXT: "トイレ"
@@ -251,7 +251,7 @@ str_800C070C:
 
 str_8003A37C:
 ;JP TEXT: "パン屋のユウさん"
-.string "パン屋のユウさん"
+.string "Baker Yu"
 
 str_800C0704:
 ;JP TEXT: "ベット"

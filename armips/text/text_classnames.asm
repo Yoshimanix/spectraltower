@@ -447,18 +447,18 @@ str_80028180:
 
 str_800285C8:
 ;JP TEXT: "０１２３４５６７８９／対戦レベル"
-.string "0 1 2 3 4 5 6 7 8 9 ／A C D E F "
+.string "0 1 2 3 4 5 6 7 8 9 ／A C D E F"
 
 str_800285A4:
 ;JP TEXT: "：鬼霊魔竜人悪武食注呪病はいえ使"
-.string "H I J K L M N O P Q R S T U G W "
+.string "H I J K L M N O P Q R S T U G W"
 
 str_80028580:
 ;JP TEXT: "用捨てるステータ装アイム必殺技う"
-.string "- Y : a b c d e f g h i j k l m "
+.string "- Y : a b c d e f g h i j k l m"
 
 str_8002855C:
 ;JP TEXT: "！開けやめさ　　。、　備　　　　"
-.string "n o p q r s t u v w   y z       "
+.string "n o p q r s t u v w   y z      "
 
 ClassNameTextEnd:
