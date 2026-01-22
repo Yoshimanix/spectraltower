@@ -24,6 +24,8 @@ nop
 addiu s0,s0,0x1
 
 ; do the same for main textbox blitting
+.org 0x800533ac
+addiu s2,s2,0x2
 .org 0x800534f4
 addiu s2,s2,0x2
 .org 0x800534f8

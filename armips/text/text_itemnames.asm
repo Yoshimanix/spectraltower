@@ -8,15 +8,15 @@ ItemNameTextStart:
 
 str_800C07F8:
 ;JP TEXT: "　"
-.string " "
+.string ""
 
 str_8003CCF0:
 ;JP TEXT: "さびた剣？"
-.string "Rusty Sword?"
+.string "Rusted Sword?"
 
 str_800C07F0:
 ;JP TEXT: "ナイフ"
-.string "Knife "
+.string "Knife"
 
 str_8003CCE0:
 ;JP TEXT: "ブロンズソード"
@@ -24,7 +24,7 @@ str_8003CCE0:
 
 str_8003CCD0:
 ;JP TEXT: "ロングソード"
-.string "Longsword "
+.string "Longsword"
 
 str_8003CCC0:
 ;JP TEXT: "マルスブレイド"
@@ -40,15 +40,15 @@ str_8003CC98:
 
 str_8003CC84:
 ;JP TEXT: "コインマンキラー"
-.string "コインマンキラー"
+.string "Coinman Killer"
 
 str_8003CC70:
 ;JP TEXT: "ドラゴンブレイク"
-.string "ドラゴンブレイク"
+.string "Dragon Break"
 
 str_8003CC64:
 ;JP TEXT: "人斬りの刃"
-.string "人斬りの刃"
+.string "Slayer's Blade"
 
 str_8003CC54:
 ;JP TEXT: "エクスカリバー"
@@ -60,39 +60,39 @@ str_8003CC44:
 
 str_8003CC34:
 ;JP TEXT: "やくたたずな剣"
-.string "Yakutazuna Sword"
+.string "Useless Sword"
 
 str_8003CC24:
 ;JP TEXT: "なぞのメダル"
-.string "なぞのメダル"
+.string "Mysterious Medal"
 
 str_8003CC18:
 ;JP TEXT: "命のしずく"
-.string "命のしずく"
+.string "Droplets of Life"
 
 str_8003CC08:
 ;JP TEXT: "対鬼のメダル"
-.string "対鬼のメダル"
+.string "Monster Medal"
 
 str_8003CBF8:
 ;JP TEXT: "対霊のメダル"
-.string "対霊のメダル"
+.string "Familiar Medal"
 
 str_8003CBE8:
 ;JP TEXT: "対魔のメダル"
-.string "対魔のメダル"
+.string "Demon Metal"
 
 str_8003CBD8:
 ;JP TEXT: "対竜のメダル"
-.string "対竜のメダル"
+.string "Dragon Medal"
 
 str_8003CBC8:
 ;JP TEXT: "対人のメダル"
-.string "対人のメダル"
+.string "Human Medal"
 
 str_8003CBB8:
 ;JP TEXT: "対悪のメダル"
-.string "対悪のメダル"
+.string "Demon Medal"
 
 str_8003CBA8:
 ;JP TEXT: "シェフのメダル"
@@ -172,7 +172,7 @@ str_8003CAC0:
 
 str_8003CAB4:
 ;JP TEXT: "パピルス"
-.string "Papyrus "
+.string "Papyrus"
 
 str_8003CAA4:
 ;JP TEXT: "まほうのといし"
@@ -188,7 +188,7 @@ str_8003CA84:
 
 str_8003CA70:
 ;JP TEXT: "フェアリーロッド"
-.string "Fairy Rod "
+.string "Fairy Rod"
 
 str_8003CA64:
 ;JP TEXT: "金のかけら"
@@ -232,19 +232,19 @@ str_8003C9F4:
 
 str_8003C9E4:
 ;JP TEXT: "ダークアックス"
-.string "ダークアックス"
+.string "Dark Axe"
 
 str_8003C9D4:
 ;JP TEXT: "ダークサーベル"
-.string "ダークサーベル"
+.string "Dark Saber"
 
 str_8003C9C4:
 ;JP TEXT: "ダークソード"
-.string "ダークソード"
+.string "Dark Sword"
 
 str_8003C9B4:
 ;JP TEXT: "ダークブレイド"
-.string "ダークブレイド"
+.string "Dark Blade"
 
 str_8003C9A4:
 ;JP TEXT: "がらくたロッド"

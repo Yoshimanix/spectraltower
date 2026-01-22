@@ -5,27 +5,27 @@ BattleTextStart:
 
 str_0x8002BB74:
 ;JP Text: "ｃ　とのバトル"
-.string "You encountered a Г."
+.string "You encountered a Д."
 
 str_0x8002BB64:
 ;JP Text: "ａ　が先攻です"
-.string "ａ　が先攻です"
+.string "Б goes first."
 
 str_0x8002BB54:
 ;JP Text: "ｃ　が先攻です"
-.string "ｃ　が先攻です"
+.string "The Г goes first."
 
 str_0x8002BB3C:
 ;JP Text: "クリティカルヒット！"
-.string "A critical hit！"
+.string "A critical hit!"
 
 str_0x8002BB2C:
 ;JP Text: "ｃ　をたおした"
-.string "Г was defeated."
+.string "The Д was defeated."
 
 str_0x8002BB1C:
 ;JP Text: "ａ　の攻撃成功"
-.string "ａ　の攻撃成功"
+.string "Б's attack succeeded."
 
 str_0x8002BB08:
 ;JP Text: "ｃ　は少し弱った"
@@ -33,15 +33,15 @@ str_0x8002BB08:
 
 str_0x8002BAF8:
 ;JP Text: "ａ　の攻撃失敗"
-.string "ａ　の攻撃失敗"
+.string "Б's attack failed."
 
 str_0x8002BAEC:
 ;JP Text: "ｃ　の攻撃"
-.string "The Г attacks!"
+.string "The Д attacks!"
 
 str_0x8002BAD4:
 ;JP Text: "ｅのダメージをうけた"
-.string "ｅのダメージをうけた"
+.string "Dealt Е damage."
 
 str_0x8002BAC0:
 ;JP Text: "死んでしまった……"
@@ -57,7 +57,7 @@ str_0x8002BAAC:
 
 str_0x8002BA9C:
 ;JP Text: "ａ　を呪った"
-.string "ａ　を呪った"
+.string "cursed Б."
 
 str_0x8002BA8C:
 ;JP Text: "ｃ　は何かが"
@@ -113,11 +113,11 @@ str_0x8002B9A8:
 
 str_0x8002B994:
 ;JP Text: "ｇ　をぬすまれた"
-.string "ｇ　をぬすまれた"
+.string "stole the Ж."
 
 str_0x800C059C:
 ;JP Text: "ｃ　の"
-.string "ｃ　の"
+.string "Г's"
 
 str_0x8002B984:
 ;JP Text: "はげしい攻撃！"

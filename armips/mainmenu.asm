@@ -34,9 +34,21 @@ sll v1,a0,0x3
 
 ; Fix Inventory Item Name Text
 ; Essentially run half the original loop length
-.org 0x80064c2c
-;sra a0,a0,0xf
 
+; Don't halve length when setting up character
+.org 0x80064238
+addiu v1,v0,0x1
+nop
+
+; Also don't do it when picking up items
+.org 0x800662a4
+addiu v1,v0,0x1
+nop
+
+; Also don't do it when loading the game(?)
+.org 0x8006669c
+addiu v1,v0,0x1
+nop
 
 ; Adjust main menu rect target X coordinate offset.
 .org 0x800583b8

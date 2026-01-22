@@ -35,7 +35,7 @@ str_0x8002B320:
 
 str_0x8002B304:
 ;JP Text: "アイテムを持っていません"
-.string "アイテムを持っていません"
+.string "You can't use the item."
 
 str_0x8002B2F0:
 ;JP Text: "ｇ　を手に入れた"
