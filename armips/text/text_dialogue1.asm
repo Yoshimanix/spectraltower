@@ -8,35 +8,35 @@ Dialogue1TextStart:
 
 str_0x80036094:
 ;JP Text: "ぼくらノームぞくは人間とも"
-.string "ぼくらノームぞくは人間とも"
+.string "We gnomes are friendly with"
 
 str_0x80036078:
 ;JP Text: "モンスターとも　なかよしさ"
-.string "モンスターとも　なかよしさ"
+.string "both Monsters and Humans."
 
 str_0x800C068C:
 ;JP Text: "つまり"
-.string "つまり"
+.string "In other words,"
 
 str_0x8003605C:
 ;JP Text: "どっちつかずってことだね"
-.string "どっちつかずってことだね"
+.string "we have no allegiance."
 
 str_0x80036040:
 ;JP Text: "剣やロッドには　さびついて"
-.string "剣やロッドには　さびついて"
+.string "Swords and rods can get so rusted"
 
 str_0x80036028:
 ;JP Text: "石化しているものもある"
-.string "石化しているものもある"
+.string "that they turn to stone."
 
 str_0x8003600C:
 ;JP Text: "しかし　まほうのといしを"
-.string "しかし　まほうのといしを"
+.string "However, if you use the Magic Whetstone,"
 
 str_0x80035FF0:
 ;JP Text: "使えば正体がわかるらしいよ"
-.string "使えば正体がわかるらしいよ"
+.string "I've heard you can learn its true form."
 
 str_0x80035FD8:
 ;JP Text: "この世界の神様ムゲンは"

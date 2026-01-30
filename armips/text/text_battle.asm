@@ -5,7 +5,7 @@ BattleTextStart:
 
 str_0x8002BB74:
 ;JP Text: "ｃ　とのバトル"
-.string "You encountered a Д."
+.string "Encountered Г."
 
 str_0x8002BB64:
 ;JP Text: "ａ　が先攻です"
@@ -21,7 +21,7 @@ str_0x8002BB3C:
 
 str_0x8002BB2C:
 ;JP Text: "ｃ　をたおした"
-.string "The Д was defeated."
+.string "Г was defeated."
 
 str_0x8002BB1C:
 ;JP Text: "ａ　の攻撃成功"
@@ -37,11 +37,11 @@ str_0x8002BAF8:
 
 str_0x8002BAEC:
 ;JP Text: "ｃ　の攻撃"
-.string "The Д attacks!"
+.string "Г's attack"
 
 str_0x8002BAD4:
 ;JP Text: "ｅのダメージをうけた"
-.string "Dealt Е damage."
+.string "dealt Е damage."
 
 str_0x8002BAC0:
 ;JP Text: "死んでしまった……"
@@ -49,7 +49,7 @@ str_0x8002BAC0:
 
 str_0x800C05AC:
 ;JP Text: "ｃ　は"
-.string "ｃ　は"
+.string "Г"
 
 str_0x8002BAAC:
 ;JP Text: "ａ　をうらんでいる"

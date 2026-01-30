@@ -19,55 +19,55 @@ SystemTextStart:
 
 str_0x8002B368:
 ;JP Text: "現在のプレーヤーの状態です"
-.string "現在のプレーヤーの状態です"
+.string "Current player status:"
 
 str_0x8002B344:
 ;JP Text: "　　　　　ゴブリンタワー　挑戦中"
-.string "　　　　　ゴブリンタワー　挑戦中"
+.string "      Goblin Tower - In Progress"
 
 str_0x8002B338:
 ;JP Text: "本当にｆを"
-.string "本当にｆを"
+.string "Are you sure you want to"
 
 str_0x8002B320:
 ;JP Text: "捨ててもいいですか？"
-.string "捨ててもいいですか？"
+.string "discard the Ё?"
 
 str_0x8002B304:
 ;JP Text: "アイテムを持っていません"
-.string "You can't use the item."
+.string "You do not have any items."
 
 str_0x8002B2F0:
 ;JP Text: "ｇ　を手に入れた"
-.string "You got the Ж."
+.string "You obtained the Ж."
 
 str_0x800C0594:
 ;JP Text: "しかし"
-.string "But"
+.string "However,"
 
 str_0x8002B2D8:
 ;JP Text: "これ以上　持てません"
-.string "これ以上　持てません"
+.string "you cannot hold any more items."
 
 str_0x800C058C:
 ;JP Text: "ｇ　を"
-.string "ｇ　を"
+.string "You returned the Ж"
 
 str_0x8002B2C4:
 ;JP Text: "宝箱に戻しました"
-.string "宝箱に戻しました"
+.string "to the chest."
 
 str_0x8002B2AC:
 ;JP Text: "病気レベル完全回復！"
-.string "病気レベル完全回復！"
+.string "Illness level completely restored!"
 
 str_0x8002B294:
 ;JP Text: "呪いレベル完全回復！"
-.string "呪いレベル完全回復！"
+.string "Curse level completely restored!"
 
 str_0x8002B280:
 ;JP Text: "どれを捨てますか？"
-.string "どれを捨てますか？"
+.string "What item will you discard?"
 
 str_0x8002B270:
 ;JP Text: "使いますか？"
@@ -99,47 +99,47 @@ str_0x8002B22C:
 
 str_0x8002B218:
 ;JP Text: "メモリーカードを"
-.string "メモリーカードを"
+.string "Checking the"
 
 str_0x8002B204:
 ;JP Text: "チェックしています"
-.string "チェックしています"
+.string "Memory Card…"
 
 str_0x8002B1E8:
 ;JP Text: "もう一度　確認してください"
-.string "もう一度　確認してください"
+.string "Please confirm again."
 
 str_0x8002B1D8:
 ;JP Text: "続けますか？"
-.string "続けますか？"
+.string "Continue?"
 
 str_0x8002B1BC:
 ;JP Text: "セーブ中ですお待ちください"
-.string "セーブ中ですお待ちください"
+.string "Saving data… please wait."
 
 str_0x8002B1A0:
 ;JP Text: "メモリーカードが一杯です"
-.string "メモリーカードが一杯です"
+.string "The Memory Card is full."
 
 str_0x8002B190:
 ;JP Text: "セーブしました"
-.string "セーブしました"
+.string "Save complete."
 
 str_0x8002B178:
 ;JP Text: "ゲームを続けますか？"
-.string "ゲームを続けますか？"
+.string "Continue playing?"
 
 str_0x8002B164:
 ;JP Text: "お化けトイレがある"
-.string "お化けトイレがある"
+.string "There is a spooky restroom."
 
 str_0x8002B150:
 ;JP Text: "中に入りますか？"
-.string "中に入りますか？"
+.string "Will you enter inside?"
 
 str_0x8002B138:
 ;JP Text: "お化けトイレに入った"
-.string "お化けトイレに入った"
+.string "You entered the spooky restroom."
 
 str_0x8002B124:
 ;JP Text: "……………………"
@@ -147,19 +147,19 @@ str_0x8002B124:
 
 str_0x8002B118:
 ;JP Text: "うっぷ！"
-.string "うっぷ！"
+.string "Yuck!"
 
 str_0x8002B104:
 ;JP Text: "ひどいにおいだ！"
-.string "ひどいにおいだ！"
+.string "What a horrible smell!"
 
 str_0x8002B0F0:
 ;JP Text: "こりゃ　たまらない"
-.string "こりゃ　たまらない"
+.string "This is too much…"
 
 str_0x8002B0DC:
 ;JP Text: "病気をｅうけた！"
-.string "病気をｅうけた！"
+.string "You contracted Е illness(es)."
 
 str_0x8002B0D0:
 ;JP Text: "ふう……"

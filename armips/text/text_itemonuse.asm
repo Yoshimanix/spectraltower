@@ -34,7 +34,7 @@ str_0x800C0564:
 
 str_0x8002A3D8:
 ;JP Text: "しかし何もおこらなかった"
-.string "しかし何もおこらなかった"
+.string "But nothing happened."
 
 str_0x800C055C:
 ;JP Text: "ＨＰが"

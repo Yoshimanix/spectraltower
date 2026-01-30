@@ -1,0 +1,14 @@
+Naming screen table
+
+Starts at 0x80039A78
+Total length: 0x4EC bytes
+Length per entry: 0xC bytes
+Total entries: 105
+0x0 (0x2): Cursor X
+0x2 (0x2): Cursor Y
+0x4 (0x1): Character Index when pressing Up
+0x5 (0x1): Character Index when pressing Down
+0x6 (0x1): Character Index when pressing Left
+0x7 (0x1): Character Index when pressing Right
+0x8 (0x2): Shift-JIS character in Table 1
+0xA (0x2): Shift-JIS character in Table 2
