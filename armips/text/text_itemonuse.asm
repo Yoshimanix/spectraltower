@@ -18,7 +18,7 @@ ItemOnUseTextStart:
 
 str_0x800C057C:
 ;JP Text: "ｆ　を"
-.string "The Ё"
+.string "ｆ"
 
 str_0x800C0574:
 ;JP Text: "使った"
@@ -30,63 +30,63 @@ str_0x800C056C:
 
 str_0x800C0564:
 ;JP Text: "ふった"
-.string "ふった"
+.string "was swung."
 
 str_0x8002A3D8:
 ;JP Text: "しかし何もおこらなかった"
-.string "But nothing happened."
+.string "However, nothing happened."
 
 str_0x800C055C:
 ;JP Text: "ＨＰが"
-.string "HP was"
+.string "ＨＰ"
 
 str_0x8002A3C4:
 ;JP Text: "ｅポイント上がった"
-.string "increased by Е points."
+.string "was increased by ｅ points."
 
 str_0x8002A3B4:
 ;JP Text: "対鬼レベルが"
-.string "対鬼レベルが"
+.string "Monster level"
 
 str_0x8002A3A4:
 ;JP Text: "対霊レベルが"
-.string "対霊レベルが"
+.string "Spirit level"
 
 str_0x8002A390:
 ;JP Text: "対使い魔レベルが"
-.string "対使い魔レベルが"
+.string "Familiar level"
 
 str_0x8002A380:
 ;JP Text: "対竜レベルが"
-.string "対竜レベルが"
+.string "Dragon level"
 
 str_0x8002A370:
 ;JP Text: "対人間レベルが"
-.string "対人間レベルが"
+.string "Human level"
 
 str_0x8002A360:
 ;JP Text: "対悪魔レベルが"
-.string "対悪魔レベルが"
+.string "Demon level"
 
 str_0x8002A350:
 ;JP Text: "グルメレベルが"
-.string "グルメレベルが"
+.string "Gourmet level"
 
 str_0x8002A340:
 ;JP Text: "注意レベルが"
-.string "注意レベルが"
+.string "Search level"
 
 str_0x8002A330:
 ;JP Text: "武器レベルが"
-.string "武器レベルが"
+.string "Weapon level"
 
 str_0x8002A320:
 ;JP Text: "力がわいてくる"
-.string "力がわいてくる"
+.string "Power wells up inside you."
 
 str_0x8002A310:
 ;JP Text: "ＨＰがｅ回復"
-.string "ＨＰがｅ回復"
+.string "ｅ HP recovered."
 
 str_0x8002A2FC:
 ;JP Text: "元気がわいてくる"
@@ -114,7 +114,7 @@ str_0x8002A294:
 
 str_0x800C0554:
 ;JP Text: "ａ　の"
-.string "Б's"
+.string "ａ's"
 
 str_0x8002A27C:
 ;JP Text: "ステータスが完全回復！"

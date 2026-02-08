@@ -18,7 +18,7 @@ ItemDescriptionTextStart:
 
 str_0x800C0540:
 ;JP Text: ""
-.string ""
+.string "　"
 
 str_0x800299A4:
 ;JP Text: "さびていて使えない剣"
@@ -114,7 +114,7 @@ str_0x800297B4:
 
 str_0x8002979C:
 ;JP Text: "何のたしにもならない剣"
-.string "A useless sword."
+.string "何のたしにもならない剣"
 
 str_0x80029780:
 ;JP Text: "使ってみるまで　わからない"

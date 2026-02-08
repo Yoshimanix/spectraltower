@@ -92,4 +92,5 @@
 
 .include "text/text_special.asm"
 .include "text/text_memcard.asm"
+.include "text/text_newstrings.asm"
 .close
