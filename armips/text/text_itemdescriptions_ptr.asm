@@ -106,7 +106,7 @@
 
 ; Entry @ 0x80028B2C
 .word str_0x8002979C
-.word str_0x800C0540
+.word uselesssword2
 .halfword 0x0001
 .halfword 0x0000
 .halfword 0x0000

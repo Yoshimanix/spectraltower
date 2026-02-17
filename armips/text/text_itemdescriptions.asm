@@ -16,281 +16,217 @@
 
 ItemDescriptionTextStart:
 
-str_0x800C0540:
-;JP Text: ""
-.string "　"
-
-str_0x800299A4:
-;JP Text: "さびていて使えない剣"
-.string "さびていて使えない剣"
-
-str_0x8002998C:
-;JP Text: "鉄でできた普通のナイフ"
-.string "鉄でできた普通のナイフ"
-
-str_0x80029974:
-;JP Text: "装備すると少し強くなる"
-.string "装備すると少し強くなる"
-
-str_0x80029960:
-;JP Text: "銅でできた普通の剣"
-.string "銅でできた普通の剣"
-
-str_0x80029944:
-;JP Text: "装備すると普通に強くなる"
-.string "装備すると普通に強くなる"
-
-str_0x80029930:
-;JP Text: "戦士が使う大きな剣"
-.string "戦士が使う大きな剣"
-
-str_0x80029914:
-;JP Text: "装備するとかなり強くなる"
-.string "装備するとかなり強くなる"
-
-str_0x800298F8:
-;JP Text: "伝説の遺跡戦士マルスの剣"
-.string "伝説の遺跡戦士マルスの剣"
-
-str_0x800298DC:
-;JP Text: "装備するとマルスの力を得る"
-.string "装備するとマルスの力を得る"
-
-str_0x800298C4:
-;JP Text: "鬼斬り人サムライの剣"
-.string "鬼斬り人サムライの剣"
-
-str_0x800298B0:
-;JP Text: "鬼を斬るための剣"
-.string "鬼を斬るための剣"
-
-str_0x8002989C:
-;JP Text: "聖なる光をはなつ剣"
-.string "聖なる光をはなつ剣"
-
-str_0x80029888:
-;JP Text: "ゴーストに強い聖剣"
-.string "ゴーストに強い聖剣"
-
-str_0x8002986C:
-;JP Text: "なぜかやわらかい不思議な剣"
-.string "なぜかやわらかい不思議な剣"
-
-str_0x80029858:
-;JP Text: "コインマンに強い剣"
-.string "コインマンに強い剣"
-
 str_0x80029840:
 ;JP Text: "ドラゴンバスター達の剣"
-.string "ドラゴンバスター達の剣"
+.string "A sword for Dragon Busters."
 
 str_0x80029824:
 ;JP Text: "ドラゴンを倒すにはこの剣"
-.string "ドラゴンを倒すにはこの剣"
+.string "Use it to defeat Dragons."
 
 str_0x80029810:
 ;JP Text: "人を斬るための魔剣"
-.string "人を斬るための魔剣"
+.string "A magic sword for cutting down Humans."
 
 str_0x80029804:
 ;JP Text: "人間に強い"
-.string "人間に強い"
+.string "Strong against Humans."
 
 str_0x800297EC:
 ;JP Text: "神々が人に与えし聖剣"
-.string "神々が人に与えし聖剣"
+.string "A sacred sword bestowed by the gods."
 
 str_0x800297E0:
 ;JP Text: "悪魔に強い"
-.string "悪魔に強い"
+.string "Strong against Demons."
 
 str_0x800297CC:
 ;JP Text: "最強にして最高の剣"
-.string "最強にして最高の剣"
+.string "The greatest sword of them all."
 
 str_0x800297B4:
 ;JP Text: "あらゆる敵に対し強い"
-.string "あらゆる敵に対し強い"
+.string "It is strong against all enemies."
 
 str_0x8002979C:
 ;JP Text: "何のたしにもならない剣"
-.string "何のたしにもならない剣"
+.string "A sword that has no positive"
 
 str_0x80029780:
 ;JP Text: "使ってみるまで　わからない"
-.string "使ってみるまで　わからない"
+.string "A medal who's properties are unknown"
 
 str_0x80029770:
 ;JP Text: "なぞのメダル"
-.string "なぞのメダル"
+.string "until it is used."
 
 str_0x800C0538:
 ;JP Text: "使うと"
-.string "使うと"
+.string "When used,"
 
 str_0x80029758:
 ;JP Text: "ＨＰの最大値が上がる"
-.string "ＨＰの最大値が上がる"
+.string "your max HP increases."
 
 str_0x80029744:
 ;JP Text: "対鬼レベルが上がる"
-.string "対鬼レベルが上がる"
+.string "your Monster level increases."
 
 str_0x80029730:
 ;JP Text: "対霊レベルが上がる"
-.string "対霊レベルが上がる"
+.string "your Spirit level increases."
 
 str_0x80029710:
 ;JP Text: "対魔（使い魔）レベルが上がる"
-.string "対魔（使い魔）レベルが上がる"
+.string "your Magic (Familiar) level increases."
 
 str_0x800296FC:
 ;JP Text: "対竜レベルが上がる"
-.string "対竜レベルが上がる"
+.string "your Dragon level increases."
 
 str_0x800296E0:
 ;JP Text: "対人（人間）レベルが上がる"
-.string "対人（人間）レベルが上がる"
+.string "your Human level increases."
 
 str_0x800296C4:
 ;JP Text: "対悪（邪神）レベルが上がる"
-.string "対悪（邪神）レベルが上がる"
+.string "your Demon level increases."
 
 str_0x800296AC:
 ;JP Text: "グルメレベルが上がる"
-.string "グルメレベルが上がる"
+.string "your Gourmet level increases."
 
 str_0x80029698:
 ;JP Text: "注意レベルが上がる"
-.string "注意レベルが上がる"
+.string "your Search level increases."
 
 str_0x80029680:
 ;JP Text: "使うとＨＰの最大値が"
-.string "使うとＨＰの最大値が"
+.string "When used, your max HP"
 
 str_0x80029670:
 ;JP Text: "大きく上がる"
-.string "大きく上がる"
+.string "will increase greatly."
 
 str_0x80029650:
 ;JP Text: "黄金に輝く木の実、病気中以外"
-.string "黄金に輝く木の実、病気中以外"
+.string "A fruit with a golden glow."
 
 str_0x80029634:
 ;JP Text: "食べるとＨＰが完全に回復"
-.string "食べるとＨＰが完全に回復"
+.string "Heals to full HP if you are not sick."
 
 str_0x80029618:
 ;JP Text: "食べておいしい大きな木の実"
-.string "食べておいしい大きな木の実"
+.string "A large fruit that tastes great."
 
 str_0x80029600:
 ;JP Text: "ＨＰを１００回復する"
-.string "ＨＰを１００回復する"
+.string "Heals 100 HP."
 
 str_0x800295E4:
 ;JP Text: "食べておいしい小さな木の実"
-.string "食べておいしい小さな木の実"
+.string "A small fruit that tastes great."
 
 str_0x800295D0:
 ;JP Text: "ＨＰを２０回復する"
-.string "ＨＰを２０回復する"
+.string "Heals 20 HP."
 
 str_0x800295B8:
 ;JP Text: "食べられるかもしれない"
-.string "食べられるかもしれない"
+.string "Possibly edible"
 
 str_0x800C0530:
 ;JP Text: "ほし肉"
-.string "ほし肉"
+.string "dried meat."
 
 str_0x800295A0:
 ;JP Text: "きれいな色の　きのこ"
-.string "きれいな色の　きのこ"
+.string "mushroom with pretty colors."
 
 str_0x80029584:
 ;JP Text: "ボール状に丸まった　こけ"
-.string "ボール状に丸まった　こけ"
+.string "ball of moss."
 
 str_0x8002956C:
 ;JP Text: "よく太った　いもむし"
-.string "よく太った　いもむし"
+.string "plump caterpillar."
 
 str_0x8002955C:
 ;JP Text: "ねずみのしっぽ"
-.string "ねずみのしっぽ"
+.string "rat's tail."
 
 str_0x80029544:
 ;JP Text: "病気のレベルが下がる薬"
-.string "病気のレベルが下がる薬"
+.string "Medicine that drops your Illness level."
 
 str_0x8002952C:
 ;JP Text: "呪いのレベルが下がる薬"
-.string "呪いのレベルが下がる薬"
+.string "Medicine that drops your Curse level."
 
 str_0x80029510:
 ;JP Text: "石化していて使えないロッド"
-.string "石化していて使えないロッド"
+.string "A useless rod that has turned to stone."
 
 str_0x800294F8:
 ;JP Text: "使うと上のステージに"
-.string "使うと上のステージに"
+.string "When used, you are warped"
 
 str_0x800294EC:
 ;JP Text: "ワープする"
-.string "ワープする"
+.string "to the next stage."
 
 str_0x800294D0:
 ;JP Text: "ユニコーンの角でできている"
-.string "ユニコーンの角でできている"
+.string "It is made out of unicorn horn."
 
 str_0x800294B4:
 ;JP Text: "使うとステータスが完全回復"
-.string "使うとステータスが完全回復"
+.string "When used, all statuses are healed."
 
 str_0x80029498:
 ;JP Text: "使用するとタワーを脱出して"
-.string "使用するとタワーを脱出して"
+.string "When used, you warp out of the tower"
 
 str_0x80029484:
 ;JP Text: "全体マップへ戻る"
-.string "全体マップへ戻る"
+.string "and to the main map."
 
 str_0x80029478:
 ;JP Text: "使用すると"
-.string "使用すると"
+.string "When utilized,"
 
 str_0x8002945C:
 ;JP Text: "セーブの像を呼び出します"
-.string "セーブの像を呼び出します"
+.string "a Save Statue is called."
 
 str_0x80029444:
 ;JP Text: "何のたしにもならない"
-.string "何のたしにもならない"
+.string "A rod made of tin."
 
 str_0x80029430:
 ;JP Text: "ブリキ製のロッド"
-.string "ブリキ製のロッド"
+.string "It has no positive effects."
 
 str_0x80029414:
 ;JP Text: "古代の文字でかかれた巻物"
-.string "古代の文字でかかれた巻物"
+.string "A scroll with ancient writing."
 
 str_0x800293F8:
 ;JP Text: "さびている剣や石のロッドを"
-.string "さびている剣や石のロッドを"
+.string "Turns items like Rusted Swords and"
 
 str_0x800293E0:
 ;JP Text: "別のアイテムに変える"
-.string "別のアイテムに変える"
+.string "Stone Rods into something else."
 
 str_0x800293C8:
 ;JP Text: "役に立たない　がらくた"
-.string "役に立たない　がらくた"
+.string "useless garbage."
 
 str_0x800293B4:
 ;JP Text: "武器レベルが上がる"
-.string "武器レベルが上がる"
+.string "your Weapon level increases."
 
 str_0x80029398:
 ;JP Text: "使うと道案内のようせいを"
@@ -454,10 +390,10 @@ str_0x80029028:
 
 str_0x8002900C:
 ;JP Text: "何だかわからない不思議な物"
-.string "何だかわからない不思議な物"
+.string "A strange object you can't identify."
 
 str_0x80028FFC:
 ;JP Text: "一体なんだろう"
-.string "一体なんだろう"
+.string "What could it be?"
 
 ItemDescriptionTextEnd:

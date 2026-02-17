@@ -9,6 +9,13 @@
 .include "specialtext.asm"
 .include "defaultnames.asm"
 
+
+.include "text/text_special.asm"
+.include "text/text_memcard.asm"
+
+.include "text/text_newstrings.asm"
+.include "text/text_movedstrings.asm"
+
 .include "text/text_misc.asm"
 .include "text/text_misc_ptr.asm"
 .if MiscTextEnd > 0x80028a3f
@@ -90,7 +97,4 @@
 	.warning Dialogue3TextEnd - 0x80039677
 .endif
 
-.include "text/text_special.asm"
-.include "text/text_memcard.asm"
-.include "text/text_newstrings.asm"
 .close

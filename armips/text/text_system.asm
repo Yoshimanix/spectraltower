@@ -39,7 +39,7 @@ str_0x8002B304:
 
 str_0x8002B2F0:
 ;JP Text: "ｇ　を手に入れた"
-.string "You obtainedｇ."
+.string "You obtained ｇ."
 
 str_0x800C0594:
 ;JP Text: "しかし"
@@ -115,7 +115,7 @@ str_0x8002B1D8:
 
 str_0x8002B1BC:
 ;JP Text: "セーブ中ですお待ちください"
-.string "Saving data… please wait."
+.string "Saving data…please wait."
 
 str_0x8002B1A0:
 ;JP Text: "メモリーカードが一杯です"
@@ -171,7 +171,7 @@ str_0x8002B0B8:
 
 str_0x8002B0A4:
 ;JP Text: "ベッドゴーレムだ"
-.string "It’s a Bed Golem."
+.string "It's a Bed Golem."
 
 str_0x8002B088:
 ;JP Text: "「ミーはフカフカベッドね"
@@ -223,11 +223,11 @@ str_0x8002AF70:
 
 str_0x8002AF54:
 ;JP Text: "　やきたてホカホカのパン"
-.string "I’ll give you some freshly baked,"
+.string "I'll give you some fluffy,"
 
 str_0x8002AF40:
 ;JP Text: "　君にあげるよ」"
-.string "fluffy bread.”"
+.string "freshly baked bread.”"
 
 str_0x8002AF2C:
 ;JP Text: "パンを食べますか"
@@ -235,7 +235,7 @@ str_0x8002AF2C:
 
 str_0x8002AF14:
 ;JP Text: "ユウさんのパンを食べた"
-.string "eats Yu-san’s bread."
+.string "eats Yu-san's bread."
 
 str_0x8002AEFC:
 ;JP Text: "むしゃ　むしゃ　むしゃ"
@@ -287,11 +287,11 @@ str_0x8002AE08:
 
 str_0x8002ADE8:
 ;JP Text: "宝箱も中身もこわれてなくなった"
-.string "The chest and its items were destroyed."
+.string "The chest was destroyed."
 
 str_0x8002ADCC:
 ;JP Text: "宝箱のかぎをこわしました"
-.string "The chest’s key was destroyed."
+.string "The chest's lock was destroyed."
 
 str_0x8002ADBC:
 ;JP Text: "不思議なことに"
@@ -371,7 +371,7 @@ str_0x8002ABFC:
 
 str_0x8002ABE4:
 ;JP Text: "メチャクチャつかれた"
-.string "You’re incredibly tired."
+.string "You're incredibly tired."
 
 str_0x8002ABC0:
 ;JP Text: "しかも宝箱にはドクがぬられていた"
@@ -443,11 +443,11 @@ str_0x8002A9F8:
 
 str_0x8002A9D4:
 ;JP Text: "お待たせしましたチェック終了です"
-.string "Check complete. Thank you for waiting."
+.string "Finished. Thank you for waiting."
 
 str_0x8002A9C0:
 ;JP Text: "選択してください"
-.string "Please select."
+.string "Please select a save file."
 
 str_0x8002A9A4:
 ;JP Text: "セーブデータが壊れています"

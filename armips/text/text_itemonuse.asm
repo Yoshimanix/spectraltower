@@ -38,11 +38,11 @@ str_0x8002A3D8:
 
 str_0x800C055C:
 ;JP Text: "ＨＰが"
-.string "ＨＰ"
+.string "HP"
 
 str_0x8002A3C4:
 ;JP Text: "ｅポイント上がった"
-.string "was increased by ｅ points."
+.string "increased by ｅ points."
 
 str_0x8002A3B4:
 ;JP Text: "対鬼レベルが"
@@ -90,27 +90,27 @@ str_0x8002A310:
 
 str_0x8002A2FC:
 ;JP Text: "元気がわいてくる"
-.string "元気がわいてくる"
+.string "You feel refreshed."
 
 str_0x8002A2E8:
 ;JP Text: "病気レベルがｅ回復"
-.string "病気レベルがｅ回復"
+.string "Illness level reduced by ｅ."
 
 str_0x8002A2D8:
 ;JP Text: "心が　やすらぐ"
-.string "心が　やすらぐ"
+.string "Your mind feels at peace."
 
 str_0x8002A2C4:
 ;JP Text: "呪いレベルがｅ回復"
-.string "呪いレベルがｅ回復"
+.string "Curse level reduced by ｅ."
 
 str_0x8002A2A8:
 ;JP Text: "しかし体は　うけつけない"
-.string "しかし体は　うけつけない"
+.string "However, your body rejects it."
 
 str_0x8002A294:
 ;JP Text: "病気レベルがｅ上昇"
-.string "病気レベルがｅ上昇"
+.string "Illness level increased by ｅ."
 
 str_0x800C0554:
 ;JP Text: "ａ　の"
@@ -118,226 +118,195 @@ str_0x800C0554:
 
 str_0x8002A27C:
 ;JP Text: "ステータスが完全回復！"
-.string "ステータスが完全回復！"
+.string "status has been completely restored!"
 
 str_0x8002A26C:
 ;JP Text: "ｆ　を使った"
-.string "ｆ　を使った"
+.string "used ｆ."
 
 str_0x8002A258:
 ;JP Text: "何をみがきますか？"
-.string "何をみがきますか？"
+.string "What will you polish?"
 
 str_0x8002A248:
 ;JP Text: "なんと正体は"
-.string "なんと正体は"
+.string "It's true form was revealed to be"
 
 str_0x8002A23C:
 ;JP Text: "ｇ　だった"
-.string "ｇ　だった"
+.string "ｇ."
 
 str_0x8002A228:
 ;JP Text: "意味がなかった…"
-.string "意味がなかった…"
+.string "It was no use… "
 
 str_0x8002A218:
 ;JP Text: "装備しました"
-.string "装備しました"
+.string "equipped."
 
 str_0x8002A208:
 ;JP Text: "はずしました"
-.string "はずしました"
+.string "unequipped."
 
 str_0x800C054C:
 ;JP Text: "ｆ　は"
-.string "ｆ　は"
+.string "ｆ"
 
 str_0x8002A1F8:
 ;JP Text: "装備できません"
-.string "装備できません"
+.string "cannot be equipped"
 
 str_0x8002A1E8:
 ;JP Text: "パピルスには"
-.string "パピルスには"
+.string "The scroll is"
 
 str_0x8002A1CC:
 ;JP Text: "次のように　かかれている"
-.string "次のように　かかれている"
+.string "written as follows."
 
 str_0x8002A1BC:
 ;JP Text: "９５　４３００"
-.string "９５　４３００"
+.string "95 4300"
 
 str_0x8002A1A8:
 ;JP Text: "たびびと　の基なり"
-.string "たびびと　の基なり"
+.string "The foundation of a Traveler."
 
 str_0x8002A198:
 ;JP Text: "２９　１１３６"
-.string "２９　１１３６"
+.string "29 1136"
 
 str_0x8002A184:
 ;JP Text: "シーフ　の基なり"
-.string "シーフ　の基なり"
+.string "The foundation of a Thief."
 
 str_0x8002A174:
 ;JP Text: "７　６２３５"
-.string "７　６２３５"
+.string "7 6235"
 
 str_0x8002A15C:
 ;JP Text: "ゆうぼくみん　の基なり"
-.string "ゆうぼくみん　の基なり"
+.string "The foundation of a Nomad."
 
 str_0x8002A14C:
 ;JP Text: "１　２４８９"
-.string "１　２４８９"
+.string "1 2489"
 
 str_0x8002A13C:
 ;JP Text: "商人　の基なり"
-.string "商人　の基なり"
+.string "The foundation of a Merchant."
 
 str_0x8002A12C:
 ;JP Text: "７１　１１０５"
-.string "７１　１１０５"
+.string "71 1105"
 
 str_0x8002A118:
 ;JP Text: "野生児　の基なり"
-.string "野生児　の基なり"
+.string "The foundation of a Wild Child."
 
 str_0x8002A108:
 ;JP Text: "２１　２１３７"
-.string "２１　２１３７"
+.string "21 2137"
 
 str_0x8002A0EC:
 ;JP Text: "フリーファイターの基なり"
-.string "フリーファイターの基なり"
+.string "The foundation of a Free Fighter."
 
 str_0x8002A0DC:
 ;JP Text: "１３　３７１２"
-.string "１３　３７１２"
+.string "13 3712"
 
 str_0x8002A0C4:
 ;JP Text: "クレリック　の基なり"
-.string "クレリック　の基なり"
+.string "The foundation of a Cleric."
 
 str_0x8002A0B4:
 ;JP Text: "８２　１６６５"
-.string "８２　１６６５"
+.string "82 1665"
 
 str_0x8002A09C:
 ;JP Text: "ライトメイジ　の基なり"
-.string "ライトメイジ　の基なり"
+.string "The foundation of a Light Mage."
 
 str_0x8002A08C:
 ;JP Text: "５０　３１４６"
-.string "５０　３１４６"
+.string "50 3146"
 
 str_0x8002A074:
 ;JP Text: "ダークメイジ　の基なり"
-.string "ダークメイジ　の基なり"
+.string "The foundation of a Dark Mage."
 
 str_0x8002A064:
 ;JP Text: "２４　８８６２"
-.string "２４　８８６２"
+.string "24 8862"
 
 str_0x8002A048:
 ;JP Text: "アイテムハンターの基なり"
-.string "アイテムハンターの基なり"
+.string "The foundation of an Item Hunter."
 
 str_0x8002A030:
 ;JP Text: "長い塔を　さまよう者"
-.string "長い塔を　さまよう者"
+.string "Those who wander the long tower,"
 
 str_0x8002A014:
 ;JP Text: "それは　地上で罪を負う者"
-.string "それは　地上で罪を負う者"
+.string "bear sins in the world above."
 
 str_0x8002A004:
 ;JP Text: "罪人は死ぬと"
-.string "罪人は死ぬと"
+.string "Once a sinner dies,"
 
 str_0x80029FEC:
 ;JP Text: "この世界に落ちてくる"
-.string "この世界に落ちてくる"
+.string "they fall to this world."
 
 str_0x80029FE0:
 ;JP Text: "長い塔は"
-.string "長い塔は"
+.string "The long tower,"
 
 str_0x80029FC8:
 ;JP Text: "世界を　つなぐ道なり"
-.string "世界を　つなぐ道なり"
+.string "is a path that connects the worlds."
 
 str_0x80029FB8:
 ;JP Text: "魔王ジャネスに"
-.string "魔王ジャネスに"
+.string "This land is bestowed,"
 
 str_0x80029FA4:
 ;JP Text: "この地をあたえる"
-.string "この地をあたえる"
+.string "upon the Demon King James"
 
 str_0x80029F8C:
 ;JP Text: "基と基を　あわせし時"
-.string "基と基を　あわせし時"
+.string "When one foundation meets another,"
 
 str_0x80029F74:
 ;JP Text: "新たなる基が　生まれる"
-.string "新たなる基が　生まれる"
+.string "a new foundation is born."
 
 str_0x80029F58:
 ;JP Text: "この世界の王　イプシロン"
-.string "この世界の王　イプシロン"
+.string "The king of this world, Epsilon,"
 
 str_0x80029F44:
 ;JP Text: "５つの塔を　たてる"
-.string "５つの塔を　たてる"
+.string "built the five towers."
 
 str_0x800C0544:
 ;JP Text: "読んだ"
-.string "読んだ"
+.string "was read."
 
 str_0x80029F30:
 ;JP Text: "ＨＰ　完全回復！"
-.string "ＨＰ　完全回復！"
+.string "HP fully restored!"
 
 str_0x80029F1C:
 ;JP Text: "ｆを装備するには"
-.string "ｆを装備するには"
+.string "Your equipment level is too low"
 
 str_0x80029F04:
 ;JP Text: "武器レベルが足りません"
-.string "武器レベルが足りません"
+.string "to equipｆ."
 
-str_0x80029EF0:
-;JP Text: "道案内のようせいを"
-.string "道案内のようせいを"
-
-str_0x80029EE0:
-;JP Text: "呼び出しました"
-.string "呼び出しました"
-
-str_0x80029ED0:
-;JP Text: "ｇ　に変わった"
-.string "ｇ　に変わった"
-
-str_0x80029EBC:
-;JP Text: "ｅポイント下がった"
-.string "ｅポイント下がった"
-
-str_0x80029E9C:
-;JP Text: "ブタ状態は何でも食べられる！"
-.string "ブタ状態は何でも食べられる！"
-
-str_0x80029E84:
-;JP Text: "病気なんて気にしない"
-.string "病気なんて気にしない"
-
-str_0x80029E70:
-;JP Text: "最上階にいるので"
-.string "最上階にいるので"
-
-str_0x80029E5C:
-;JP Text: "意味がなかった……"
-.string "意味がなかった……"
 
 ItemOnUseTextEnd:

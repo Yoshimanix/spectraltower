@@ -37,11 +37,11 @@ str_0x8002BAF8:
 
 str_0x8002BAEC:
 ;JP Text: "ｃ　の攻撃"
-.string "ｃ’s attack."
+.string "ｃ's attack."
 
 str_0x8002BAD4:
 ;JP Text: "ｅのダメージをうけた"
-.string "Took ｅ damage."
+.string "took ｅ damage."
 
 str_0x8002BAC0:
 ;JP Text: "死んでしまった……"
@@ -85,11 +85,11 @@ str_0x8002BA28:
 
 str_0x8002BA14:
 ;JP Text: "ドラゴンブレスだ"
-.string "It’s dragon’s breath."
+.string "It's dragon's breath."
 
 str_0x8002B9FC:
 ;JP Text: "イヤな予感がする……"
-.string "This doesn’t look good…"
+.string "This doesn't look good…"
 
 str_0x8002B9E0:
 ;JP Text: "ものすごく変なことをした"
@@ -149,7 +149,7 @@ str_0x8002B920:
 
 str_0x8002B90C:
 ;JP Text: "ブタの息をはいた"
-.string "breathes in the pig’s breath."
+.string "breathes in the pig's breath."
 
 str_0x8002B8FC:
 ;JP Text: "ブタになった"
@@ -177,11 +177,11 @@ str_0x8002B8A4:
 
 str_0x8002B890:
 ;JP Text: "ドレインタッチだ"
-.string "It’s Drain Touch."
+.string "It's Drain Touch."
 
 str_0x8002B880:
 ;JP Text: "ａ　のＨＰが"
-.string "ａ’s HP was"
+.string "ａ's HP was"
 
 str_0x8002B870:
 ;JP Text: "ｅ吸いとられた"
@@ -189,11 +189,11 @@ str_0x8002B870:
 
 str_0x8002B85C:
 ;JP Text: "消えて　なくなった"
-.string "It vanished."
+.string "vanished without a trace."
 
 str_0x8002B84C:
 ;JP Text: "攻撃をかわした"
-.string "Attack was dodged."
+.string "dodged the attack."
 
 str_0x8002B840:
 ;JP Text: "アイテムを"
@@ -213,7 +213,7 @@ str_0x8002B7F4:
 
 str_0x8002B7E0:
 ;JP Text: "うまくかわした！"
-.string "The attack was skillfully dodged!"
+.string "skillfully dodged!"
 
 str_0x8002B7D4:
 ;JP Text: "ｈ　ポイ！"
@@ -242,21 +242,5 @@ str_0x8002B798:
 str_0x8002B778:
 ;JP Text: "かってにアイテムを捨てていた！"
 .string "an item was discarded!"
-
-str_0x8002B768:
-;JP Text: "アイテムの力で"
-.string "You endured with"
-
-str_0x8002B758:
-;JP Text: "持ちこたえた！"
-.string "the item’s power!"
-
-str_0x8002B738:
-;JP Text: "アイテムを持っていなかったので"
-.string "Nothing of note happened,"
-
-str_0x8002B724:
-;JP Text: "なんともなかった"
-.string "because you did not have any items."
 
 BattleTextEnd:

@@ -76,11 +76,11 @@ str_0x80035F1C:
 
 str_0x80035F04:
 ;JP Text: "ねずみのしっぽ　だよ"
-.string "rat’s tail, of course."
+.string "rat's tail, of course."
 
 str_0x80035EE4:
 ;JP Text: "だけどたべられない子もいるよ"
-.string "But some people can’t eat it."
+.string "But some people can't eat it."
 
 str_0x80035EC4:
 ;JP Text: "グルメレベルがひくいのかなぁ"
@@ -128,7 +128,7 @@ str_0x80035DB8:
 
 str_0x80035DA0:
 ;JP Text: "なにやら不思議な力が"
-.string "I can’t help but think that"
+.string "I can't help but think that"
 
 str_0x80035D80:
 ;JP Text: "働いているとしか　おもえません"
@@ -180,7 +180,7 @@ str_0x80035C70:
 
 str_0x80035C50:
 ;JP Text: "きのう食べたパンのせいだブウ"
-.string "It’s from that bread yesterday, oink."
+.string "It's from that bread yesterday, oink."
 
 str_0x80035C30:
 ;JP Text: "お金のために生きている人間は"
@@ -228,7 +228,7 @@ str_0x80035B18:
 
 str_0x80035AF8:
 ;JP Text: "この中ではノンビリいきましょ"
-.string "so let’s take it easy in here."
+.string "so let's take it easy in here."
 
 str_0x80035AE0:
 ;JP Text: "こんにちは　たびのひと"
@@ -240,11 +240,11 @@ str_0x80035AC8:
 
 str_0x80035AB4:
 ;JP Text: "はなしかけないでよ"
-.string "Don’t talk to me."
+.string "Don't talk to me."
 
 str_0x80035A98:
 ;JP Text: "考えごとをしてるんだから…"
-.string "I’m thinking about something…"
+.string "I'm thinking about something…"
 
 str_0x80035A7C:
 ;JP Text: "わしはタワーをのぼるのは"
@@ -292,7 +292,7 @@ str_0x80035984:
 
 str_0x80035968:
 ;JP Text: "ジジイになっちまったがな"
-.string "many times, I’ve become an old geezer."
+.string "many times, I've become an old geezer."
 
 str_0x8003594C:
 ;JP Text: "私は伝説のトイレを探して"
@@ -324,11 +324,11 @@ str_0x800358A0:
 
 str_0x80035880:
 ;JP Text: "ずいぶんとジジイになったなぁ"
-.string "I’ve become quite an old man…"
+.string "I've become quite an old man…"
 
 str_0x80035868:
 ;JP Text: "ああ…まよってしまった"
-.string "Ah…I’ve lost my way."
+.string "Ah…I've lost my way."
 
 str_0x8003585C:
 ;JP Text: "オロオロ"
