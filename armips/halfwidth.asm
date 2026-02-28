@@ -43,3 +43,11 @@ sra v0,v0,0xd
 nop
 .org 0x8004b10c
 sll a0,a0,0x3
+
+; skills menu patches
+.org 0x8005826c
+sll v0,v0,0x0
+.org 0x8005829c
+sll a1,a1,0x3
+.org 0x800582f8
+slti v0,v0,12
