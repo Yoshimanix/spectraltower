@@ -50,4 +50,11 @@ sll v0,v0,0x0
 .org 0x8005829c
 sll a1,a1,0x3
 .org 0x800582f8
-slti v0,v0,12
+slti v0,v0,16
+
+; move special skills window 28 pixels to the left (4 * 7, for 4 extra characters)
+.org 0x80027f78
+.byte 0xc6 - 28
+;increase x dimension of special skills window by 28 pixels
+.org 0x80027edc
+.byte 0x6a + 28

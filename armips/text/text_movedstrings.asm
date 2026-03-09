@@ -120,3 +120,53 @@ str_0x80029858:
 ;JP Text: "コインマンに強い剣"
 .string "A sword that is strong against Coinmen."
 
+; from text_misc.asm
+
+str_800C0528:
+;JP TEXT: "つづき"
+.asciiz "Continue"
+
+str_80028A34:
+;JP TEXT: "始めから"
+.asciiz "New Game"
+
+str_800C0520:
+;JP TEXT: "設定"
+.asciiz "Settings"
+
+str_80028A24:
+;JP TEXT: "サウンド設定"
+.asciiz "Sound Settings"
+
+str_80028A14:
+;JP TEXT: "　　　ＢＧＭ"
+.asciiz "BGM"
+
+str_80028A04:
+;JP TEXT: "　　　　ＳＥ"
+.asciiz "SFX"
+
+str_800289F8:
+;JP TEXT: "ステレオ"
+.asciiz "Stereo"
+
+str_800289EC:
+;JP TEXT: "モノラル"
+.asciiz "Mono"
+
+str_800289D8:
+;JP TEXT: "メッセージの速さ"
+.asciiz "Text Speed"
+
+str_800C0518:
+;JP TEXT: "おそい"
+.asciiz "Slow"
+
+str_800C0510:
+;JP TEXT: "ふつう"
+.asciiz "Normal"
+
+str_800C0508:
+;JP TEXT: "はやい"
+.asciiz "Fast"
+
