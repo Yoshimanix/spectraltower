@@ -144,7 +144,7 @@ str_80028A14:
 
 str_80028A04:
 ;JP TEXT: "　　　　ＳＥ"
-.asciiz "SFX"
+.asciiz "Sound Effects"
 
 str_800289F8:
 ;JP TEXT: "ステレオ"

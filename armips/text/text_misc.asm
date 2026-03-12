@@ -24,7 +24,7 @@ str_800289A8:
 
 str_80028998:
 ;JP TEXT: "冒険の知恵　"
-.string "Adventure Wisdom"
+.string "Quest Wisdom    "
 
 str_80028988:
 ;JP TEXT: "ぬすむ　　　"
@@ -48,27 +48,27 @@ str_80028948:
 
 str_80028938:
 ;JP TEXT: "回復の呪文　"
-.string "Heal Spell      "
+.string "Healing         "
 
 str_80028928:
 ;JP TEXT: "電撃の呪文　"
-.string "Electricity Spell"
+.string "Electricity     "
 
 str_80028918:
 ;JP TEXT: "病魔の呪文　"
-.string "Sickness Spell   "
+.string "Sickness        "
 
 str_80028908:
 ;JP TEXT: "アイテム取り"
-.string "Collect Item     "
+.string "Take Item       "
 
 str_800288F8:
 ;JP TEXT: "爆裂斬　　　"
-.string "Explosive Slash  "
+.string "Blast Cut       "
 
 str_800288E8:
 ;JP TEXT: "超連続攻撃　"
-.string "Super Combo Attack"
+.string "Super Combo     "
 
 str_800288D8:
 ;JP TEXT: "聖なる波動　"
@@ -76,7 +76,7 @@ str_800288D8:
 
 str_800288C8:
 ;JP TEXT: "口説く　　　"
-.string "Charm    "
+.string "Charm           "
 
 str_800288B8:
 ;JP TEXT: "そでの下　　"
@@ -100,7 +100,7 @@ str_80028878:
 
 str_80028868:
 ;JP TEXT: "剣魔連撃　　"
-.string "DemonSword Combo"
+.string "Demonblade Combo"
 
 str_80028858:
 ;JP TEXT: "聖剣波　　　"
@@ -112,11 +112,11 @@ str_80028848:
 
 str_80028838:
 ;JP TEXT: "呼ぶ口笛　　"
-.string "SummoningWhistle"
+.string "Summoner Whistle"
 
 str_80028828:
 ;JP TEXT: "呼ぶさけび　"
-.string "Summoning Scream"
+.string "Summoner Scream "
 
 str_80028818:
 ;JP TEXT: "変なおどり　"
@@ -124,7 +124,7 @@ str_80028818:
 
 str_80028808:
 ;JP TEXT: "地殻変動　　"
-.string "Crustal Shift   "
+.string "Tectonic Shift  "
 
 str_800287F8:
 ;JP TEXT: "必殺攻撃　　"
@@ -152,7 +152,7 @@ str_800287A8:
 
 str_80028798:
 ;JP TEXT: "武器にする　"
-.string "Item Weapon     "
+.string "Makeshift Weapon"
 
 str_80028788:
 ;JP TEXT: "呪い殺す　　"
@@ -164,7 +164,7 @@ str_80028778:
 
 str_80028768:
 ;JP TEXT: "空と光の歌　"
-.string "Sky Light Song  "
+.string "Shining Sky Song"
 
 str_80028758:
 ;JP TEXT: "味見する　　"
@@ -196,7 +196,7 @@ str_800286F8:
 
 str_800286E8:
 ;JP TEXT: "月光連打　　"
-.string "MoonlightBarrage"
+.string "Moonlight Combo "
 
 str_800286D8:
 ;JP TEXT: "やまあらし　"
@@ -224,10 +224,10 @@ str_80028688:
 
 str_80028678:
 ;JP TEXT: "マルスカット"
-.string "Mars Cut        "
+.string "Marth Cut       "
 
 str_80028668:
 ;JP TEXT: "たたずむ　　"
-.string "Stand Still     "
+.string "Loiter          "
 
 MiscTextEnd:

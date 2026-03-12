@@ -118,3 +118,7 @@ ori a1,zero,186
 ;draw enemy level 16 pixels more to the right, to fix triple digits
 .org 0x8004b1c4
 ori a1,zero,279
+
+;adjust limit of settings categories to 16 characters
+.org 0x80058570
+slti v0,v0,16
