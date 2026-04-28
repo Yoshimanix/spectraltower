@@ -19,7 +19,7 @@ SystemTextStart:
 
 str_0x8002B368:
 ;JP Text: "現在のプレーヤーの状態です"
-.string "Current player status."
+.string "Current player status:"
 
 str_0x8002B344:
 ;JP Text: "　　　　　ゴブリンタワー　挑戦中"
@@ -283,7 +283,7 @@ str_0x8002AE18:
 
 str_0x8002AE08:
 ;JP Text: "宝箱があります"
-.string "There is a treasure chest."
+.string "You found a treasure chest."
 
 str_0x8002ADE8:
 ;JP Text: "宝箱も中身もこわれてなくなった"

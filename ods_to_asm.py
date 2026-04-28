@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import re
 import os
-from pathlib import Path, WindowsPath
+from pathlib import Path, WindowsPath, PurePath, PosixPath
 from odf.opendocument import load
 from odf.table import Table, TableRow, TableCell
 from odf.namespaces import TABLENS
@@ -33,7 +33,8 @@ for i, row in s.iterrows():
     label_source = None
     target_line_num = None
     for file in strfiles: # Iterate through all strfiles to find where label is defined
-        if file == WindowsPath('armips/text/text_newstrings.asm'):
+        newstrings_path = PurePath('armips/text/text_newstrings.asm')
+        if file == newstrings_path:
             continue
         with open(Path(file), "r") as f:
             for i, line in enumerate(f):

@@ -282,7 +282,7 @@
 
 ; Entry @ 0x80028C8C
 .word str_0x80029510
-.word str_0x800C0540
+.word uselessrod2
 .halfword 0x0001
 .halfword 0x0000
 .halfword 0x0000
