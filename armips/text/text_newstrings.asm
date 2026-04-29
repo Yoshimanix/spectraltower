@@ -6,6 +6,8 @@
 NewStringsStart:
 
 uselesssword2:
-.string "effects."
+.string "positive effects."
+uselessrod2:
+.string "to stone."
 
 NewStringsEnd:

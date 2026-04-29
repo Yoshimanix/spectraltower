@@ -66,47 +66,47 @@ str_0x800299A4:
 
 str_0x8002998C:
 ;JP Text: "鉄でできた普通のナイフ"
-.string "A regular knife made of steel."
+.string "A regular steel knife."
 
 str_0x80029974:
 ;JP Text: "装備すると少し強くなる"
-.string "Equipping makes you slightly stronger."
+.string "Gives a slight strength boost."
 
 str_0x80029960:
 ;JP Text: "銅でできた普通の剣"
-.string "A regular blade made of copper."
+.string "A regular copper blade."
 
 str_0x80029944:
 ;JP Text: "装備すると普通に強くなる"
-.string "Equipping makes you stronger."
+.string "Gives a decent strength boost."
 
 str_0x80029930:
 ;JP Text: "戦士が使う大きな剣"
-.string "A large blade used by Warriors."
+.string "A heavy blade for Warriors."
 
 str_0x80029914:
 ;JP Text: "装備するとかなり強くなる"
-.string "Equipping makes you much stronger."
+.string "Gives a large strength boost."
 
 str_0x800298F8:
 ;JP Text: "伝説の遺跡戦士マルスの剣"
-.string "Legendary relic warrior Marth's sword."
+.string "Ancient Warrior Marth's sword."
 
 str_0x800298DC:
 ;JP Text: "装備するとマルスの力を得る"
-.string "Equip this to attain Marth's power."
+.string "Equip to attain Marth's power."
 
 str_0x800298C4:
 ;JP Text: "鬼斬り人サムライの剣"
-.string "A monster-slaying Samurai's sword."
+.string "A monster-slaying Samurai"
 
 str_0x800298B0:
 ;JP Text: "鬼を斬るための剣"
-.string "A sword made to strike down Monsters."
+.string "sword for killing Monsters."
 
 str_0x8002989C:
 ;JP Text: "聖なる光をはなつ剣"
-.string "A sacred sword shining with light."
+.string "a sword that beams holy light."
 
 str_0x80029888:
 ;JP Text: "ゴーストに強い聖剣"
@@ -114,11 +114,11 @@ str_0x80029888:
 
 str_0x8002986C:
 ;JP Text: "なぜかやわらかい不思議な剣"
-.string "An odd sword. It bends for some reason."
+.string "An odd, weirdly bendy sword."
 
 str_0x80029858:
 ;JP Text: "コインマンに強い剣"
-.string "A sword that is strong against Coinmen."
+.string "It is strong against Coinmen."
 
 ; from text_misc.asm
 

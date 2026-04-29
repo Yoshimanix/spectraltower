@@ -336,199 +336,199 @@ str_0x8003585C:
 
 str_0x80035844:
 ;JP Text: "このタワーには様々な"
-.string "このタワーには様々な"
+.string "Many different types of items"
 
 str_0x8003582C:
 ;JP Text: "アイテムが眠っている"
-.string "アイテムが眠っている"
+.string "sleep in this tower."
 
 str_0x80035814:
 ;JP Text: "しかし一番すばらしい"
-.string "しかし一番すばらしい"
+.string "But, what is the most"
 
 str_0x80035800:
 ;JP Text: "アイテムは何か？"
-.string "アイテムは何か？"
+.string "amazing item of them all?"
 
 str_0x800357F0:
 ;JP Text: "それはズバリ"
-.string "それはズバリ"
+.string "Well, that goes without saying."
 
 str_0x800357D8:
 ;JP Text: "リターンロッドじゃ！"
-.string "リターンロッドじゃ！"
+.string "It’s the Return Rod, of course!"
 
 str_0x800357C8:
 ;JP Text: "あきらめちゃえ"
-.string "あきらめちゃえ"
+.string "Just give it up,"
 
 str_0x800357B4:
 ;JP Text: "あきらめちゃえ〜"
-.string "あきらめちゃえ〜"
+.string "Just give it uuup!"
 
 str_0x80035798:
 ;JP Text: "君には　このタワーはムリ"
-.string "君には　このタワーはムリ"
+.string "This tower is too much for you,"
 
 str_0x80035778:
 ;JP Text: "ムリだから　あきらめちゃえ〜"
-.string "ムリだから　あきらめちゃえ〜"
+.string "It’s too much, so just give it uuup!"
 
 str_0x80035764:
 ;JP Text: "もうやめちゃいなよ"
-.string "もうやめちゃいなよ"
+.string "Just quit while you’re ahead."
 
 str_0x80035744:
 ;JP Text: "君じゃ　このタワーはムリだよ"
-.string "君じゃ　このタワーはムリだよ"
+.string "You can’t handle this tower."
 
 str_0x80035734:
 ;JP Text: "やめちゃって"
-.string "やめちゃって"
+.string "Giving up and complaining about it"
 
 str_0x80035718:
 ;JP Text: "グチるのも　また人生だよ"
-.string "グチるのも　また人生だよ"
+.string "is just a part of life."
 
 str_0x80035704:
 ;JP Text: "ずいぶんショボい"
-.string "ずいぶんショボい"
+.string "You’ve got a squishy character there,"
 
 str_0x800356F0:
 ;JP Text: "キャラクターだねぇ"
-.string "キャラクターだねぇ"
+.string "don’cha?"
 
 str_0x800356D4:
 ;JP Text: "はじめから　やり直したら？"
-.string "はじめから　やり直したら？"
+.string "How ‘bout you just quit and start over?"
 
 str_0x800356C0:
 ;JP Text: "ぼくらシロウサギは"
-.string "ぼくらシロウサギは"
+.string "Us White Rabbits"
 
 str_0x800356A0:
 ;JP Text: "人間のやる気を食べて生きている"
-.string "人間のやる気を食べて生きている"
+.string "eat human spirit to survive."
 
 str_0x80035694:
 ;JP Text: "だから…"
-.string "だから…"
+.string "You know what that means…"
 
 str_0x80035684:
 ;JP Text: "せなかむきに"
-.string "せなかむきに"
+.string "Let’s face our enemies"
 
 str_0x80035664:
 ;JP Text: "敵とぶつかってみよう！ワオ！"
-.string "敵とぶつかってみよう！ワオ！"
+.string "With out backs turned! Wowzers!"
 
 str_0x8003564C:
 ;JP Text: "ガイコツマークの上で"
-.string "ガイコツマークの上で"
+.string "Let’s fight our enemies"
 
 str_0x80035630:
 ;JP Text: "敵と戦ってみよう！イエイ！"
-.string "敵と戦ってみよう！イエイ！"
+.string "right on top of the Skull mark! Yay!"
 
 str_0x8003561C:
 ;JP Text: "メダルは使わずに"
-.string "メダルは使わずに"
+.string "Let’s put our medals away"
 
 str_0x80035600:
 ;JP Text: "しまっておこう！イエ〜イ！"
-.string "しまっておこう！イエ〜イ！"
+.string "and save them for another time! Yaaaay!"
 
 str_0x800355E4:
 ;JP Text: "さびた剣ってもっている？"
-.string "さびた剣ってもっている？"
+.string "Do you have a rusted sword?"
 
 str_0x800355D0:
 ;JP Text: "もし　もっていたら"
-.string "もし　もっていたら"
+.string "If you do, it’s rubbish."
 
 str_0x800355B4:
 ;JP Text: "ゴミだから　すぐ捨てよう！"
-.string "ゴミだから　すぐ捨てよう！"
+.string "Throw that thing out without a doubt!"
 
 str_0x800355A8:
 ;JP Text: "あなたとは"
-.string "あなたとは"
+.string "I have nothing I wish to speak"
 
 str_0x80035588:
 ;JP Text: "何も　しゃべりたくありません"
-.string "何も　しゃべりたくありません"
+.string "with you."
 
 str_0x80035570:
 ;JP Text: "あなたは生まれる前に"
-.string "あなたは生まれる前に"
+.string "I have been living in another world"
 
 str_0x80035554:
 ;JP Text: "別の世界で生きていたのです"
-.string "別の世界で生きていたのです"
+.string "since before you were born."
 
 str_0x80035548:
 ;JP Text: "その意味を"
-.string "その意味を"
+.string "Take some time to reflect on what"
 
 str_0x80035530:
 ;JP Text: "ゆっくりと考えなさい…"
-.string "ゆっくりと考えなさい…"
+.string "meaning that holds…"
 
 str_0x80035518:
 ;JP Text: "どこまでも続くタワーを"
-.string "どこまでも続くタワーを"
+.string "Climbing this never-ending tower is "
 
 str_0x800354FC:
 ;JP Text: "のぼるのは　つらく苦しい…"
-.string "のぼるのは　つらく苦しい…"
+.string "nothing but hardship and pain…"
 
 str_0x800354EC:
 ;JP Text: "しかしそれは"
-.string "しかしそれは"
+.string "However, that is our"
 
 str_0x800354D4:
 ;JP Text: "「つぐない」なのです"
-.string "「つぐない」なのです"
+.string "“Atonement.”"
 
 str_0x800354BC:
 ;JP Text: "わたしは　まだ子供なの"
-.string "わたしは　まだ子供なの"
+.string "I’m just a kid."
 
 str_0x800354A4:
 ;JP Text: "だから別の世界のことは"
-.string "だから別の世界のことは"
+.string "So if you want to hear about the other"
 
 str_0x80035484:
 ;JP Text: "おねえさん達を探してきいてね"
-.string "おねえさん達を探してきいてね"
+.string "worlds, find my older sister and ask."
 
 str_0x80035478:
 ;JP Text: "ガハハハハ"
-.string "ガハハハハ"
+.string "Gahahaha!"
 
 str_0x80035458:
 ;JP Text: "おやじなんで　おどろいたろ？"
-.string "おやじなんで　おどろいたろ？"
+.string "You surprised that I’m an old man?"
 
 str_0x8003543C:
 ;JP Text: "１００人にひとりくらいは"
-.string "１００人にひとりくらいは"
+.string "Guess what, male fairies exist too!"
 
 str_0x8003541C:
 ;JP Text: "男のフェアリーもいるんだぜ！"
-.string "男のフェアリーもいるんだぜ！"
+.string "Around 1 in 100 of us are male!"
 
 str_0x80035410:
 ;JP Text: "この世界は"
-.string "この世界は"
+.string "This world is one of “Sinners.”"
 
 str_0x800353F4:
 ;JP Text: "「つみびと」の世界なのです"
-.string "「つみびと」の世界なのです"
+.string "of “sinners.” (change this later)"
 
 str_0x800353D8:
 ;JP Text: "そして世界の５つのタワーは"
-.string "そして世界の５つのタワーは"
+.string "And the 5 towers in this world is our"
 
 str_0x800353BC:
 ;JP Text: "別の世界の人がこの世界を"

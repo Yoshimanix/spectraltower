@@ -302,7 +302,7 @@ str_0x80029F30:
 
 str_0x80029F1C:
 ;JP Text: "ｆを装備するには"
-.string "Your equipment level is too low"
+.string "Your weapon level is too low"
 
 str_0x80029F04:
 ;JP Text: "武器レベルが足りません"
