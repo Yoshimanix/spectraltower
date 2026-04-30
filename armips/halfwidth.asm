@@ -55,6 +55,20 @@ slti v0,v0,16
 ; move special skills window 28 pixels to the left (4 * 7, for 4 extra characters)
 .org 0x80027f78
 .byte 0xc6 - 28
-;increase x dimension of special skills window by 28 pixels
+; increase x dimension of special skills window by 28 pixels
 .org 0x80027edc
+.byte 0x6a + 28
+
+; move main menu window 14 pixels to the left
+.org 0x80027fa0
+.byte 0x69 - 14
+; offset this movement for the text
+.org 0x80058364
+ori s7,zero,0x26
+; as well as for the cursor
+.org 0x80039fea
+.byte 0x12
+
+; increase x dimension of main menu window by 28 pixels
+.org 0x80027f2c
 .byte 0x6a + 28

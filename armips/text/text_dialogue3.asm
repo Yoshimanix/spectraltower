@@ -5,71 +5,71 @@ Dialogue3TextStart:
 
 str_0x800C06D8:
 ;JP Text: "逃げた"
-.string "逃げた"
+.string "runs away."
 
 str_0x80039668:
 ;JP Text: "逃げられない！"
-.string "逃げられない！"
+.string "failed to escape!"
 
 str_0x80039650:
 ;JP Text: "聖神コリーアに祈った"
-.string "聖神コリーアに祈った"
+.string "prays to Holy Spirit Coria."
 
 str_0x80039630:
 ;JP Text: "しかし　祈りはとどかなかった"
-.string "しかし　祈りはとどかなかった"
+.string "However, the prayer did not"
 
 str_0x800C06D0:
 ;JP Text: "ｃ　を"
-.string "ｃ　を"
+.string "ｃ　"
 
 str_0x800C06C8:
 ;JP Text: "倒した"
-.string "倒した"
+.string "was defeated."
 
 str_0x8003961C:
 ;JP Text: "知恵をふりしぼった"
-.string "知恵をふりしぼった"
+.string "racks their brain."
 
 str_0x80039604:
 ;JP Text: "何も考えつかなかった…"
-.string "何も考えつかなかった…"
+.string "nothing came to mind."
 
 str_0x800395F0:
 ;JP Text: "戦いに役立てます！"
-.string "戦いに役立てます！"
+.string "will come in handy!"
 
 str_0x800C06C0:
 ;JP Text: "ｃ　に"
-.string "ｃ　に"
+.string "Damages"
 
 str_0x800395DC:
 ;JP Text: "ダメージをあたえた"
-.string "ダメージをあたえた"
+.string "ｃ"
 
 str_0x800395CC:
 ;JP Text: "ｃ　を倒した"
-.string "ｃ　を倒した"
+.string "Defeated ｃ."
 
 str_0x800395B4:
 ;JP Text: "あまり効果がなかった…"
-.string "あまり効果がなかった…"
+.string "It wasn’t very effective…"
 
 str_0x800395A0:
 ;JP Text: "ぬすみを　働いた"
-.string "ぬすみを　働いた"
+.string "attempts to steal."
 
 str_0x8003958C:
 ;JP Text: "うまくぬすみだした"
-.string "うまくぬすみだした"
+.string "The attempt was successful."
 
 str_0x80039570:
 ;JP Text: "しかし　何もぬすめなかった"
-.string "しかし　何もぬすめなかった"
+.string "However, they were unsuccessful."
 
 str_0x8003955C:
 ;JP Text: "大地の歌を歌った"
-.string "大地の歌を歌った"
+.string "sings a song of earth."
 
 str_0x80039544:
 ;JP Text: "やさしい歌は　母の声"
@@ -89,43 +89,43 @@ str_0x80039508:
 
 str_0x800394F8:
 ;JP Text: "体力がｅ回復！"
-.string "体力がｅ回復！"
+.string "HP was restored by ｅ points!"
 
 str_0x800394E0:
 ;JP Text: "しかし何もおこらない"
-.string "しかし何もおこらない"
+.string "However, nothing happens."
 
 str_0x800394CC:
 ;JP Text: "商談をもちかけた"
-.string "商談をもちかけた"
+.string "proposes a trade."
 
 str_0x800394AC:
 ;JP Text: "商談をもちかけようとしたが…"
-.string "商談をもちかけようとしたが…"
+.string "tried to make a deal, but…"
 
 str_0x80039494:
 ;JP Text: "アイテムが　なかった"
-.string "アイテムが　なかった"
+.string "they had no items."
 
 str_0x80039484:
 ;JP Text: "しかしｃ　は"
-.string "しかしｃ　は"
+.string "ｃ"
 
 str_0x8003946C:
 ;JP Text: "きにいらなかったようだ"
-.string "きにいらなかったようだ"
+.string "was not pleased."
 
 str_0x80039450:
 ;JP Text: "ものすごくよろこんでいる"
-.string "ものすごくよろこんでいる"
+.string "is ecstatic."
 
 str_0x80039434:
 ;JP Text: "なっとくして去っていった"
-.string "なっとくして去っていった"
+.string "was convinced to leave."
 
 str_0x80039414:
 ;JP Text: "アイテムをくれて去っていった"
-.string "アイテムをくれて去っていった"
+.string "gave an item and left."
 
 str_0x80039404:
 ;JP Text: "ｃ　を食べた"

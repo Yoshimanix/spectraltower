@@ -234,7 +234,7 @@ str_0x80029398:
 
 str_0x80029380:
 ;JP Text: "呼び出すことができます"
-.string "a fairy to guide you."
+.string "a Guidance Fairy."
 
 str_0x80029368:
 ;JP Text: "どろぼうが　ほしがる"
@@ -242,7 +242,7 @@ str_0x80029368:
 
 str_0x8002935C:
 ;JP Text: "金のかけら"
-.string "by thieves"
+.string "by thieves."
 
 str_0x8002934C:
 ;JP Text: "不思議に光る石"

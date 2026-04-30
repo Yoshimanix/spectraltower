@@ -90,7 +90,7 @@ str_0x8002A310:
 
 str_0x8002A2FC:
 ;JP Text: "元気がわいてくる"
-.string "You feel refreshed."
+.string "You feel much better."
 
 str_0x8002A2E8:
 ;JP Text: "病気レベルがｅ回復"
@@ -118,7 +118,7 @@ str_0x800C0554:
 
 str_0x8002A27C:
 ;JP Text: "ステータスが完全回復！"
-.string "status has been completely restored!"
+.string "status was completely restored!"
 
 str_0x8002A26C:
 ;JP Text: "ｆ　を使った"
@@ -130,7 +130,7 @@ str_0x8002A258:
 
 str_0x8002A248:
 ;JP Text: "なんと正体は"
-.string "It's true form was revealed to be"
+.string "It's true form is revealed to be"
 
 str_0x8002A23C:
 ;JP Text: "ｇ　だった"
@@ -138,7 +138,7 @@ str_0x8002A23C:
 
 str_0x8002A228:
 ;JP Text: "意味がなかった…"
-.string "It was no use… "
+.string "Nothing happened… "
 
 str_0x8002A218:
 ;JP Text: "装備しました"
@@ -154,15 +154,15 @@ str_0x800C054C:
 
 str_0x8002A1F8:
 ;JP Text: "装備できません"
-.string "cannot be equipped"
+.string "cannot be equipped."
 
 str_0x8002A1E8:
 ;JP Text: "パピルスには"
-.string "The scroll is"
+.string "The scroll is written as"
 
 str_0x8002A1CC:
 ;JP Text: "次のように　かかれている"
-.string "written as follows."
+.string "follows."
 
 str_0x8002A1BC:
 ;JP Text: "９５　４３００"
@@ -170,7 +170,7 @@ str_0x8002A1BC:
 
 str_0x8002A1A8:
 ;JP Text: "たびびと　の基なり"
-.string "The foundation of a Traveler."
+.string "Foundation of a Traveler."
 
 str_0x8002A198:
 ;JP Text: "２９　１１３６"
@@ -178,7 +178,7 @@ str_0x8002A198:
 
 str_0x8002A184:
 ;JP Text: "シーフ　の基なり"
-.string "The foundation of a Thief."
+.string "Foundation of a Thief."
 
 str_0x8002A174:
 ;JP Text: "７　６２３５"
@@ -186,7 +186,7 @@ str_0x8002A174:
 
 str_0x8002A15C:
 ;JP Text: "ゆうぼくみん　の基なり"
-.string "The foundation of a Nomad."
+.string "Foundation of a Nomad."
 
 str_0x8002A14C:
 ;JP Text: "１　２４８９"
@@ -194,7 +194,7 @@ str_0x8002A14C:
 
 str_0x8002A13C:
 ;JP Text: "商人　の基なり"
-.string "The foundation of a Merchant."
+.string "Foundation of a Merchant."
 
 str_0x8002A12C:
 ;JP Text: "７１　１１０５"
@@ -202,7 +202,7 @@ str_0x8002A12C:
 
 str_0x8002A118:
 ;JP Text: "野生児　の基なり"
-.string "The foundation of a Wild Child."
+.string "Foundation of a Wild Child."
 
 str_0x8002A108:
 ;JP Text: "２１　２１３７"
@@ -210,7 +210,7 @@ str_0x8002A108:
 
 str_0x8002A0EC:
 ;JP Text: "フリーファイターの基なり"
-.string "The foundation of a Free Fighter."
+.string "Foundation of a Free Fighter."
 
 str_0x8002A0DC:
 ;JP Text: "１３　３７１２"
@@ -218,7 +218,7 @@ str_0x8002A0DC:
 
 str_0x8002A0C4:
 ;JP Text: "クレリック　の基なり"
-.string "The foundation of a Cleric."
+.string "Foundation of a Cleric."
 
 str_0x8002A0B4:
 ;JP Text: "８２　１６６５"
@@ -226,7 +226,7 @@ str_0x8002A0B4:
 
 str_0x8002A09C:
 ;JP Text: "ライトメイジ　の基なり"
-.string "The foundation of a Light Mage."
+.string "Foundation of a Light Mage."
 
 str_0x8002A08C:
 ;JP Text: "５０　３１４６"
@@ -234,7 +234,7 @@ str_0x8002A08C:
 
 str_0x8002A074:
 ;JP Text: "ダークメイジ　の基なり"
-.string "The foundation of a Dark Mage."
+.string "Foundation of a Dark Mage."
 
 str_0x8002A064:
 ;JP Text: "２４　８８６２"
@@ -242,11 +242,11 @@ str_0x8002A064:
 
 str_0x8002A048:
 ;JP Text: "アイテムハンターの基なり"
-.string "The foundation of an Item Hunter."
+.string "Foundation of an Item Hunter."
 
 str_0x8002A030:
 ;JP Text: "長い塔を　さまよう者"
-.string "Those who wander the long tower,"
+.string "Those who wander the long tower"
 
 str_0x8002A014:
 ;JP Text: "それは　地上で罪を負う者"
@@ -262,27 +262,27 @@ str_0x80029FEC:
 
 str_0x80029FE0:
 ;JP Text: "長い塔は"
-.string "The long tower,"
+.string "The long tower is a path that "
 
 str_0x80029FC8:
 ;JP Text: "世界を　つなぐ道なり"
-.string "is a path that connects the worlds."
+.string "connects the worlds."
 
 str_0x80029FB8:
 ;JP Text: "魔王ジャネスに"
-.string "This land is bestowed,"
+.string "I bestow this land unto"
 
 str_0x80029FA4:
 ;JP Text: "この地をあたえる"
-.string "upon the Demon King James"
+.string "The Demon King Janes."
 
 str_0x80029F8C:
 ;JP Text: "基と基を　あわせし時"
-.string "When one foundation meets another,"
+.string "When one foundation meets"
 
 str_0x80029F74:
 ;JP Text: "新たなる基が　生まれる"
-.string "a new foundation is born."
+.string "another, a new one is born."
 
 str_0x80029F58:
 ;JP Text: "この世界の王　イプシロン"

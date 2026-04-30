@@ -5,6 +5,24 @@
 
 NewStringsStart:
 
+escape2:
+.string "escape the fight."
+smoothtalk2:
+.string "enemy."
+unicorn2:
+.string "summons a unicorn."
+nanimono2:
+.string "unknown entity."
+odoridasu2:
+.string "the enemy."
+entrance2:
+.string "make an entrance."
+magic2:
+.string "magic trick."
+taste2:
+.string "taste."
+prayer2:
+.string "make it."
 uselesssword2:
 .string "positive effects."
 uselessrod2:

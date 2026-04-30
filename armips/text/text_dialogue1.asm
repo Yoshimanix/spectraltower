@@ -356,7 +356,7 @@ str_0x800357F0:
 
 str_0x800357D8:
 ;JP Text: "リターンロッドじゃ！"
-.string "It’s the Return Rod, of course!"
+.string "It's the Return Rod, of course!"
 
 str_0x800357C8:
 ;JP Text: "あきらめちゃえ"
@@ -372,15 +372,15 @@ str_0x80035798:
 
 str_0x80035778:
 ;JP Text: "ムリだから　あきらめちゃえ〜"
-.string "It’s too much, so just give it uuup!"
+.string "It's too much, so just give it uuup!"
 
 str_0x80035764:
 ;JP Text: "もうやめちゃいなよ"
-.string "Just quit while you’re ahead."
+.string "Just quit while you're ahead."
 
 str_0x80035744:
 ;JP Text: "君じゃ　このタワーはムリだよ"
-.string "You can’t handle this tower."
+.string "You can't handle this tower."
 
 str_0x80035734:
 ;JP Text: "やめちゃって"
@@ -392,15 +392,15 @@ str_0x80035718:
 
 str_0x80035704:
 ;JP Text: "ずいぶんショボい"
-.string "You’ve got a squishy character there,"
+.string "You've got a squishy character there,"
 
 str_0x800356F0:
 ;JP Text: "キャラクターだねぇ"
-.string "don’cha?"
+.string "don'cha?"
 
 str_0x800356D4:
 ;JP Text: "はじめから　やり直したら？"
-.string "How ‘bout you just quit and start over?"
+.string "How 'bout you just quit and start over?"
 
 str_0x800356C0:
 ;JP Text: "ぼくらシロウサギは"
@@ -416,7 +416,7 @@ str_0x80035694:
 
 str_0x80035684:
 ;JP Text: "せなかむきに"
-.string "Let’s face our enemies"
+.string "Let's face our enemies"
 
 str_0x80035664:
 ;JP Text: "敵とぶつかってみよう！ワオ！"
@@ -424,7 +424,7 @@ str_0x80035664:
 
 str_0x8003564C:
 ;JP Text: "ガイコツマークの上で"
-.string "Let’s fight our enemies"
+.string "Let's fight our enemies"
 
 str_0x80035630:
 ;JP Text: "敵と戦ってみよう！イエイ！"
@@ -432,7 +432,7 @@ str_0x80035630:
 
 str_0x8003561C:
 ;JP Text: "メダルは使わずに"
-.string "Let’s put our medals away"
+.string "Let's put our medals away"
 
 str_0x80035600:
 ;JP Text: "しまっておこう！イエ〜イ！"
@@ -444,7 +444,7 @@ str_0x800355E4:
 
 str_0x800355D0:
 ;JP Text: "もし　もっていたら"
-.string "If you do, it’s rubbish."
+.string "If you do, it's rubbish."
 
 str_0x800355B4:
 ;JP Text: "ゴミだから　すぐ捨てよう！"
@@ -492,7 +492,7 @@ str_0x800354D4:
 
 str_0x800354BC:
 ;JP Text: "わたしは　まだ子供なの"
-.string "I’m just a kid."
+.string "I'm just a kid."
 
 str_0x800354A4:
 ;JP Text: "だから別の世界のことは"
@@ -508,7 +508,7 @@ str_0x80035478:
 
 str_0x80035458:
 ;JP Text: "おやじなんで　おどろいたろ？"
-.string "You surprised that I’m an old man?"
+.string "You surprised that I'm an old man?"
 
 str_0x8003543C:
 ;JP Text: "１００人にひとりくらいは"

@@ -215,7 +215,7 @@ str_0x8002AFA8:
 
 str_0x8002AF8C:
 ;JP Text: "「ぼくはパン屋のユウさん"
-.string "“My name is Yu-san The Baker."
+.string "“My name is Baker Yu."
 
 str_0x8002AF70:
 ;JP Text: "　ようせいのパン屋さんだよ"
@@ -223,7 +223,7 @@ str_0x8002AF70:
 
 str_0x8002AF54:
 ;JP Text: "　やきたてホカホカのパン"
-.string "I'll give you some fluffy,"
+.string "Let me give you fluffy,"
 
 str_0x8002AF40:
 ;JP Text: "　君にあげるよ」"
@@ -235,7 +235,7 @@ str_0x8002AF2C:
 
 str_0x8002AF14:
 ;JP Text: "ユウさんのパンを食べた"
-.string "eats Yu-san's bread."
+.string "eats Baker Yu's bread."
 
 str_0x8002AEFC:
 ;JP Text: "むしゃ　むしゃ　むしゃ"
@@ -271,7 +271,7 @@ str_0x8002AE60:
 
 str_0x8002AE4C:
 ;JP Text: "「わたしは全ての"
-.string "“I am the godess of all"
+.string "“I am the goddess of all"
 
 str_0x8002AE2C:
 ;JP Text: "　ぼうけん者の女神ソフラン」"

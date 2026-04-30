@@ -34,7 +34,7 @@
 
 ; Entry @ 0x80036C54
 .word str_0x80039630
-.word str_0x800C0540
+.word prayer2
 .halfword 0x0002
 .halfword 0x0001
 .halfword 0x0000

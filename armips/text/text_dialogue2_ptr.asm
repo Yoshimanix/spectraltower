@@ -10,7 +10,7 @@
 
 ; Entry @ 0x800360C0
 .word str_0x80036BFC
-.word str_0x800C0540
+.word escape2
 .halfword 0x0001
 .halfword 0x0000
 .halfword 0x0000
@@ -138,7 +138,7 @@
 
 ; Entry @ 0x800361C0
 .word str_0x800369B8
-.word str_0x800C0540
+.word smoothtalk2
 .halfword 0x0001
 .halfword 0x0000
 .halfword 0x0000
@@ -218,7 +218,7 @@
 
 ; Entry @ 0x80036260
 .word str_0x80036854
-.word str_0x800C0540
+.word unicorn2
 .halfword 0x0001
 .halfword 0x0000
 .halfword 0x0000
@@ -226,7 +226,7 @@
 
 ; Entry @ 0x80036270
 .word str_0x80036840
-.word str_0x800C0540
+.word nanimono2
 .halfword 0x0001
 .halfword 0x0000
 .halfword 0x0000
@@ -234,7 +234,7 @@
 
 ; Entry @ 0x80036280
 .word str_0x8003682C
-.word str_0x800C0540
+.word odoridasu2
 .halfword 0x0001
 .halfword 0x0000
 .halfword 0x0000
@@ -274,7 +274,7 @@
 
 ; Entry @ 0x800362D0
 .word str_0x80036768
-.word str_0x800C0540
+.word entrance2
 .halfword 0x0001
 .halfword 0x0000
 .halfword 0x0000
@@ -282,7 +282,7 @@
 
 ; Entry @ 0x800362E0
 .word str_0x80036754
-.word str_0x800C0540
+.word magic2
 .halfword 0x0001
 .halfword 0x0000
 .halfword 0x0000
@@ -330,7 +330,7 @@
 
 ; Entry @ 0x80036340
 .word str_0x800366C4
-.word str_0x800C0540
+.word taste2
 .halfword 0x0001
 .halfword 0x0000
 .halfword 0x0000

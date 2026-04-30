@@ -8,4 +8,5 @@ cp "Spectral Tower (Japan).cue" "out/Spectral Tower (Japan).cue"
 cp "Spectral Tower (Japan).bin" "out/Spectral Tower (Japan).bin"
 cd out
 ../psximager/psxinject "Spectral Tower (Japan).bin" SLPS_004.76 SLPS_004.76
+../psximager/psxinject "Spectral Tower (Japan).bin" D2/WINDS.TIM WINDS.TIM
 ../PCSX-Redux-HEAD-x86_64.AppImage -loadiso "Spectral Tower (Japan).cue" -run

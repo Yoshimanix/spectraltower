@@ -23,11 +23,11 @@ str_0x8002B724:
 
 str_0x80029EF0:
 ;JP Text: "道案内のようせいを"
-.string "You summoned"
+.string "You summoned a Guidance Fairy."
 
 str_0x80029EE0:
 ;JP Text: "呼び出しました"
-.string "a Guidance Fairy."
+.string " "
 
 str_0x80029ED0:
 ;JP Text: "ｇ　に変わった"
@@ -47,11 +47,11 @@ str_0x80029E84:
 
 str_0x80029E70:
 ;JP Text: "最上階にいるので"
-.string "It had no effect"
+.string "It had no effect because you "
 
 str_0x80029E5C:
 ;JP Text: "意味がなかった……"
-.string "because you are at the highest floor."
+.string "are at the highest floor."
 
 
 ;from text_itemdescriptions.asm
