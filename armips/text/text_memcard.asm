@@ -61,3 +61,7 @@ jal BlitToRamSJIS
 ; adjust strncpy size and blitting stride
 .org 0x80061544
 .byte 0x7a
+
+; reduce the spacing between characters in save file names
+.org 0x80058a20
+.byte 0x0

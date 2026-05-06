@@ -425,16 +425,16 @@
 .halfword 0x0000
 
 ; Entry @ 0x80036F64
-.word str_0x80039278
 .word str_0x80039264
+.word str_0x80039278
 .halfword 0x0002
 .halfword 0x0001
 .halfword 0x0000
 .halfword 0x0000
 
 ; Entry @ 0x80036F74
-.word str_0x8003924C
 .word str_0x80039264
+.word str_0x8003924C
 .halfword 0x0002
 .halfword 0x0001
 .halfword 0x0000
@@ -858,7 +858,7 @@
 
 ; Entry @ 0x800372C4
 .word str_0x80039630
-.word str_0x800C0540
+.word prayer2
 .halfword 0x0001
 .halfword 0x0001
 .halfword 0x0000

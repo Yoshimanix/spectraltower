@@ -22,7 +22,7 @@ magic2:
 taste2:
 .string "taste."
 prayer2:
-.string "make it."
+.string "unheard."
 uselesssword2:
 .string "positive effects."
 uselessrod2:

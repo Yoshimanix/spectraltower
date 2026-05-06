@@ -17,7 +17,7 @@ str_0x80039650:
 
 str_0x80039630:
 ;JP Text: "しかし　祈りはとどかなかった"
-.string "However, the prayer did not"
+.string "However, the prayer went"
 
 str_0x800C06D0:
 ;JP Text: "ｃ　を"
@@ -41,15 +41,15 @@ str_0x800395F0:
 
 str_0x800C06C0:
 ;JP Text: "ｃ　に"
-.string "Damages"
+.string "ｃ"
 
 str_0x800395DC:
 ;JP Text: "ダメージをあたえた"
-.string "ｃ"
+.string "receives damage."
 
 str_0x800395CC:
 ;JP Text: "ｃ　を倒した"
-.string "Defeated ｃ."
+.string "ｃ was defeated."
 
 str_0x800395B4:
 ;JP Text: "あまり効果がなかった…"
@@ -109,7 +109,7 @@ str_0x80039494:
 
 str_0x80039484:
 ;JP Text: "しかしｃ　は"
-.string "ｃ"
+.string "However, ｃ"
 
 str_0x8003946C:
 ;JP Text: "きにいらなかったようだ"
@@ -129,415 +129,415 @@ str_0x80039414:
 
 str_0x80039404:
 ;JP Text: "ｃ　を食べた"
-.string "ｃ　を食べた"
+.string "eats ｃ."
 
 str_0x800393EC:
 ;JP Text: "とても　おいしかった"
-.string "とても　おいしかった"
+.string "was delicious."
 
 str_0x800393DC:
 ;JP Text: "変な味がした"
-.string "変な味がした"
+.string "tasted kinda funny."
 
 str_0x800393C8:
 ;JP Text: "呪われてしまった"
-.string "呪われてしまった"
+.string "was cursed."
 
 str_0x800393B0:
 ;JP Text: "病気になってしまった"
-.string "病気になってしまった"
+.string "became sick."
 
 str_0x800393A4:
 ;JP Text: "連続攻撃！"
-.string "連続攻撃！"
+.string "Combo attack!"
 
 str_0x80039388:
 ;JP Text: "「聖神コリーアよ　あなたに"
-.string "「聖神コリーアよ　あなたに"
+.string "“Holy Spirit Coria, I offer you"
 
 str_0x80039374:
 ;JP Text: "　ｇをささげます」"
-.string "　ｇをささげます」"
+.string "　ｇ.”"
 
 str_0x80039360:
 ;JP Text: "何もおこらなかった"
-.string "何もおこらなかった"
+.string "nothing happened."
 
 str_0x8003934C:
 ;JP Text: "アイテムがないので"
-.string "アイテムがないので"
+.string "The skill could not be performed"
 
 str_0x80039334:
 ;JP Text: "この技は使えなかった…"
-.string "この技は使えなかった…"
+.string "because you have no items…"
 
 str_0x8003931C:
 ;JP Text: "電撃の呪文をとなえた"
-.string "電撃の呪文をとなえた"
+.string "chants a spell of electricity."
 
 str_0x8003930C:
 ;JP Text: "しかし　ｃ　は"
-.string "しかし　ｃ　は"
+.string "However, ｃ"
 
 str_0x800392FC:
 ;JP Text: "呪文をかわした"
-.string "呪文をかわした"
+.string "dodged the spell."
 
 str_0x800392E4:
 ;JP Text: "病魔の呪文をとなえた"
-.string "病魔の呪文をとなえた"
+.string "chants a spell of disease."
 
 str_0x800392CC:
 ;JP Text: "アイテム取りを行った"
-.string "アイテム取りを行った"
+.string "tries to steal an item."
 
 str_0x800392C0:
 ;JP Text: "ゲットした"
-.string "ゲットした"
+.string "was obtained."
 
 str_0x800392B4:
 ;JP Text: "さけんだ"
-.string "さけんだ"
+.string "cries out."
 
 str_0x800392A4:
 ;JP Text: "爆・裂・斬！"
-.string "爆・裂・斬！"
+.string "Blast……Cut!"
 
 str_0x80039290:
 ;JP Text: "超・連続攻撃！！"
-.string "超・連続攻撃！！"
+.string "Super…Combo…Attack!!"
 
 str_0x80039278:
 ;JP Text: "病気レベルが０なので"
-.string "病気レベルが０なので"
+.string "because your illness level is 0."
 
 str_0x80039264:
 ;JP Text: "この技は使えない"
-.string "この技は使えない"
+.string "You cannot use this skill"
 
 str_0x8003924C:
 ;JP Text: "呪いレベルが０なので"
-.string "呪いレベルが０なので"
+.string "because your curse level is 0."
 
 str_0x8003923C:
 ;JP Text: "強く念じた！"
-.string "強く念じた！"
+.string "conjures with all their might!"
 
 str_0x8003922C:
 ;JP Text: "聖なる波動が"
-.string "聖なる波動が"
+.string "A holy beam shoots at"
 
 str_0x80039218:
 ;JP Text: "ｃ　をおそう！！"
-.string "ｃ　をおそう！！"
+.string "ｃ!!"
 
 str_0x80039208:
 ;JP Text: "ｃ　を口説いた"
-.string "ｃ　を口説いた"
+.string "Smooth-talksｃ."
 
 str_0x800391F0:
 ;JP Text: "わかってくれなかった"
-.string "わかってくれなかった"
+.string "just didn’t get it."
 
 str_0x800391E4:
 ;JP Text: "てれている"
-.string "てれている"
+.string "is blushing."
 
 str_0x800391D8:
 ;JP Text: "逃げだした"
-.string "逃げだした"
+.string "made a hurried escape."
 
 str_0x800391C8:
 ;JP Text: "ドギマギしてる"
-.string "ドギマギしてる"
+.string "is flustered."
 
 str_0x800391B8:
 ;JP Text: "「す…好きです"
-.string "「す…好きです"
+.string "“I… I like you,"
 
 str_0x800391AC:
 ;JP Text: "　ａさん」"
-.string "　ａさん」"
+.string "ａ .”"
 
 str_0x80039194:
 ;JP Text: "急にペコペコしだした"
-.string "急にペコペコしだした"
+.string "Suddenly begins to flatter."
 
 str_0x80039188:
 ;JP Text: "「ｃさん"
-.string "「ｃさん"
+.string "“ｃ, please take"
 
 str_0x8003916C:
 ;JP Text: "　いや〜これでもどうぞ」"
-.string "　いや〜これでもどうぞ」"
+.string "this as a token of appreciation.”"
 
 str_0x80039158:
 ;JP Text: "ｇ　をてわたした"
-.string "ｇ　をてわたした"
+.string "receives ｇ."
 
 str_0x8003914C:
 ;JP Text: "ｃ　は…"
-.string "ｃ　は…"
+.string "ｃ…"
 
 str_0x8003913C:
 ;JP Text: "よろこんでいる"
-.string "よろこんでいる"
+.string "is quite pleased."
 
 str_0x8003912C:
 ;JP Text: "去っていった"
-.string "去っていった"
+.string "walks away."
 
 str_0x80039114:
 ;JP Text: "きょうみをしめさない！"
-.string "きょうみをしめさない！"
+.string "Show some interest!"
 
 str_0x80039108:
 ;JP Text: "ａ　には"
-.string "ａ　には"
+.string "You have no items to give to"
 
 str_0x800390F0:
 ;JP Text: "わたせるアイテムがない"
-.string "わたせるアイテムがない"
+.string "ａ."
 
 str_0x800390DC:
 ;JP Text: "花と風の歌を歌った"
-.string "花と風の歌を歌った"
+.string "sings of flowers and breeze."
 
 str_0x800390C0:
 ;JP Text: "やさしい大地で　眠りなさい"
-.string "やさしい大地で　眠りなさい"
+.string "Rest easy in these plains."
 
 str_0x800390AC:
 ;JP Text: "白い白い風の中で…"
-.string "白い白い風の中で…"
+.string "surrounded by gentle winds…"
 
 str_0x80039090:
 ;JP Text: "ふしぎな音楽がながれだす"
-.string "ふしぎな音楽がながれだす"
+.string "Mystical music begins to play."
 
 str_0x80039074:
 ;JP Text: "おどりながら　たちさった"
-.string "おどりながら　たちさった"
+.string "dances off into the distance."
 
 str_0x8003905C:
 ;JP Text: "清らかな風がふいてきた"
-.string "清らかな風がふいてきた"
+.string "A crisp breeze blows."
 
 str_0x80039044:
 ;JP Text: "戦うきりょくをなくした"
-.string "戦うきりょくをなくした"
+.string "loses the will to fight."
 
 str_0x80039030:
 ;JP Text: "その場をたちさった"
-.string "その場をたちさった"
+.string "turns their back and leaves."
 
 str_0x80039018:
 ;JP Text: "命の力を魔力に変えた"
-.string "命の力を魔力に変えた"
+.string "turns vitality to magical power."
 
 str_0x80039000:
 ;JP Text: "剣・魔・合成波っ！！"
-.string "剣・魔・合成波っ！！"
+.string "Demon…blade…wave!!"
 
 str_0x80038FE8:
 ;JP Text: "この一撃にかけている"
-.string "この一撃にかけている"
+.string "bets it all on a single attack."
 
 str_0x80038FD8:
 ;JP Text: "天地破滅斬！"
-.string "天地破滅斬！"
+.string "Heaven and Earth!"
 
 str_0x80038FC4:
 ;JP Text: "ｃ　にキスをした"
-.string "ｃ　にキスをした"
+.string "kisses ｃ."
 
 str_0x80038FB0:
 ;JP Text: "デレーとしている"
-.string "デレーとしている"
+.string "is head over heels!"
 
 str_0x80038F94:
 ;JP Text: "はずかしそうに逃げだした"
-.string "はずかしそうに逃げだした"
+.string "became flustered and ran away."
 
 str_0x80038F88:
 ;JP Text: "しかし…"
-.string "しかし…"
+.string "However…"
 
 str_0x80038F74:
 ;JP Text: "きもちわるくなった"
-.string "きもちわるくなった"
+.string "doesn’t feel so good."
 
 str_0x80038F58:
 ;JP Text: "どうやら病気になったようだ"
-.string "どうやら病気になったようだ"
+.string "Looks like they got sick."
 
 str_0x80038F48:
 ;JP Text: "口がかぶれた"
-.string "口がかぶれた"
+.string "got a rash on their mouth."
 
 str_0x80038F30:
 ;JP Text: "１０のダメージをうけた"
-.string "１０のダメージをうけた"
+.string "takes 10 damage."
 
 str_0x80038F20:
 ;JP Text: "決意をかためた"
-.string "決意をかためた"
+.string "strengthens their resolve."
 
 str_0x80038F14:
 ;JP Text: "剣魔連撃"
-.string "剣魔連撃"
+.string "Demonblade Combo."
 
 str_0x80038F08:
 ;JP Text: "パワーの"
-.string "パワーの"
+.string "They can’t control their power!"
 
 str_0x80038EF0:
 ;JP Text: "せいぎょができない！"
-.string "せいぎょができない！"
+.string " "
 
 str_0x80038ED8:
 ;JP Text: "２０のダメージをうけた"
-.string "２０のダメージをうけた"
+.string "takes 20 damage."
 
 str_0x80038EC0:
 ;JP Text: "祈りながら剣をかまえた"
-.string "祈りながら剣をかまえた"
+.string "prays while raising their sword."
 
 str_0x80038EB4:
 ;JP Text: "聖なる力で"
-.string "聖なる力で"
+.string "They attack ｃ"
 
 str_0x80038EA8:
 ;JP Text: "ｃ　を攻撃"
-.string "ｃ　を攻撃"
+.string "with divine power."
 
 str_0x80038E90:
 ;JP Text: "疾風の呪文をとなえた"
-.string "疾風の呪文をとなえた"
+.string "chants Gale Spell."
 
 str_0x800C06B8:
 ;JP Text: "ａ　も"
-.string "ａ　も"
+.string "ａ is also"
 
 str_0x80038E74:
 ;JP Text: "はげしい疾風によりダメージ"
-.string "はげしい疾風によりダメージ"
+.string "damaged by the violent winds."
 
 str_0x80038E58:
 ;JP Text: "１００のダメージをうけた"
-.string "１００のダメージをうけた"
+.string "Takes 100 damage."
 
 str_0x80038E48:
 ;JP Text: "口笛を吹いた"
-.string "口笛を吹いた"
+.string "blows the whistle."
 
 str_0x80038E30:
 ;JP Text: "ユニコーンを呼びだした"
-.string "ユニコーンを呼びだした"
+.string "summons a unicorn."
 
 str_0x80038E1C:
 ;JP Text: "体力がｅ回復した"
-.string "体力がｅ回復した"
+.string "HP is restored by ｅ points"
 
 str_0x80038E04:
 ;JP Text: "ノグノグを呼びだした"
-.string "ノグノグを呼びだした"
+.string "summons Nogunogu."
 
 str_0x80038DF4:
 ;JP Text: "「じゃ！！」"
-.string "「じゃ！！」"
+.string "“Seeya!”"
 
 str_0x80038DDC:
 ;JP Text: "ノグノグは帰っていった"
-.string "ノグノグは帰っていった"
+.string "Nogunogu went home."
 
 str_0x80038DC4:
 ;JP Text: "ホヘホヘを呼びだした"
-.string "ホヘホヘを呼びだした"
+.string "summons Hohehohe."
 
 str_0x80038DB8:
 ;JP Text: "ホヘホヘは"
-.string "ホヘホヘは"
+.string "Hohehohe"
 
 str_0x80038D9C:
 ;JP Text: "０Ｐのダメージをあたえた"
-.string "０Ｐのダメージをあたえた"
+.string "Did 0 points of damage."
 
 str_0x80038D8C:
 ;JP Text: "大声でさけんだ"
-.string "大声でさけんだ"
+.string "cries out loudly."
 
 str_0x80038D70:
 ;JP Text: "きまぐれまじんがあらわれた"
-.string "きまぐれまじんがあらわれた"
+.string "A fickle Majin appears."
 
 str_0x80038D54:
 ;JP Text: "きまぐれまじんにつぶされた"
-.string "きまぐれまじんにつぶされた"
+.string "was crushed by the fickle Majin."
 
 str_0x80038D34:
 ;JP Text: "きまぐれまじんにふっとばされた"
-.string "きまぐれまじんにふっとばされた"
+.string "was sent flying by the Majin."
 
 str_0x80038D1C:
 ;JP Text: "きまぐれ獣があらわれた"
-.string "きまぐれ獣があらわれた"
+.string "A fickle beast appears."
 
 str_0x80038D04:
 ;JP Text: "きまぐれ獣にかまれた"
-.string "きまぐれ獣にかまれた"
+.string "was bitten by the fickle beast."
 
 str_0x80038CE8:
 ;JP Text: "きまぐれ獣に足をふまれた"
-.string "きまぐれ獣に足をふまれた"
+.string "got their toes stepped on."
 
 str_0x80038CD0:
 ;JP Text: "きまぐれ君があらわれた"
-.string "きまぐれ君があらわれた"
+.string "Mr. Fickle Guy appears."
 
 str_0x80038CC0:
 ;JP Text: "「またね！」"
-.string "「またね！」"
+.string "“Seeya later!”"
 
 str_0x80038CA4:
 ;JP Text: "きまぐれ君はさっていった"
-.string "きまぐれ君はさっていった"
+.string "Mr. Fickle guy left."
 
 str_0x80038C8C:
 ;JP Text: "変なおどりをおどった"
-.string "変なおどりをおどった"
+.string "dances strangely."
 
 str_0x80038C74:
 ;JP Text: "「俺のおどりを見ろ！"
-.string "「俺のおどりを見ろ！"
+.string "“Watch my moves!"
 
 str_0x80038C58:
 ;JP Text: "　あつい俺のおどりをっ！」"
-.string "　あつい俺のおどりをっ！」"
+.string "My passionate dance moves!”"
 
 str_0x800C06B0:
 ;JP Text: "ｃ　も"
-.string "ｃ　も"
+.string "ｃ also"
 
 str_0x80038C40:
 ;JP Text: "はげしくおどりだした！"
-.string "はげしくおどりだした！"
+.string "breaks out into a wild dance!"
 
 str_0x80038C24:
 ;JP Text: "まんぞくして帰っていった"
-.string "まんぞくして帰っていった"
+.string "walks away, feeling fulfilled."
 
 str_0x800C06AC:
 ;JP Text: "！"
-.string "！"
+.string "!"
 
 str_0x80038C0C:
 ;JP Text: "コシをいためてしまった"
-.string "コシをいためてしまった"
+.string "hurt their back."
 
 str_0x80038BF8:
 ;JP Text: "きげんが悪くなった"
-.string "きげんが悪くなった"
+.string "got in a bad mood."
 
 str_0x80038BE0:
 ;JP Text: "太古の神々にいのった"
