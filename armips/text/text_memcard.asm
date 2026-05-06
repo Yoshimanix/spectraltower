@@ -22,7 +22,7 @@
 
 .org 0x8003B6E4
 ;JP Text: "スペクトラルタワー　最後の塔　　　　　　　　　　　　"
-.sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　－　Ｆｉｎａｌ　"
+.sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　－　Ｌａｓｔ　"
 
 .org 0x8003b7bc
 ;JP Text: "未使用　　　　　　　　　　　　　"
@@ -52,7 +52,7 @@ ori a0,zero,56
 ori a0,zero,52
 ;Final Tower
 .org 0x8006097c
-ori a0,zero,46
+ori a0,zero,44
 
 ; call SJIS blitting routine when reading existing save file name
 .org 0x8006157c
