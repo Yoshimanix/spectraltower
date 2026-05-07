@@ -339,7 +339,7 @@ str_0x8002ACC0:
 
 str_0x8002ACB4:
 ;JP Text: "最後の塔"
-.string "Final Tower"
+.string "Last Tower"
 
 str_0x8002AC94:
 ;JP Text: "　　　　　　　（全　？フロア）"
@@ -395,7 +395,7 @@ str_0x8002AB40:
 
 str_0x8002AB1C:
 ;JP Text: "　　　　　　　　最後の塔　挑戦中"
-.string "Currently attempting Final Tower."
+.string "Currently attempting Last Tower."
 
 str_0x8002AAFC:
 ;JP Text: "メモリーカードのチェック中です"
