@@ -16,7 +16,7 @@ str_0x8002B738:
 
 str_0x8002B724:
 ;JP Text: "なんともなかった"
-.string "because you did not have any items."
+.string "because you had no items."
 
 
 ;from text_itemonuse.asm
