@@ -72,3 +72,15 @@ ori s7,zero,0x26
 ; increase x dimension of main menu window by 28 pixels
 .org 0x80027f2c
 .byte 0x6a + 28
+
+; adjust text draw frames max value
+.org 0x80057310
+ori a2,zero,0x4
+
+; adjust check for text draw reset to play sfx
+.org 0x800574ec
+slti v0,v0,0x4
+
+; adjust text draw wait decrement
+.org 0x80057434
+addiu v1,v0,-0x3
