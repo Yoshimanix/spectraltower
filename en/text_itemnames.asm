@@ -28,7 +28,7 @@ str_8003CCD0:
 
 str_8003CCC0:
 ;JP TEXT: "マルスブレイド"
-.string "Mars Blade"
+.string "Marth Blade"
 
 str_8003CCAC:
 ;JP TEXT: "サムライブレイド"
@@ -76,11 +76,11 @@ str_8003CC08:
 
 str_8003CBF8:
 ;JP TEXT: "対霊のメダル"
-.string "Familiar Medal"
+.string "Spirit Medal"
 
 str_8003CBE8:
 ;JP TEXT: "対魔のメダル"
-.string "Demon Metal"
+.string "Magic Medal"
 
 str_8003CBD8:
 ;JP TEXT: "対竜のメダル"
@@ -104,47 +104,47 @@ str_8003CB98:
 
 str_8003CB8C:
 ;JP TEXT: "こげら玉"
-.string "こげら玉"
+.string "Woodpecker Ball"
 
 str_8003CB80:
 ;JP TEXT: "黄金の実"
-.string "黄金の実"
+.string "Golden Fruit"
 
 str_8003CB70:
 ;JP TEXT: "大きな木の実"
-.string "大きな木の実"
+.string "Large Fruit"
 
 str_8003CB60:
 ;JP TEXT: "小さな木の実"
-.string "小さな木の実"
+.string "Small Fruit"
 
 str_800C07E8:
 ;JP TEXT: "ほし肉"
-.string "ほし肉"
+.string "Dried meat"
 
 str_800C07E0:
 ;JP TEXT: "きのこ"
-.string "Mushroom"
+.string "Mushrooms"
 
 str_8003CB54:
 ;JP TEXT: "こけだんご"
-.string "こけだんご"
+.string "Moss Ball"
 
 str_8003CB48:
 ;JP TEXT: "いもむし"
-.string "いもむし"
+.string "Caterpillar"
 
 str_8003CB38:
 ;JP TEXT: "ねずみのしっぽ"
-.string "ねずみのしっぽ"
+.string "Mouse tail"
 
 str_8003CB2C:
 ;JP TEXT: "どくけし"
-.string "どくけし"
+.string "Poison Cure"
 
 str_8003CB20:
 ;JP TEXT: "せいすい草"
-.string "せいすい草"
+.string "Cleansing Herb"
 
 str_8003CB14:
 ;JP TEXT: "石ロッド？"
@@ -168,23 +168,23 @@ str_8003CAD0:
 
 str_8003CAC0:
 ;JP TEXT: "ブリキのロッド"
-.string "ブリキのロッド"
+.string "Tin Rod"
 
 str_8003CAB4:
 ;JP TEXT: "パピルス"
-.string "Papyrus"
+.string "Scroll"
 
 str_8003CAA4:
 ;JP TEXT: "まほうのといし"
-.string "まほうのといし"
+.string "Magic Whetstone"
 
 str_8003CA94:
 ;JP TEXT: "ただのがらくた"
-.string "ただのがらくた"
+.string "Junk"
 
 str_8003CA84:
 ;JP TEXT: "戦士のメダル"
-.string "戦士のメダル"
+.string "Warrior's Medal"
 
 str_8003CA70:
 ;JP TEXT: "フェアリーロッド"
@@ -192,27 +192,27 @@ str_8003CA70:
 
 str_8003CA64:
 ;JP TEXT: "金のかけら"
-.string "金のかけら"
+.string "Gold Fragment"
 
 str_800C07D8:
 ;JP TEXT: "光る石"
-.string "光る石"
+.string "Glowing Stone"
 
 str_8003CA58:
 ;JP TEXT: "光るといし"
-.string "光るといし"
+.string "Shining Whetstone"
 
 str_800C07D0:
 ;JP TEXT: "天魔石"
-.string "天魔石"
+.string "Tenma Stone"
 
 str_8003CA48:
 ;JP TEXT: "天魔剣・流星"
-.string "天魔剣・流星"
+.string "Tenma Sword: Meteor"
 
 str_8003CA38:
 ;JP TEXT: "天魔のしゃく"
-.string "天魔のしゃく"
+.string "Tenma Baton"
 
 str_8003CA24:
 ;JP TEXT: "フォースアックス"
@@ -236,7 +236,7 @@ str_8003C9E4:
 
 str_8003C9D4:
 ;JP TEXT: "ダークサーベル"
-.string "Dark Saber"
+.string "Dark Sabre"
 
 str_8003C9C4:
 ;JP TEXT: "ダークソード"
@@ -248,19 +248,19 @@ str_8003C9B4:
 
 str_8003C9A4:
 ;JP TEXT: "がらくたロッド"
-.string "がらくたロッド"
+.string "Junk Rod"
 
 str_8003C994:
 ;JP TEXT: "がらくたメダル"
-.string "がらくたメダル"
+.string "Junk Medal"
 
 str_8003C988:
 ;JP TEXT: "天使の羽"
-.string "天使の羽"
+.string "Angel Feather"
 
 str_8003C978:
 ;JP TEXT: "ドラゴンのキバ"
-.string "ドラゴンのキバ"
+.string "Dragon Fang"
 
 str_8003C964:
 ;JP TEXT: "ドラゴンのウロコ"
@@ -268,11 +268,11 @@ str_8003C964:
 
 str_8003C958:
 ;JP TEXT: "銀のクロス"
-.string "銀のクロス"
+.string "Silver Cross"
 
 str_8003C944:
 ;JP TEXT: "イプシロンのつえ"
-.string "Ypsilon Wand"
+.string "Ypsilon Rod"
 
 str_8003C934:
 ;JP TEXT: "ワープロッド"
@@ -280,10 +280,10 @@ str_8003C934:
 
 str_8003C928:
 ;JP TEXT: "不明物体"
-.string "不明物体"
+.string "Mysterious Object"
 
 str_8003C918:
 ;JP TEXT: "最後の不明物体"
-.string "最後の不明物体"
+.string "Final Mysterious Object"
 
 ItemNameTextEnd:

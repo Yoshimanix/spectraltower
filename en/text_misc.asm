@@ -88,7 +88,7 @@ str_800288A8:
 
 str_80028898:
 ;JP TEXT: "剣魔合成波　"
-.string "Demon Sword Wave"
+.string "Demonblade Wave"
 
 str_80028888:
 ;JP TEXT: "天地破滅斬　"
@@ -200,7 +200,7 @@ str_800286E8:
 
 str_800286D8:
 ;JP TEXT: "やまあらし　"
-.string "Porcupine       "
+.string "Yama Arashi     "
 
 str_800286C8:
 ;JP TEXT: "生気吸収　　"

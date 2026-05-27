@@ -243,15 +243,15 @@ str_800C0718:
 
 str_800C0710:
 ;JP TEXT: "トイレ"
-.string "Toilet"
+.string "Restroom"
 
 str_800C070C:
 ;JP TEXT: ""
-.string ""
+.string " "
 
 str_8003A37C:
 ;JP TEXT: "パン屋のユウさん"
-.string "Baker Yu"
+.string "Yu-san The Baker"
 
 str_800C0704:
 ;JP TEXT: "ベット"
