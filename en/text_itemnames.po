@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-17 17:16-0400\n"
+"PO-Revision-Date: 2026-05-27 11:11+0000\n"
+"Last-Translator: tasos500 <tasos500@hotmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/"
+"spectral-tower/text_itemnames/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14.3\n"
+
+msgctxt "0"
+msgid "　"
+msgstr " "
+
+msgctxt "1"
+msgid "さびた剣？"
+msgstr "Rusted Sword？"
+
+msgctxt "2"
+msgid "ナイフ"
+msgstr "Knife"
+
+msgctxt "3"
+msgid "ブロンズソード"
+msgstr "Bronze Sword"
+
+msgctxt "4"
+msgid "ロングソード"
+msgstr "Longsword"
+
+msgctxt "5"
+msgid "マルスブレイド"
+msgstr "Marth Blade"
+
+msgctxt "6"
+msgid "サムライブレイド"
+msgstr "Samurai Blade"
+
+msgctxt "7"
+msgid "フラッシュソード"
+msgstr "Flash Sword"
+
+msgctxt "8"
+msgid "コインマンキラー"
+msgstr "Coinman Killer"
+
+msgctxt "9"
+msgid "ドラゴンブレイク"
+msgstr "Dragon Break"
+
+msgctxt "10"
+msgid "人斬りの刃"
+msgstr "Slayer's Blade"
+
+msgctxt "11"
+msgid "エクスカリバー"
+msgstr "Excalibur"
+
+msgctxt "12"
+msgid "ワールドヘブン"
+msgstr "World Heaven"
+
+msgctxt "13"
+msgid "やくたたずな剣"
+msgstr "Useless Sword"
+
+msgctxt "14"
+msgid "なぞのメダル"
+msgstr "Mysterious Medal"
+
+msgctxt "15"
+msgid "命のしずく"
+msgstr "Droplets of Life"
+
+msgctxt "16"
+msgid "対鬼のメダル"
+msgstr "Monster Medal"
+
+msgctxt "17"
+msgid "対霊のメダル"
+msgstr "Spirit Medal"
+
+msgctxt "18"
+msgid "対魔のメダル"
+msgstr "Magic Medal"
+
+msgctxt "19"
+msgid "対竜のメダル"
+msgstr "Dragon Medal"
+
+msgctxt "20"
+msgid "対人のメダル"
+msgstr "Human Medal"
+
+msgctxt "21"
+msgid "対悪のメダル"
+msgstr "Demon Medal"
+
+msgctxt "22"
+msgid "シェフのメダル"
+msgstr "Chef's Medal"
+
+msgctxt "23"
+msgid "シーフのメダル"
+msgstr "Thief's Medal"
+
+msgctxt "24"
+msgid "こげら玉"
+msgstr "Woodpecker Ball"
+
+msgctxt "25"
+msgid "黄金の実"
+msgstr "Golden Fruit"
+
+msgctxt "26"
+msgid "大きな木の実"
+msgstr "Large Fruit"
+
+msgctxt "27"
+msgid "小さな木の実"
+msgstr "Small Fruit"
+
+msgctxt "28"
+msgid "ほし肉"
+msgstr "Dried meat"
+
+msgctxt "29"
+msgid "きのこ"
+msgstr "Mushrooms"
+
+msgctxt "30"
+msgid "こけだんご"
+msgstr "Moss Ball"
+
+msgctxt "31"
+msgid "いもむし"
+msgstr "Caterpillar"
+
+msgctxt "32"
+msgid "ねずみのしっぽ"
+msgstr "Mouse tail"
+
+msgctxt "33"
+msgid "どくけし"
+msgstr "Poison Cure"
+
+msgctxt "34"
+msgid "せいすい草"
+msgstr "Cleansing Herb"
+
+msgctxt "35"
+msgid "石ロッド？"
+msgstr "Stone Rod"
+
+msgctxt "36"
+msgid "ジャンプロッド"
+msgstr "Junp Rod"
+
+msgctxt "37"
+msgid "ユニコーンロッド"
+msgstr "Unicorn Rod"
+
+msgctxt "38"
+msgid "リターンロッド"
+msgstr "Return Rod"
+
+msgctxt "39"
+msgid "セーブロッド"
+msgstr "Save Rod"
+
+msgctxt "40"
+msgid "ブリキのロッド"
+msgstr "Tin Rod"
+
+msgctxt "41"
+msgid "パピルス"
+msgstr "Scroll"
+
+msgctxt "42"
+msgid "まほうのといし"
+msgstr "Magic Whetstone"
+
+msgctxt "43"
+msgid "ただのがらくた"
+msgstr "Junk"
+
+msgctxt "44"
+msgid "戦士のメダル"
+msgstr "Warrior's Medal"
+
+msgctxt "45"
+msgid "フェアリーロッド"
+msgstr "Fairy Rod"
+
+msgctxt "46"
+msgid "金のかけら"
+msgstr "Gold Fragment"
+
+msgctxt "47"
+msgid "光る石"
+msgstr "Glowing Stone"
+
+msgctxt "48"
+msgid "光るといし"
+msgstr "Shining Whetstone"
+
+msgctxt "49"
+msgid "天魔石"
+msgstr "Tenma Stone"
+
+msgctxt "50"
+msgid "天魔剣・流星"
+msgstr "Tenma Sword: Meteor"
+
+msgctxt "51"
+msgid "天魔のしゃく"
+msgstr "Tenma Baton"
+
+msgctxt "52"
+msgid "フォースアックス"
+msgstr "Force Axe"
+
+msgctxt "53"
+msgid "イーグルソード"
+msgstr "Eagle Sword"
+
+msgctxt "54"
+msgid "ダークナイフ"
+msgstr "Dark Knife"
+
+msgctxt "55"
+msgid "ダークダガー"
+msgstr "Dark Dagger"
+
+msgctxt "56"
+msgid "ダークアックス"
+msgstr "Dark Axe"
+
+msgctxt "57"
+msgid "ダークサーベル"
+msgstr "Dark Sabre"
+
+msgctxt "58"
+msgid "ダークソード"
+msgstr "Dark Sword"
+
+msgctxt "59"
+msgid "ダークブレイド"
+msgstr "Dark Blade"
+
+msgctxt "60"
+msgid "がらくたロッド"
+msgstr "Junk Rod"
+
+msgctxt "61"
+msgid "がらくたメダル"
+msgstr "Junk Medal"
+
+msgctxt "62"
+msgid "天使の羽"
+msgstr "Angel Feather"
+
+msgctxt "63"
+msgid "ドラゴンのキバ"
+msgstr "Dragon Fang"
+
+msgctxt "64"
+msgid "ドラゴンのウロコ"
+msgstr "Dragon Scale"
+
+msgctxt "65"
+msgid "銀のクロス"
+msgstr "Silver Cross"
+
+msgctxt "66"
+msgid "イプシロンのつえ"
+msgstr "Epsilon Rod"
+
+msgctxt "67"
+msgid "ワープロッド"
+msgstr "Warp Rod"
+
+msgctxt "68"
+msgid "不明物体"
+msgstr "Mysterious Object"
+
+msgctxt "69"
+msgid "最後の不明物体"
+msgstr "Final Mysterious Object"

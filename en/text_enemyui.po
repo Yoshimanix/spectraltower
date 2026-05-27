@@ -1,0 +1,287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-20 17:16-0400\n"
+"PO-Revision-Date: 2026-05-27 11:11+0000\n"
+"Last-Translator: tasos500 <tasos500@hotmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/"
+"spectral-tower/text_enemyui/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14.3\n"
+
+msgctxt "0"
+msgid "　　　ダミー　　"
+msgstr "Dummy"
+
+msgctxt "1"
+msgid "ダミー：レベル"
+msgstr "Dummy: Level"
+
+msgctxt "2"
+msgid "　　　コボルト　"
+msgstr "Kobold"
+
+msgctxt "3"
+msgid "　　鬼：レベル"
+msgstr "Monster: Level"
+
+msgctxt "4"
+msgid "　　　インプ　　"
+msgstr "Imp"
+
+msgctxt "5"
+msgid "使い魔：レベル"
+msgstr "Familiar: Level"
+
+msgctxt "6"
+msgid "　　　ゴブリン　"
+msgstr "Goblin"
+
+msgctxt "7"
+msgid "　　　オーク　　"
+msgstr "Orc"
+
+msgctxt "8"
+msgid "　　グレムリン　"
+msgstr "Gremlin"
+
+msgctxt "9"
+msgid "　　　シーフ　　"
+msgstr "Thief"
+
+msgctxt "10"
+msgid "　人間：レベル"
+msgstr "Human: Level"
+
+msgctxt "11"
+msgid "　　　ゾンビ　　"
+msgstr "Zombie"
+
+msgctxt "12"
+msgid "　　霊：レベル"
+msgstr "Spirit: Level"
+
+msgctxt "13"
+msgid "　　　ゴースト　"
+msgstr "Ghost"
+
+msgctxt "14"
+msgid "　　コインマン　"
+msgstr "Coinman"
+
+msgctxt "15"
+msgid "　メッキコイン　"
+msgstr "Plated Coinman"
+
+msgctxt "16"
+msgid "　ホブゴブリン　"
+msgstr "Hobgoblin"
+
+msgctxt "17"
+msgid "　　　ドレイク　"
+msgstr "Drake"
+
+msgctxt "18"
+msgid "　　竜：レベル"
+msgstr "Dragon: Level"
+
+msgctxt "19"
+msgid "　ダークナイト　"
+msgstr "Dark Knight"
+
+msgctxt "20"
+msgid "　　　グール　　"
+msgstr "Ghoul"
+
+msgctxt "21"
+msgid "　　赤ドレイク　"
+msgstr "Red Drake"
+
+msgctxt "22"
+msgid "　　　オニ　　　"
+msgstr "Oni"
+
+msgctxt "23"
+msgid "　　黒ドレイク　"
+msgstr "Black Drake"
+
+msgctxt "24"
+msgid "　　　アサシン　"
+msgstr "Assassin"
+
+msgctxt "25"
+msgid "　　　バグベア　"
+msgstr "Bugbear"
+
+msgctxt "26"
+msgid "　　アクリョウ　"
+msgstr "Evil Spirit"
+
+msgctxt "27"
+msgid "　　　呪術師　　"
+msgstr "Sorcerer"
+
+msgctxt "28"
+msgid "　　カエル男爵　"
+msgstr "Frog Baron"
+
+msgctxt "29"
+msgid "　ウェアウルフ　"
+msgstr "Werewolf"
+
+msgctxt "30"
+msgid "　バーサーカー　"
+msgstr "Berserker"
+
+msgctxt "31"
+msgid "　　　ドラゴン　"
+msgstr "Dragon"
+
+msgctxt "32"
+msgid "　　　オーガ　　"
+msgstr "Ogre"
+
+msgctxt "33"
+msgid "　　ファントム　"
+msgstr "Phantom"
+
+msgctxt "34"
+msgid "　　バンパイア　"
+msgstr "Vampire"
+
+msgctxt "35"
+msgid "　　赤ドラゴン　"
+msgstr "Red Dragon"
+
+msgctxt "36"
+msgid "　　白ドラゴン　"
+msgstr "White Dragon"
+
+msgctxt "37"
+msgid "　　　マジン　　"
+msgstr "Majin"
+
+msgctxt "38"
+msgid "　悪魔：レベル"
+msgstr "Demon: Level"
+
+msgctxt "39"
+msgid "　　　マオウ　　"
+msgstr "Demon King"
+
+msgctxt "40"
+msgid "　　ヘルガイア　"
+msgstr "Helgaia"
+
+msgctxt "41"
+msgid "　　　ココロ　　"
+msgstr "Kokoro"
+
+msgctxt "42"
+msgid "　　　キシン　　"
+msgstr "Kishin"
+
+msgctxt "43"
+msgid "　　黒ドラゴン　"
+msgstr "Black Dragon"
+
+msgctxt "44"
+msgid "　　青ドラゴン　"
+msgstr "Blue Dragon"
+
+msgctxt "45"
+msgid "　　金ドラゴン　"
+msgstr "Gold Dragon"
+
+msgctxt "46"
+msgid "　　銀ドラゴン　"
+msgstr "Silver Dragon"
+
+msgctxt "47"
+msgid "　　　極戦鬼　　"
+msgstr "Demon Warrior"
+
+msgctxt "48"
+msgid "　スペクトラル竜"
+msgstr "Spectral Dragon"
+
+msgctxt "49"
+msgid "　あばれコイン　"
+msgstr "Wild Coin"
+
+msgctxt "50"
+msgid "　ビンボコイン　"
+msgstr "Poor Coin"
+
+msgctxt "51"
+msgid "　　呪いコイン　"
+msgstr "Cursed Coin"
+
+msgctxt "52"
+msgid "　　病気コイン　"
+msgstr "Sick Coin"
+
+msgctxt "53"
+msgid "　　王様コイン　"
+msgstr "King Coin"
+
+msgctxt "54"
+msgid "　　ブリモリン　"
+msgstr "Brimolin"
+
+msgctxt "55"
+msgid "　　　マンビー　"
+msgstr "Manby"
+
+msgctxt "56"
+msgid "　　　ギャプ　　"
+msgstr "Gap"
+
+msgctxt "57"
+msgid "　クイーンローズ"
+msgstr "Queen Rose"
+
+msgctxt "58"
+msgid "　　　　神　　　"
+msgstr "Kami"
+
+msgctxt "59"
+msgid "　　トイレ　　　"
+msgstr "Restroom"
+
+msgctxt "60"
+msgid "　"
+msgstr "  "
+
+msgctxt "61"
+msgid "　ベッドゴーレム"
+msgstr "Bed Golem"
+
+msgctxt "62"
+msgid "　　　　　　　　"
+msgstr "                "
+
+msgctxt "63"
+msgid "　　セーブの像"
+msgstr "Save Statue"
+
+msgctxt "64"
+msgid "　　宝箱　　　　"
+msgstr "Treasure Chest"
+
+msgctxt "65"
+msgid "　　　　レベル"
+msgstr "Level"
+
+msgctxt "66"
+msgid "　どくろの宝箱　"
+msgstr "Skull Chest"
+
+msgctxt "67"
+msgid "　　金の宝箱　　"
+msgstr "Golden Chest"

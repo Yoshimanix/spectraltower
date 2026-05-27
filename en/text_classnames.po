@@ -1,0 +1,459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-12 17:16-0400\n"
+"PO-Revision-Date: 2026-05-27 11:08+0000\n"
+"Last-Translator: tasos500 <tasos500@hotmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/"
+"spectral-tower/text_classnames-po/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14.3\n"
+
+msgctxt "0"
+msgid "フール"
+msgstr "Fool"
+
+msgctxt "1"
+msgid "旅人"
+msgstr "Traveler"
+
+msgctxt "2"
+msgid "シーフ"
+msgstr "Thief"
+
+msgctxt "3"
+msgid "遊牧民"
+msgstr "Nomad"
+
+msgctxt "4"
+msgid "商人"
+msgstr "Merchant"
+
+msgctxt "5"
+msgid "野性児"
+msgstr "Wild Child"
+
+msgctxt "6"
+msgid "フリーファイター"
+msgstr "Free Fighter"
+
+msgctxt "7"
+msgid "クレリック"
+msgstr "Cleric"
+
+msgctxt "8"
+msgid "ライトメイジ"
+msgstr "Light Mage"
+
+msgctxt "9"
+msgid "ダークメイジ"
+msgstr "Dark Mage"
+
+msgctxt "10"
+msgid "アイテムハンター"
+msgstr "Item Hunter"
+
+msgctxt "11"
+msgid "戦士"
+msgstr "Warrior"
+
+msgctxt "12"
+msgid "ソードマン"
+msgstr "Swordsman"
+
+msgctxt "13"
+msgid "デザートガード"
+msgstr "Desert Guard"
+
+msgctxt "14"
+msgid "オーラファイター"
+msgstr "Aura Fighter"
+
+msgctxt "15"
+msgid "ドラゴンバスター"
+msgstr "Dragon Buster"
+
+msgctxt "16"
+msgid "デビルバスター"
+msgstr "Demon Buster"
+
+msgctxt "17"
+msgid "美しき戦士"
+msgstr "Beautiful Warrior"
+
+msgctxt "18"
+msgid "魔法戦士"
+msgstr "Magic Warrior"
+
+msgctxt "19"
+msgid "ビーストハンター"
+msgstr "Beast Hunter"
+
+msgctxt "20"
+msgid "オークキラー"
+msgstr "Orc Killer"
+
+msgctxt "21"
+msgid "アーマーナイト"
+msgstr "Armor Knight"
+
+msgctxt "22"
+msgid "バトルマスター"
+msgstr "Battle Master"
+
+msgctxt "23"
+msgid "ライトナイト"
+msgstr "Light Knight"
+
+msgctxt "24"
+msgid "アマゾネス"
+msgstr "Amazoness"
+
+msgctxt "25"
+msgid "超戦士"
+msgstr "Super Warrior"
+
+msgctxt "26"
+msgid "エルフナイト"
+msgstr "Elf Knight"
+
+msgctxt "27"
+msgid "エルフメイジ"
+msgstr "Elf Mage"
+
+msgctxt "28"
+msgid "エルフレンジャー"
+msgstr "Elf Ranger"
+
+msgctxt "29"
+msgid "エルフクレリック"
+msgstr "Elf Cleric"
+
+msgctxt "30"
+msgid "原始人"
+msgstr "Caveman"
+
+msgctxt "31"
+msgid "レンジャー"
+msgstr "Ranger"
+
+msgctxt "32"
+msgid "おさる"
+msgstr "Monkey"
+
+msgctxt "33"
+msgid "羊飼い"
+msgstr "Shepherd"
+
+msgctxt "34"
+msgid "魔獣使い"
+msgstr "Beastmaster"
+
+msgctxt "35"
+msgid "風水師"
+msgstr "Feng Shui Master"
+
+msgctxt "36"
+msgid "ネコ戦士"
+msgstr "Cat Warrior"
+
+msgctxt "37"
+msgid "カエル戦士"
+msgstr "Frog Warrior"
+
+msgctxt "38"
+msgid "バーサーカー"
+msgstr "Berserker"
+
+msgctxt "39"
+msgid "夢の住人"
+msgstr "Dream Dweller"
+
+msgctxt "40"
+msgid "パラディン"
+msgstr "Paladin"
+
+msgctxt "41"
+msgid "聖者"
+msgstr "Saint"
+
+msgctxt "42"
+msgid "ウォーロック"
+msgstr "Warlock"
+
+msgctxt "43"
+msgid "賢者"
+msgstr "Sage"
+
+msgctxt "44"
+msgid "ルーンマスター"
+msgstr "Rune Master"
+
+msgctxt "45"
+msgid "聖獣使い"
+msgstr "Sacred Beast Tamer"
+
+msgctxt "46"
+msgid "案内人"
+msgstr "Guide"
+
+msgctxt "47"
+msgid "ビショップ"
+msgstr "Bishop"
+
+msgctxt "48"
+msgid "英雄"
+msgstr "Hero"
+
+msgctxt "49"
+msgid "ヴァルキリー"
+msgstr "Valkyrie"
+
+msgctxt "50"
+msgid "村人"
+msgstr "Villager"
+
+msgctxt "51"
+msgid "手品師"
+msgstr "Magician"
+
+msgctxt "52"
+msgid "隠者"
+msgstr "Hermit"
+
+msgctxt "53"
+msgid "占い師"
+msgstr "Fortune Teller"
+
+msgctxt "54"
+msgid "武器商人"
+msgstr "Weapon Merchant"
+
+msgctxt "55"
+msgid "呪術師"
+msgstr "Sorcerer"
+
+msgctxt "56"
+msgid "船長"
+msgstr "Captain"
+
+msgctxt "57"
+msgid "デザートシーフ"
+msgstr "Desert Thief"
+
+msgctxt "58"
+msgid "詩人"
+msgstr "Bard"
+
+msgctxt "59"
+msgid "グルメ"
+msgstr "Gourmet"
+
+msgctxt "60"
+msgid "ギャンブラー"
+msgstr "Gambler"
+
+msgctxt "61"
+msgid "マリオネット師"
+msgstr "Marionette"
+
+msgctxt "62"
+msgid "ぬいぐるみ師"
+msgstr "Teddy Bear Maker"
+
+msgctxt "63"
+msgid "ピエロ"
+msgstr "Clown"
+
+msgctxt "64"
+msgid "いかさま師"
+msgstr "Trickster"
+
+msgctxt "65"
+msgid "コレクター"
+msgstr "Collector"
+
+msgctxt "66"
+msgid "幻術師"
+msgstr "Illusionist"
+
+msgctxt "67"
+msgid "アサシン"
+msgstr "Assassin"
+
+msgctxt "68"
+msgid "海賊"
+msgstr "Pirate"
+
+msgctxt "69"
+msgid "お笑い芸人"
+msgstr "Comedian"
+
+msgctxt "70"
+msgid "侍"
+msgstr "Samurai"
+
+msgctxt "71"
+msgid "忍者"
+msgstr "Ninja"
+
+msgctxt "72"
+msgid "空手マスター"
+msgstr "Karate Master"
+
+msgctxt "73"
+msgid "浪人"
+msgstr "Ronin"
+
+msgctxt "74"
+msgid "将軍"
+msgstr "Shogun"
+
+msgctxt "75"
+msgid "柔マスター"
+msgstr "Judo Master"
+
+msgctxt "76"
+msgid "抜け忍"
+msgstr "Runaway Ninja"
+
+msgctxt "77"
+msgid "用心棒"
+msgstr "Bodyguard"
+
+msgctxt "78"
+msgid "武道家"
+msgstr "Martial Artist"
+
+msgctxt "79"
+msgid "武将"
+msgstr "Commander"
+
+msgctxt "80"
+msgid "魔猿・悟空"
+msgstr "Magic Monkey Goku"
+
+msgctxt "81"
+msgid "軍師"
+msgstr "Military Strategist"
+
+msgctxt "82"
+msgid "カンフーマスター"
+msgstr "Kung Fu Master"
+
+msgctxt "83"
+msgid "キング"
+msgstr "King"
+
+msgctxt "84"
+msgid "クィーン"
+msgstr "Queen"
+
+msgctxt "85"
+msgid "プリンス"
+msgstr "Prince"
+
+msgctxt "86"
+msgid "プリンセス"
+msgstr "Princess"
+
+msgctxt "87"
+msgid "ジェネラル"
+msgstr "General"
+
+msgctxt "88"
+msgid "魔王の息子"
+msgstr "Demon Prince"
+
+msgctxt "89"
+msgid "ダークナイト"
+msgstr "Dark Knight"
+
+msgctxt "90"
+msgid "ソーサラー"
+msgstr "Sorcerer"
+
+msgctxt "91"
+msgid "バンパイア"
+msgstr "Vampire"
+
+msgctxt "92"
+msgid "ウェアウルフ"
+msgstr "Werewolf"
+
+msgctxt "93"
+msgid "ゾンビマスター"
+msgstr "Zombie Master"
+
+msgctxt "94"
+msgid "カエル男爵"
+msgstr "Frog Baron"
+
+msgctxt "95"
+msgid "ウェアキャット"
+msgstr "Werecat"
+
+msgctxt "96"
+msgid "シュラ"
+msgstr "Shura"
+
+msgctxt "97"
+msgid "ゴーレムマスター"
+msgstr "Golem Master"
+
+msgctxt "98"
+msgid "デビルアーマー"
+msgstr "Demon Armor"
+
+msgctxt "99"
+msgid "リッチ"
+msgstr "Lich"
+
+msgctxt "100"
+msgid "魔人の息子"
+msgstr "Demon's Son"
+
+msgctxt "101"
+msgid "伝説の勇者"
+msgstr "Legendary Hero"
+
+msgctxt "102"
+msgid "極戦鬼"
+msgstr "Extreme Warrior"
+
+msgctxt "103"
+msgid "天空戦神"
+msgstr "Heavenly Warrior"
+
+msgctxt "104"
+msgid "遺跡戦士"
+msgstr "Ruin Warrior"
+
+msgctxt "105"
+msgid "無限戦闘兵"
+msgstr "Invincible Solider"
+
+msgctxt "106"
+msgid "最後の勇者"
+msgstr "The Last Hero"
+
+msgctxt "107"
+msgid "０１２３４５６７８９／対戦レベル"
+msgstr "0123456789 / Matchup Level"
+
+msgctxt "108"
+msgid "：鬼霊魔竜人悪武食注呪病はいえ使"
+msgstr "H I J K L M N O P Q R S T U G W"
+
+msgctxt "109"
+msgid "用捨てるステータ装アイム必殺技う"
+msgstr "- Y : a b c d e f g h i j k l m"
+
+msgctxt "110"
+msgid "！開けやめさ　　。、　備　　　　"
+msgstr "n o p q r s t u v w   y z      "

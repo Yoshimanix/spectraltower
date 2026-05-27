@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-22 16:16-0400\n"
+"PO-Revision-Date: 2026-04-30 11:16+0000\n"
+"Last-Translator: Quade <thequadehunter@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/"
+"spectral-tower/text_misc/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14.3\n"
+
+msgctxt "0"
+msgid "ダミー　　　"
+msgstr "Dummy           "
+
+msgctxt "1"
+msgid "逃げる　　　"
+msgstr "Run             "
+
+msgctxt "2"
+msgid "お祈り　　　"
+msgstr "Prayer          "
+
+msgctxt "3"
+msgid "冒険の知恵　"
+msgstr "Quest Wisdom    "
+
+msgctxt "4"
+msgid "ぬすむ　　　"
+msgstr "Steal           "
+
+msgctxt "5"
+msgid "大地の歌　　"
+msgstr "Earth Song      "
+
+msgctxt "6"
+msgid "商談　　　　"
+msgstr "Trade           "
+
+msgctxt "7"
+msgid "食べる　　　"
+msgstr "Eat             "
+
+msgctxt "8"
+msgid "連続攻撃　　"
+msgstr "Combo Attack    "
+
+msgctxt "9"
+msgid "回復の呪文　"
+msgstr "Healing         "
+
+msgctxt "10"
+msgid "電撃の呪文　"
+msgstr "Electricity     "
+
+msgctxt "11"
+msgid "病魔の呪文　"
+msgstr "Sickness        "
+
+msgctxt "12"
+msgid "アイテム取り"
+msgstr "Take Item       "
+
+msgctxt "13"
+msgid "爆裂斬　　　"
+msgstr "Blast Cut       "
+
+msgctxt "14"
+msgid "超連続攻撃　"
+msgstr "Super Combo     "
+
+msgctxt "15"
+msgid "聖なる波動　"
+msgstr "Holy Wave       "
+
+msgctxt "16"
+msgid "口説く　　　"
+msgstr "Charm           "
+
+msgctxt "17"
+msgid "そでの下　　"
+msgstr "Bribe           "
+
+msgctxt "18"
+msgid "花と風の歌　"
+msgstr "Windflower Song "
+
+msgctxt "19"
+msgid "剣魔合成波　"
+msgstr "Demonblade Wave"
+
+msgctxt "20"
+msgid "天地破滅斬　"
+msgstr "Heaven and Earth"
+
+msgctxt "21"
+msgid "キスでチュッ"
+msgstr "Smooch          "
+
+msgctxt "22"
+msgid "剣魔連撃　　"
+msgstr "Demonblade Combo"
+
+msgctxt "23"
+msgid "聖剣波　　　"
+msgstr "Holy Sword Wave "
+
+msgctxt "24"
+msgid "疾風の呪文　"
+msgstr "Gale Spell      "
+
+msgctxt "25"
+msgid "呼ぶ口笛　　"
+msgstr "Summoner Whistle"
+
+msgctxt "26"
+msgid "呼ぶさけび　"
+msgstr "Summoner Scream "
+
+msgctxt "27"
+msgid "変なおどり　"
+msgstr "Strange Dance   "
+
+msgctxt "28"
+msgid "地殻変動　　"
+msgstr "Tectonic Shift  "
+
+msgctxt "29"
+msgid "必殺攻撃　　"
+msgstr "Special Attack  "
+
+msgctxt "30"
+msgid "聖回復の呪文"
+msgstr "Holy Heal Spell "
+
+msgctxt "31"
+msgid "爆炎の呪文　"
+msgstr "Explosive Spell "
+
+msgctxt "32"
+msgid "呼ぶ祈り　　"
+msgstr "Summoning Prayer"
+
+msgctxt "33"
+msgid "手品　　　　"
+msgstr "Magic Trick     "
+
+msgctxt "34"
+msgid "運命のカード"
+msgstr "Card of Destiny "
+
+msgctxt "35"
+msgid "武器にする　"
+msgstr "Makeshift Weapon"
+
+msgctxt "36"
+msgid "呪い殺す　　"
+msgstr "Killing Curse   "
+
+msgctxt "37"
+msgid "うずしお斬　"
+msgstr "Whirlpool Slash "
+
+msgctxt "38"
+msgid "空と光の歌　"
+msgstr "Shining Sky Song"
+
+msgctxt "39"
+msgid "味見する　　"
+msgstr "Taste           "
+
+msgctxt "40"
+msgid "チェンジ！　"
+msgstr "Swap!           "
+
+msgctxt "41"
+msgid "身がわり君　"
+msgstr "Body Double     "
+
+msgctxt "42"
+msgid "攻撃君　　　"
+msgstr "Attack Buddy    "
+
+msgctxt "43"
+msgid "スマイル　　"
+msgstr "Smile           "
+
+msgctxt "44"
+msgid "分身　　　　"
+msgstr "Doppelganger    "
+
+msgctxt "45"
+msgid "混乱させる　"
+msgstr "Confuse         "
+
+msgctxt "46"
+msgid "月光連打　　"
+msgstr "Moonlight Combo "
+
+msgctxt "47"
+msgid "やまあらし　"
+msgstr "Yama Arashi     "
+
+msgctxt "48"
+msgid "生気吸収　　"
+msgstr "Absorb Energy   "
+
+msgctxt "49"
+msgid "　　　　　　"
+msgstr "                "
+
+msgctxt "50"
+msgid "おたけび　　"
+msgstr "Battle Cry      "
+
+msgctxt "51"
+msgid "ゾンビ呼び　"
+msgstr "Summon Zombie   "
+
+msgctxt "52"
+msgid "一撃！　　　"
+msgstr "Single Strike!  "
+
+msgctxt "53"
+msgid "マルスカット"
+msgstr "Marth Cut       "
+
+msgctxt "54"
+msgid "たたずむ　　"
+msgstr "Loiter          "
+
+msgctxt "55"
+msgid "つづき"
+msgstr "Continue"
+
+msgctxt "56"
+msgid "始めから"
+msgstr "New Game"
+
+msgctxt "57"
+msgid "設定"
+msgstr "Settings"
+
+msgctxt "58"
+msgid "サウンド設定"
+msgstr "Sound Settings"
+
+msgctxt "59"
+msgid "　　　ＢＧＭ"
+msgstr "BGM"
+
+msgctxt "60"
+msgid "　　　　ＳＥ"
+msgstr "Sound Effects"
+
+msgctxt "61"
+msgid "ステレオ"
+msgstr "Stereo"
+
+msgctxt "62"
+msgid "モノラル"
+msgstr "Mono"
+
+msgctxt "63"
+msgid "メッセージの速さ"
+msgstr "Text Speed"
+
+msgctxt "64"
+msgid "おそい"
+msgstr "Slow"
+
+msgctxt "65"
+msgid "ふつう"
+msgstr "Normal"
+
+msgctxt "66"
+msgid "はやい"
+msgstr "Fast"
