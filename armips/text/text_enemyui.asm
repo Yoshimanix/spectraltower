@@ -14,243 +14,243 @@ EnemyUITextStart:
 
 str_8003A824:
 ;JP TEXT: "　　　ダミー　　"
-.string "      Dummy     "
+.string "      Dummy    "
 
 str_8003A814:
 ;JP TEXT: "ダミー：レベル"
-.string "  Dummy: Level  "
+.string "  Dummy: Level "
 
 str_8003A800:
 ;JP TEXT: "　　　コボルト　"
-.string "     Kobold     "
+.string "     Kobold    "
 
 str_8003A7F0:
 ;JP TEXT: "　　鬼：レベル"
-.string " Monster: Level "
+.string " Monster: Level"
 
 str_8003A7DC:
 ;JP TEXT: "　　　インプ　　"
-.string "       Imp      "
+.string "       Imp     "
 
 str_8003A7CC:
 ;JP TEXT: "使い魔：レベル"
-.string "Familiar: Level "
+.string "Familiar: Level"
 
 str_8003A7B8:
 ;JP TEXT: "　　　ゴブリン　"
-.string "     Goblin     "
+.string "     Goblin    "
 
 str_8003A7A4:
 ;JP TEXT: "　　　オーク　　"
-.string "       Orc      "
+.string "       Orc     "
 
 str_8003A790:
 ;JP TEXT: "　　グレムリン　"
-.string "     Gremlin    "
+.string "     Gremlin   "
 
 str_8003A77C:
 ;JP TEXT: "　　　シーフ　　"
-.string "      Thief     "
+.string "      Thief    "
 
 str_8003A76C:
 ;JP TEXT: "　人間：レベル"
-.string "  Human: Level  "
+.string "  Human: Level "
 
 str_8003A758:
 ;JP TEXT: "　　　ゾンビ　　"
-.string "     Zombie     "
+.string "     Zombie    "
 
 str_8003A748:
 ;JP TEXT: "　　霊：レベル"
-.string "  Spirit: Level "
+.string "  Spirit: Level"
 
 str_8003A734:
 ;JP TEXT: "　　　ゴースト　"
-.string "      Ghost     "
+.string "      Ghost    "
 
 str_8003A720:
 ;JP TEXT: "　　コインマン　"
-.string "     Coinman    "
+.string "     Coinman   "
 
 str_8003A70C:
 ;JP TEXT: "　メッキコイン　"
-.string " Plated Coinman "
+.string " Plated Coinman"
 
 str_8003A6F8:
 ;JP TEXT: "　ホブゴブリン　"
-.string "    Hobgoblin   "
+.string "    Hobgoblin  "
 
 str_8003A6E4:
 ;JP TEXT: "　　　ドレイク　"
-.string "      Drake     "
+.string "      Drake    "
 
 str_8003A6D4:
 ;JP TEXT: "　　竜：レベル"
-.string "  Dragon: Level "
+.string "  Dragon: Level"
 
 str_8003A6C0:
 ;JP TEXT: "　ダークナイト　"
-.string "   Dark Knight  "
+.string "   Dark Knight "
 
 str_8003A6AC:
 ;JP TEXT: "　　　グール　　"
-.string "      Ghoul     "
+.string "      Ghoul    "
 
 str_8003A698:
 ;JP TEXT: "　　赤ドレイク　"
-.string "    Red Drake   "
+.string "    Red Drake  "
 
 str_8003A684:
 ;JP TEXT: "　　　オニ　　　"
-.string "       Oni      "
+.string "       Oni     "
 
 str_8003A670:
 ;JP TEXT: "　　黒ドレイク　"
-.string "   Black Drake  "
+.string "   Black Drake "
 
 str_8003A65C:
 ;JP TEXT: "　　　アサシン　"
-.string "    Assassin    "
+.string "    Assassin   "
 
 str_8003A634:
 ;JP TEXT: "　　　バグベア　"
-.string "     Bugbear    "
+.string "     Bugbear   "
 
 str_8003A620:
 ;JP TEXT: "　　アクリョウ　"
-.string "   Evil Spirit  "
+.string "   Evil Spirit "
 
 str_8003A60C:
 ;JP TEXT: "　　　呪術師　　"
-.string "    Sorcerer    "
+.string "    Sorcerer   "
 
 str_8003A5F8:
 ;JP TEXT: "　　カエル男爵　"
-.string "   Frog Baron   "
+.string "   Frog Baron  "
 
 str_8003A5E4:
 ;JP TEXT: "　ウェアウルフ　"
-.string "    Werewolf    "
+.string "    Werewolf   "
 
 str_8003A5D0:
 ;JP TEXT: "　バーサーカー　"
-.string "    Berserker   "
+.string "    Berserker  "
 
 str_8003A5BC:
 ;JP TEXT: "　　　ドラゴン　"
-.string "     Dragon     "
+.string "     Dragon    "
 
 str_8003A5A8:
 ;JP TEXT: "　　　オーガ　　"
-.string "      Ogre      "
+.string "      Ogre     "
 
 str_8003A594:
 ;JP TEXT: "　　ファントム　"
-.string "     Phantom    "
+.string "     Phantom   "
 
 str_8003A580:
 ;JP TEXT: "　　バンパイア　"
-.string "     Vampire    "
+.string "     Vampire   "
 
 str_8003A56C:
 ;JP TEXT: "　　赤ドラゴン　"
-.string "   Red Dragon   "
+.string "   Red Dragon  "
 
 str_8003A558:
 ;JP TEXT: "　　白ドラゴン　"
-.string "  White Dragon  "
+.string "  White Dragon "
 
 str_8003A544:
 ;JP TEXT: "　　　マジン　　"
-.string "      Majin     "
+.string "      Majin    "
 
 str_8003A534:
 ;JP TEXT: "　悪魔：レベル"
-.string "  Demon: Level  "
+.string "  Demon: Level "
 
 str_8003A520:
 ;JP TEXT: "　　　マオウ　　"
-.string "   Demon King   "
+.string "   Demon King  "
 
 str_8003A50C:
 ;JP TEXT: "　　ヘルガイア　"
-.string "     Helgaia    "
+.string "     Helgaia   "
 
 str_8003A4F8:
 ;JP TEXT: "　　　ココロ　　"
-.string "     Kokoro     "
+.string "     Kokoro    "
 
 str_8003A4E4:
 ;JP TEXT: "　　　キシン　　"
-.string "     Kishin     "
+.string "     Kishin    "
 
 str_8003A4D0:
 ;JP TEXT: "　　黒ドラゴン　"
-.string "  Black Dragon  "
+.string "  Black Dragon "
 
 str_8003A4BC:
 ;JP TEXT: "　　青ドラゴン　"
-.string "   Blue Dragon  "
+.string "   Blue Dragon "
 
 str_8003A4A8:
 ;JP TEXT: "　　金ドラゴン　"
-.string "   Gold Dragon  "
+.string "   Gold Dragon "
 
 str_8003A494:
 ;JP TEXT: "　　銀ドラゴン　"
-.string "  Silver Dragon "
+.string "  Silver Dragon"
 
 str_8003A480:
 ;JP TEXT: "　　　極戦鬼　　"
-.string "  Demon Warrior "
+.string "  Demon Warrior"
 
 str_8003A46C:
 ;JP TEXT: "　スペクトラル竜"
-.string "Spectral Dragon "
+.string "Spectral Dragon"
 
 str_8003A458:
 ;JP TEXT: "　あばれコイン　"
-.string "    Wild Coin   "
+.string "    Wild Coin  "
 
 str_8003A444:
 ;JP TEXT: "　ビンボコイン　"
-.string "    Poor Coin   "
+.string "    Poor Coin  "
 
 str_8003A430:
 ;JP TEXT: "　　呪いコイン　"
-.string "   Cursed Coin  "
+.string "   Cursed Coin "
 
 str_8003A41C:
 ;JP TEXT: "　　病気コイン　"
-.string "    Sick Coin   "
+.string "    Sick Coin  "
 
 str_8003A408:
 ;JP TEXT: "　　王様コイン　"
-.string "    King Coin   "
+.string "    King Coin  "
 
 str_8003A3F4:
 ;JP TEXT: "　　ブリモリン　"
-.string "    Brimolin    "
+.string "    Brimolin   "
 
 str_8003A3E0:
 ;JP TEXT: "　　　マンビー　"
-.string "      Manby     "
+.string "      Manby    "
 
 str_8003A3CC:
 ;JP TEXT: "　　　ギャプ　　"
-.string "       Gap      "
+.string "       Gap     "
 
 str_8003A3B8:
 ;JP TEXT: "　クイーンローズ"
-.string "   Queen Rose   "
+.string "   Queen Rose  "
 
 str_8003A3A4:
 ;JP TEXT: "　　　　神　　　"
-.string "      Kami      "
+.string "      Kami     "
 
 str_8003A390:
 ;JP TEXT: "　　トイレ　　　"
-.string "     Toilet     "
+.string "     Toilet    "
 
 str_800C06F8:
 ;JP TEXT: "　"
@@ -258,30 +258,30 @@ str_800C06F8:
 
 str_8003A368:
 ;JP TEXT: "　ベッドゴーレム"
-.string "　  Bed Golem   "
+.string "　  Bed Golem  "
 
 str_8003A354:
 ;JP TEXT: "　　　　　　　　"
-.string "                "
+.string "               "
 
 str_8003A344:
 ;JP TEXT: "　　セーブの像"
-.string "   Save Statue  "
+.string "   Save Statue "
 
 str_8003A330:
 ;JP TEXT: "　　宝箱　　　　"
-.string " Treasure Chest "
+.string " Treasure Chest"
 
 str_8003A320:
 ;JP TEXT: "　　　　レベル"
-.string "          Level "
+.string "          Level"
 
 str_8003A30C:
 ;JP TEXT: "　どくろの宝箱　"
-.string "  Skull Chest   "
+.string "  Skull Chest  "
 
 str_8003A2F8:
 ;JP TEXT: "　　金の宝箱　　"
-.string "  Golden Chest  "
+.string "  Golden Chest "
 
 EnemyUITextEnd:
