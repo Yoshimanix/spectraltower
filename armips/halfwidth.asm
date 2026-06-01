@@ -84,3 +84,7 @@ slti v0,v0,0x4
 ; adjust text draw wait decrement
 .org 0x80057434
 addiu v1,v0,-0x3
+
+; adjust items menu options window right half draw origin
+.org 0x80027efa
+.byte 0xc2
