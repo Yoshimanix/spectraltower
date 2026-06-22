@@ -541,79 +541,79 @@ str_0x80038BF8:
 
 str_0x80038BE0:
 ;JP Text: "太古の神々にいのった"
-.string "太古の神々にいのった"
+.string "prays to the ancient gods."
 
 str_0x80038BCC:
 ;JP Text: "大地がはげしくゆれ"
-.string "大地がはげしくゆれ"
+.string "The ground shakes violently and"
 
 str_0x80038BB8:
 ;JP Text: "ｃ　を飲み込んだ"
-.string "ｃ　を飲み込んだ"
+.string "sucks in ｃ."
 
 str_0x80038BA4:
 ;JP Text: "大地が少しゆれた"
-.string "大地が少しゆれた"
+.string "The ground shakes, but nothing"
 
 str_0x80038B8C:
 ;JP Text: "別に何もおこらなかった"
-.string "別に何もおこらなかった"
+.string "much happens."
 
 str_0x80038B74:
 ;JP Text: "突然、大雨がふってきた"
-.string "突然、大雨がふってきた"
+.string "It suddenly begins to pour rain."
 
 str_0x80038B5C:
 ;JP Text: "全員、ずぶぬれになった"
-.string "全員、ずぶぬれになった"
+.string "Everybody gets soaked."
 
 str_0x80038B4C:
 ;JP Text: "身をかまえた"
-.string "身をかまえた"
+.string "is ready for action."
 
 str_0x80038B40:
 ;JP Text: "うぉ〜〜"
-.string "うぉ〜〜"
+.string "Guoooooh…"
 
 str_0x80038B28:
 ;JP Text: "こうなりゃ、やけだー"
-.string "こうなりゃ、やけだー"
+.string "Time to light a fire on my ass!"
 
 str_0x80038B10:
 ;JP Text: "自分の体に火をはなった"
-.string "自分の体に火をはなった"
+.string "lights themself on fire."
 
 str_0x80038AF8:
 ;JP Text: "敵にとっしんしていった"
-.string "敵にとっしんしていった"
+.string "goes right for the enemy."
 
 str_0x80038ADC:
 ;JP Text: "身をひるがえしてかわした"
-.string "身をひるがえしてかわした"
+.string "leaps back and dodges."
 
 str_0x80038AC8:
 ;JP Text: "大やけどをおった"
-.string "大やけどをおった"
+.string "suffered severe burns."
 
 str_0x80038AB4:
 ;JP Text: "武器をふりまわした"
-.string "武器をふりまわした"
+.string "swings their weapon."
 
 str_0x80038A9C:
 ;JP Text: "聖回復の呪文をとなえた"
-.string "聖回復の呪文をとなえた"
+.string "chants a spell of holy healing."
 
 str_0x80038A84:
 ;JP Text: "体に力がみなぎっていく"
-.string "体に力がみなぎっていく"
+.string "feels the power."
 
 str_0x80038A6C:
 ;JP Text: "アイテムが消えていく"
-.string "アイテムが消えていく"
+.string "loses all their items."
 
 str_0x80038A50:
 ;JP Text: "しかし　何もおこらなかった"
-.string "しかし　何もおこらなかった"
+.string "However, nothing happens."
 
 str_0x80038A38:
 ;JP Text: "爆炎の呪文をとなえた"
@@ -621,191 +621,191 @@ str_0x80038A38:
 
 str_0x80038A28:
 ;JP Text: "もえあがった"
-.string "もえあがった"
+.string "catches on fire."
 
 str_0x80038A14:
 ;JP Text: "炎にまきこまれた"
-.string "炎にまきこまれた"
+.string "engulfed in flames."
 
 str_0x800C06A4:
 ;JP Text: "ａ　に"
-.string "ａ　に"
+.string "All of the flames bounce"
 
 str_0x800389F4:
 ;JP Text: "全ての炎がはね返ってきました"
-.string "全ての炎がはね返ってきました"
+.string "off of ａ."
 
 str_0x800389E4:
 ;JP Text: "祈りはじめた"
-.string "祈りはじめた"
+.string "begins to pray."
 
 str_0x800389C8:
 ;JP Text: "ミス　ホワイトがあらわれた"
-.string "ミス　ホワイトがあらわれた"
+.string "Miss White appears."
 
 str_0x800389B8:
 ;JP Text: "「祈りなさい」"
-.string "「祈りなさい」"
+.string "“You must pray.”"
 
 str_0x800389A4:
 ;JP Text: "体力が全回復した"
-.string "体力が全回復した"
+.string "HP is fully restored."
 
 str_0x80038988:
 ;JP Text: "リトルスノーがあらわれた"
-.string "リトルスノーがあらわれた"
+.string "Little Snow appears."
 
 str_0x80038978:
 ;JP Text: "「ヒュ〜〜〜」"
-.string "「ヒュ〜〜〜」"
+.string "“Pew!”"
 
 str_0x80038960:
 ;JP Text: "ささやかなしあわせを"
-.string "ささやかなしあわせを"
+.string "They brought a little bit of"
 
 str_0x80038950:
 ;JP Text: "はこんできた"
-.string "はこんできた"
+.string "happiness along with them."
 
 str_0x80038938:
 ;JP Text: "ノグノグがあらわれた"
-.string "ノグノグがあらわれた"
+.string "NoguNogu appears."
 
 str_0x8003892C:
 ;JP Text: "「ノグ？」"
-.string "「ノグ？」"
+.string "“Nogu?”"
 
 str_0x80038914:
 ;JP Text: "ノグノグは去っていった"
-.string "ノグノグは去っていった"
+.string "NoguNogu leaves."
 
 str_0x800388F8:
 ;JP Text: "カードマジックをひろうした"
-.string "カードマジックをひろうした"
+.string "does a magic trick with cards."
 
 str_0x800388E0:
 ;JP Text: "目を丸くして逃げだした"
-.string "目を丸くして逃げだした"
+.string "gets spooked and runs away."
 
 str_0x800388D0:
 ;JP Text: "見ていなかった"
-.string "見ていなかった"
+.string "wasn’t watching."
 
 str_0x800388B4:
 ;JP Text: "コインマジックをひろうした"
-.string "コインマジックをひろうした"
+.string "does a magic trick with coins."
 
 str_0x800388A0:
 ;JP Text: "あわてて逃げだした"
-.string "あわてて逃げだした"
+.string "leaves in a hurry."
 
 str_0x8003888C:
 ;JP Text: "赤のカードを引いた"
-.string "赤のカードを引いた"
+.string "pulled the red card."
 
 str_0x8003887C:
 ;JP Text: "赤のカードは…"
-.string "赤のカードは…"
+.string "the red card…"
 
 str_0x80038868:
 ;JP Text: "血のカードだ！！"
-.string "血のカードだ！！"
+.string "is the card of blood!"
 
 str_0x80038854:
 ;JP Text: "白のカードを引いた"
-.string "白のカードを引いた"
+.string "pulled the white card."
 
 str_0x80038844:
 ;JP Text: "白のカードは…"
-.string "白のカードは…"
+.string "The white card…"
 
 str_0x80038830:
 ;JP Text: "正義のカードだ！！"
-.string "正義のカードだ！！"
+.string "is the card of justice!"
 
 str_0x80038820:
 ;JP Text: "体力が回復した"
-.string "体力が回復した"
+.string "HP is restored."
 
 str_0x8003880C:
 ;JP Text: "黒のカードを引いた"
-.string "黒のカードを引いた"
+.string "pulled the black card."
 
 str_0x800387FC:
 ;JP Text: "黒のカードは…"
-.string "黒のカードは…"
+.string "The black card…"
 
 str_0x800387E8:
 ;JP Text: "死のカードだ！！"
-.string "死のカードだ！！"
+.string "is the card of death!"
 
 str_0x800387D8:
 ;JP Text: "死のカードに"
-.string "死のカードに"
+.string "their soul is sucked out"
 
 str_0x800387C0:
 ;JP Text: "たましいをすいとられた"
-.string "たましいをすいとられた"
+.string "by the card of death."
 
 str_0x800387A8:
 ;JP Text: "呪いの言葉をつぶやいた"
-.string "呪いの言葉をつぶやいた"
+.string "whispers cursed words."
 
 str_0x80038794:
 ;JP Text: "ぐるぐる回り始めた"
-.string "ぐるぐる回り始めた"
+.string "begins to spin around."
 
 str_0x80038778:
 ;JP Text: "回ったまま体当たりをした"
-.string "回ったまま体当たりをした"
+.string "spins into the enemy."
 
 str_0x80038768:
 ;JP Text: "身をかわした"
-.string "身をかわした"
+.string "dodges the attack."
 
 str_0x8003875C:
 ;JP Text: "目を回した"
-.string "目を回した"
+.string "got too dizzy."
 
 str_0x80038740:
 ;JP Text: "病気レベルが１０上がった"
-.string "病気レベルが１０上がった"
+.string "Illness level increased by 10."
 
 str_0x8003872C:
 ;JP Text: "空と光の歌を歌った"
-.string "空と光の歌を歌った"
+.string "sings a song of sky & light."
 
 str_0x80038714:
 ;JP Text: "大空を飛ぶ鳥のように"
-.string "大空を飛ぶ鳥のように"
+.string "Like a bird in the open sky,"
 
 str_0x800386F8:
 ;JP Text: "大地をてらす太陽のように"
-.string "大地をてらす太陽のように"
+.string "and the sun’s light upon Earth."
 
 str_0x800386E4:
 ;JP Text: "不思議な光を発した"
-.string "不思議な光を発した"
+.string "blasts a mystic beam of light."
 
 str_0x800386D0:
 ;JP Text: "光につらぬかれた"
-.string "光につらぬかれた"
+.string "is pierced by the light."
 
 str_0x800386BC:
 ;JP Text: "体に力がみなぎった"
-.string "体に力がみなぎった"
+.string "body feels strength well up."
 
 str_0x800386A0:
 ;JP Text: "歌はあたりにひびきわたった"
-.string "歌はあたりにひびきわたった"
+.string "The song echoes through."
 
 str_0x8003868C:
 ;JP Text: "ｃ　をなめてみた"
-.string "ｃ　をなめてみた"
+.string "licks ｃ."
 
 str_0x80038670:
 ;JP Text: "気もち悪がって逃げだした"
-.string "気もち悪がって逃げだした"
+.string "flees in disgust."
 
 str_0x8003865C:
 ;JP Text: "顔色が悪くなった"
