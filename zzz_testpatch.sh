@@ -4,6 +4,7 @@ cd armips
 ./armips spectraltower.asm
 cp SLPS_004_PATCHED.76 ../out/SLPS_004.76
 cd ..
+python namingcsv2bin.py
 cp "Spectral Tower (Japan).cue" "out/Spectral Tower (Japan).cue"
 cp "Spectral Tower (Japan).bin" "out/Spectral Tower (Japan).bin"
 cd out

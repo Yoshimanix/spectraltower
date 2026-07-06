@@ -75,6 +75,30 @@ sra v1,v1,0xd
 .asciiz "********"
 ; TODO: Edit naming screen input chars, to properly test transition to ASCII
 
+; make naming screen erase character into single asterisk
+.org 0x8005acac
+.byte 0x2a
+.org 0x8005accc
+.byte 0x00
+.org 0x8005acd4
+.byte 0x2a
+.org 0x8005ae24
+.byte 0x2a
+.org 0x8005ae44
+.byte 0x00
+.org 0x8005ae4c
+.byte 0x2a
+
+; only add least significant byte of table entry to player's name
+.org 0x8005ada8
+nop
+.org 0x8005ad70
+sll v0,t2,0x0
+
+; change naming screen default cursor y position
+.org 0x80039ff8
+.byte 0x37
+
 ; don't divide player name and class lengths by 2
 .org 0x800551ac
 srl v0,v0,0x0
