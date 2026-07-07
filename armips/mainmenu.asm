@@ -88,6 +88,10 @@ sra v1,v1,0xd
 .byte 0x00
 .org 0x8005ae4c
 .byte 0x2a
+.org 0x8005ae40
+.byte 0x00
+.org 0x8005acc8
+.byte 0x00
 
 ; only add least significant byte of table entry to player's name
 .org 0x8005ada8
