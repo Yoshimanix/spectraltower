@@ -99,6 +99,13 @@ sll v0,t2,0x0
 .org 0x80039ff8
 .byte 0x37
 
+; change naming screen confirm cursor position
+.org 0x8005ae7c
+ori v0,zero,280
+.org 0x8005ae88
+ori v0,zero,135
+
+
 ; don't divide player name and class lengths by 2
 .org 0x800551ac
 srl v0,v0,0x0
