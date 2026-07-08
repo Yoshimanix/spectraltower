@@ -13,10 +13,10 @@
 .include "text/text_special.asm"
 .include "text/text_memcard.asm"
 
+.include "defaultnames_cleanup.asm"
+
 .include "text/text_newstrings.asm"
 .include "text/text_movedstrings.asm"
-
-.include "defaultnames_cleanup.asm"
 
 .include "text/text_misc.asm"
 .include "text/text_misc_ptr.asm"

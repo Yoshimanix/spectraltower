@@ -1,6 +1,6 @@
 ; The following is some cleanup for default names that are comprised of a single kanji, and don't fit within the constraints of 4 characters
 
-.org MovedStringsEnd
+.org SpecialTextEnd
 .align 4
 
 DefaultNameKaoru:
@@ -15,6 +15,8 @@ DefaultNameKotobuki:
 ; originally at 0x800be420
 .stringn "Kotobuki"
 .align 4
+
+DefaultNameEnd:
 
 ;.notice "Kaoru"
 ;.notice DefaultNameKaoru - 0x8000F800

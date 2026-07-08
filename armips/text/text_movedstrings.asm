@@ -1,5 +1,4 @@
 ; The following strings have been moved to prevent overwriting extra data, like labels and code, placed after where the text is.
-; NOTE: If you add any strings here, make sure to recalculate and adjust defaultnames_cleanup.asm
 
 ; from text_battle.asm
 
