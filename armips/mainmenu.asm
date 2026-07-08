@@ -153,3 +153,11 @@ ori a1,zero,279
 ;adjust limit of settings categories to 16 characters
 .org 0x80058570
 slti v0,v0,16
+
+; adjust naming screen text x offset
+.org 0x80044a5c
+ori a0,zero,106
+
+; adjust player number screen text x offset
+.org 0x8004655c
+ori a0,zero,78
