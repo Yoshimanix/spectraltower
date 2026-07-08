@@ -23,7 +23,7 @@ str_0x8002B368:
 
 str_0x8002B344:
 ;JP Text: "　　　　　ゴブリンタワー　挑戦中"
-.string "Goblin Tower - In progress"
+.string "Attempting Goblin Tower."
 
 str_0x8002B338:
 ;JP Text: "本当にｆを"
@@ -383,19 +383,19 @@ str_0x8002ABAC:
 
 str_0x8002AB88:
 ;JP Text: "　　　　　　　泥棒タワー　挑戦中"
-.string "Currently attempting Robber Tower."
+.string "Attempting Robber Tower."
 
 str_0x8002AB64:
 ;JP Text: "　クイーン・ローズタワー　挑戦中"
-.string "Currently attempting Queen Rose Tower."
+.string "Attempting Queen Rose Tower."
 
 str_0x8002AB40:
 ;JP Text: "　　　スペクトラルタワー　挑戦中"
-.string "Currently attempting Spectral Tower."
+.string "Attempting Spectral Tower."
 
 str_0x8002AB1C:
 ;JP Text: "　　　　　　　　最後の塔　挑戦中"
-.string "Currently attempting Last Tower."
+.string "Attempting Last Tower."
 
 str_0x8002AAFC:
 ;JP Text: "メモリーカードのチェック中です"

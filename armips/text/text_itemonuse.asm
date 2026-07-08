@@ -306,7 +306,7 @@ str_0x80029F1C:
 
 str_0x80029F04:
 ;JP Text: "武器レベルが足りません"
-.string "to equipｆ."
+.string "to equip ｆ."
 
 
 ItemOnUseTextEnd:
