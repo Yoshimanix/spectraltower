@@ -16,6 +16,8 @@
 .include "text/text_newstrings.asm"
 .include "text/text_movedstrings.asm"
 
+.include "defaultnames_cleanup.asm"
+
 .include "text/text_misc.asm"
 .include "text/text_misc_ptr.asm"
 .if MiscTextEnd > 0x80028a3f

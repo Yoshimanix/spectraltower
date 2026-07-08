@@ -116,10 +116,6 @@ srl v0,v0,0x0
 .org 0x8005520c
 srl v0,v0,0x0
 
-; change default player name
-.org 0x800BE424
-.string "Climber"
-
 ; draw player current and max hp a bit more to the right
 .org 0x80055464
 addiu a1,a1,128

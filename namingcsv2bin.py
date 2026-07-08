@@ -51,7 +51,7 @@ def encode(character, table):
         if y == character:
             return x
     
-    print(character)
+    #print(character)
     return character.encode("cp1252")
 
 csvname = "namingscreen.csv"
