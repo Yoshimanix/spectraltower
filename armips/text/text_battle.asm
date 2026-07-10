@@ -25,7 +25,7 @@ str_0x8002BB2C:
 
 str_0x8002BB1C:
 ;JP Text: "ａ　の攻撃成功"
-.string "ａ's attack was successful."
+.string "ａ's attack succeeded."
 
 str_0x8002BB08:
 ;JP Text: "ｃ　は少し弱った"
