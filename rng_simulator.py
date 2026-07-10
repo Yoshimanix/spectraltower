@@ -19,4 +19,6 @@ for i in range(attempts):
 
 print("Odds of default names being chosen in Spectral Tower:")
 for idx, name in enumerate(defaultnames):
-    print(nameslist[idx] + ": " + str(100 * (nameslist[switchcase] / attempts)) + "%")
+    percentage = 100 * (defaultnames[nameslist[idx]] / attempts)
+    percentage = "{:.2f}".format(percentage)
+    print(nameslist[idx] + ": " + str(percentage) + "%")
