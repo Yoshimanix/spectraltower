@@ -10,15 +10,15 @@
 
 .org 0x8003B63C
 ;JP Text: "スペクトラルタワー　泥棒タワー　　　　　　　　　　　"
-.sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　－　Ｒｏｂｂｅｒ "
+.sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　－　Ｒｏｂｂｅｒ　"
 
 .org 0x8003B674
 ;JP Text: "スペクトラルタワー　クイーン・ローズタワー　　　　　"
-.sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　－　Ｑｕｅｅｎ　Ｒｏｓｅ "
+.sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　－　Ｑｕｅｅｎ　Ｒｏｓｅ　"
 
 .org 0x8003B6AC
 ;JP Text: "スペクトラルタワー　スペクトラルタワー　　　　　　　"
-.sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　－　Ｓｐｅｃｔｒａｌ "
+.sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　－　Ｓｐｅｃｔｒａｌ　"
 
 .org 0x8003B6E4
 ;JP Text: "スペクトラルタワー　最後の塔　　　　　　　　　　　　"
@@ -26,7 +26,7 @@
 
 .org 0x8003b7bc
 ;JP Text: "未使用　　　　　　　　　　　　　"
-.string "U n u s e d   D a t a "
+.string "Unused Data     "
 
 
 ; Change 階 kanji in savefile name
@@ -65,3 +65,11 @@ jal BlitToRamSJIS
 ; reduce the spacing between characters in save file names
 .org 0x80058a20
 .byte 0x0
+
+; decrease draw rect source x stride
+.org 0x80058a28
+sll v1,v1,0x3
+
+; double byte stride for existing save file name
+.org BlitToRamSJIS + 0x80052f58 - 0x80052de0
+.byte 0x2
