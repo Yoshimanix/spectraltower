@@ -14,7 +14,7 @@
 
 .org 0x8003B674
 ;JP Text: "スペクトラルタワー　クイーン・ローズタワー　　　　　"
-.sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　－　Ｑｕｅｅｎ　Ｒｏｓｅ　"
+.sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　－　Ｑ．Ｒｏｓｅ　"
 
 .org 0x8003B6AC
 ;JP Text: "スペクトラルタワー　スペクトラルタワー　　　　　　　"
@@ -46,7 +46,7 @@ ori a0,zero,48
 ori a0,zero,48
 ;Queen Rose Tower
 .org 0x80060800
-ori a0,zero,56
+ori a0,zero,48
 ;Spectral Tower
 .org 0x800608c0
 ori a0,zero,52
