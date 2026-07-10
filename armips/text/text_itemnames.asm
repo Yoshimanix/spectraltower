@@ -200,7 +200,7 @@ str_800C07D8:
 
 str_8003CA58:
 ;JP TEXT: "光るといし"
-.string "Shining Whetstone"
+.string "ShiningWhetstone"
 
 str_800C07D0:
 ;JP TEXT: "天魔石"
@@ -208,7 +208,7 @@ str_800C07D0:
 
 str_8003CA48:
 ;JP TEXT: "天魔剣・流星"
-.string "Tenma Sword: Meteor"
+.string "TenmaSwordMeteor"
 
 str_8003CA38:
 ;JP TEXT: "天魔のしゃく"
@@ -280,10 +280,10 @@ str_8003C934:
 
 str_8003C928:
 ;JP TEXT: "不明物体"
-.string "Mysterious Object"
+.string "MysteriousObject"
 
 str_8003C918:
 ;JP TEXT: "最後の不明物体"
-.string "Final Mysterious Object"
+.string "LastMysteryObjct"
 
 ItemNameTextEnd:
