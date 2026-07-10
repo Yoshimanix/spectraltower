@@ -161,3 +161,4 @@ ori a0,zero,106
 ; adjust player number screen text x offset
 .org 0x8004655c
 ori a0,zero,78
+
