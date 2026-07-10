@@ -130,7 +130,7 @@ str_0x8002A258:
 
 str_0x8002A248:
 ;JP Text: "なんと正体は"
-.string "It's true form is revealed to be"
+.string "Its true form is revealed to be"
 
 str_0x8002A23C:
 ;JP Text: "ｇ　だった"
@@ -150,7 +150,7 @@ str_0x8002A208:
 
 str_0x800C054C:
 ;JP Text: "ｆ　は"
-.string "ｆ"
+.string "The ｆ"
 
 str_0x8002A1F8:
 ;JP Text: "装備できません"

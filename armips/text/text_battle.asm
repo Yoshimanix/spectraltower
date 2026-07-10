@@ -25,7 +25,7 @@ str_0x8002BB2C:
 
 str_0x8002BB1C:
 ;JP Text: "ａ　の攻撃成功"
-.string "ａ successfully attacked."
+.string "ａ’s attack was successful."
 
 str_0x8002BB08:
 ;JP Text: "ｃ　は少し弱った"
@@ -33,7 +33,7 @@ str_0x8002BB08:
 
 str_0x8002BAF8:
 ;JP Text: "ａ　の攻撃失敗"
-.string "ａ failed to attack."
+.string "ａ’s attack failed."
 
 str_0x8002BAEC:
 ;JP Text: "ｃ　の攻撃"
@@ -53,7 +53,7 @@ str_0x800C05AC:
 
 str_0x8002BAAC:
 ;JP Text: "ａ　をうらんでいる"
-.string "looks atａ with resentment."
+.string "looks at ａ with resentment."
 
 str_0x8002BA9C:
 ;JP Text: "ａ　を呪った"
@@ -137,7 +137,7 @@ str_0x8002B954:
 
 str_0x8002B944:
 ;JP Text: "最悪な気分が"
-.string "ａis wrought with"
+.string "ａ is wrought with"
 
 str_0x8002B934:
 ;JP Text: "ａを　おそう！"
@@ -145,7 +145,7 @@ str_0x8002B934:
 
 str_0x8002B920:
 ;JP Text: "ａ　にのりうつった"
-.string "has been possessed by ａ."
+.string "has possessed ａ."
 
 str_0x8002B90C:
 ;JP Text: "ブタの息をはいた"
@@ -241,6 +241,6 @@ str_0x8002B798:
 
 str_0x8002B778:
 ;JP Text: "かってにアイテムを捨てていた！"
-.string "an item was discarded!"
+.string "your items were discarded!"
 
 BattleTextEnd:

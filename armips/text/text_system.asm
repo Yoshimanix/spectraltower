@@ -75,19 +75,19 @@ str_0x8002B270:
 
 str_0x8002B264:
 ;JP Text: "ｇ　を捨て"
-.string "Discardｇ."
+.string "Discard ｇ."
 
 str_0x8002B258:
 ;JP Text: "ｆ　を入手"
-.string "Obtainｆ."
+.string "Obtain ｆ."
 
 str_0x8002B24C:
 ;JP Text: "ｆ　を捨て"
-.string "Discardｆ."
+.string "Discard ｆ."
 
 str_0x8002B240:
 ;JP Text: "ｇ　を入手"
-.string "Obtainｇ."
+.string "Obtain ｇ."
 
 str_0x800C0584:
 ;JP Text: "ａ　は"
@@ -115,7 +115,7 @@ str_0x8002B1D8:
 
 str_0x8002B1BC:
 ;JP Text: "セーブ中ですお待ちください"
-.string "Saving data…please wait."
+.string "Saving data… Please wait."
 
 str_0x8002B1A0:
 ;JP Text: "メモリーカードが一杯です"
@@ -167,7 +167,7 @@ str_0x8002B0D0:
 
 str_0x8002B0B8:
 ;JP Text: "スッキリと体力ｅ回復"
-.string "feels refreshed, and recovers ｅ HP."
+.string "felt refreshed, and recovered ｅ HP."
 
 str_0x8002B0A4:
 ;JP Text: "ベッドゴーレムだ"
@@ -363,23 +363,23 @@ str_0x8002AC30:
 
 str_0x8002AC10:
 ;JP Text: "しかもウデをケガしてしまった"
-.string "And even worse, you hurt your arm."
+.string "Also, you hurt your arm."
 
 str_0x8002ABFC:
 ;JP Text: "ａは１のダメージ！"
-.string "ａ receives 1 damage!"
+.string "ａ received 1 damage!"
 
 str_0x8002ABE4:
 ;JP Text: "メチャクチャつかれた"
-.string "You're incredibly tired."
+.string "You got incredibly tired."
 
 str_0x8002ABC0:
 ;JP Text: "しかも宝箱にはドクがぬられていた"
-.string "And even worse, the chest was poisoned."
+.string "Also, the chest was poisoned."
 
 str_0x8002ABAC:
 ;JP Text: "ａはドクをうけた！"
-.string "ａwas poisoned!"
+.string "ａ was poisoned!"
 
 str_0x8002AB88:
 ;JP Text: "　　　　　　　泥棒タワー　挑戦中"

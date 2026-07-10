@@ -54,7 +54,7 @@ str_0x8002979C:
 
 str_0x80029780:
 ;JP Text: "使ってみるまで　わからない"
-.string "A medal who's properties are"
+.string "A medal whose properties are"
 
 str_0x80029770:
 ;JP Text: "なぞのメダル"
