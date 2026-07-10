@@ -120,11 +120,11 @@ str_8003CB60:
 
 str_800C07E8:
 ;JP TEXT: "ほし肉"
-.string "Dried meat"
+.string "Dried Meat"
 
 str_800C07E0:
 ;JP TEXT: "きのこ"
-.string "Mushrooms"
+.string "Mushroom"
 
 str_8003CB54:
 ;JP TEXT: "こけだんご"
@@ -136,7 +136,7 @@ str_8003CB48:
 
 str_8003CB38:
 ;JP TEXT: "ねずみのしっぽ"
-.string "Mouse tail"
+.string "Mouse Tail"
 
 str_8003CB2C:
 ;JP TEXT: "どくけし"

@@ -27,5 +27,7 @@ uselesssword2:
 .string "positive effects."
 uselessrod2:
 .string "to stone."
+strange2:
+.string "strange."
 
 NewStringsEnd:

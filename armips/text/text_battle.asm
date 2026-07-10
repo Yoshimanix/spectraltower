@@ -73,7 +73,7 @@ str_0x8002BA64:
 
 str_0x8002BA4C:
 ;JP Text: "ｃ　は変なことをした"
-.string "ｃ did something strange."
+.string "ｃ did something"
 
 str_0x8002BA38:
 ;JP Text: "ｈ　をこわされた！"

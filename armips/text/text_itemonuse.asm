@@ -42,7 +42,7 @@ str_0x800C055C:
 
 str_0x8002A3C4:
 ;JP Text: "ｅポイント上がった"
-.string "increased by ｅ points."
+.string "increased by ｅ point(s)."
 
 str_0x8002A3B4:
 ;JP Text: "対鬼レベルが"

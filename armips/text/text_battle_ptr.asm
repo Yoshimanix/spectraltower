@@ -130,7 +130,7 @@
 
 ; Entry @ 0x8002B484
 .word str_0x8002BA4C
-.word str_0x800C0540
+.word strange2
 .halfword 0x0001
 .halfword 0x0001
 .halfword 0x0000
