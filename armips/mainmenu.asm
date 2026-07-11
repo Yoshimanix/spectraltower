@@ -142,9 +142,9 @@ ori a1,zero,170
 .org 0x8004b654
 ori a1,zero,170
 .org 0x8004b67c
-ori a1,zero,76
+ori a1,zero,82
 .org 0x8004b6b0
-ori a1,zero,186
+ori a1,zero,170
 
 ;draw enemy level 16 pixels more to the right, to fix triple digits
 .org 0x8004b1c4

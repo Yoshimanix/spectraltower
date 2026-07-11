@@ -109,10 +109,10 @@ SpecialStatusCategories:
 ; These last two have a max length of 4 characters
 SpecialStatusCounters:
 ;JP TEXT: "呪："
-.stringn "Curses:   "
+.stringn "Curse:    "
 
 ;JP TEXT: "病："
-.stringn "Illnesses:"
+.stringn "Illness:  "
 .align
 
 ;.notice "Special Status Counters"

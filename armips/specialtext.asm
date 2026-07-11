@@ -100,6 +100,10 @@ slti v0,v0,20
 lui s0, 0x8009
 addiu s0,s0, 0xdb0
 
+; adjust Illness stat x coordinate:
+.org 0x80055ec8
+.byte 0x70
+
 ;patch yesno stride
 .org 0x80055fec
 slti v0,v0,0x3
