@@ -81,7 +81,7 @@ str_0x8002BA38:
 
 str_0x8002BA28:
 ;JP Text: "ｃ　の目が光る"
-.string "ｃ's eyes sparkle with light."
+.string "ｃ's eyes glow brightly."
 
 str_0x8002BA14:
 ;JP Text: "ドラゴンブレスだ"

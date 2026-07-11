@@ -159,7 +159,7 @@ str_0x8002B0F0:
 
 str_0x8002B0DC:
 ;JP Text: "病気をｅうけた！"
-.string "became sick with the ｅ."
+.string "became ill by ｅ."
 
 str_0x8002B0D0:
 ;JP Text: "ふう……"
@@ -167,7 +167,7 @@ str_0x8002B0D0:
 
 str_0x8002B0B8:
 ;JP Text: "スッキリと体力ｅ回復"
-.string "Relieved, you recovered ｅ HP."
+.string "was relieved, recovered ｅ HP."
 
 str_0x8002B0A4:
 ;JP Text: "ベッドゴーレムだ"
