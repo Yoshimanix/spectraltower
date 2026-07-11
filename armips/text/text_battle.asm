@@ -113,7 +113,7 @@ str_0x8002B9A8:
 
 str_0x8002B994:
 ;JP Text: "ｇ　をぬすまれた"
-.string "ｇ was stolen."
+.string "The ｇ was stolen."
 
 str_0x800C059C:
 ;JP Text: "ｃ　の"
@@ -161,7 +161,7 @@ str_0x8002B8E4:
 
 str_0x8002B8CC:
 ;JP Text: "必殺技を　ふうじこめた"
-.string "special attack was sealed."
+.string "special attacks were sealed."
 
 str_0x8002B8C0:
 ;JP Text: "考えている"
@@ -185,7 +185,7 @@ str_0x8002B880:
 
 str_0x8002B870:
 ;JP Text: "ｅ吸いとられた"
-.string "absorbed byｅ."
+.string "absorbed by ｅ."
 
 str_0x8002B85C:
 ;JP Text: "消えて　なくなった"

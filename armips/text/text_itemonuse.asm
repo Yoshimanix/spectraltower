@@ -18,7 +18,7 @@ ItemOnUseTextStart:
 
 str_0x800C057C:
 ;JP Text: "ｆ　を"
-.string "ｆ"
+.string "The ｆ"
 
 str_0x800C0574:
 ;JP Text: "使った"

@@ -167,7 +167,7 @@ str_0x8002B0D0:
 
 str_0x8002B0B8:
 ;JP Text: "スッキリと体力ｅ回復"
-.string "felt refreshed, and recovered ｅ HP."
+.string "Relieved, you recovered ｅ HP."
 
 str_0x8002B0A4:
 ;JP Text: "ベッドゴーレムだ"
@@ -259,7 +259,7 @@ str_0x8002AEA8:
 
 str_0x8002AE8C:
 ;JP Text: "ぜっこうちょうになった！"
-.string "feels amazing!"
+.string "felt amazing!"
 
 str_0x8002AE78:
 ;JP Text: "モリモリパンだった"
@@ -451,6 +451,6 @@ str_0x8002A9C0:
 
 str_0x8002A9A4:
 ;JP Text: "セーブデータが壊れています"
-.string "Save data is corrupt."
+.string "The save data is corrupt."
 
 SystemTextEnd:

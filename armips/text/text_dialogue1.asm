@@ -372,7 +372,7 @@ str_0x80035798:
 
 str_0x80035778:
 ;JP Text: "ムリだから　あきらめちゃえ〜"
-.string "It's too much, so just give it uuup!"
+.string "It's too much, so just give up!~"
 
 str_0x80035764:
 ;JP Text: "もうやめちゃいなよ"
@@ -384,11 +384,11 @@ str_0x80035744:
 
 str_0x80035734:
 ;JP Text: "やめちゃって"
-.string "Giving up and complaining about it"
+.string "Giving up and complaining about"
 
 str_0x80035718:
 ;JP Text: "グチるのも　また人生だよ"
-.string "is just a part of life."
+.string "It is just a part of life."
 
 str_0x80035704:
 ;JP Text: "ずいぶんショボい"
@@ -420,23 +420,23 @@ str_0x80035684:
 
 str_0x80035664:
 ;JP Text: "敵とぶつかってみよう！ワオ！"
-.string "With out backs turned! Wowzers!"
+.string "With our backs turned! Wowzers!"
 
 str_0x8003564C:
 ;JP Text: "ガイコツマークの上で"
-.string "Let's fight our enemies"
+.string "Let's fight our enemies right"
 
 str_0x80035630:
 ;JP Text: "敵と戦ってみよう！イエイ！"
-.string "right on top of the Skull mark! Yay!"
+.string "on top of the Skull mark! Yay!"
 
 str_0x8003561C:
 ;JP Text: "メダルは使わずに"
-.string "Let's put our medals away"
+.string "Let's put our medals away and"
 
 str_0x80035600:
 ;JP Text: "しまっておこう！イエ〜イ！"
-.string "and save them for another time! Yaaaay!"
+.string "save them for later! Yaaaay!"
 
 str_0x800355E4:
 ;JP Text: "さびた剣ってもっている？"
@@ -444,11 +444,11 @@ str_0x800355E4:
 
 str_0x800355D0:
 ;JP Text: "もし　もっていたら"
-.string "If you do, it's rubbish."
+.string "If you do, it's rubbish. Throw"
 
 str_0x800355B4:
 ;JP Text: "ゴミだから　すぐ捨てよう！"
-.string "Throw that thing out without a doubt!"
+.string "that thing out without a doubt!"
 
 str_0x800355A8:
 ;JP Text: "あなたとは"
@@ -504,15 +504,15 @@ str_0x80035484:
 
 str_0x80035478:
 ;JP Text: "ガハハハハ"
-.string "Gahahaha!"
+.string "Gahahaha! You surprised"
 
 str_0x80035458:
 ;JP Text: "おやじなんで　おどろいたろ？"
-.string "You surprised that I'm an old man?"
+.string "that I'm an old man?"
 
 str_0x8003543C:
 ;JP Text: "１００人にひとりくらいは"
-.string "Guess what, male fairies exist too!"
+.string "You see, male fairies exist too!"
 
 str_0x8003541C:
 ;JP Text: "男のフェアリーもいるんだぜ！"
