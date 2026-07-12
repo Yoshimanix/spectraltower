@@ -83,20 +83,20 @@ DefaultNameEnd:
 
 ; Kaoru
 .org 0x80044d10
-lui a1,0x8009
-addiu a1,a1,0x11bc
+lui a1,hi(DefaultNameKaoru)
+addiu a1,a1,lo(DefaultNameKaoru)
 .org 0x80044d20
 ;.incbin "SLPS_004.76", 0x80044cf0 - 0x8000f800, 6*4
 ; Noboru
 .org 0x80044d44
-lui a1,0x8009
-addiu a1,a1,0x11c4
+lui a1,hi(DefaultNameNoboru)
+addiu a1,a1,lo(DefaultNameNoboru)
 .org 0x80044d54
 ;.incbin "SLPS_004.76", 0x80044cf0 - 0x8000f800, 6*4
 ; Kotobuki
 .org 0x80044dd8
-lui a1,0x8009
-addiu a1,a1,0x11cc
+lui a1,hi(DefaultNameKotobuki)
+addiu a1,a1,lo(DefaultNameKotobuki)
 .org 0x80044de8
 ;.incbin "SLPS_004.76", 0x80044cf0 - 0x8000f800, 6*4
 

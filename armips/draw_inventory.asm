@@ -6,19 +6,20 @@
 
 NewDrawInventory:
 
-.incbin "SLPS_004.76", 0x80064ac8 - 0x8000f800, 38*4
 ori v0,zero,0x7
 sh v0,0x4(s0)
 ori v0,zero,0xe
 j 0x80064b68
 nop
 
+.align 4
 NewDrawInventoryEnd:
 
-.org 0x8004b89c
-jal NewDrawInventory
 
-.org 0x80064b64
+
+
+.org 0x80064b60
+jal NewDrawInventory
 nop
 
 .org 0x80064bf8

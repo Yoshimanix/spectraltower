@@ -11,35 +11,35 @@ GoblinTowerName:
 ;JP Text: "スペクトラルタワー　ゴブリンタワー　　　　　　　　　"
 .sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　Ｇｏｂｌｉｎ　　　　　　　　　　　"
 
-.hword 0
+.align 4
 
 RobberTowerName:
 ;.org 0x8003B63C
 ;JP Text: "スペクトラルタワー　泥棒タワー　　　　　　　　　　　"
 .sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　Ｒｏｂｂｅｒ　　　　　　　　　　　"
 
-.hword 0
+.align 4
 
 QueenRoseTowerName:
 ;.org 0x8003B674
 ;JP Text: "スペクトラルタワー　クイーン・ローズタワー　　　　　"
 .sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　Ｑｕｅｅｎ　Ｒｏｓｅ　　　　　　　"
 
-.hword 0
+.align 4
 
 SpectralTowerName:
 ;.org 0x8003B6AC
 ;JP Text: "スペクトラルタワー　スペクトラルタワー　　　　　　　"
 .sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　Ｓｐｅｃｔｒａｌ　　　　　　　　　"
 
-.hword 0
+.align 4
 
 LastTowerName:
 ;.org 0x8003B6E4
 ;JP Text: "スペクトラルタワー　最後の塔　　　　　　　　　　　　"
 .sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　Ｌａｓｔ　　　　　　　　　　　　　"
 
-.hword 0
+.align 4
 
 ;.notice GoblinTowerName - 0x8000f800
 ;.notice hi(GoblinTowerName)
