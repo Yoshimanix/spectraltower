@@ -476,11 +476,11 @@ str_0x80035530:
 
 str_0x80035518:
 ;JP Text: "どこまでも続くタワーを"
-.string "Climbing this never-ending tower is "
+.string "Climbing this never-ending tower"
 
 str_0x800354FC:
 ;JP Text: "のぼるのは　つらく苦しい…"
-.string "nothing but hardship and pain…"
+.string "is nothing but a cruel struggle…"
 
 str_0x800354EC:
 ;JP Text: "しかしそれは"
