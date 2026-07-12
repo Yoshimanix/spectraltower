@@ -4,25 +4,52 @@
 ; They must be written in regular Shift-JIS.
 ; Correction: Can be a mix of SJIS and ASCII, but it's not recommended.
 
-.org 0x8003B604
+.org NewDrawInventoryEnd
+
+GoblinTowerName:
+;.org 0x8003B604
 ;JP Text: "スペクトラルタワー　ゴブリンタワー　　　　　　　　　"
-.sjisn "ＳｐｃｔｒｌＴｗｒ　Ｇｏｂｌｉｎ　　　　　　　　　　"
+.sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　Ｇｏｂｌｉｎ　　　　　　　　　　　"
 
-.org 0x8003B63C
+.hword 0
+
+RobberTowerName:
+;.org 0x8003B63C
 ;JP Text: "スペクトラルタワー　泥棒タワー　　　　　　　　　　　"
-.sjisn "ＳｐｃｔｒｌＴｗｒ　Ｒｏｂｂｅｒ　　　　　　　　　　"
+.sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　Ｒｏｂｂｅｒ　　　　　　　　　　　"
 
-.org 0x8003B674
+.hword 0
+
+QueenRoseTowerName:
+;.org 0x8003B674
 ;JP Text: "スペクトラルタワー　クイーン・ローズタワー　　　　　"
-.sjisn "ＳｐｃｔｒｌＴｗｒ　Ｑ．Ｒｏｓｅ　　　　　　　　　　"
+.sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　Ｑｕｅｅｎ　Ｒｏｓｅ　　　　　　　"
 
-.org 0x8003B6AC
+.hword 0
+
+SpectralTowerName:
+;.org 0x8003B6AC
 ;JP Text: "スペクトラルタワー　スペクトラルタワー　　　　　　　"
-.sjisn "ＳｐｃｔｒｌＴｗｒ　Ｓｐｅｃｔｒａｌ　　　　　　　　"
+.sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　Ｓｐｅｃｔｒａｌ　　　　　　　　　"
 
-.org 0x8003B6E4
+.hword 0
+
+LastTowerName:
+;.org 0x8003B6E4
 ;JP Text: "スペクトラルタワー　最後の塔　　　　　　　　　　　　"
-.sjisn "ＳｐｃｔｒｌＴｗｒ　Ｌａｓｔ　　　　　　　　　　　　"
+.sjisn "Ｓｐｅｃｔｒａｌ　Ｔｏｗｅｒ　Ｌａｓｔ　　　　　　　　　　　　　"
+
+.hword 0
+
+;.notice GoblinTowerName - 0x8000f800
+;.notice hi(GoblinTowerName)
+;.notice lo(GoblinTowerName)
+;.notice GoblinTowerName
+;.notice RobberTowerName
+;.notice QueenRoseTowerName
+;.notice SpectralTowerName
+;.notice LastTowerName
+
 
 .org 0x8003b7bc
 ;JP Text: "未使用　　　　　　　　　　　　　"
@@ -40,19 +67,19 @@ ori v1,zero,0x65
 
 ;Goblin Tower
 .org 0x80060680
-ori a0,zero,34
+ori a0,zero,44
 ;Robber Tower
 .org 0x80060740
-ori a0,zero,34
+ori a0,zero,44
 ;Queen Rose Tower
 .org 0x80060800
-ori a0,zero,34
+ori a0,zero,52
 ;Spectral Tower
 .org 0x800608c0
-ori a0,zero,38
+ori a0,zero,48
 ;Final Tower
 .org 0x8006097c
-ori a0,zero,30
+ori a0,zero,40
 
 ; call SJIS blitting routine when reading existing save file name
 .org 0x8006157c
@@ -60,7 +87,7 @@ jal BlitToRamSJIS
 
 ; adjust strncpy size and blitting stride
 .org 0x80061544
-.byte 0x70
+.byte 0x7a
 
 ; reduce the spacing between characters in save file names
 .org 0x80058a20
@@ -73,3 +100,32 @@ sll v1,v1,0x3
 ; double byte stride for existing save file name
 .org BlitToRamSJIS + 0x80052f58 - 0x80052de0
 .byte 0x2
+
+; adjust bytes to be copied for memory card text name
+.org 0x800605e0
+.byte 0x40
+.org 0x800606a0
+.byte 0x40
+.org 0x80060760
+.byte 0x40
+.org 0x80060820
+.byte 0x40
+.org 0x800608e0
+.byte 0x40
+
+; repoint memcard strings
+.org 0x800605cc
+lui a2,hi(GoblinTowerName)
+addiu a2,a2,lo(GoblinTowerName)
+.org 0x8006068c
+lui a2,hi(RobberTowerName)
+addiu a2,a2,lo(RobberTowerName)
+.org 0x8006074c
+lui a2,hi(QueenRoseTowerName)
+addiu a2,a2,lo(QueenRoseTowerName)
+.org 0x8006080c
+lui a2,hi(SpectralTowerName)
+addiu a2,a2,lo(SpectralTowerName)
+.org 0x800608cc
+lui a2,hi(LastTowerName)
+addiu a2,a2,lo(LastTowerName)

@@ -13,6 +13,8 @@ ori v0,zero,0xe
 j 0x80064b68
 nop
 
+NewDrawInventoryEnd:
+
 .org 0x8004b89c
 jal NewDrawInventory
 
