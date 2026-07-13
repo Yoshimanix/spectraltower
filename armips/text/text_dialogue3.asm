@@ -297,7 +297,7 @@ str_0x80039108:
 
 str_0x800390F0:
 ;JP Text: "わたせるアイテムがない"
-.string "ａ."
+.string "the ａ."
 
 str_0x800390DC:
 ;JP Text: "花と風の歌を歌った"
@@ -445,7 +445,7 @@ str_0x80038E04:
 
 str_0x80038DF4:
 ;JP Text: "「じゃ！！」"
-.string "“Seeya!”"
+.string "“See ya!”"
 
 str_0x80038DDC:
 ;JP Text: "ノグノグは帰っていった"
@@ -497,7 +497,7 @@ str_0x80038CD0:
 
 str_0x80038CC0:
 ;JP Text: "「またね！」"
-.string "“Seeya later!”"
+.string "“See ya later!”"
 
 str_0x80038CA4:
 ;JP Text: "きまぐれ君はさっていった"
@@ -969,7 +969,7 @@ str_0x80038370:
 
 str_0x80038360:
 ;JP Text: "しかし　ａ　も"
-.string "しかし　ａ　も"
+.string "However, ａ also"
 
 str_0x8003834C:
 ;JP Text: "ｃ　と組み合った"

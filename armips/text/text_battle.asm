@@ -45,7 +45,7 @@ str_0x8002BAD4:
 
 str_0x8002BAC0:
 ;JP Text: "死んでしまった……"
-.string "was slain……"
+.string "was slain…"
 
 str_0x800C05AC:
 ;JP Text: "ｃ　は"
@@ -53,7 +53,7 @@ str_0x800C05AC:
 
 str_0x8002BAAC:
 ;JP Text: "ａ　をうらんでいる"
-.string "looks at ａ with resentment."
+.string "at ａ with resentment."
 
 str_0x8002BA9C:
 ;JP Text: "ａ　を呪った"
@@ -77,7 +77,7 @@ str_0x8002BA4C:
 
 str_0x8002BA38:
 ;JP Text: "ｈ　をこわされた！"
-.string "ｈ was destroyed!"
+.string "The ｈ was destroyed!"
 
 str_0x8002BA28:
 ;JP Text: "ｃ　の目が光る"
@@ -97,11 +97,11 @@ str_0x8002B9E0:
 
 str_0x800C05A4:
 ;JP Text: "ｈ　と"
-.string "ｈ and "
+.string "The ｈ and "
 
 str_0x8002B9CC:
 ;JP Text: "ｉ　をこわされた！"
-.string "ｉ have been destroyed"
+.string "ｉ have been destroyed!"
 
 str_0x8002B9BC:
 ;JP Text: "ｃ　の指先が"

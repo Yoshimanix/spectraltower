@@ -538,7 +538,7 @@
 
 ; Entry @ 0x8002BFB4
 .word str_0x80035410
-.word str_0x800353F4
+.word str_0x800C0540
 .halfword 0x0002
 .halfword 0x0002
 .halfword 0x0000
@@ -570,7 +570,7 @@
 
 ; Entry @ 0x8002BFF4
 .word str_0x80035358
-.word str_0x800C0540
+.word knowanything2
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
@@ -578,7 +578,7 @@
 
 ; Entry @ 0x8002C004
 .word str_0x8003533C
-.word str_0x800C0540
+.word keepclimbing2
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0007

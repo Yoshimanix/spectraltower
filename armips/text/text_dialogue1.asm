@@ -212,7 +212,7 @@ str_0x80035B88:
 
 str_0x80035B70:
 ;JP Text: "ああ…しあわせだなぁ"
-.string "Ah…this is bliss."
+.string "Ah… this is bliss."
 
 str_0x80035B54:
 ;JP Text: "あわただしく生きる人間！"
@@ -328,7 +328,7 @@ str_0x80035880:
 
 str_0x80035868:
 ;JP Text: "ああ…まよってしまった"
-.string "Ah…I've lost my way."
+.string "Ah… I've lost my way."
 
 str_0x8003585C:
 ;JP Text: "オロオロ"
@@ -532,39 +532,39 @@ str_0x800353D8:
 
 str_0x800353BC:
 ;JP Text: "別の世界の人がこの世界を"
-.string "別の世界の人がこの世界を"
+.string "You know what people from other"
 
 str_0x8003539C:
 ;JP Text: "なんて呼んでいるのか知ってる？"
-.string "なんて呼んでいるのか知ってる？"
+.string "worlds call this world?"
 
 str_0x80035388:
 ;JP Text: "「ジゴク」ですって"
-.string "「ジゴク」ですって"
+.string "They call it “Hell.”"
 
 str_0x80035378:
 ;JP Text: "変な名前だよね"
-.string "変な名前だよね"
+.string "Ain’t that a strange name?"
 
 str_0x80035358:
 ;JP Text: "あなたは何も知らないのですね"
-.string "あなたは何も知らないのですね"
+.string "So, you really don’t know"
 
 str_0x8003533C:
 ;JP Text: "でもタワーを登り続ける…"
-.string "でもタワーを登り続ける…"
+.string "But if you keep climbing"
 
 str_0x800C0684:
 ;JP Text: "！！"
-.string "！！"
+.string "!!"
 
 str_0x80035324:
 ;JP Text: "キャハハハハハ　キャハ"
-.string "キャハハハハハ　キャハ"
+.string "Gyahahahaha gyaha!"
 
 str_0x80035314:
 ;JP Text: "ごめんなさい"
-.string "ごめんなさい"
+.string "Sorry about that."
 
 str_0x800352F8:
 ;JP Text: "あなたの顔が変だったから…"

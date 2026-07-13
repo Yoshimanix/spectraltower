@@ -5,6 +5,10 @@
 
 NewStringsStart:
 
+knowanything2:
+.string "anything, huh?"
+keepclimbing2:
+.string "the towers…"
 escape2:
 .string "escape the fight."
 smoothtalk2:
@@ -29,5 +33,7 @@ uselessrod2:
 .string "to stone."
 strange2:
 .string "strange."
+resentment1:
+.string "ｃ looks"
 
 NewStringsEnd:

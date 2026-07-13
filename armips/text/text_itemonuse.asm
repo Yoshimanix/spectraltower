@@ -46,39 +46,39 @@ str_0x8002A3C4:
 
 str_0x8002A3B4:
 ;JP Text: "対鬼レベルが"
-.string "Monster level"
+.string "Your Monster level was"
 
 str_0x8002A3A4:
 ;JP Text: "対霊レベルが"
-.string "Spirit level"
+.string "Your Spirit level was"
 
 str_0x8002A390:
 ;JP Text: "対使い魔レベルが"
-.string "Familiar level"
+.string "Your Familiar level was"
 
 str_0x8002A380:
 ;JP Text: "対竜レベルが"
-.string "Dragon level"
+.string "Your Dragon level was"
 
 str_0x8002A370:
 ;JP Text: "対人間レベルが"
-.string "Human level"
+.string "Your Human level was"
 
 str_0x8002A360:
 ;JP Text: "対悪魔レベルが"
-.string "Demon level"
+.string "Your Demon level was"
 
 str_0x8002A350:
 ;JP Text: "グルメレベルが"
-.string "Gourmet level"
+.string "Your Gourmet level was"
 
 str_0x8002A340:
 ;JP Text: "注意レベルが"
-.string "Search level"
+.string "Your Search level was"
 
 str_0x8002A330:
 ;JP Text: "武器レベルが"
-.string "Weapon level"
+.string "Your Weapon level was"
 
 str_0x8002A320:
 ;JP Text: "力がわいてくる"
@@ -122,7 +122,7 @@ str_0x8002A27C:
 
 str_0x8002A26C:
 ;JP Text: "ｆ　を使った"
-.string "used ｆ."
+.string "used the ｆ."
 
 str_0x8002A258:
 ;JP Text: "何をみがきますか？"
@@ -303,10 +303,6 @@ str_0x80029F30:
 str_0x80029F1C:
 ;JP Text: "ｆを装備するには"
 .string "Your weapon level is too low"
-
-str_0x80029F04:
-;JP Text: "武器レベルが足りません"
-.string "to equip ｆ."
 
 
 ItemOnUseTextEnd:

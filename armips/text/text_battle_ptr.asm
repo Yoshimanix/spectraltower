@@ -97,7 +97,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x8002B444
-.word str_0x800C05AC
+.word resentment1
 .word str_0x8002BAAC
 .halfword 0x0002
 .halfword 0x0001

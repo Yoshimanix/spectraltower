@@ -31,7 +31,7 @@ str_0x80029EE0:
 
 str_0x80029ED0:
 ;JP Text: "ｇ　に変わった"
-.string "Changed to ｇ."
+.string "It turned to a ｇ."
 
 str_0x80029EBC:
 ;JP Text: "ｅポイント下がった"
@@ -51,8 +51,11 @@ str_0x80029E70:
 
 str_0x80029E5C:
 ;JP Text: "意味がなかった……"
-.string "are at the highest floor."
+.string "are at the highest floor…"
 
+str_0x80029F04:
+;JP Text: "武器レベルが足りません"
+.string "to equip the ｆ."
 
 ;from text_itemdescriptions.asm
 

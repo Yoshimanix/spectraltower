@@ -235,7 +235,7 @@ str_0x8002AF2C:
 
 str_0x8002AF14:
 ;JP Text: "ユウさんのパンを食べた"
-.string "eats Baker Yu's bread."
+.string "ate Baker Yu's bread."
 
 str_0x8002AEFC:
 ;JP Text: "むしゃ　むしゃ　むしゃ"
@@ -247,7 +247,7 @@ str_0x8002AEE8:
 
 str_0x8002AED4:
 ;JP Text: "ブタブーパンだった"
-.string "Piggy bread."
+.string "Piggy Bread."
 
 str_0x8002AEBC:
 ;JP Text: "ブタブタブーになった！"
@@ -255,7 +255,7 @@ str_0x8002AEBC:
 
 str_0x8002AEA8:
 ;JP Text: "ニコニコパンだった"
-.string "Smiley bread."
+.string "Smiley Bread."
 
 str_0x8002AE8C:
 ;JP Text: "ぜっこうちょうになった！"
@@ -263,7 +263,7 @@ str_0x8002AE8C:
 
 str_0x8002AE78:
 ;JP Text: "モリモリパンだった"
-.string "Gusto bread."
+.string "Gusto Bread."
 
 str_0x8002AE60:
 ;JP Text: "ちょっぴり強くなった！"
@@ -311,7 +311,7 @@ str_0x8002AD78:
 
 str_0x8002AD58:
 ;JP Text: "　　　　　　（全　１０フロア）"
-.string "(10 floors)"
+.string "                     (10 floors)"
 
 str_0x8002AD4C:
 ;JP Text: "泥棒タワー"
@@ -319,7 +319,7 @@ str_0x8002AD4C:
 
 str_0x8002AD2C:
 ;JP Text: "　　　　　　（全　２０フロア）"
-.string "(20 floors)"
+.string "                     (20 floors)"
 
 str_0x8002AD14:
 ;JP Text: "クイーン・ローズタワー"
@@ -327,7 +327,7 @@ str_0x8002AD14:
 
 str_0x8002ACF4:
 ;JP Text: "　　　　　（全　１００フロア）"
-.string "(100 floors)"
+.string "                    (100 floors)"
 
 str_0x8002ACE0:
 ;JP Text: "スペクトラルタワー"
@@ -335,7 +335,7 @@ str_0x8002ACE0:
 
 str_0x8002ACC0:
 ;JP Text: "　　　　（全　１０００フロア）"
-.string "(1000 floors)"
+.string "                   (1000 floors)"
 
 str_0x8002ACB4:
 ;JP Text: "最後の塔"
@@ -343,7 +343,7 @@ str_0x8002ACB4:
 
 str_0x8002AC94:
 ;JP Text: "　　　　　　　（全　？フロア）"
-.string "(??? floors)"
+.string "                   (???? floors)"
 
 str_0x8002AC7C:
 ;JP Text: "名前を入力してください"
@@ -359,7 +359,7 @@ str_0x8002AC44:
 
 str_0x8002AC30:
 ;JP Text: "　プレイしますか"
-.string "using this character?"
+.string "as this character?"
 
 str_0x8002AC10:
 ;JP Text: "しかもウデをケガしてしまった"
@@ -407,7 +407,7 @@ str_0x8002AAE4:
 
 str_0x8002AAC4:
 ;JP Text: "メモリーカードが未初期化です"
-.string "Memory card has not been formatted."
+.string "The memory card is unformatted."
 
 str_0x8002AAB0:
 ;JP Text: "初期化しますか？"
@@ -415,7 +415,7 @@ str_0x8002AAB0:
 
 str_0x8002AA90:
 ;JP Text: "メモリーカードが認識できません"
-.string "Cannot recognize memory card"
+.string "Cannot recognize memory card."
 
 str_0x8002AA70:
 ;JP Text: "メモリーカードを使用しないで"
