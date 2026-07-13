@@ -55,7 +55,7 @@ str_0x80036B18:
 
 str_0x80036AFC:
 ;JP Text: "病気になることもあります"
-.string "risk of getting sick"
+.string "risk of getting ill."
 
 str_0x80036AEC:
 ;JP Text: "自分の攻撃を"

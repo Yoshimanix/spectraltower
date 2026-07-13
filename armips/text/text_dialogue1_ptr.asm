@@ -546,7 +546,7 @@
 
 ; Entry @ 0x8002BFC4
 .word str_0x800353D8
-.word str_0x800354D4
+.word our_atonement
 .halfword 0x0002
 .halfword 0x0002
 .halfword 0x0007

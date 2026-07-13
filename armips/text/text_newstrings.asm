@@ -5,6 +5,8 @@
 
 NewStringsStart:
 
+our_atonement:
+.string "are our “Atonement.”"
 knowanything2:
 .string "anything, huh?"
 keepclimbing2:
@@ -27,6 +29,8 @@ taste2:
 .string "taste."
 prayer2:
 .string "unheard."
+itemget2:
+.string "ｇ."
 uselesssword2:
 .string "positive effects."
 uselessrod2:

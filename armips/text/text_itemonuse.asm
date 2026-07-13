@@ -122,7 +122,7 @@ str_0x8002A27C:
 
 str_0x8002A26C:
 ;JP Text: "ｆ　を使った"
-.string "used the ｆ."
+.string "You used the ｆ."
 
 str_0x8002A258:
 ;JP Text: "何をみがきますか？"
@@ -134,7 +134,7 @@ str_0x8002A248:
 
 str_0x8002A23C:
 ;JP Text: "ｇ　だった"
-.string "ｇ."
+.string "the ｇ."
 
 str_0x8002A228:
 ;JP Text: "意味がなかった…"
@@ -142,11 +142,11 @@ str_0x8002A228:
 
 str_0x8002A218:
 ;JP Text: "装備しました"
-.string "equipped."
+.string "was equipped."
 
 str_0x8002A208:
 ;JP Text: "はずしました"
-.string "unequipped."
+.string "was unequipped."
 
 str_0x800C054C:
 ;JP Text: "ｆ　は"

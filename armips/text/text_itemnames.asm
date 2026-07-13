@@ -192,7 +192,7 @@ str_8003CA70:
 
 str_8003CA64:
 ;JP TEXT: "金のかけら"
-.string "Gold Fragment"
+.string "Gold Nugget"
 
 str_800C07D8:
 ;JP TEXT: "光る石"

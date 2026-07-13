@@ -31,7 +31,7 @@ str_0x8002B338:
 
 str_0x8002B320:
 ;JP Text: "捨ててもいいですか？"
-.string "discard ｆ?"
+.string "discard the ｆ?"
 
 str_0x8002B304:
 ;JP Text: "アイテムを持っていません"
@@ -39,7 +39,7 @@ str_0x8002B304:
 
 str_0x8002B2F0:
 ;JP Text: "ｇ　を手に入れた"
-.string "You obtained ｇ."
+.string "You obtained the"
 
 str_0x800C0594:
 ;JP Text: "しかし"
@@ -51,7 +51,7 @@ str_0x8002B2D8:
 
 str_0x800C058C:
 ;JP Text: "ｇ　を"
-.string "ｇ"
+.string "The ｇ"
 
 str_0x8002B2C4:
 ;JP Text: "宝箱に戻しました"
@@ -75,19 +75,19 @@ str_0x8002B270:
 
 str_0x8002B264:
 ;JP Text: "ｇ　を捨て"
-.string "Discard ｇ."
+.string "Discarded the ｇ,"
 
 str_0x8002B258:
 ;JP Text: "ｆ　を入手"
-.string "Obtain ｆ."
+.string "obtained the ｆ."
 
 str_0x8002B24C:
 ;JP Text: "ｆ　を捨て"
-.string "Discard ｆ."
+.string "Discarded the ｆ,"
 
 str_0x8002B240:
 ;JP Text: "ｇ　を入手"
-.string "Obtain ｇ."
+.string "obtained the ｇ."
 
 str_0x800C0584:
 ;JP Text: "ａ　は"

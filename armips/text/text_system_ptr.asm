@@ -34,7 +34,7 @@
 
 ; Entry @ 0x8002A434
 .word str_0x8002B2F0
-.word str_0x800C0540
+.word itemget2
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0005

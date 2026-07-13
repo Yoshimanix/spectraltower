@@ -528,7 +528,7 @@ str_0x800353F4:
 
 str_0x800353D8:
 ;JP Text: "そして世界の５つのタワーは"
-.string "And the 5 towers in this world is our"
+.string "And the 5 towers in this world"
 
 str_0x800353BC:
 ;JP Text: "別の世界の人がこの世界を"
@@ -548,7 +548,7 @@ str_0x80035378:
 
 str_0x80035358:
 ;JP Text: "あなたは何も知らないのですね"
-.string "So, you really don’t know"
+.string "So, you really don't know"
 
 str_0x8003533C:
 ;JP Text: "でもタワーを登り続ける…"
