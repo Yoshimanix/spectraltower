@@ -11,5 +11,6 @@ cd out
 ..\psximager\psxinject.exe "Spectral Tower (Japan).bin" SLPS_004.76 SLPS_004.76
 ..\psximager\psxinject.exe "Spectral Tower (Japan).bin" D2/WINDS.TIM "..\replacements\WINDS.TIM"
 ..\psximager\psxinject.exe "Spectral Tower (Japan).bin" D1/NAME1.TIM "..\replacements\NAME1.TIM"
+..\psximager\psxinject.exe "Spectral Tower (Japan).bin" D1/SMETC2.TIM "..\replacements\SMETC2.TIM"
 ..\armips\armips.exe ..\armips\movies.asm
 ..\pcsx-redux\pcsx-redux -loadiso "Spectral Tower (Japan).cue" -run
