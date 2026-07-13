@@ -140,7 +140,7 @@ str_8003CB38:
 
 str_8003CB2C:
 ;JP TEXT: "どくけし"
-.string "Poison Cure"
+.string "Antidote"
 
 str_8003CB20:
 ;JP TEXT: "せいすい草"
