@@ -45,7 +45,7 @@ str_0x8002BAD4:
 
 str_0x8002BAC0:
 ;JP Text: "死んでしまった……"
-.string "was slain…"
+.string "passed away…"
 
 str_0x800C05AC:
 ;JP Text: "ｃ　は"
