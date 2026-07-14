@@ -70,3 +70,6 @@ srl v0,v0,0x0
 
 .org 0x800568ac
 srl v0,v0,0x0
+
+.org 0x800662ac
+sra v1,v1,0x0
