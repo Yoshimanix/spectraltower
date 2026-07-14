@@ -402,7 +402,7 @@
 
 ; Entry @ 0x8002BEA4
 .word str_0x800356D4
-.word str_0x800357B4
+.word start_over2
 .halfword 0x0002
 .halfword 0x0002
 .halfword 0x0007

@@ -13,7 +13,7 @@ str_0x80039668:
 
 str_0x80039650:
 ;JP Text: "聖神コリーアに祈った"
-.string "prays to Holy Spirit Coria."
+.string "prays to Holy Spirit Colea."
 
 str_0x80039630:
 ;JP Text: "しかし　祈りはとどかなかった"
@@ -153,7 +153,7 @@ str_0x800393A4:
 
 str_0x80039388:
 ;JP Text: "「聖神コリーアよ　あなたに"
-.string "“Holy Spirit Coria, I offer you"
+.string "“Holy Spirit Colea, I offer you"
 
 str_0x80039374:
 ;JP Text: "　ｇをささげます」"

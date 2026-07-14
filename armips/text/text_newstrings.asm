@@ -5,6 +5,8 @@
 
 NewStringsStart:
 
+start_over2:
+.string "start over? Just give it uuup!"
 our_atonement:
 .string "are our “Atonement.”"
 knowanything2:

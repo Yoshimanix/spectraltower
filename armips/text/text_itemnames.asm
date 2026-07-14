@@ -200,7 +200,7 @@ str_800C07D8:
 
 str_8003CA58:
 ;JP TEXT: "光るといし"
-.string "ShiningWhetstone"
+.string "Shiny Whetstone"
 
 str_800C07D0:
 ;JP TEXT: "天魔石"
@@ -208,7 +208,7 @@ str_800C07D0:
 
 str_8003CA48:
 ;JP TEXT: "天魔剣・流星"
-.string "TenmaSwordMeteor"
+.string "God Slayer"
 
 str_8003CA38:
 ;JP TEXT: "天魔のしゃく"
@@ -272,7 +272,7 @@ str_8003C958:
 
 str_8003C944:
 ;JP TEXT: "イプシロンのつえ"
-.string "Ypsilon Rod"
+.string "Epsilon Rod"
 
 str_8003C934:
 ;JP TEXT: "ワープロッド"

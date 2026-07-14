@@ -15,7 +15,7 @@ str_0x80036BE8:
 
 str_0x80036BD4:
 ;JP Text: "霊を成仏させます"
-.string "with Coria's Power."
+.string "with Colea's Power."
 
 str_0x80036BBC:
 ;JP Text: "持っているアイテムを"
@@ -71,7 +71,7 @@ str_0x80036AC0:
 
 str_0x80036AA4:
 ;JP Text: "ささげ　体力の回復を行う"
-.string "Coria to heal HP."
+.string "Colea to heal HP."
 
 str_0x80036A8C:
 ;JP Text: "電撃を指先より発します"

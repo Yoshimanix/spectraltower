@@ -116,7 +116,7 @@ str_0x80035E0C:
 
 str_0x80035DEC:
 ;JP Text: "聖神コリーアさまのおかげかな"
-.string "It must be thanks to Saint Coria."
+.string "It must be thanks to Saint Colea."
 
 str_0x80035DD0:
 ;JP Text: "プレイするごとにタワーの"
@@ -388,19 +388,19 @@ str_0x80035734:
 
 str_0x80035718:
 ;JP Text: "グチるのも　また人生だよ"
-.string "It is just a part of life."
+.string "it is just a part of life."
 
 str_0x80035704:
 ;JP Text: "ずいぶんショボい"
-.string "You've got a squishy character there,"
+.string "You've got a squishy character"
 
 str_0x800356F0:
 ;JP Text: "キャラクターだねぇ"
-.string "don'cha?"
+.string "there, don'cha?"
 
 str_0x800356D4:
 ;JP Text: "はじめから　やり直したら？"
-.string "How 'bout you just quit and start over?"
+.string "How 'bout you just quit and"
 
 str_0x800356C0:
 ;JP Text: "ぼくらシロウサギは"
@@ -560,7 +560,7 @@ str_0x800C0684:
 
 str_0x80035324:
 ;JP Text: "キャハハハハハ　キャハ"
-.string "Gyahahahaha gyaha!"
+.string "Gyahahahahaha… gyaha!"
 
 str_0x80035314:
 ;JP Text: "ごめんなさい"

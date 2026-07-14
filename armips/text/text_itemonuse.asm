@@ -38,7 +38,7 @@ str_0x8002A3D8:
 
 str_0x800C055C:
 ;JP Text: "ＨＰが"
-.string "Your Max HP was"
+.string "Your HP was"
 
 str_0x8002A3C4:
 ;JP Text: "ｅポイント上がった"
@@ -283,26 +283,6 @@ str_0x80029F8C:
 str_0x80029F74:
 ;JP Text: "新たなる基が　生まれる"
 .string "another, a new one is born."
-
-str_0x80029F58:
-;JP Text: "この世界の王　イプシロン"
-.string "The king of this world, Epsilon,"
-
-str_0x80029F44:
-;JP Text: "５つの塔を　たてる"
-.string "built the five towers."
-
-str_0x800C0544:
-;JP Text: "読んだ"
-.string "was read."
-
-str_0x80029F30:
-;JP Text: "ＨＰ　完全回復！"
-.string "HP fully restored!"
-
-str_0x80029F1C:
-;JP Text: "ｆを装備するには"
-.string "Your weapon level is too low"
 
 
 ItemOnUseTextEnd:

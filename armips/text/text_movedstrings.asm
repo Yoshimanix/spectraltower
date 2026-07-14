@@ -35,7 +35,7 @@ str_0x80029ED0:
 
 str_0x80029EBC:
 ;JP Text: "ｅポイント下がった"
-.string "reduced by ｅ points."
+.string "decreased by ｅ point(s)."
 
 str_0x80029E9C:
 ;JP Text: "ブタ状態は何でも食べられる！"
@@ -56,6 +56,26 @@ str_0x80029E5C:
 str_0x80029F04:
 ;JP Text: "武器レベルが足りません"
 .string "to equip the ｆ."
+
+str_0x80029F58:
+;JP Text: "この世界の王　イプシロン"
+.string "The king of this world, Epsilon,"
+
+str_0x80029F44:
+;JP Text: "５つの塔を　たてる"
+.string "built the five towers."
+
+str_0x800C0544:
+;JP Text: "読んだ"
+.string "was read."
+
+str_0x80029F30:
+;JP Text: "ＨＰ　完全回復！"
+.string "HP fully restored!"
+
+str_0x80029F1C:
+;JP Text: "ｆを装備するには"
+.string "Your Weapon level is too low"
 
 ;from text_itemdescriptions.asm
 
