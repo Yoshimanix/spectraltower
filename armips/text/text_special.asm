@@ -98,7 +98,7 @@ SpecialStatusCategories:
 .stringn "Weapon:     "
 
 ;JP TEXT: "対食："
-.stringn "Food:       "
+.stringn "Gourmet:    "
 
 ;JP TEXT: "対注："
 .stringn "Search:     "

@@ -39,7 +39,7 @@ str_0x8002B304:
 
 str_0x8002B2F0:
 ;JP Text: "ｇ　を手に入れた"
-.string "You obtained the"
+.string "You obtained a(n)"
 
 str_0x800C0594:
 ;JP Text: "しかし"

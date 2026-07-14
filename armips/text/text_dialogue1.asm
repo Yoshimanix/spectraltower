@@ -544,7 +544,7 @@ str_0x80035388:
 
 str_0x80035378:
 ;JP Text: "変な名前だよね"
-.string "Ain’t that a strange name?"
+.string "Ain't that a strange name?"
 
 str_0x80035358:
 ;JP Text: "あなたは何も知らないのですね"
