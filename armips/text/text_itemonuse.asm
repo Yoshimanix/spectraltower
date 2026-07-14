@@ -38,7 +38,7 @@ str_0x8002A3D8:
 
 str_0x800C055C:
 ;JP Text: "ＨＰが"
-.string "HP"
+.string "Your Max HP was"
 
 str_0x8002A3C4:
 ;JP Text: "ｅポイント上がった"
