@@ -404,11 +404,11 @@ str_0x800356D4:
 
 str_0x800356C0:
 ;JP Text: "ぼくらシロウサギは"
-.string "Us White Rabbits"
+.string "Us White Rabbits eat human"
 
 str_0x800356A0:
 ;JP Text: "人間のやる気を食べて生きている"
-.string "eat human spirit to survive."
+.string "spirit to survive."
 
 str_0x80035694:
 ;JP Text: "だから…"
