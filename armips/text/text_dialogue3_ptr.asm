@@ -1209,7 +1209,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x80037584
-.word str_0x800C0584
+.word str_a_chants
 .word str_0x80038A38
 .halfword 0x0002
 .halfword 0x0001
@@ -1738,7 +1738,7 @@
 
 ; Entry @ 0x800379A4
 .word str_0x800384A4
-.word str_0x800395CC
+.word incredible_strike
 .halfword 0x0002
 .halfword 0x0001
 .halfword 0x0000
@@ -1977,7 +1977,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x80037B84
-.word str_0x800C05AC
+.word str_cwas
 .word str_0x80038258
 .halfword 0x0002
 .halfword 0x0001
@@ -2001,7 +2001,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x80037BB4
-.word str_0x800C0584
+.word str_koshi
 .word str_0x8003822C
 .halfword 0x0002
 .halfword 0x0001
@@ -2057,7 +2057,7 @@
 .halfword 0x0001
 
 ; Entry @ 0x80037C24
-.word str_0x800C0554
+.word str_eiyou
 .word str_0x8003817C
 .halfword 0x0002
 .halfword 0x0001

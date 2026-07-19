@@ -259,7 +259,7 @@ str_0x8003669C:
 
 str_0x80036684:
 ;JP Text: "身がわり君が敵の攻撃を"
-.string "Your Body Double"
+.string "Your Defense Buddy"
 
 str_0x80036674:
 ;JP Text: "うけてくれる"

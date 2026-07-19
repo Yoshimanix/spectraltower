@@ -31,6 +31,16 @@ taste2:
 .string "taste."
 prayer2:
 .string "unheard."
+str_a_chants:
+.string "ａ chants "
+incredible_strike:
+.string "obliterated ｃ."
+str_cwas:
+.string "ｃ was"
+str_koshi:
+.string "ａ hurt their back"
+str_eiyou:
+.string "It became nutritious material"
 itemget2:
 .string "ｇ."
 uselesssword2:

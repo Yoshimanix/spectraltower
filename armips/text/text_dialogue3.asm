@@ -617,7 +617,7 @@ str_0x80038A50:
 
 str_0x80038A38:
 ;JP Text: "爆炎の呪文をとなえた"
-.string "爆炎の呪文をとなえた"
+.string "a spell of explosive fire."
 
 str_0x80038A28:
 ;JP Text: "もえあがった"
@@ -809,163 +809,163 @@ str_0x80038670:
 
 str_0x8003865C:
 ;JP Text: "顔色が悪くなった"
-.string "顔色が悪くなった"
+.string "face looks pale."
 
 str_0x8003864C:
 ;JP Text: "病気になった"
-.string "病気になった"
+.string "became sick."
 
 str_0x80038638:
 ;JP Text: "ベロベロベロベロ"
-.string "ベロベロベロベロ"
+.string "*lick lick lick*"
 
 str_0x80038628:
 ;JP Text: "うっ、うまい！"
-.string "うっ、うまい！"
+.string "Yummy!"
 
 str_0x80038618:
 ;JP Text: "体力は回復した"
-.string "体力は回復した"
+.string "health regenerated."
 
 str_0x80038600:
 ;JP Text: "チェンジをして攻撃！"
-.string "チェンジをして攻撃！"
+.string "swaps their attack!"
 
 str_0x800385F0:
 ;JP Text: "「チェンジ！」"
-.string "「チェンジ！」"
+.string "“Change!”"
 
 str_0x800385D8:
 ;JP Text: "身がわり君を呼んでみた"
-.string "身がわり君を呼んでみた"
+.string "attempts to call Defense Buddy."
 
 str_0x800385C4:
 ;JP Text: "「身がわりくーん」"
-.string "「身がわりくーん」"
+.string "“Come on out, Defense Buddy!”"
 
 str_0x800385B8:
 ;JP Text: "「は〜い」"
-.string "「は〜い」"
+.string "“Alrighty!”"
 
 str_0x800385A4:
 ;JP Text: "身がわり君が現れた"
-.string "身がわり君が現れた"
+.string "Defense Buddy appears."
 
 str_0x80038598:
 ;JP Text: "「え〜い」"
-.string "「え〜い」"
+.string "“Bring it on!”"
 
 str_0x80038578:
 ;JP Text: "身がわり君が攻撃を受けてくれた"
-.string "身がわり君が攻撃を受けてくれた"
+.string "Defense Buddy takes the attack."
 
 str_0x80038558:
 ;JP Text: "身がわり君は　しょうめつした"
-.string "身がわり君は　しょうめつした"
+.string "Defense Buddy vanishes."
 
 str_0x80038544:
 ;JP Text: "攻撃君を呼んでみた"
-.string "攻撃君を呼んでみた"
+.string "attempts to call Attack Buddy."
 
 str_0x80038534:
 ;JP Text: "攻撃君が現れた"
-.string "攻撃君が現れた"
+.string "Attack Buddy appears."
 
 str_0x8003851C:
 ;JP Text: "「オイラにまかせて」"
-.string "「オイラにまかせて」"
+.string "“I’ll take it from here.”"
 
 str_0x80038504:
 ;JP Text: "「オイラにまかせ…」"
-.string "「オイラにまかせ…」"
+.string "“I’ll take it fro-”"
 
 str_0x800384E8:
 ;JP Text: "攻撃君は　ころんでしまった"
-.string "攻撃君は　ころんでしまった"
+.string "Attack Buddy falls on his face."
 
 str_0x800384CC:
 ;JP Text: "攻撃君は　しょうめつした"
-.string "攻撃君は　しょうめつした"
+.string "Attack Buddy vanishes."
 
 str_0x800384B8:
 ;JP Text: "「オイラが倒す」"
-.string "「オイラが倒す」"
+.string "“I’ll clobber them.”"
 
 str_0x800384A4:
 ;JP Text: "攻撃君のすごい攻撃"
-.string "攻撃君のすごい攻撃"
+.string "Attack Buddy's incredible strike"
 
 str_0x80038490:
 ;JP Text: "ほほえみかけてみた"
-.string "ほほえみかけてみた"
+.string "attempts to smile pleasantly."
 
 str_0x80038474:
 ;JP Text: "ぶきみな笑みをうかべている"
-.string "ぶきみな笑みをうかべている"
+.string "gives a creepy smile."
 
 str_0x80038468:
 ;JP Text: "ｃ　には"
-.string "ｃ　には"
+.string "It does not seem to work on"
 
 str_0x80038454:
 ;JP Text: "きかなかったようだ"
-.string "きかなかったようだ"
+.string "ｃ."
 
 str_0x80038444:
 ;JP Text: "はにかんでいる"
-.string "はにかんでいる"
+.string "blushes bashfully."
 
 str_0x80038430:
 ;JP Text: "アイテムをおいて"
-.string "アイテムをおいて"
+.string "They put down an item and"
 
 str_0x80038418:
 ;JP Text: "走って逃げてしまった"
-.string "走って逃げてしまった"
+.string "scurry off."
 
 str_0x8003840C:
 ;JP Text: "ぶんしん！"
-.string "ぶんしん！"
+.string "Clone Technique!"
 
 str_0x80038400:
 ;JP Text: "どろろん！"
-.string "どろろん！"
+.string "Poof!"
 
 str_0x800383F0:
 ;JP Text: "３人になった"
-.string "３人になった"
+.string "multiplies into three people."
 
 str_0x800383D8:
 ;JP Text: "３人がかりで攻撃した"
-.string "３人がかりで攻撃した"
+.string "attacks with all three members."
 
 str_0x800383C8:
 ;JP Text: "変なことをした"
-.string "変なことをした"
+.string "behaves strangely."
 
 str_0x800383B4:
 ;JP Text: "こんらんしたようだ"
-.string "こんらんしたようだ"
+.string "seems flustered."
 
 str_0x800383A4:
 ;JP Text: "おこりだした"
-.string "おこりだした"
+.string "gets angry."
 
 str_0x80038390:
 ;JP Text: "自分がこんらんした"
-.string "自分がこんらんした"
+.string "You become flustered."
 
 str_0x80038380:
 ;JP Text: "間合いを広げた"
-.string "間合いを広げた"
+.string "prepares to attack."
 
 str_0x800C069C:
 ;JP Text: "必殺"
-.string "必殺"
+.string "Killer Technique"
 
 str_0x80038370:
 ;JP Text: "月光１０連打！"
-.string "月光１０連打！"
+.string "10x Moonlight Combo!"
 
 str_0x80038360:
 ;JP Text: "しかし　ａ　も"
@@ -973,111 +973,111 @@ str_0x80038360:
 
 str_0x8003834C:
 ;JP Text: "ｃ　と組み合った"
-.string "ｃ　と組み合った"
+.string "wrestles with ｃ."
 
 str_0x80038340:
 ;JP Text: "幻の必殺技"
-.string "幻の必殺技"
+.string "Legendary killer attack."
 
 str_0x8003832C:
 ;JP Text: "やまあらし　だー"
-.string "やまあらし　だー"
+.string "Yama Arashi! Yah!"
 
 str_0x80038314:
 ;JP Text: "地面にたたきつけられた"
-.string "地面にたたきつけられた"
+.string "is slammed into the ground."
 
 str_0x800382F8:
 ;JP Text: "１０　のダメージを受けた！"
-.string "１０　のダメージを受けた！"
+.string "takes 10 damage."
 
 str_0x800382E8:
 ;JP Text: "ｃ　にふれた"
-.string "ｃ　にふれた"
+.string "touches ｃ."
 
 str_0x800382D4:
 ;JP Text: "ドレインタッチだ！"
-.string "ドレインタッチだ！"
+.string "Drain Touch!"
 
 str_0x800382C4:
 ;JP Text: "ｃ　の生気を"
-.string "ｃ　の生気を"
+.string "ｃ gets ｅ points"
 
 str_0x800382B8:
 ;JP Text: "ｅ吸収した"
-.string "ｅ吸収した"
+.string "of vitality sucked out of them."
 
 str_0x800382A4:
 ;JP Text: "しかし　かわされた"
-.string "しかし　かわされた"
+.string "However, it was blocked."
 
 str_0x80038294:
 ;JP Text: "うららららーっ"
-.string "うららららーっ"
+.string "Urarararararaaaaa!"
 
 str_0x80038278:
 ;JP Text: "しかし何もおこらなかった…"
-.string "しかし何もおこらなかった…"
+.string "However, nothing happens…"
 
 str_0x80038258:
 ;JP Text: "そのはくりょくにあっとうされた"
-.string "そのはくりょくにあっとうされた"
+.string "overwhelmed by the intensity."
 
 str_0x80038248:
 ;JP Text: "「ゴキッ！」"
-.string "「ゴキッ！」"
+.string "*crack*"
 
 str_0x8003822C:
 ;JP Text: "きばりすぎてコシをいためた"
-.string "きばりすぎてコシをいためた"
+.string "from strenuous activity."
 
 str_0x80038218:
 ;JP Text: "ザビレダブータリア"
-.string "ザビレダブータリア"
+.string "Zabireda Butalia."
 
 str_0x80038204:
 ;JP Text: "ゾンビを呼びよせた"
-.string "ゾンビを呼びよせた"
+.string "summons a zombie."
 
 str_0x800381EC:
 ;JP Text: "しかしゾンビはその場に"
-.string "しかしゾンビはその場に"
+.string "However, the zombie crumbled"
 
 str_0x800381DC:
 ;JP Text: "くずれ落ちた"
-.string "くずれ落ちた"
+.string "away on the spot."
 
 str_0x800381CC:
 ;JP Text: "ゾンビはｃ　に"
-.string "ゾンビはｃ　に"
+.string "The zombie grabs ahold of"
 
 str_0x800381BC:
 ;JP Text: "だきついた！"
-.string "だきついた！"
+.string "ｃ！"
 
 str_0x800381AC:
 ;JP Text: "しめつけられた"
-.string "しめつけられた"
+.string "becomes constricted."
 
 str_0x80038190:
 ;JP Text: "ゾンビはドロドロにとけた"
-.string "ゾンビはドロドロにとけた"
+.string "The zombie melts into mush."
 
 str_0x8003817C:
 ;JP Text: "えいようになった！"
-.string "えいようになった！"
+.string "for ａ!"
 
 str_0x80038164:
 ;JP Text: "いちげきをあびせかける"
-.string "いちげきをあびせかける"
+.string "deals a powerful blow."
 
 str_0x80038148:
 ;JP Text: "まともにくらってしまった"
-.string "まともにくらってしまった"
+.string "took it head on."
 
 str_0x8003812C:
 ;JP Text: "かんたんによけてしまった"
-.string "かんたんによけてしまった"
+.string "dodged it effortlessly."
 
 str_0x80038114:
 ;JP Text: "まわりに炎がうずまく"
