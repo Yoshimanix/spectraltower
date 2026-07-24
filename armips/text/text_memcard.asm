@@ -41,6 +41,8 @@ LastTowerName:
 
 .align 4
 
+MemcardNamesEnd:
+
 ;.notice GoblinTowerName - 0x8000f800
 ;.notice hi(GoblinTowerName)
 ;.notice lo(GoblinTowerName)

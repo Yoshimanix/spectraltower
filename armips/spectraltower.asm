@@ -20,6 +20,8 @@
 .include "draw_inventory.asm"
 .include "text/text_memcard.asm"
 
+.include "patchversiontext.asm"
+
 .include "text/text_misc.asm"
 .include "text/text_misc_ptr.asm"
 .if MiscTextEnd > 0x80028a3f
