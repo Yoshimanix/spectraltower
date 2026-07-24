@@ -2089,7 +2089,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x80037C64
-.word str_0x800C0554
+.word str_honoo
 .word str_0x80038114
 .halfword 0x0002
 .halfword 0x0001
@@ -2105,7 +2105,7 @@
 .halfword 0x0001
 
 ; Entry @ 0x80037C84
-.word str_0x800C0554
+.word str_marscut
 .word str_0x800380E4
 .halfword 0x0002
 .halfword 0x0001
@@ -2170,7 +2170,7 @@
 
 ; Entry @ 0x80037D04
 .word str_0x80038028
-.word str_0x800C0540
+.word str_forthat
 .halfword 0x0001
 .halfword 0x0001
 .halfword 0x0000

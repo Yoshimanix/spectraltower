@@ -55,7 +55,7 @@ str_0x80029E5C:
 
 str_0x80029F04:
 ;JP Text: "武器レベルが足りません"
-.string "to equip the ｆ."
+.string "to equip ｆ."
 
 str_0x80029F58:
 ;JP Text: "この世界の王　イプシロン"

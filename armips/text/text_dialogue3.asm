@@ -73,19 +73,19 @@ str_0x8003955C:
 
 str_0x80039544:
 ;JP Text: "やさしい歌は　母の声"
-.string "やさしい歌は　母の声"
+.string "A sweet song of mother’s voice,"
 
 str_0x80039528:
 ;JP Text: "みんなをやさしくてらすのよ"
-.string "みんなをやさしくてらすのよ"
+.string "softly shines upon us all,"
 
 str_0x80039518:
 ;JP Text: "不思議な光が"
-.string "不思議な光が"
+.string "the mysterious light,"
 
 str_0x80039508:
 ;JP Text: "あたりをてらす"
-.string "あたりをてらす"
+.string "illuminates all around."
 
 str_0x800394F8:
 ;JP Text: "体力がｅ回復！"
@@ -1081,118 +1081,118 @@ str_0x8003812C:
 
 str_0x80038114:
 ;JP Text: "まわりに炎がうずまく"
-.string "まわりに炎がうずまく"
+.string "are engulfed in flames."
 
 str_0x80038108:
 ;JP Text: "ｃ　の体は"
-.string "ｃ　の体は"
+.string "ｃ cannot move"
 
 str_0x800380FC:
 ;JP Text: "動かない！"
-.string "動かない！"
+.string "their body!"
 
 str_0x800380E4:
 ;JP Text: "攻撃で天地がゆらぐ！！"
-.string "攻撃で天地がゆらぐ！！"
+.string "rattles heaven and earth!!"
 
 str_0x800380D0:
 ;JP Text: "マルス　カーット！"
-.string "マルス　カーット！"
+.string "Marth Cut!"
 
 str_0x800380B8:
 ;JP Text: "まっぷたつになった！"
-.string "まっぷたつになった！"
+.string "was split into two!"
 
 str_0x8003809C:
 ;JP Text: "反動でｅのダメージをうけた"
-.string "反動でｅのダメージをうけた"
+.string "took ｅdamage from the blow."
 
 str_0x80038080:
 ;JP Text: "しかし攻撃はあたらなかった"
-.string "しかし攻撃はあたらなかった"
+.string "However, the attack missed."
 
 str_0x80038068:
 ;JP Text: "その場にたたずんでいる"
-.string "その場にたたずんでいる"
+.string "stands in place."
 
 str_0x80038048:
 ;JP Text: "ゆっくりと考えごとをしてみた"
-.string "ゆっくりと考えごとをしてみた"
+.string "thinks carefully."
 
 str_0x80038028:
 ;JP Text: "しかし、それどころではなかった"
-.string "しかし、それどころではなかった"
+.string "However, it was the wrong time"
 
 str_0x80038014:
 ;JP Text: "思い出し笑いをした"
-.string "思い出し笑いをした"
+.string "remembers something funny."
 
 str_0x80038004:
 ;JP Text: "「ぷぷぷっ」"
-.string "「ぷぷぷっ」"
+.string "“Heh heh heh”"
 
 str_0x80037FE8:
 ;JP Text: "エッチなことをそうぞうした"
-.string "エッチなことをそうぞうした"
+.string "imagines something sexual."
 
 str_0x80037FD8:
 ;JP Text: "「イヤ〜ン」"
-.string "「イヤ〜ン」"
+.string "“I-- Oh! I’m gonna-!!”"
 
 str_0x80037FBC:
 ;JP Text: "かっこいいポーズを考えた"
-.string "かっこいいポーズを考えた"
+.string "thinks up a cool pose."
 
 str_0x80037FAC:
 ;JP Text: "ポーズをとった"
-.string "ポーズをとった"
+.string "makes a pose."
 
 str_0x80037F94:
 ;JP Text: "ふかいねむりについた"
-.string "ふかいねむりについた"
+.string "falls into a deep sleep."
 
 str_0x80037F84:
 ;JP Text: "「スヤスヤ…」"
-.string "「スヤスヤ…」"
+.string "“Zzz…”"
 
 str_0x80037F6C:
 ;JP Text: "自分にほれぼれとした"
-.string "自分にほれぼれとした"
+.string "gets into themselves"
 
 str_0x80037F58:
 ;JP Text: "「ふっ　きまった」"
-.string "「ふっ　きまった」"
+.string "“Hmph. I’m lookin’ good.”"
 
 str_0x80037F3C:
 ;JP Text: "自分をたたえる歌を歌った"
-.string "自分をたたえる歌を歌った"
+.string "sings a song about themselves."
 
 str_0x80037F24:
 ;JP Text: "「ぼーくは　かっこいい"
-.string "「ぼーくは　かっこいい"
+.string "“I’m a badass, super"
 
 str_0x80037F0C:
 ;JP Text: "　てーんさーいだー」"
-.string "　てーんさーいだー」"
+.string "geeeeeniuuus~!”"
 
 str_0x80037EF0:
 ;JP Text: "すべてがめんどうになった"
-.string "すべてがめんどうになった"
+.string "gets fed up with everything."
 
 str_0x80037ED4:
 ;JP Text: "「もう、どうでもいいやー」"
-.string "「もう、どうでもいいやー」"
+.string "“Man…who cares.”"
 
 str_0x80037EC0:
 ;JP Text: "ｃ　は霊ではない…"
-.string "ｃ　は霊ではない…"
+.string "ｃ is not a ghost…"
 
 str_0x80037EA8:
 ;JP Text: "祈りはとどかなかった"
-.string "祈りはとどかなかった"
+.string "The prayer failed."
 
 str_0x80037E94:
 ;JP Text: "みごと着地をした"
-.string "みごと着地をした"
+.string "makes a perfect landing."
 
 Dialogue3TextEnd:

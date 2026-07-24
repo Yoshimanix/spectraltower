@@ -41,6 +41,12 @@ str_koshi:
 .string "ａ hurt their back"
 str_eiyou:
 .string "It became nutritious material"
+str_honoo:
+.string "ａ's surroundings"
+str_marscut:
+.string "ａ's attack "
+str_forthat:
+.string "for that."
 itemget2:
 .string "ｇ."
 uselesssword2:
