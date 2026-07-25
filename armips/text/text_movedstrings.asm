@@ -193,4 +193,58 @@ str_800C0508:
 ;JP TEXT: "はやい"
 .asciiz "Fast"
 
+; from text_dialogue3.asm
+
+str_0x80037FAC:
+;JP Text: "ポーズをとった"
+.string "makes a pose."
+
+str_0x80037F94:
+;JP Text: "ふかいねむりについた"
+.string "falls into a deep sleep."
+
+str_0x80037F84:
+;JP Text: "「スヤスヤ…」"
+.string "“Zzz…”"
+
+str_0x80037F6C:
+;JP Text: "自分にほれぼれとした"
+.string "gets into themselves"
+
+str_0x80037F58:
+;JP Text: "「ふっ　きまった」"
+.string "“Hmph. I’m lookin’ good.”"
+
+str_0x80037F3C:
+;JP Text: "自分をたたえる歌を歌った"
+.string "sings a song about themselves."
+
+str_0x80037F24:
+;JP Text: "「ぼーくは　かっこいい"
+.string "“I’m a badass, super"
+
+str_0x80037F0C:
+;JP Text: "　てーんさーいだー」"
+.string "geeeeeniuuus~!”"
+
+str_0x80037EF0:
+;JP Text: "すべてがめんどうになった"
+.string "gets fed up with everything."
+
+str_0x80037ED4:
+;JP Text: "「もう、どうでもいいやー」"
+.string "“Man…who cares.”"
+
+str_0x80037EC0:
+;JP Text: "ｃ　は霊ではない…"
+.string "ｃ is not a ghost…"
+
+str_0x80037EA8:
+;JP Text: "祈りはとどかなかった"
+.string "The prayer failed."
+
+str_0x80037E94:
+;JP Text: "みごと着地をした"
+.string "makes a perfect landing."
+
 MovedStringsEnd:
