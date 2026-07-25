@@ -35,6 +35,30 @@ addiu sp,sp,0x18
 j 0x800441a0
 nop
 
+MainMenuTargetYTable:
+.byte 0x8
+.byte 0x18
+.byte 0x28
+.byte 0x80
+
+.org 0x80064ac8
+DrawPatchVersionString:
+move v0,s5
+sll v0,v0,0x10
+sra v0,v0,0x10
+slti v0,v0,0x3
+bne v0,zero, 0x80058390
+addiu s3,s3,0x10
+ori s7,zero,-96
+move v0,s5
+sll v0,v0,0x10
+sra v0,v0,0x10
+slti v0,v0,0x4
+bne v0,zero, 0x80058390
+addiu s3,s3,0x50
+j 0x80058480
+nop
+
 
 ; change pointer table offset in string blitting function
 .org 0x80058c00
@@ -46,5 +70,19 @@ addiu at, lo(MainMenuStringPointers)
 j BlitPatchVersionString
 nop
 
+.org 0x80058474
+slti v0,v0,0x4
+bne v0,zero,DrawPatchVersionString
+nop
 
 
+; increase the main menu draw loop by 1
+;.org 0x80058474
+;slti v0,v0,0x4
+
+; add parameters for patch version
+; source y coordinate
+.org 0x80039893
+.byte 140
+.org 0x8003988f
+.byte 0x80

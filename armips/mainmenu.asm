@@ -3,6 +3,7 @@
 .byte 8 ; Continue
 .byte 8 ; New Game
 .byte 8 ; Options
+.byte 16 ; Eng. Patch 1.0
 
 ; Adjust option menu pointer X position
 .org 0x8003A11A
