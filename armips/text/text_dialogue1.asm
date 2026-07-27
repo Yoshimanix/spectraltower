@@ -568,355 +568,355 @@ str_0x80035314:
 
 str_0x800352F8:
 ;JP Text: "あなたの顔が変だったから…"
-.string "あなたの顔が変だったから…"
+.string "You just have a funny face…"
 
 str_0x800352E0:
 ;JP Text: "しかばねの横のユカに"
-.string "しかばねの横のユカに"
+.string "There is writing on the ground"
 
 str_0x800352C8:
 ;JP Text: "文字がきざまれている…"
-.string "文字がきざまれている…"
+.string "next to a dead body…"
 
 str_0x800352BC:
 ;JP Text: "「無念」"
-.string "「無念」"
+.string "“Regret”"
 
 str_0x800352AC:
 ;JP Text: "わたしの力を"
-.string "わたしの力を"
+.string "I shall bestow my power"
 
 str_0x8003529C:
 ;JP Text: "お前にたくそう"
-.string "お前にたくそう"
+.string "upon you."
 
 str_0x8003527C:
 ;JP Text: "前回のプレーヤーの力を得た！"
-.string "前回のプレーヤーの力を得た！"
+.string "You got the last player's power!"
 
 str_0x80035268:
 ;JP Text: "……ような気がした"
-.string "……ような気がした"
+.string "…at least, it feels that way."
 
 str_0x8003525C:
 ;JP Text: "しかばねだ"
-.string "しかばねだ"
+.string "There is a dead body."
 
 str_0x8003524C:
 ;JP Text: "別に何もない"
-.string "別に何もない"
+.string "There is nothing here."
 
 str_0x80035230:
 ;JP Text: "俺はこう見えても呪術師だ"
-.string "俺はこう見えても呪術師だ"
+.string "Despite my looks, I’m a"
 
 str_0x80035214:
 ;JP Text: "お前に呪いをかけてやるぜ…"
-.string "お前に呪いをかけてやるぜ…"
+.string "Sorcerer. I’ll curse you…"
 
 str_0x80035204:
 ;JP Text: "なーんてな！"
-.string "なーんてな！"
+.string "Haha, just kidding! I gotcha"
 
 str_0x800351E8:
 ;JP Text: "呪いはウソだよ　わはははは"
-.string "呪いはウソだよ　わはははは"
+.string "with that curse stuff. Wahaha!"
 
 str_0x800351D4:
 ;JP Text: "何とかがんばって"
-.string "何とかがんばって"
+.string "I somehow made it this far, but"
 
 str_0x800351B4:
 ;JP Text: "ここまで　やってきたのですが"
-.string "ここまで　やってきたのですが"
+.string "the enemies up ahead are too"
 
 str_0x80035198:
 ;JP Text: "敵が強くて先にすすめません"
-.string "敵が強くて先にすすめません"
+.string "strong for me."
 
 str_0x8003517C:
 ;JP Text: "後もどりもできないしなぁ…"
-.string "後もどりもできないしなぁ…"
+.string "And I can’t exactly go back…"
 
 str_0x80035160:
 ;JP Text: "マントでわかりづらいけど"
-.string "マントでわかりづらいけど"
+.string "My cloak makes it hard to tell,"
 
 str_0x80035144:
 ;JP Text: "わたしは　ゆうぼくみんなの"
-.string "わたしは　ゆうぼくみんなの"
+.string "but I’m a Nomad."
 
 str_0x8003512C:
 ;JP Text: "じっくりこのタワーを"
-.string "じっくりこのタワーを"
+.string "I’m having a nice time climbing"
 
 str_0x8003511C:
 ;JP Text: "楽しんでるのよ"
-.string "楽しんでるのよ"
+.string "this tower at my own pace."
 
 str_0x80035104:
 ;JP Text: "じまんさせてもらうけど"
-.string "じまんさせてもらうけど"
+.string "I hate to brag, but I gotta tell"
 
 str_0x800350E8:
 ;JP Text: "俺のＨＰは９００以上だ！"
-.string "俺のＨＰは９００以上だ！"
+.string "you, my HP is over 900!"
 
 str_0x800350D0:
 ;JP Text: "お前もヤバくなったら"
-.string "お前もヤバくなったら"
+.string "If you’re in a pinch, go ahead"
 
 str_0x800350B0:
 ;JP Text: "リターンロッドを使うといいぜ"
-.string "リターンロッドを使うといいぜ"
+.string "and bust out that Return Rod."
 
 str_0x80035094:
 ;JP Text: "俺は本当はアーマーナイトに"
-.string "俺は本当はアーマーナイトに"
+.string "Truthfully, I wanted to be an"
 
 str_0x8003507C:
 ;JP Text: "なりたかったんだが…"
-.string "なりたかったんだが…"
+.string "Armor Knight…however,"
 
 str_0x80035060:
 ;JP Text: "番号がわからなかったんで"
-.string "番号がわからなかったんで"
+.string "I didn’t know the number combo,"
 
 str_0x80035044:
 ;JP Text: "フリーファイターをしている"
-.string "フリーファイターをしている"
+.string "so now I’m a Free Fighter."
 
 str_0x80035028:
 ;JP Text: "しかしフリーファイターも"
-.string "しかしフリーファイターも"
+.string "Still, it turns out being a"
 
 str_0x80035008:
 ;JP Text: "やってみると味わいがあるよな"
-.string "やってみると味わいがあるよな"
+.string "Free Fighter has its own charm."
 
 str_0x80034FF4:
 ;JP Text: "きいてください！"
-.string "きいてください！"
+.string "Please hear me out!"
 
 str_0x80034FD4:
 ;JP Text: "セーブロッドがこわれたんです"
-.string "セーブロッドがこわれたんです"
+.string "My Save Rod was destroyed."
 
 str_0x80034FB8:
 ;JP Text: "なんだか急にこわくなって"
-.string "なんだか急にこわくなって"
+.string "Just like that, I’m too scared"
 
 str_0x80034F9C:
 ;JP Text: "先に進めませんよ　ブルブル"
-.string "先に進めませんよ　ブルブル"
+.string "to go any further. *shiver*"
 
 str_0x80034F7C:
 ;JP Text: "このままタワーをのぼるべきか"
-.string "このままタワーをのぼるべきか"
+.string "Do I keep climbing? Or should I"
 
 str_0x80034F60:
 ;JP Text: "新しい番号でやり直すか…"
-.string "新しい番号でやり直すか…"
+.string "start over with a new number…"
 
 str_0x80034F50:
 ;JP Text: "まあ長い人生"
-.string "まあ長い人生"
+.string "Well, I’ve got a long life ahead"
 
 str_0x80034F30:
 ;JP Text: "ゆっくりと考えることにします"
-.string "ゆっくりと考えることにします"
+.string "to consider it at my own pace."
 
 str_0x80034F14:
 ;JP Text: "この前ヘンテコなベッドで"
-.string "この前ヘンテコなベッドで"
+.string "I recently slept on a"
 
 str_0x80034F00:
 ;JP Text: "ねむったんだよ…"
-.string "ねむったんだよ…"
+.string "funny-looking bed…"
 
 str_0x80034EE4:
 ;JP Text: "そしたら別の場所に運ばれて"
-.string "そしたら別の場所に運ばれて"
+.string "Then I got whisked off somewhere"
 
 str_0x80034EC4:
 ;JP Text: "ひどい目にあったよなぁ　トホホ"
-.string "ひどい目にあったよなぁ　トホホ"
+.string "else. Aw shucks, what a mess!"
 
 str_0x80034EA8:
 ;JP Text: "剣は何本か集めて敵ごとに"
-.string "剣は何本か集めて敵ごとに"
+.string "Gather tons of swords and use"
 
 str_0x80034E8C:
 ;JP Text: "戦う前に持ちかえるんだ！"
-.string "戦う前に持ちかえるんだ！"
+.string "them against specific enemies!"
 
 str_0x80034E78:
 ;JP Text: "例えばドラゴンには"
-.string "例えばドラゴンには"
+.string "For example, you should use the"
 
 str_0x80034E58:
 ;JP Text: "ドラゴンブレイクで戦うとかな"
-.string "ドラゴンブレイクで戦うとかな"
+.string "Dragon Break against Dragons."
 
 str_0x80034E38:
 ;JP Text: "モンスターの中にはアイテムを"
-.string "モンスターの中にはアイテムを"
+.string "Some monsters are able to"
 
 str_0x80034E18:
 ;JP Text: "こわしてくるヤツもいるからな"
-.string "こわしてくるヤツもいるからな"
+.string "destroy your items."
 
 str_0x80034DFC:
 ;JP Text: "ゴミアイテムもダミーとして"
-.string "ゴミアイテムもダミーとして"
+.string "So, it’s good to keep some"
 
 str_0x80034DE0:
 ;JP Text: "持っておくといいだろう…"
-.string "持っておくといいだろう…"
+.string "throwaway items as a dummy…"
 
 str_0x80034DC8:
 ;JP Text: "ここにきて色々な番号が"
-.string "ここにきて色々な番号が"
+.string "I’ve learned a lot about the"
 
 str_0x80034DB4:
 ;JP Text: "わかってきました"
-.string "わかってきました"
+.string "number codes in my time here."
 
 str_0x80034D94:
 ;JP Text: "オーラファイター、ソーサラー"
-.string "オーラファイター、ソーサラー"
+.string "All Fighter, Sorcerer."
 
 str_0x80034D78:
 ;JP Text: "魔法戦士、エルフナイト…"
-.string "魔法戦士、エルフナイト…"
+.string "Magic Warrior, Elf Knight…"
 
 str_0x80034D64:
 ;JP Text: "えっ？私ですか？"
-.string "えっ？私ですか？"
+.string "Huh? what about me?"
 
 str_0x80034D44:
 ;JP Text: "私はたびびとですよ　ガハハハ"
-.string "私はたびびとですよ　ガハハハ"
+.string "I’m a Traveler…Gahaha!"
 
 str_0x800C067C:
 ;JP Text: "いや〜"
-.string "いや〜"
+.string "Well…this is getting quite"
 
 str_0x80034D28:
 ;JP Text: "おもしろくなってきました"
-.string "おもしろくなってきました"
+.string "interesting. The more time you"
 
 str_0x80034D10:
 ;JP Text: "やりこめば　なかなか"
-.string "やりこめば　なかなか"
+.string "put in, the better it gets."
 
 str_0x80034CF0:
 ;JP Text: "このタワーいいじゃないですか"
-.string "このタワーいいじゃないですか"
+.string "This tower is pretty nice, huh?"
 
 str_0x80034CDC:
 ;JP Text: "あまり期待せずに"
-.string "あまり期待せずに"
+.string "I entered this place with low"
 
 str_0x80034CC0:
 ;JP Text: "このタワーに入ってみたが"
-.string "このタワーに入ってみたが"
+.string "expectations, but…"
 
 str_0x80034CA4:
 ;JP Text: "俺は好きだな　このタワー"
-.string "俺は好きだな　このタワー"
+.string "I like this tower. I could take"
 
 str_0x80034C88:
 ;JP Text: "じっくり一生かけて楽しむぜ"
-.string "じっくり一生かけて楽しむぜ"
+.string "my whole life to enjoy it."
 
 str_0x80034C70:
 ;JP Text: "グルメレベルを上げて"
-.string "グルメレベルを上げて"
+.string "I raised my Gourmet level and"
 
 str_0x80034C54:
 ;JP Text: "こけだんごを食べてみました"
-.string "こけだんごを食べてみました"
+.string "tried eating a Moss Dango."
 
 str_0x80034C34:
 ;JP Text: "いや〜意外にうまいんですよ〜"
-.string "いや〜意外にうまいんですよ〜"
+.string "Man…it was surprisingly good. It"
 
 str_0x80034C20:
 ;JP Text: "プニプニしててね"
-.string "プニプニしててね"
+.string "had a nice texture like jello."
 
 str_0x80034C00:
 ;JP Text: "戦士も魔法使いもタワー内では"
-.string "戦士も魔法使いもタワー内では"
+.string "Warriors and mages all wear"
 
 str_0x80034BE8:
 ;JP Text: "みなマントをつけている"
-.string "みなマントをつけている"
+.string "cloaks in the tower, so they all"
 
 str_0x80034BD0:
 ;JP Text: "だから同じにみえるが"
-.string "だから同じにみえるが"
+.string "look the same, but they’re"
 
 str_0x80034BB4:
 ;JP Text: "中身は全然ちがうんだぜっ！"
-.string "中身は全然ちがうんだぜっ！"
+.string "very different underneath it!"
 
 str_0x80034B98:
 ;JP Text: "わたくしは全国のタワーを"
-.string "わたくしは全国のタワーを"
+.string "I am a researcher who critiques"
 
 str_0x80034B78:
 ;JP Text: "研究しているタワー評論家です"
-.string "研究しているタワー評論家です"
+.string "all the towers across the land."
 
 str_0x80034B5C:
 ;JP Text: "このタワーの悪いところは"
-.string "このタワーの悪いところは"
+.string "This tower’s bad parts are…"
 
 str_0x80034B44:
 ;JP Text: "あそこと　あそこですね"
-.string "あそこと　あそこですね"
+.string "that part and that part."
 
 str_0x80034B2C:
 ;JP Text: "でもって好きなところは"
-.string "でもって好きなところは"
+.string "However, I like the parts over"
 
 str_0x80034B10:
 ;JP Text: "あそこと　ここですかねぇ"
-.string "あそこと　ここですかねぇ"
+.string "there and over here."
 
 str_0x80034AF4:
 ;JP Text: "どうしても上に行けない！"
-.string "どうしても上に行けない！"
+.string "I just can’t make it further!"
 
 str_0x80034ADC:
 ;JP Text: "あきらめて帰るところだ"
-.string "あきらめて帰るところだ"
+.string "I’m about ready to go home."
 
 str_0x800C0674:
 ;JP Text: "あう〜"
-.string "あう〜"
+.string "Aww,"
 
 str_0x80034ACC:
 ;JP Text: "くやしいダス"
-.string "くやしいダス"
+.string "Dang it!"
 
 str_0x80034AB0:
 ;JP Text: "敵は全て俺達がたおした！"
-.string "敵は全て俺達がたおした！"
+.string "We defeated all the enemies!"
 
 str_0x80034A94:
 ;JP Text: "たおした…んだけどなぁ…"
-.string "たおした…んだけどなぁ…"
+.string "Well, we did…but…"
 
 str_0x80034A78:
 ;JP Text: "俺達もお前と同じ挑戦者だ"
-.string "俺達もお前と同じ挑戦者だ"
+.string "We’re climbers just like you."
 
 str_0x80034A54:
 ;JP Text: "みんな同じ様なマントをきているぜ"
-.string "みんな同じ様なマントをきているぜ"
+.string "We’re wearing the same cloak."
 
 str_0x80034A48:
 ;JP Text: "塔の中には"

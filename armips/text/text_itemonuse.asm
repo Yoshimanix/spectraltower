@@ -18,7 +18,7 @@ ItemOnUseTextStart:
 
 str_0x800C057C:
 ;JP Text: "ｆ　を"
-.string "The ｆ"
+.string "ｆ"
 
 str_0x800C0574:
 ;JP Text: "使った"
@@ -134,7 +134,7 @@ str_0x8002A248:
 
 str_0x8002A23C:
 ;JP Text: "ｇ　だった"
-.string "the ｇ."
+.string "ｇ."
 
 str_0x8002A228:
 ;JP Text: "意味がなかった…"
@@ -150,7 +150,7 @@ str_0x8002A208:
 
 str_0x800C054C:
 ;JP Text: "ｆ　は"
-.string "The ｆ"
+.string "ｆ"
 
 str_0x8002A1F8:
 ;JP Text: "装備できません"

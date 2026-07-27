@@ -113,7 +113,7 @@ str_0x8002B9A8:
 
 str_0x8002B994:
 ;JP Text: "ｇ　をぬすまれた"
-.string "The ｇ was stolen."
+.string "ｇ was stolen."
 
 str_0x800C059C:
 ;JP Text: "ｃ　の"

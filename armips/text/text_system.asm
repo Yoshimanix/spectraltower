@@ -31,7 +31,7 @@ str_0x8002B338:
 
 str_0x8002B320:
 ;JP Text: "捨ててもいいですか？"
-.string "discard the ｆ?"
+.string "discard ｆ?"
 
 str_0x8002B304:
 ;JP Text: "アイテムを持っていません"

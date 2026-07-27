@@ -1105,7 +1105,7 @@ str_0x800380B8:
 
 str_0x8003809C:
 ;JP Text: "反動でｅのダメージをうけた"
-.string "took ｅdamage from the blow."
+.string "took ｅ damage from the blow."
 
 str_0x80038080:
 ;JP Text: "しかし攻撃はあたらなかった"
