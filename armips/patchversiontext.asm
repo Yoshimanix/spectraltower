@@ -56,7 +56,7 @@ sll v0,v0,0x10
 sra v0,v0,0x10
 slti v0,v0,0x4
 bne v0,zero, 0x80058390
-addiu s3,s3,0x50
+addiu s3,s3,0x48
 j 0x80058480
 nop
 
