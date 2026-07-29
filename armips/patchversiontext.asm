@@ -41,7 +41,8 @@ MainMenuTargetYTable:
 .byte 0x28
 .byte 0x80
 
-.org 0x80064ac8
+; this is where the old memory card save names used to be
+.org 0x8003B604
 DrawPatchVersionString:
 move v0,s5
 sll v0,v0,0x10
