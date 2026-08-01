@@ -213,7 +213,7 @@ str_0x80037F6C:
 
 str_0x80037F58:
 ;JP Text: "「ふっ　きまった」"
-.string "“Hmph. I’m lookin’ good.”"
+.string "“Hmph. I'm lookin' good.”"
 
 str_0x80037F3C:
 ;JP Text: "自分をたたえる歌を歌った"
@@ -221,7 +221,7 @@ str_0x80037F3C:
 
 str_0x80037F24:
 ;JP Text: "「ぼーくは　かっこいい"
-.string "“I’m a badass, super"
+.string "“I'm a badass, super"
 
 str_0x80037F0C:
 ;JP Text: "　てーんさーいだー」"

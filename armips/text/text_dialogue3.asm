@@ -53,7 +53,7 @@ str_0x800395CC:
 
 str_0x800395B4:
 ;JP Text: "あまり効果がなかった…"
-.string "It wasn’t very effective…"
+.string "It wasn't very effective…"
 
 str_0x800395A0:
 ;JP Text: "ぬすみを　働いた"
@@ -73,7 +73,7 @@ str_0x8003955C:
 
 str_0x80039544:
 ;JP Text: "やさしい歌は　母の声"
-.string "A sweet song of mother’s voice,"
+.string "A sweet song of mother's voice,"
 
 str_0x80039528:
 ;JP Text: "みんなをやさしくてらすのよ"
@@ -237,7 +237,7 @@ str_0x80039208:
 
 str_0x800391F0:
 ;JP Text: "わかってくれなかった"
-.string "just didn’t get it."
+.string "just didn't get it."
 
 str_0x800391E4:
 ;JP Text: "てれている"
@@ -365,7 +365,7 @@ str_0x80038F88:
 
 str_0x80038F74:
 ;JP Text: "きもちわるくなった"
-.string "doesn’t feel so good."
+.string "doesn't feel so good."
 
 str_0x80038F58:
 ;JP Text: "どうやら病気になったようだ"
@@ -389,7 +389,7 @@ str_0x80038F14:
 
 str_0x80038F08:
 ;JP Text: "パワーの"
-.string "They can’t control their power!"
+.string "They can't control their power!"
 
 str_0x80038EF0:
 ;JP Text: "せいぎょができない！"
@@ -689,7 +689,7 @@ str_0x800388E0:
 
 str_0x800388D0:
 ;JP Text: "見ていなかった"
-.string "wasn’t watching."
+.string "wasn't watching."
 
 str_0x800388B4:
 ;JP Text: "コインマジックをひろうした"
@@ -781,7 +781,7 @@ str_0x80038714:
 
 str_0x800386F8:
 ;JP Text: "大地をてらす太陽のように"
-.string "and the sun’s light upon Earth."
+.string "and the sun's light upon Earth."
 
 str_0x800386E4:
 ;JP Text: "不思議な光を発した"
@@ -873,11 +873,11 @@ str_0x80038534:
 
 str_0x8003851C:
 ;JP Text: "「オイラにまかせて」"
-.string "“I’ll take it from here.”"
+.string "“I'll take it from here.”"
 
 str_0x80038504:
 ;JP Text: "「オイラにまかせ…」"
-.string "“I’ll take it fro-”"
+.string "“I'll take it fro-”"
 
 str_0x800384E8:
 ;JP Text: "攻撃君は　ころんでしまった"
@@ -889,7 +889,7 @@ str_0x800384CC:
 
 str_0x800384B8:
 ;JP Text: "「オイラが倒す」"
-.string "“I’ll clobber them.”"
+.string "“I'll clobber them.”"
 
 str_0x800384A4:
 ;JP Text: "攻撃君のすごい攻撃"
@@ -1137,7 +1137,7 @@ str_0x80037FE8:
 
 str_0x80037FD8:
 ;JP Text: "「イヤ〜ン」"
-.string "“I-- Oh! I’m gonna-!!”"
+.string "“I-- Oh! I'm gonna-!!”"
 
 str_0x80037FBC:
 ;JP Text: "かっこいいポーズを考えた"

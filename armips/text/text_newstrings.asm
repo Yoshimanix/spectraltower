@@ -13,6 +13,12 @@ knowanything2:
 .string "anything, huh?"
 keepclimbing2:
 .string "the towers…"
+str_stopped:
+.string "stand still. Give it a shot!"
+str_trap:
+.string "traps on chests."
+str_underground:
+.string "of a dirt mound."
 escape2:
 .string "escape the fight."
 smoothtalk2:

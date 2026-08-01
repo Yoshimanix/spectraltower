@@ -994,7 +994,7 @@
 
 ; Entry @ 0x8002C344
 .word str_0x800349B4
-.word str_0x80034A08
+.word str_stopped
 .halfword 0x0002
 .halfword 0x0002
 .halfword 0x0007
@@ -1002,7 +1002,7 @@
 
 ; Entry @ 0x8002C354
 .word str_0x80034998
-.word str_0x800C0540
+.word str_trap
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
@@ -1138,7 +1138,7 @@
 
 ; Entry @ 0x8002C464
 .word str_0x800346E4
-.word str_0x800C0540
+.word str_underground
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0007

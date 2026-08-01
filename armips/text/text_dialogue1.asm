@@ -608,11 +608,11 @@ str_0x8003524C:
 
 str_0x80035230:
 ;JP Text: "俺はこう見えても呪術師だ"
-.string "Despite my looks, I’m a"
+.string "Despite my looks, I'm a"
 
 str_0x80035214:
 ;JP Text: "お前に呪いをかけてやるぜ…"
-.string "Sorcerer. I’ll curse you…"
+.string "Sorcerer. I'll curse you…"
 
 str_0x80035204:
 ;JP Text: "なーんてな！"
@@ -636,7 +636,7 @@ str_0x80035198:
 
 str_0x8003517C:
 ;JP Text: "後もどりもできないしなぁ…"
-.string "And I can’t exactly go back…"
+.string "And I can't exactly go back…"
 
 str_0x80035160:
 ;JP Text: "マントでわかりづらいけど"
@@ -644,11 +644,11 @@ str_0x80035160:
 
 str_0x80035144:
 ;JP Text: "わたしは　ゆうぼくみんなの"
-.string "but I’m a Nomad."
+.string "but I'm a Nomad."
 
 str_0x8003512C:
 ;JP Text: "じっくりこのタワーを"
-.string "I’m having a nice time climbing"
+.string "I'm having a nice time climbing"
 
 str_0x8003511C:
 ;JP Text: "楽しんでるのよ"
@@ -664,7 +664,7 @@ str_0x800350E8:
 
 str_0x800350D0:
 ;JP Text: "お前もヤバくなったら"
-.string "If you’re in a pinch, go ahead"
+.string "If you're in a pinch, go ahead"
 
 str_0x800350B0:
 ;JP Text: "リターンロッドを使うといいぜ"
@@ -680,11 +680,11 @@ str_0x8003507C:
 
 str_0x80035060:
 ;JP Text: "番号がわからなかったんで"
-.string "I didn’t know the number combo,"
+.string "I didn't know the number combo,"
 
 str_0x80035044:
 ;JP Text: "フリーファイターをしている"
-.string "so now I’m a Free Fighter."
+.string "so now I'm a Free Fighter."
 
 str_0x80035028:
 ;JP Text: "しかしフリーファイターも"
@@ -704,7 +704,7 @@ str_0x80034FD4:
 
 str_0x80034FB8:
 ;JP Text: "なんだか急にこわくなって"
-.string "Just like that, I’m too scared"
+.string "Just like that, I'm too scared"
 
 str_0x80034F9C:
 ;JP Text: "先に進めませんよ　ブルブル"
@@ -720,7 +720,7 @@ str_0x80034F60:
 
 str_0x80034F50:
 ;JP Text: "まあ長い人生"
-.string "Well, I’ve got a long life ahead"
+.string "Well, I've got a long life ahead"
 
 str_0x80034F30:
 ;JP Text: "ゆっくりと考えることにします"
@@ -768,7 +768,7 @@ str_0x80034E18:
 
 str_0x80034DFC:
 ;JP Text: "ゴミアイテムもダミーとして"
-.string "So, it’s good to keep some"
+.string "So, it's good to keep some"
 
 str_0x80034DE0:
 ;JP Text: "持っておくといいだろう…"
@@ -776,7 +776,7 @@ str_0x80034DE0:
 
 str_0x80034DC8:
 ;JP Text: "ここにきて色々な番号が"
-.string "I’ve learned a lot about the"
+.string "I've learned a lot about the"
 
 str_0x80034DB4:
 ;JP Text: "わかってきました"
@@ -796,7 +796,7 @@ str_0x80034D64:
 
 str_0x80034D44:
 ;JP Text: "私はたびびとですよ　ガハハハ"
-.string "I’m a Traveler…Gahaha!"
+.string "I'm a Traveler…Gahaha!"
 
 str_0x800C067C:
 ;JP Text: "いや〜"
@@ -856,7 +856,7 @@ str_0x80034BE8:
 
 str_0x80034BD0:
 ;JP Text: "だから同じにみえるが"
-.string "look the same, but they’re"
+.string "look the same…but they're"
 
 str_0x80034BB4:
 ;JP Text: "中身は全然ちがうんだぜっ！"
@@ -872,7 +872,7 @@ str_0x80034B78:
 
 str_0x80034B5C:
 ;JP Text: "このタワーの悪いところは"
-.string "This tower’s bad parts are…"
+.string "This tower's bad parts are…"
 
 str_0x80034B44:
 ;JP Text: "あそこと　あそこですね"
@@ -888,11 +888,11 @@ str_0x80034B10:
 
 str_0x80034AF4:
 ;JP Text: "どうしても上に行けない！"
-.string "I just can’t make it further!"
+.string "I just can't make it further!"
 
 str_0x80034ADC:
 ;JP Text: "あきらめて帰るところだ"
-.string "I’m about ready to go home."
+.string "I'm about ready to go home."
 
 str_0x800C0674:
 ;JP Text: "あう〜"
@@ -912,179 +912,179 @@ str_0x80034A94:
 
 str_0x80034A78:
 ;JP Text: "俺達もお前と同じ挑戦者だ"
-.string "We’re climbers just like you."
+.string "We're climbers just like you."
 
 str_0x80034A54:
 ;JP Text: "みんな同じ様なマントをきているぜ"
-.string "We’re wearing the same cloak."
+.string "We're wearing the same cloak."
 
 str_0x80034A48:
 ;JP Text: "塔の中には"
-.string "塔の中には"
+.string "There are treasure chests"
 
 str_0x80034A30:
 ;JP Text: "宝箱がおちているゾイ"
-.string "宝箱がおちているゾイ"
+.string "all around the tower."
 
 str_0x80034A14:
 ;JP Text: "宝箱はブッたたけば開くゾイ"
-.string "宝箱はブッたたけば開くゾイ"
+.string "Give 'em a good whack and crack"
 
 str_0x80034A08:
 ;JP Text: "やってみろ"
-.string "やってみろ"
+.string "them open!"
 
 str_0x800349F4:
 ;JP Text: "アイテムを使うには"
-.string "アイテムを使うには"
+.string "To use an item, you must"
 
 str_0x800349D4:
 ;JP Text: "△ボタンでアイテムを選ぶベシ"
-.string "△ボタンでアイテムを選ぶベシ"
+.string "press the △ button."
 
 str_0x800349B4:
 ;JP Text: "その間、時間は止まってるベシ"
-.string "その間、時間は止まってるベシ"
+.string "While you pick, time will"
 
 str_0x80034998:
 ;JP Text: "宝箱のワナには注意が必要だ"
-.string "宝箱のワナには注意が必要だ"
+.string "You gotta “Search” real good for"
 
 str_0x80034978:
 ;JP Text: "注意レベルの低い者は特にな！"
-.string "注意レベルの低い者は特にな！"
+.string "Especially when your"
 
 str_0x8003496C:
 ;JP Text: "イタタタ…"
-.string "イタタタ…"
+.string "Search level is low! Ouch…"
 
 str_0x80034958:
 ;JP Text: "宝箱を開けることが"
-.string "宝箱を開けることが"
+.string "You wanna know what classes are"
 
 str_0x80034948:
 ;JP Text: "得意な奴ら…"
-.string "得意な奴ら…"
+.string "good with treasure chests?"
 
 str_0x8003492C:
 ;JP Text: "シーフやアイテムハンター！"
-.string "シーフやアイテムハンター！"
+.string "Thieves and Item Hunters!"
 
 str_0x80034914:
 ;JP Text: "う、うらやましいなぁ…"
-.string "う、うらやましいなぁ…"
+.string "Argh… those lucky fellas…"
 
 str_0x800348F8:
 ;JP Text: "宝箱には色々な種類があり"
-.string "宝箱には色々な種類があり"
+.string "There are many types of"
 
 str_0x800348E0:
 ;JP Text: "１つ１つレベルも違う"
-.string "１つ１つレベルも違う"
+.string "chests with varying levels."
 
 str_0x800348C8:
 ;JP Text: "例えば下にある宝箱は"
-.string "例えば下にある宝箱は"
+.string "For example, the chest down"
 
 str_0x800348B8:
 ;JP Text: "レベルが高いぞ"
-.string "レベルが高いぞ"
+.string "there requires a high level."
 
 str_0x8003489C:
 ;JP Text: "左にあるのがフロアの出口…"
-.string "左にあるのがフロアの出口…"
+.string "This floor's exit is on my left…"
 
 str_0x8003487C:
 ;JP Text: "しかしトビラが開かないんだ！"
-.string "しかしトビラが開かないんだ！"
+.string "But it won't open!"
 
 str_0x8003486C:
 ;JP Text: "ちくしょう！"
-.string "ちくしょう！"
+.string "This sucks!"
 
 str_0x80034850:
 ;JP Text: "カエルのユカの上では動きが"
-.string "カエルのユカの上では動きが"
+.string "It seems that stepping on a frog"
 
 str_0x8003483C:
 ;JP Text: "逆になるみたいだよ"
-.string "逆になるみたいだよ"
+.string "tile makes you walk backwards."
 
 str_0x80034820:
 ;JP Text: "つまり進みたい方向と逆側に"
-.string "つまり進みたい方向と逆側に"
+.string "Therefore, you should press the"
 
 str_0x80034800:
 ;JP Text: "方向キーを入れるといいんだよ"
-.string "方向キーを入れるといいんだよ"
+.string "opposite button on the D-pad."
 
 str_0x800347E4:
 ;JP Text: "画面の上にある表示部分…"
-.string "画面の上にある表示部分…"
+.string "That menu at the top of screen"
 
 str_0x800347CC:
 ;JP Text: "あれってジャマだよね"
-.string "あれってジャマだよね"
+.string "is annoying, isn't it?"
 
 str_0x800347B4:
 ;JP Text: "ぼくはＲボタンを押して"
-.string "ぼくはＲボタンを押して"
+.string "I always press the R button"
 
 str_0x800347A0:
 ;JP Text: "冒険しているんだ"
-.string "冒険しているんだ"
+.string "when I'm adventuring."
 
 str_0x80034784:
 ;JP Text: "ぼくは小人のヤッシーくん"
-.string "ぼくは小人のヤッシーくん"
+.string "I'm Yasshi the Dwarf."
 
 str_0x80034764:
 ;JP Text: "この部屋は　ぼくが作ったんだ"
-.string "この部屋は　ぼくが作ったんだ"
+.string "I made this room."
 
 str_0x80034750:
 ;JP Text: "ヤッシーのまわりは"
-.string "ヤッシーのまわりは"
+.string "That stuff around Yasshi is very"
 
 str_0x80034738:
 ;JP Text: "ネバネバしているなぁ…"
-.string "ネバネバしているなぁ…"
+.string "sticky…"
 
 str_0x8003472C:
 ;JP Text: "イエィ！"
-.string "イエィ！"
+.string "Yay!"
 
 str_0x80034714:
 ;JP Text: "なんかタワーの中って"
-.string "なんかタワーの中って"
+.string "This really doesn't feel like"
 
 str_0x80034700:
 ;JP Text: "気がしないなぁ…"
-.string "気がしないなぁ…"
+.string "the inside of a tower…"
 
 str_0x800346E4:
 ;JP Text: "土の中って気がするよなぁ…"
-.string "土の中って気がするよなぁ…"
+.string "It feels more like we're inside"
 
 str_0x800346D4:
 ;JP Text: "がんばってね"
-.string "がんばってね"
+.string "Good luck."
 
 str_0x800346B8:
 ;JP Text: "タワーにマドを開けようと"
-.string "タワーにマドを開けようと"
+.string "I was digging through the wall"
 
 str_0x8003469C:
 ;JP Text: "カベに穴をほり続けたんだ"
-.string "カベに穴をほり続けたんだ"
+.string "to give this tower a window."
 
 str_0x8003467C:
 ;JP Text: "そしたら　こんな大きな部屋に…"
-.string "そしたら　こんな大きな部屋に…"
+.string "And then…I found this room."
 
 str_0x8003465C:
 ;JP Text: "でも　ぼくは穴をほり続けるぞ！"
-.string "でも　ぼくは穴をほり続けるぞ！"
+.string "But I ain't done diggin' yet!"
 
 str_0x80034650:
 ;JP Text: "フフフ…"
