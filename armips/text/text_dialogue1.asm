@@ -1028,7 +1028,7 @@ str_0x800347CC:
 
 str_0x800347B4:
 ;JP Text: "ぼくはＲボタンを押して"
-.string "I always press the R button"
+.string "I always press the R buttons"
 
 str_0x800347A0:
 ;JP Text: "冒険しているんだ"
@@ -1088,191 +1088,191 @@ str_0x8003465C:
 
 str_0x80034650:
 ;JP Text: "フフフ…"
-.string "フフフ…"
+.string "Heh heh heh…"
 
 str_0x80034634:
 ;JP Text: "いいことを教えてやろう…"
-.string "いいことを教えてやろう…"
+.string "I'll tell you something useful…"
 
 str_0x8003461C:
 ;JP Text: "この部屋の左下みたいな"
-.string "この部屋の左下みたいな"
+.string "See that gap at the lower left?"
 
 str_0x800345FC:
 ;JP Text: "ナナメのスキマは通れるんだゼ"
-.string "ナナメのスキマは通れるんだゼ"
+.string "You can go through diagonally."
 
 str_0x800345E0:
 ;JP Text: "ナナメのスキマは重要だゼ"
-.string "ナナメのスキマは重要だゼ"
+.string "Those diagonal gaps are"
 
 str_0x800345CC:
 ;JP Text: "ウフフフフ…………"
-.string "ウフフフフ…………"
+.string "important! Heh heh heh…………"
 
 str_0x800C066C:
 ;JP Text: "フン！"
-.string "フン！"
+.string "Hmph!"
 
 str_0x800345B0:
 ;JP Text: "アタイはここをどかないよ"
-.string "アタイはここをどかないよ"
+.string "I'm not moving from here."
 
 str_0x800C0664:
 ;JP Text: "えっ？"
-.string "えっ？"
+.string "Huh? You say you'll go"
 
 str_0x80034590:
 ;JP Text: "ナナメのスキマから通るって？"
-.string "ナナメのスキマから通るって？"
+.string "through the diagonal gap?"
 
 str_0x80034580:
 ;JP Text: "ウフフフフ…"
-.string "ウフフフフ…"
+.string "Ehehehehe…"
 
 str_0x80034564:
 ;JP Text: "Ｌボタンを押し続けながら"
-.string "Ｌボタンを押し続けながら"
+.string "You can hold the L button while"
 
 str_0x8003454C:
 ;JP Text: "歩くとダッシュになるワ"
-.string "歩くとダッシュになるワ"
+.string "walking to dash."
 
 str_0x80034534:
 ;JP Text: "アイテムは２０個まで"
-.string "アイテムは２０個まで"
+.string "You can only walk around with"
 
 str_0x80034518:
 ;JP Text: "持って歩くことができるよ"
-.string "持って歩くことができるよ"
+.string "up to 20 items."
 
 str_0x800344F8:
 ;JP Text: "いらないものを持ってないかい？"
-.string "いらないものを持ってないかい？"
+.string "Do you have anything you don't"
 
 str_0x800344E4:
 ;JP Text: "よーく考えてね！"
-.string "よーく考えてね！"
+.string "need? Think carefully!"
 
 str_0x800344D0:
 ;JP Text: "食べ物を食べると"
-.string "食べ物を食べると"
+.string "You can restore health by eating"
 
 str_0x800344B4:
 ;JP Text: "体力回復できるけど………"
-.string "体力回復できるけど………"
+.string "food, but………"
 
 str_0x800344A0:
 ;JP Text: "変なモノを食べると"
-.string "変なモノを食べると"
+.string "If you eat anything strange,"
 
 str_0x80034490:
 ;JP Text: "病気になるぞ！"
-.string "病気になるぞ！"
+.string "you'll get sick!"
 
 str_0x80034474:
 ;JP Text: "あんた…病気していない？"
-.string "あんた…病気していない？"
+.string "Are you sick?"
 
 str_0x80034460:
 ;JP Text: "呪われていない？"
-.string "呪われていない？"
+.string "Maybe cursed?"
 
 str_0x80034448:
 ;JP Text: "△ボタンでステータス"
-.string "△ボタンでステータス"
+.string "Press △ to check your status."
 
 str_0x80034428:
 ;JP Text: "健康管理はマメにしなきゃネ！"
-.string "健康管理はマメにしなきゃネ！"
+.string "Keep your health in check!"
 
 str_0x80034410:
 ;JP Text: "武器にもレベルがある！"
-.string "武器にもレベルがある！"
+.string "Even weapons have levels!"
 
 str_0x800343FC:
 ;JP Text: "手に入れたからって"
-.string "手に入れたからって"
+.string "Just because you have a weapon"
 
 str_0x800343DC:
 ;JP Text: "使いこなせなきゃタダのゴミだ"
-.string "使いこなせなきゃタダのゴミだ"
+.string "doesn't mean you can use it."
 
 str_0x800343C8:
 ;JP Text: "使いこなせる武器は"
-.string "使いこなせる武器は"
+.string "You can equip weapons you're"
 
 str_0x800343B8:
 ;JP Text: "装備ができる…"
-.string "装備ができる…"
+.string "able to use…"
 
 str_0x800343A0:
 ;JP Text: "えっ？攻撃力の表示？"
-.string "えっ？攻撃力の表示？"
+.string "Huh? Weapon stats menu?"
 
 str_0x8003438C:
 ;JP Text: "なんだ　そりゃ？"
-.string "なんだ　そりゃ？"
+.string "What the heck is that?"
 
 str_0x80034378:
 ;JP Text: "武器とは使いながら"
-.string "武器とは使いながら"
+.string "You gotta use weapons to know"
 
 str_0x80034360:
 ;JP Text: "強さを感じるものだ…"
-.string "強さを感じるものだ…"
+.string "their strength."
 
 str_0x8003434C:
 ;JP Text: "ステータス画面で"
-.string "ステータス画面で"
+.string "You can track your strength"
 
 str_0x8003432C:
 ;JP Text: "強くなったのは確認できるがな"
-.string "強くなったのは確認できるがな"
+.string "via the status menu, though."
 
 str_0x8003430C:
 ;JP Text: "人によって得意な敵がいるように"
-.string "人によって得意な敵がいるように"
+.string "Just like classes, some weapons"
 
 str_0x800342F4:
 ;JP Text: "武器にも有効な敵がある"
-.string "武器にも有効な敵がある"
+.string "are suited for certain enemies."
 
 str_0x800342E8:
 ;JP Text: "敵によって"
-.string "敵によって"
+.string "Try using different weapons"
 
 str_0x800342CC:
 ;JP Text: "武器を使いわけるのも手だぞ"
-.string "武器を使いわけるのも手だぞ"
+.string "for different enemies!"
 
 str_0x800342B0:
 ;JP Text: "敵との接触は正面から行え！"
-.string "敵との接触は正面から行え！"
+.string "Run into enemies head on!"
 
 str_0x8003429C:
 ;JP Text: "敵に背中を向ければ"
-.string "敵に背中を向ければ"
+.string "If you turn your back to them"
 
 str_0x8003428C:
 ;JP Text: "やられるぜ！"
-.string "やられるぜ！"
+.string "you’re toast!"
 
 str_0x80034280:
 ;JP Text: "ワープを"
-.string "ワープを"
+.string "Use the warp!"
 
 str_0x80034270:
 ;JP Text: "するのじゃ！"
-.string "するのじゃ！"
+.string " "
 
 str_0x8003425C:
 ;JP Text: "ワープポイントは"
-.string "ワープポイントは"
+.string "This stone right here is the"
 
 str_0x80034248:
 ;JP Text: "この右なのじゃ！"
-.string "この右なのじゃ！"
+.string "warp point!"
 
 str_0x80034234:
 ;JP Text: "上にあるのはドクよ"

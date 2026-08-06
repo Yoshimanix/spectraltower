@@ -45,6 +45,9 @@ for i, row in s.iterrows():
                     break
         if label_source:
             break
+    # Sanity check for when a translated line is blank
+    if type(row[2]) == float: # Empty lines are treated as NaN
+        row[2] = str(" ") # Turn that empty line to a single space
     if label_source != None: # We found a label from the original script dump, and we're replacing it
         with open(Path(file), "r") as f:
             data = f.readlines()
