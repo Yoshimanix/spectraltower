@@ -900,7 +900,7 @@ str_0x800C0674:
 
 str_0x80034ACC:
 ;JP Text: "くやしいダス"
-.string "Dang it!"
+.string "dang it!"
 
 str_0x80034AB0:
 ;JP Text: "敵は全て俺達がたおした！"
@@ -1132,7 +1132,7 @@ str_0x80034580:
 
 str_0x80034564:
 ;JP Text: "Ｌボタンを押し続けながら"
-.string "You can hold the L button while"
+.string "You can hold the L buttons while"
 
 str_0x8003454C:
 ;JP Text: "歩くとダッシュになるワ"
@@ -1204,7 +1204,7 @@ str_0x800343C8:
 
 str_0x800343B8:
 ;JP Text: "装備ができる…"
-.string "able to use…"
+.string "proficient in…"
 
 str_0x800343A0:
 ;JP Text: "えっ？攻撃力の表示？"
@@ -1252,11 +1252,11 @@ str_0x800342B0:
 
 str_0x8003429C:
 ;JP Text: "敵に背中を向ければ"
-.string "If you turn your back to them"
+.string "If you turn your back to"
 
 str_0x8003428C:
 ;JP Text: "やられるぜ！"
-.string "you’re toast!"
+.string "them, you're toast!"
 
 str_0x80034280:
 ;JP Text: "ワープを"
@@ -1268,7 +1268,7 @@ str_0x80034270:
 
 str_0x8003425C:
 ;JP Text: "ワープポイントは"
-.string "This stone right here is the"
+.string "The stone right there is the"
 
 str_0x80034248:
 ;JP Text: "この右なのじゃ！"
@@ -1276,191 +1276,191 @@ str_0x80034248:
 
 str_0x80034234:
 ;JP Text: "上にあるのはドクよ"
-.string "上にあるのはドクよ"
+.string "This is the Poison Tile."
 
 str_0x8003421C:
 ;JP Text: "ふれるとダメージなのよ"
-.string "ふれるとダメージなのよ"
+.string "If you touch it you'll take"
 
 str_0x80034210:
 ;JP Text: "注意してね"
-.string "注意してね"
+.string "damage, so be careful."
 
 str_0x800341F8:
 ;JP Text: "上のユカは変なユカよ"
-.string "上のユカは変なユカよ"
+.string "This tile is the Odd Tile."
 
 str_0x800341E4:
 ;JP Text: "ふれると混乱するか"
-.string "ふれると混乱するか"
+.string "If you touch it, you either get"
 
 str_0x800341CC:
 ;JP Text: "小人になっちゃうのよ"
-.string "小人になっちゃうのよ"
+.string "confused, or become tiny."
 
 str_0x800341B4:
 ;JP Text: "上のユカは不幸のユカよ"
-.string "上のユカは不幸のユカよ"
+.string "This is the Unlucky Tile."
 
 str_0x800341A4:
 ;JP Text: "この上で戦うと"
-.string "この上で戦うと"
+.string "Fighting on top of it always"
 
 str_0x80034184:
 ;JP Text: "必ず敵が先攻になっちゃうのよ"
-.string "必ず敵が先攻になっちゃうのよ"
+.string "makes the enemy attack first."
 
 str_0x80034168:
 ;JP Text: "上のユカは　おそいユカよ"
-.string "上のユカは　おそいユカよ"
+.string "This is the Slow Tile."
 
 str_0x80034158:
 ;JP Text: "歩くスピードが"
-.string "歩くスピードが"
+.string "It will make your walking"
 
 str_0x80034140:
 ;JP Text: "おそくなっちゃうのよ"
-.string "おそくなっちゃうのよ"
+.string "speed slower."
 
 str_0x80034128:
 ;JP Text: "上のユカは逆のユカよ"
-.string "上のユカは逆のユカよ"
+.string "This is the Opposite Tile."
 
 str_0x80034118:
 ;JP Text: "歩きたい方向と"
-.string "歩きたい方向と"
+.string "It will make you walk in the"
 
 str_0x80034104:
 ;JP Text: "逆に進んじゃうのよ"
-.string "逆に進んじゃうのよ"
+.string "opposite direction."
 
 str_0x800340F8:
 ;JP Text: "えへへ…"
-.string "えへへ…"
+.string "Heh heh heh…"
 
 str_0x800340D8:
 ;JP Text: "右上ハジにカギがおいてあるよ"
-.string "右上ハジにカギがおいてあるよ"
+.string "There is a key in the top-right"
 
 str_0x800C065C:
 ;JP Text: "えへへ"
-.string "えへへ"
+.string "Eheheh."
 
 str_0x800340C4:
 ;JP Text: "しあわせだなぁ…"
-.string "しあわせだなぁ…"
+.string "Life is good…"
 
 str_0x800C0654:
 ;JP Text: "ウフフ"
-.string "ウフフ"
+.string "Ufufu."
 
 str_0x800340B0:
 ;JP Text: "しあわせだわぁ…"
-.string "しあわせだわぁ…"
+.string "Life is good…"
 
 str_0x800C064C:
 ;JP Text: "ねっ"
-.string "ねっ"
+.string "Hey!"
 
 str_0x800340A0:
 ;JP Text: "あ・な・た！"
-.string "あ・な・た！"
+.string "Yoooou theeere~!"
 
 str_0x8003408C:
 ;JP Text: "おいかけてくる敵が"
-.string "おいかけてくる敵が"
+.string "There are many enemies on this"
 
 str_0x80034070:
 ;JP Text: "このフロアには多くいます"
-.string "このフロアには多くいます"
+.string "floor who will chase you."
 
 str_0x80034058:
 ;JP Text: "Ｌボタンのダッシュを"
-.string "Ｌボタンのダッシュを"
+.string "Make good use of the L buttons"
 
 str_0x80034048:
 ;JP Text: "うまく使ってね"
-.string "うまく使ってね"
+.string "to dash away."
 
 str_0x80034030:
 ;JP Text: "この上のフロアからは"
-.string "この上のフロアからは"
+.string "All floors above this one will"
 
 str_0x80034014:
 ;JP Text: "毎回、構成が変わっていくの"
-.string "毎回、構成が変わっていくの"
+.string "have different layouts."
 
 str_0x800C0644:
 ;JP Text: "まあ"
-.string "まあ"
+.string "You could say it's the real"
 
 str_0x80033FFC:
 ;JP Text: "これからが本番かな？"
-.string "これからが本番かな？"
+.string "deal from here on out."
 
 str_0x80033FDC:
 ;JP Text: "冒険の記録はセーブ像で行うの"
-.string "冒険の記録はセーブ像で行うの"
+.string "Save Statues record your"
 
 str_0x80033FC0:
 ;JP Text: "他の場所ではできないのよ"
-.string "他の場所ではできないのよ"
+.string "adventure."
 
 str_0x80033FB4:
 ;JP Text: "一回ここで"
-.string "一回ここで"
+.string "You can't save anywhere else."
 
 str_0x80033F98:
 ;JP Text: "セーブしてみたらどうかな？"
-.string "セーブしてみたらどうかな？"
+.string "Give it a try here."
 
 str_0x80033F84:
 ;JP Text: "ねえ　ねえ　ねえ"
-.string "ねえ　ねえ　ねえ"
+.string "Hey, hey you!"
 
 str_0x80033F74:
 ;JP Text: "あそぼうよぉ"
-.string "あそぼうよぉ"
+.string "Let's hang out!"
 
 str_0x80033F58:
 ;JP Text: "冒険なんかつまんないよお"
-.string "冒険なんかつまんないよお"
+.string "Adventuring sucks, so how about"
 
 str_0x80033F40:
 ;JP Text: "あそぼうったら　ねえ"
-.string "あそぼうったら　ねえ"
+.string "we go play! Pleeease!"
 
 str_0x80033F30:
 ;JP Text: "るんるんるん"
-.string "るんるんるん"
+.string "Luu luu luu~"
 
 str_0x80033F20:
 ;JP Text: "らんらんらん"
-.string "らんらんらん"
+.string "Lalalaaa~"
 
 str_0x80033F04:
 ;JP Text: "困ったときには歌を歌おう"
-.string "困ったときには歌を歌おう"
+.string "Sing a song when it gets tough."
 
 str_0x80033EE8:
 ;JP Text: "悩むなんてバカらしいじゃん"
-.string "悩むなんてバカらしいじゃん"
+.string "Worrying is so silly."
 
 str_0x80033ECC:
 ;JP Text: "アーッ　かっこいい武器！！"
-.string "アーッ　かっこいい武器！！"
+.string "Hey! Gimme some cool"
 
 str_0x80033EB0:
 ;JP Text: "ちょうだい　ちょうだい！！"
-.string "ちょうだい　ちょうだい！！"
+.string "weapons! Gimme gimme!"
 
 str_0x80033EA0:
 ;JP Text: "え　ダメなの？"
-.string "え　ダメなの？"
+.string "What? I can't have any?"
 
 str_0x80033E8C:
 ;JP Text: "ちぇっ　ケチぃ！！"
-.string "ちぇっ　ケチぃ！！"
+.string "Tch! Cheapskate! !"
 
 str_0x80033E78:
 ;JP Text: "エッヘン　エッヘン"

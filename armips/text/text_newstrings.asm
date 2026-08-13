@@ -19,6 +19,18 @@ str_trap:
 .string "traps on chests."
 str_underground:
 .string "of a dirt mound."
+str_poison:
+.string " "
+str_odd:
+.string " "
+str_unlucky:
+.string " "
+str_slow:
+.string " "
+str_opp:
+.string " "
+str_thekey:
+.string "corner. Heh heh heh…"
 escape2:
 .string "escape the fight."
 smoothtalk2:

@@ -1370,7 +1370,7 @@
 
 ; Entry @ 0x8002C634
 .word str_0x80034234
-.word str_0x800C0540
+.word str_poison
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
@@ -1386,7 +1386,7 @@
 
 ; Entry @ 0x8002C654
 .word str_0x800341F8
-.word str_0x800C0540
+.word str_odd
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
@@ -1402,7 +1402,7 @@
 
 ; Entry @ 0x8002C674
 .word str_0x800341B4
-.word str_0x800C0540
+.word str_unlucky
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
@@ -1418,7 +1418,7 @@
 
 ; Entry @ 0x8002C694
 .word str_0x80034168
-.word str_0x800C0540
+.word str_slow
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
@@ -1434,7 +1434,7 @@
 
 ; Entry @ 0x8002C6B4
 .word str_0x80034128
-.word str_0x800C0540
+.word str_opp
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
