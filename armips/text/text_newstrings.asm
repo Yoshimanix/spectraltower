@@ -31,6 +31,14 @@ str_opp:
 .string " "
 str_thekey:
 .string "corner. Heh heh heh…"
+str_voice:
+.string "voice."
+str_lotsofppl:
+.string "through this tower."
+str_king:
+.string "king?"
+str_seward:
+.string "Dwarves."
 escape2:
 .string "escape the fight."
 smoothtalk2:

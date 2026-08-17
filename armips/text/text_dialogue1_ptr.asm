@@ -1642,7 +1642,7 @@
 
 ; Entry @ 0x8002C854
 .word str_0x80033D34
-.word str_0x800C0540
+.word str_voice
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0007
@@ -1810,7 +1810,7 @@
 
 ; Entry @ 0x8002C9A4
 .word str_0x800339B8
-.word str_0x800C0540
+.word str_lotsofppl
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
@@ -2178,7 +2178,7 @@
 
 ; Entry @ 0x8002CC84
 .word str_0x8003324C
-.word str_0x800C0540
+.word str_king
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
@@ -2226,7 +2226,7 @@
 
 ; Entry @ 0x8002CCE4
 .word str_0x80033134
-.word str_0x800C0540
+.word str_seward
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
