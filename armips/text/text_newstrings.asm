@@ -39,6 +39,8 @@ str_king:
 .string "king?"
 str_seward:
 .string "Dwarves."
+str_bath:
+.string "would call it heavenly, I'd say."
 escape2:
 .string "escape the fight."
 smoothtalk2:

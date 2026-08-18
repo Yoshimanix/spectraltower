@@ -2410,7 +2410,7 @@
 
 ; Entry @ 0x8002CE54
 .word str_0x80032D70
-.word str_0x800C0540
+.word str_bath
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0007

@@ -2200,219 +2200,219 @@ str_0x80032DBC:
 
 str_0x80032DB0:
 ;JP Text: "あのですネ"
-.string "あのですネ"
+.string "Ah yes, this tower has no"
 
 str_0x80032D90:
 ;JP Text: "この塔には風呂がないからですネ"
-.string "この塔には風呂がないからですネ"
+.string "bath, you see."
 
 str_0x80032D70:
 ;JP Text: "風呂ぎらいの私には天国ですネ"
-.string "風呂ぎらいの私には天国ですネ"
+.string "People like me who hate bathing"
 
 str_0x80032D60:
 ;JP Text: "すごいだろ！"
-.string "すごいだろ！"
+.string "Check this out! I can"
 
 str_0x80032D40:
 ;JP Text: "シーフの必殺技が使えるんだぜ！"
-.string "シーフの必殺技が使えるんだぜ！"
+.string "use a Thief's Special Attack!"
 
 str_0x80032D20:
 ;JP Text: "で　ぼくの職業はライトメイジ！"
-.string "で　ぼくの職業はライトメイジ！"
+.string "And get this…I'm a Light Mage!"
 
 str_0x80032D00:
 ;JP Text: "なり方は秘密！自分で考えてね"
-.string "なり方は秘密！自分で考えてね"
+.string "My methods are a secret, sorry."
 
 str_0x80032CE4:
 ;JP Text: "どうも戦闘の調子が悪い！"
-.string "どうも戦闘の調子が悪い！"
+.string "My battles are not going well!"
 
 str_0x80032CC8:
 ;JP Text: "なぜか攻撃を外しまくる！"
-.string "なぜか攻撃を外しまくる！"
+.string "My attacks always get dodged!"
 
 str_0x80032CBC:
 ;JP Text: "もしかして"
-.string "もしかして"
+.string "Could it be,"
 
 str_0x80032C9C:
 ;JP Text: "生まれつき運がないのかなあ？"
-.string "生まれつき運がないのかなあ？"
+.string "that I was just born unlucky?"
 
 str_0x80032C88:
 ;JP Text: "ムカつきません？"
-.string "ムカつきません？"
+.string "Doesn't that white rabbit"
 
 str_0x80032C78:
 ;JP Text: "あの白うさぎ！"
-.string "あの白うさぎ！"
+.string "piss you off?"
 
 str_0x80032C6C:
 ;JP Text: "ぼくはもう"
-.string "ぼくはもう"
+.string "I've decided not to talk"
 
 str_0x80032C48:
 ;JP Text: "あいつとは話さないことにしますよ"
-.string "あいつとは話さないことにしますよ"
+.string "with it anymore."
 
 str_0x80032C30:
 ;JP Text: "いや〜まいりましたよ"
-.string "いや〜まいりましたよ"
+.string "Oh brother, I'm beat. I broke"
 
 str_0x80032C0C:
 ;JP Text: "せっかくの剣を壊されてしまって…"
-.string "せっかくの剣を壊されてしまって…"
+.string "this sword I worked so hard for…"
 
 str_0x80032BF4:
 ;JP Text: "また　探さないとなぁ…"
-.string "また　探さないとなぁ…"
+.string "I guess gotta find another one…"
 
 str_0x80032BD4:
 ;JP Text: "今まで色々な冒険をしてきたが…"
-.string "今まで色々な冒険をしてきたが…"
+.string "I've traveled to many places…"
 
 str_0x80032BB4:
 ;JP Text: "感動できる話しばかりだったぜ！"
-.string "感動できる話しばかりだったぜ！"
+.string "and I have many amazing stories!"
 
 str_0x80032B98:
 ;JP Text: "この塔に　それは無いな…"
-.string "この塔に　それは無いな…"
+.string "But this tower has none of that…"
 
 str_0x80032B7C:
 ;JP Text: "…でも…　　自由がある…"
-.string "…でも…　　自由がある…"
+.string "…Except… it does have freedom…"
 
 str_0x80032B64:
 ;JP Text: "目的は塔を登るだけ！"
-.string "目的は塔を登るだけ！"
+.string "I just want to climb the tower!"
 
 str_0x80032B54:
 ;JP Text: "あとは　無し！"
-.string "あとは　無し！"
+.string "After that, I got nothin'!"
 
 str_0x80032B34:
 ;JP Text: "手紙を誰かに届けなくてもいい…"
-.string "手紙を誰かに届けなくてもいい…"
+.string "I don't need to send no letters…"
 
 str_0x80032B1C:
 ;JP Text: "俺は自由だぁぁぁ！！！"
-.string "俺は自由だぁぁぁ！！！"
+.string "I'm a free maaaaan!!!"
 
 str_0x80032B08:
 ;JP Text: "よう　あんちゃん！"
-.string "よう　あんちゃん！"
+.string "Hey, pal!"
 
 str_0x80032AE8:
 ;JP Text: "ゆっくり行こうや！ゆっくりと！"
-.string "ゆっくり行こうや！ゆっくりと！"
+.string "Take it easy there! Relax!"
 
 str_0x80032AC4:
 ;JP Text: "急いでると大事なものを見落とすぜ"
-.string "急いでると大事なものを見落とすぜ"
+.string "You miss things when you rush."
 
 str_0x80032AB0:
 ;JP Text: "人生も同じだぜ！"
-.string "人生も同じだぜ！"
+.string "Life's the same way!"
 
 str_0x80032A90:
 ;JP Text: "「俺が一番」と口にはするな…"
-.string "「俺が一番」と口にはするな…"
+.string "Don't ever say “I'm the best”…"
 
 str_0x80032A78:
 ;JP Text: "まだまだ先は解らない…"
-.string "まだまだ先は解らない…"
+.string "You never know what's coming…"
 
 str_0x80032A60:
 ;JP Text: "自分らしく生きろよ…"
-.string "自分らしく生きろよ…"
+.string "Live true to yourself…"
 
 str_0x80032A44:
 ;JP Text: "選択肢は無限に探せるはず！"
-.string "選択肢は無限に探せるはず！"
+.string "The possibilities are endless!"
 
 str_0x80032A38:
 ;JP Text: "なんとなく"
-.string "なんとなく"
+.string "For some reason,"
 
 str_0x80032A1C:
 ;JP Text: "塔に入ってみたんだけど…"
-.string "塔に入ってみたんだけど…"
+.string "I entered the tower…"
 
 str_0x80032A00:
 ;JP Text: "ここまで来てしまいました"
-.string "ここまで来てしまいました"
+.string "I got this far."
 
 str_0x800329E4:
 ;JP Text: "俺は「どろぼうタワー」の"
-.string "俺は「どろぼうタワー」の"
+.string "I use to be a henchman of"
 
 str_0x800329C0:
 ;JP Text: "「マンビー」様の子分だったんだ…"
-.string "「マンビー」様の子分だったんだ…"
+.string "“Manby” from the “Robber Tower”…"
 
 str_0x800329A4:
 ;JP Text: "マンビー様は元気かなぁ…"
-.string "マンビー様は元気かなぁ…"
+.string "I wonder how he's doing…"
 
 str_0x80032988:
 ;JP Text: "お金を愛した人間は死ぬと"
-.string "お金を愛した人間は死ぬと"
+.string "It seems people who loved money"
 
 str_0x80032964:
 ;JP Text: "コインマンに生まれ変わるらしい…"
-.string "コインマンに生まれ変わるらしい…"
+.string "are reincarnated into Coinmen…"
 
 str_0x80032948:
 ;JP Text: "この塔にお金が無いのとは"
-.string "この塔にお金が無いのとは"
+.string "I wonder if it's because there's"
 
 str_0x8003292C:
 ;JP Text: "なにか関係が　あるのかなぁ"
-.string "なにか関係が　あるのかなぁ"
+.string "no money in this tower…"
 
 str_0x8003290C:
 ;JP Text: "すごい秘密を知ってしまった…"
-.string "すごい秘密を知ってしまった…"
+.string "I've learned a grand secret…"
 
 str_0x800328F0:
 ;JP Text: "とても人には言えません！"
-.string "とても人には言えません！"
+.string "I can't tell anyone!"
 
 str_0x800328E0:
 ;JP Text: "この塔を登ると"
-.string "この塔を登ると"
+.string "I feel like I can change"
 
 str_0x800328C0:
 ;JP Text: "何か自分が変われる気がします"
-.string "何か自分が変われる気がします"
+.string "if I climb this tower."
 
 str_0x800328A4:
 ;JP Text: "今までの自分にサヨナラ！！"
-.string "今までの自分にサヨナラ！！"
+.string "Goodbye, old-me!!"
 
 str_0x80032894:
 ;JP Text: "…なんちゃって"
-.string "…なんちゃって"
+.string "…Haha, just kidding."
 
 str_0x80032878:
 ;JP Text: "私は不満を言い続ける男！"
-.string "私は不満を言い続ける男！"
+.string "I'm Mr. Endless Complainer!"
 
 str_0x8003285C:
 ;JP Text: "あーつかれた！かったりぃ！"
-.string "あーつかれた！かったりぃ！"
+.string "Ugh, I'm tired! This sucks!"
 
 str_0x80032850:
 ;JP Text: "ブツブツ…"
-.string "ブツブツ…"
+.string "*Grumble Grumble*"
 
 str_0x80032834:
 ;JP Text: "アソコがダメ！ココがダメ！"
-.string "アソコがダメ！ココがダメ！"
+.string "That area stinks, and this one!"
 
 str_0x8003281C:
 ;JP Text: "世界が悪い！国が悪い！"

@@ -259,7 +259,7 @@ str_0x8002AEA8:
 
 str_0x8002AE8C:
 ;JP Text: "ぜっこうちょうになった！"
-.string "felt amazing!"
+.string "feels amazing!"
 
 str_0x8002AE78:
 ;JP Text: "モリモリパンだった"
