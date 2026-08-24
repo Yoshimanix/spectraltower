@@ -2416,151 +2416,151 @@ str_0x80032834:
 
 str_0x8003281C:
 ;JP Text: "世界が悪い！国が悪い！"
-.string "世界が悪い！国が悪い！"
+.string "It's the world! And the country!"
 
 str_0x800327FC:
 ;JP Text: "場所が悪い！…お前が悪い！！"
-.string "場所が悪い！…お前が悪い！！"
+.string "I blame this place! …And you!!"
 
 str_0x800327E4:
 ;JP Text: "私は冒険評論家です！"
-.string "私は冒険評論家です！"
+.string "I'm an Adventure Critic. I score"
 
 str_0x800327C0:
 ;JP Text: "あらゆる冒険に点数をつけています"
-.string "あらゆる冒険に点数をつけています"
+.string "Adventures of all sorts."
 
 str_0x800327A8:
 ;JP Text: "しかし　冒険に点数など"
-.string "しかし　冒険に点数など"
+.string "But, can you really score an"
 
 str_0x80032784:
 ;JP Text: "付けられるのでしょうか？疑問です"
-.string "付けられるのでしょうか？疑問です"
+.string "adventure like that? I wonder…"
 
 str_0x80032770:
 ;JP Text: "ヒイコラ　ヒイコラ"
-.string "ヒイコラ　ヒイコラ"
+.string "*Huff* *Puff*"
 
 str_0x80032754:
 ;JP Text: "ここ　何階なんですかねぇ"
-.string "ここ　何階なんですかねぇ"
+.string "What floor is this?"
 
 str_0x8003273C:
 ;JP Text: "ヒイコラ　ヒイコラ……"
-.string "ヒイコラ　ヒイコラ……"
+.string "*Huff* *Puff*…"
 
 str_0x80032724:
 ;JP Text: "……もう　動けないよ"
-.string "……もう　動けないよ"
+.string "……I can't move another inch."
 
 str_0x80032718:
 ;JP Text: "俺のことは"
-.string "俺のことは"
+.string "Look dude, just leave me"
 
 str_0x80032704:
 ;JP Text: "ほっといてくれ……"
-.string "ほっといてくれ……"
+.string "alone……"
 
 str_0x800326F4:
 ;JP Text: "見てくれ！！"
-.string "見てくれ！！"
+.string "Check this out!!"
 
 str_0x800326D8:
 ;JP Text: "すごい武器を手に入れたんだ"
-.string "すごい武器を手に入れたんだ"
+.string "I got an awesome weapon!"
 
 str_0x800326CC:
 ;JP Text: "……でも"
-.string "……でも"
+.string "…But the thing is…"
 
 str_0x800326B0:
 ;JP Text: "装備できないんだよぉ！！"
-.string "装備できないんだよぉ！！"
+.string "I can't equip it!!"
 
 str_0x800326A0:
 ;JP Text: "ムシャムシャ"
-.string "ムシャムシャ"
+.string "*Chew* *Chew*"
 
 str_0x80032684:
 ;JP Text: "今夜の食事は　こけだんご"
-.string "今夜の食事は　こけだんご"
+.string "Tonight's dinner is Moss Balls."
 
 str_0x80032668:
 ;JP Text: "最近これしか食べてないなあ"
-.string "最近これしか食べてないなあ"
+.string "This is all I eat lately."
 
 str_0x80032658:
 ;JP Text: "キョロキョロ"
-.string "キョロキョロ"
+.string "*Frantically looking around*"
 
 str_0x80032644:
 ;JP Text: "　　　キョロキョロ"
-.string "　　　キョロキョロ"
+.string " "
 
 str_0x80032634:
 ;JP Text: "いったいカギは"
-.string "いったいカギは"
+.string "Where the heck is that"
 
 str_0x8003261C:
 ;JP Text: "どこにあるんだろう？"
-.string "どこにあるんだろう？"
+.string "dang key?"
 
 str_0x8003260C:
 ;JP Text: "うーん、眠い…"
-.string "うーん、眠い…"
+.string "Whew, I'm sleepy…"
 
 str_0x800325FC:
 ;JP Text: "　　ＺＺＺ……"
-.string "　　ＺＺＺ……"
+.string "      ZZZ……"
 
 str_0x800325E8:
 ;JP Text: "起こさないでくれよ"
-.string "起こさないでくれよ"
+.string "Don't wake me up."
 
 str_0x800325DC:
 ;JP Text: "ＺＺＺ……"
-.string "ＺＺＺ……"
+.string "ZZZ……"
 
 str_0x800325C8:
 ;JP Text: "なぜこの塔に登るか"
-.string "なぜこの塔に登るか"
+.string "Do you know why you climb"
 
 str_0x800325B0:
 ;JP Text: "キミは知っているかい？"
-.string "キミは知っているかい？"
+.string "the tower?"
 
 str_0x80032590:
 ;JP Text: "その答えは心のなかにあるのさ"
-.string "その答えは心のなかにあるのさ"
+.string "The answer is within you."
 
 str_0x80032574:
 ;JP Text: "らんらんらんらんらん……"
-.string "らんらんらんらんらん……"
+.string "La lalalala lala……"
 
 str_0x80032560:
 ;JP Text: "歌でも歌わなきゃ"
-.string "歌でも歌わなきゃ"
+.string "I gotta sing my songs, or I"
 
 str_0x80032544:
 ;JP Text: "こんな塔　登ってられないぜ"
-.string "こんな塔　登ってられないぜ"
+.string "can't climb this damn tower."
 
 str_0x8003252C:
 ;JP Text: "この塔にはすごいお宝が"
-.string "この塔にはすごいお宝が"
+.string "It is true that there's great"
 
 str_0x80032510:
 ;JP Text: "隠されているって本当かい？"
-.string "隠されているって本当かい？"
+.string "treasures hidden in this tower?"
 
 str_0x800324F8:
 ;JP Text: "だけど　どれもこれも"
-.string "だけど　どれもこれも"
+.string "It seems to me like all of them"
 
 str_0x800324D8:
 ;JP Text: "ガラクタばっかりなんだよなあ"
-.string "ガラクタばっかりなんだよなあ"
+.string "are just full of junk."
 
 str_0x800324C4:
 ;JP Text: "きえええええ！！"
