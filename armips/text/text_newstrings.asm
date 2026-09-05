@@ -41,6 +41,22 @@ str_seward:
 .string "Dwarves."
 str_bath:
 .string "would call it heavenly, I'd say."
+str_tch:
+.string "Tch."
+str_cantmove:
+.string "I can't move."
+str_weapons:
+.string "care of their weapons."
+str_stronger:
+.string "stronger?"
+str_3days:
+.string "for over 3 days already."
+str_direc:
+.string "directionally challenged……"
+str_youngster:
+.string "young one."
+str_feet:
+.string "dragging your feet."
 escape2:
 .string "escape the fight."
 smoothtalk2:

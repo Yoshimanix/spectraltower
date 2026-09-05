@@ -2858,7 +2858,7 @@
 
 ; Entry @ 0x8002D1D4
 .word str_0x80032498
-.word str_0x800C063C
+.word str_tch
 .halfword 0x0002
 .halfword 0x0002
 .halfword 0x0007
@@ -2986,7 +2986,7 @@
 
 ; Entry @ 0x8002D2D4
 .word str_0x800321DC
-.word str_0x800C0540
+.word str_cantmove
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0007
@@ -3154,7 +3154,7 @@
 
 ; Entry @ 0x8002D424
 .word str_0x80031E58
-.word str_0x800C0540
+.word str_weapons
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
@@ -3266,7 +3266,7 @@
 
 ; Entry @ 0x8002D504
 .word str_0x80031BEC
-.word str_0x800C0540
+.word str_stronger
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
@@ -3282,7 +3282,7 @@
 
 ; Entry @ 0x8002D524
 .word str_0x80031B98
-.word str_0x800C0540
+.word str_3days
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
@@ -3290,7 +3290,7 @@
 
 ; Entry @ 0x8002D534
 .word str_0x80031B78
-.word str_0x800C0540
+.word str_direc
 .halfword 0x0002
 .halfword 0x0002
 .halfword 0x0007
@@ -3314,7 +3314,7 @@
 
 ; Entry @ 0x8002D564
 .word str_0x80031B00
-.word str_0x800C0540
+.word str_youngster
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
@@ -3426,7 +3426,7 @@
 
 ; Entry @ 0x8002D644
 .word str_0x800318A4
-.word str_0x800C0540
+.word str_feet
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
