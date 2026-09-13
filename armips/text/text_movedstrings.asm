@@ -247,4 +247,46 @@ str_0x80037E94:
 ;JP Text: "みごと着地をした"
 .string "makes a perfect landing."
 
+; from text_dialogue1.asm
+
+str_0x8002E990:
+;JP Text: "遺体が腐りかけている"
+.string "遺体が腐りかけている"
+
+str_0x8002E980:
+;JP Text: "小さな白い虫が"
+.string "小さな白い虫が"
+
+str_0x8002E968:
+;JP Text: "大量にわいていた……"
+.string "大量にわいていた……"
+
+str_0x800C05B4:
+;JP Text: "五体が"
+.string "五体が"
+
+str_0x8002E94C:
+;JP Text: "バラバラに切り刻まれている"
+.string "バラバラに切り刻まれている"
+
+str_0x8002E938:
+;JP Text: "壮絶な死に様だった"
+.string "壮絶な死に様だった"
+
+str_0x8002E91C:
+;JP Text: "さらに　アイテムもいくつか"
+.string "さらに　アイテムもいくつか"
+
+str_0x8002E900:
+;JP Text: "手に入れることができた！"
+.string "手に入れることができた！"
+
+str_0x8002E8EC:
+;JP Text: "しかし　アイテムを"
+.string "しかし　アイテムを"
+
+str_0x8002E8D4:
+;JP Text: "いくつか手に入れた！"
+.string "いくつか手に入れた！"
+
 MovedStringsEnd:

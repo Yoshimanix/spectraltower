@@ -16,6 +16,11 @@
 
 .include "text/text_newstrings.asm"
 .include "text/text_movedstrings.asm"
+.if MovedStringsEnd > 0x80093D71
+	.warning "Moved Strings exceed limit."
+	.warning MovedStringsEnd - 0x80093D71
+.endif
+
 
 .include "draw_inventory.asm"
 .include "text/text_memcard.asm"
