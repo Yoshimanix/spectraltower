@@ -4049,7 +4049,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x8002DB24
-.word str_0x80031A5C
+.word str_mumble
 .word str_0x80030A84
 .halfword 0x0002
 .halfword 0x0002

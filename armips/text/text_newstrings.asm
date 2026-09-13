@@ -57,6 +57,8 @@ str_youngster:
 .string "young one."
 str_feet:
 .string "dragging your feet."
+str_mumble:
+.string "*Mumbling*"
 escape2:
 .string "escape the fight."
 smoothtalk2:

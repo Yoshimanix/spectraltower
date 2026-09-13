@@ -3112,7 +3112,7 @@ str_0x80031830:
 
 str_0x80031814:
 ;JP Text: "年寄りをバカにするでないぞ"
-.string "Told take us geezers for fools."
+.string "Don't take us geezers for fools."
 
 str_0x800317F8:
 ;JP Text: "おまえのようなヒヨッコなど"
@@ -3184,579 +3184,579 @@ str_0x80031640:
 
 str_0x8003161C:
 ;JP Text: "ワシはこの塔を研究している者じゃ"
-.string "ワシはこの塔を研究している者じゃ"
+.string "I am researching this tower."
 
 str_0x80031600:
 ;JP Text: "ただのジジイではないぞい"
-.string "ただのジジイではないぞい"
+.string "I ain't your typical grandpa!"
 
 str_0x800315E0:
 ;JP Text: "この塔はワシら人間が生まれる"
-.string "この塔はワシら人間が生まれる"
+.string "This tower has been here since"
 
 str_0x800315C4:
 ;JP Text: "ずっと以前よりあったのじゃ"
-.string "ずっと以前よりあったのじゃ"
+.string "long before mankind."
 
 str_0x800315A8:
 ;JP Text: "この塔に秘められた謎……"
-.string "この塔に秘められた謎……"
+.string "The mysteries of this tower……"
 
 str_0x80031594:
 ;JP Text: "それを解くためには"
-.string "それを解くためには"
+.string "To solve them, you must walk"
 
 str_0x80031570:
 ;JP Text: "長い道のりを進まねばならんのじゃ"
-.string "長い道のりを進まねばならんのじゃ"
+.string "a long, arduous path."
 
 str_0x80031554:
 ;JP Text: "はるか昔　この塔に魔物は"
-.string "はるか昔　この塔に魔物は"
+.string "They say long ago, there were"
 
 str_0x80031540:
 ;JP Text: "いなかったという"
-.string "いなかったという"
+.string "no monsters in this tower."
 
 str_0x80031524:
 ;JP Text: "それがいまではこの有様じゃ"
-.string "それがいまではこの有様じゃ"
+.string "Yet, here we are. What could"
 
 str_0x80031504:
 ;JP Text: "いったい何があったというのじゃ"
-.string "いったい何があったというのじゃ"
+.string "have caused it to get this bad?"
 
 str_0x800314F4:
 ;JP Text: "妖精族と小人族"
-.string "妖精族と小人族"
+.string "Fairies…Dwarves…Fairies are all"
 
 str_0x800314D4:
 ;JP Text: "妖精は女だけ　小人は男だけじゃ"
-.string "妖精は女だけ　小人は男だけじゃ"
+.string "women, and Dwarves are all men."
 
 str_0x800314C0:
 ;JP Text: "このことがなにか"
-.string "このことがなにか"
+.string "Could that be related to the"
 
 str_0x8003149C:
 ;JP Text: "塔の秘密と関係するのじゃろうか？"
-.string "塔の秘密と関係するのじゃろうか？"
+.string "secret of this tower?"
 
 str_0x8003147C:
 ;JP Text: "へっくしょい　へっくしょい！！"
-.string "へっくしょい　へっくしょい！！"
+.string "Achoo!! Achoo!!"
 
 str_0x8003145C:
 ;JP Text: "風邪かのお　くしゃみがとまらん"
-.string "風邪かのお　くしゃみがとまらん"
+.string "I can't stop sneezing. Did I"
 
 str_0x80031444:
 ;JP Text: "へーっくしょーい！！"
-.string "へーっくしょーい！！"
+.string "catch a cold? Aaaachoooo!!"
 
 str_0x80031430:
 ;JP Text: "なあ　ばあさんや"
-.string "なあ　ばあさんや"
+.string "Hey, old woman."
 
 str_0x80031414:
 ;JP Text: "ワシはうめこぶ茶がええのお"
-.string "ワシはうめこぶ茶がええのお"
+.string "I'd like some ume-konbu tea."
 
 str_0x800313F8:
 ;JP Text: "なんと　シイタケ茶しかない"
-.string "なんと　シイタケ茶しかない"
+.string "Oh, you only have Shitake tea?"
 
 str_0x800313D8:
 ;JP Text: "かまわんよ　ワシはなんでも……"
-.string "かまわんよ　ワシはなんでも……"
+.string "I'll have some of that, then……"
 
 str_0x800313C8:
 ;JP Text: "やあ　元気かい"
-.string "やあ　元気かい"
+.string "Hey, how've you been?"
 
 str_0x800313AC:
 ;JP Text: "ワシはとっても元気だぜ！！"
-.string "ワシはとっても元気だぜ！！"
+.string "I've bee feeling great!!"
 
 str_0x8003138C:
 ;JP Text: "チッチッチッ　年寄りがみんな"
-.string "チッチッチッ　年寄りがみんな"
+.string "Heh heh heh! Don't go thinking"
 
 str_0x80031368:
 ;JP Text: "ヨボヨボだと思ったら大間違いさっ"
-.string "ヨボヨボだと思ったら大間違いさっ"
+.string "all old folks are frail, now!"
 
 str_0x80031358:
 ;JP Text: "ゴホッ　ゴホッ"
-.string "ゴホッ　ゴホッ"
+.string "*Cough* *Cough*"
 
 str_0x8003134C:
 ;JP Text: "うう……"
-.string "うう……"
+.string "Uuugh……"
 
 str_0x8003132C:
 ;JP Text: "いよいよワシにもお迎えが来たか"
-.string "いよいよワシにもお迎えが来たか"
+.string "Looks like it may be my time."
 
 str_0x80031310:
 ;JP Text: "ゴホッゴホッ　ぐふぅ！！"
-.string "ゴホッゴホッ　ぐふぅ！！"
+.string "*Cough* *Cough* Guh!!"
 
 str_0x800312EC:
 ;JP Text: "腕立て伏せ１００かーい　ほっほっ"
-.string "腕立て伏せ１００かーい　ほっほっ"
+.string "100 pushuuups!! Hah! Ho!!"
 
 str_0x800312D0:
 ;JP Text: "腹筋３００かーい　ほっほっ"
-.string "腹筋３００かーい　ほっほっ"
+.string "300 Sit-uuuups!! Hah!! Ho!!"
 
 str_0x800C0604:
 ;JP Text: "なーに"
-.string "なーに"
+.string "You know how it goes."
 
 str_0x800312AC:
 ;JP Text: "まだまだ若いモンには負けられんて"
-.string "まだまだ若いモンには負けられんて"
+.string "I can't lose to the youngsters."
 
 str_0x80031294:
 ;JP Text: "ここの妖精ちゃんたちは"
-.string "ここの妖精ちゃんたちは"
+.string "The Fairies here are so young"
 
 str_0x80031270:
 ;JP Text: "ピチピチしとってカワイイのお……"
-.string "ピチピチしとってカワイイのお……"
+.string "and beautiful……"
 
 str_0x80031258:
 ;JP Text: "き　聞いておったのか！"
-.string "き　聞いておったのか！"
+.string "Y- you heard that?!"
 
 str_0x80031238:
 ;JP Text: "このことは誰にも喋らんでおくれ"
-.string "このことは誰にも喋らんでおくれ"
+.string "Please don't tell anyone!"
 
 str_0x80031220:
 ;JP Text: "ワシの名前はアイザック"
-.string "ワシの名前はアイザック"
+.string "My name is Isaac."
 
 str_0x8003120C:
 ;JP Text: "偉大な科学者じゃよ"
-.string "偉大な科学者じゃよ"
+.string "I'm a respected scientist."
 
 str_0x800311F4:
 ;JP Text: "いまこの塔を研究中じゃ"
-.string "いまこの塔を研究中じゃ"
+.string "I'm in the middle of researching"
 
 str_0x800311DC:
 ;JP Text: "ジャマせんでくれんか"
-.string "ジャマせんでくれんか"
+.string "this tower. Don't bother me."
 
 str_0x800311C0:
 ;JP Text: "ワシじゃ　アイザックじゃ"
-.string "ワシじゃ　アイザックじゃ"
+.string "It's me, Isaac."
 
 str_0x800311AC:
 ;JP Text: "どうもこの塔には"
-.string "どうもこの塔には"
+.string "It seems this tower has a"
 
 str_0x80031190:
 ;JP Text: "複雑な過去がありそうじゃ"
-.string "複雑な過去がありそうじゃ"
+.string "very complicated past."
 
 str_0x8003117C:
 ;JP Text: "ワシの古い友達に"
-.string "ワシの古い友達に"
+.string "I have an old friend"
 
 str_0x80031160:
 ;JP Text: "スティーブというのがおる"
-.string "スティーブというのがおる"
+.string "named Steve."
 
 str_0x80031154:
 ;JP Text: "やつもまた"
-.string "やつもまた"
+.string "He is also"
 
 str_0x80031134:
 ;JP Text: "この塔を研究しているのじゃよ"
-.string "この塔を研究しているのじゃよ"
+.string "researching this tower."
 
 str_0x8003111C:
 ;JP Text: "スティーブはワシじゃが"
-.string "スティーブはワシじゃが"
+.string "Yes, this is Steve."
 
 str_0x8003110C:
 ;JP Text: "なんか用かの？"
-.string "なんか用かの？"
+.string "You got business with me?"
 
 str_0x800310EC:
 ;JP Text: "アイザックのもうろくジジイとは"
-.string "アイザックのもうろくジジイとは"
+.string "Don't lump me in with the likes"
 
 str_0x800310D8:
 ;JP Text: "一緒にせんでくれ"
-.string "一緒にせんでくれ"
+.string "of that senile geezer Isaac."
 
 str_0x800310C8:
 ;JP Text: "わかった！！"
-.string "わかった！！"
+.string "I got it!!"
 
 str_0x800310A8:
 ;JP Text: "そうか　そうじゃったのか！！"
-.string "そうか　そうじゃったのか！！"
+.string "Yes, I understand now!!"
 
 str_0x80031088:
 ;JP Text: "ウマとロバをたすとラバになる"
-.string "ウマとロバをたすとラバになる"
+.string "Horse + Donkey = Mule."
 
 str_0x80031064:
 ;JP Text: "つまり戦士と魔法使いをたすと……"
-.string "つまり戦士と魔法使いをたすと……"
+.string "Thus, Warrior + Mage equals……"
 
 str_0x800C05FC:
 ;JP Text: "うーむ"
-.string "うーむ"
+.string "Hmm…"
 
 str_0x80031044:
 ;JP Text: "悩みすぎると頭が薄くなるのお"
-.string "悩みすぎると頭が薄くなるのお"
+.string "Worrying too much can make your"
 
 str_0x80031038:
 ;JP Text: "トホホ……"
-.string "トホホ……"
+.string "hair thin out. Woe is me……"
 
 str_0x80031024:
 ;JP Text: "ふむふむ　なるほど"
-.string "ふむふむ　なるほど"
+.string "Hmm, I see."
 
 str_0x80031014:
 ;JP Text: "そういうことか"
-.string "そういうことか"
+.string "So that's how it is."
 
 str_0x80031000:
 ;JP Text: "かつて妖精と小人は"
-.string "かつて妖精と小人は"
+.string "It seems Dwarves and Fairies"
 
 str_0x80030FE4:
 ;JP Text: "同じ種族だったらしいのお"
-.string "同じ種族だったらしいのお"
+.string "were once the same species."
 
 str_0x80030FCC:
 ;JP Text: "おまえさん知っとるかい"
-.string "おまえさん知っとるかい"
+.string "Hey kid, listen up."
 
 str_0x80030FB0:
 ;JP Text: "妖精族の女王ウインダールと"
-.string "妖精族の女王ウインダールと"
+.string "Ever hear of the Fairy Queen"
 
 str_0x80030F90:
 ;JP Text: "小人族の王スワードの存在を……"
-.string "小人族の王スワードの存在を……"
+.string "Windle, or the Dwarf King Sward?"
 
 str_0x80030F84:
 ;JP Text: "むむむ……"
-.string "むむむ……"
+.string "Hmm……"
 
 str_0x80030F74:
 ;JP Text: "わからんのお"
-.string "わからんのお"
+.string "I just don't get it."
 
 str_0x80030F58:
 ;JP Text: "謎が謎を呼ぶ不思議な塔じゃ"
-.string "謎が謎を呼ぶ不思議な塔じゃ"
+.string "Every mystery begets another"
 
 str_0x80030F48:
 ;JP Text: "むむむむむ……"
-.string "むむむむむ……"
+.string "in this tower…hmmmm……"
 
 str_0x80030F38:
 ;JP Text: "ほほう　そうか"
-.string "ほほう　そうか"
+.string "Oh, I see now."
 
 str_0x80030F1C:
 ;JP Text: "妖精族と小人族の仲が険悪に"
-.string "妖精族と小人族の仲が険悪に"
+.string "So Humans are the reason Fairies"
 
 str_0x80030EF8:
 ;JP Text: "なったのは　人間のせいらしいのお"
-.string "なったのは　人間のせいらしいのお"
+.string "and Dwarves don't get along…"
 
 str_0x80030EDC:
 ;JP Text: "これこれ　そこのお若いの"
-.string "これこれ　そこのお若いの"
+.string "Hey you, youngster. Where you"
 
 str_0x80030EBC:
 ;JP Text: "そんなに急いでどこへ行くんじゃ"
-.string "そんなに急いでどこへ行くんじゃ"
+.string "going in such a hurry?"
 
 str_0x80030E9C:
 ;JP Text: "人生は長い　後悔は先にたたんと"
-.string "人生は長い　後悔は先にたたんと"
+.string "Life is long. Remember…you"
 
 str_0x80030E78:
 ;JP Text: "いうことも覚えておいた方がいいぞ"
-.string "いうことも覚えておいた方がいいぞ"
+.string "can't turn back the clock."
 
 str_0x80030E5C:
 ;JP Text: "なんじゃ　ワシに用かの？"
-.string "なんじゃ　ワシに用かの？"
+.string "What's that? You need something?"
 
 str_0x80030E3C:
 ;JP Text: "ひやかしだったら聞く耳持たんぞ"
-.string "ひやかしだったら聞く耳持たんぞ"
+.string "Don't yank my chain, sonny."
 
 str_0x80030E28:
 ;JP Text: "さあ　行った行った"
-.string "さあ　行った行った"
+.string "Get outta here. Scram!"
 
 str_0x80030E0C:
 ;JP Text: "なにをジロジロ見とるんじゃ"
-.string "なにをジロジロ見とるんじゃ"
+.string "What're you lookin' at, sonny?"
 
 str_0x80030DF0:
 ;JP Text: "ワシは見せ物じゃないわい"
-.string "ワシは見せ物じゃないわい"
+.string "Do I look pretty to you?"
 
 str_0x80030DE0:
 ;JP Text: "とっとと失せろ"
-.string "とっとと失せろ"
+.string "Get lost,"
 
 str_0x80030DC8:
 ;JP Text: "この盗っ人風情が！！"
-.string "この盗っ人風情が！！"
+.string "you good-for-nothing thief!!"
 
 str_0x80030DBC:
 ;JP Text: "この塔には"
-.string "この塔には"
+.string "Many climbers congregate at"
 
 str_0x80030D9C:
 ;JP Text: "数多くの冒険者が集まってくる"
-.string "数多くの冒険者が集まってくる"
+.string "this tower."
 
 str_0x80030D80:
 ;JP Text: "おまえさんもその一人じゃな"
-.string "おまえさんもその一人じゃな"
+.string "Looks like you're one of 'em."
 
 str_0x80030D68:
 ;JP Text: "せいぜい頑張るがいいて"
-.string "せいぜい頑張るがいいて"
+.string "Well, good luck. You'll need it."
 
 str_0x80030D50:
 ;JP Text: "塔の中の魔物たち……"
-.string "塔の中の魔物たち……"
+.string "The monsters in this tower…Their"
 
 str_0x80030D30:
 ;JP Text: "徐々にその数が増えている……"
-.string "徐々にその数が増えている……"
+.string "numbers are steadily increasing…"
 
 str_0x80030D20:
 ;JP Text: "これはいったい"
-.string "これはいったい"
+.string "What could possibly cause"
 
 str_0x80030D04:
 ;JP Text: "どういうわけなのじゃろう"
-.string "どういうわけなのじゃろう"
+.string "such a thing?"
 
 str_0x80030CF8:
 ;JP Text: "不吉じゃ"
-.string "不吉じゃ"
+.string "What terrible fate! My horoscope"
 
 str_0x80030CD4:
 ;JP Text: "ワシの占いによると破滅は近いぞよ"
-.string "ワシの占いによると破滅は近いぞよ"
+.string "says our destruction is nearing."
 
 str_0x80030CB0:
 ;JP Text: "みんな滅びるのじゃあああああ！！"
-.string "みんな滅びるのじゃあああああ！！"
+.string "We'll all periiiiish!!"
 
 str_0x80030C90:
 ;JP Text: "よく来たのお　この呪われた塔に"
-.string "よく来たのお　この呪われた塔に"
+.string "Welcome to this cursed tower."
 
 str_0x80030C7C:
 ;JP Text: "おまえさんの命運も"
-.string "おまえさんの命運も"
+.string "Looks like your days of good"
 
 str_0x80030C60:
 ;JP Text: "ここで尽きたというわけじゃ"
-.string "ここで尽きたというわけじゃ"
+.string "fortune are finished, too."
 
 str_0x80030C44:
 ;JP Text: "妖精族の女王ウインダールは"
-.string "妖精族の女王ウインダールは"
+.string "The Fairy Queen Wendale is a"
 
 str_0x80030C30:
 ;JP Text: "風を司る聖霊じゃ"
-.string "風を司る聖霊じゃ"
+.string "spirit who governs the wind."
 
 str_0x80030C1C:
 ;JP Text: "下手に怒らせん方が"
-.string "下手に怒らせん方が"
+.string "You'd better not upset her, or"
 
 str_0x80030C00:
 ;JP Text: "身のためじゃとは思うがの"
-.string "身のためじゃとは思うがの"
+.string "you'll get a good whipping."
 
 str_0x80030BE8:
 ;JP Text: "小人族の王スワードは"
-.string "小人族の王スワードは"
+.string "The Dwarven King Seward controls"
 
 str_0x80030BD0:
 ;JP Text: "大地の力を支配しておる"
-.string "大地の力を支配しておる"
+.string "the power of the Earth."
 
 str_0x80030BB4:
 ;JP Text: "奴の不信を買うような真似は"
-.string "奴の不信を買うような真似は"
+.string "You'd best not pull any"
 
 str_0x80030BA4:
 ;JP Text: "控えるんじゃな"
-.string "控えるんじゃな"
+.string "suspicious moves around him."
 
 str_0x80030B98:
 ;JP Text: "はあ……"
-.string "はあ……"
+.string "*Sigh*……"
 
 str_0x80030B88:
 ;JP Text: "退屈じゃのお"
-.string "退屈じゃのお"
+.string "I'm so bored."
 
 str_0x80030B64:
 ;JP Text: "なんかおもしろいコトはないかのお"
-.string "なんかおもしろいコトはないかのお"
+.string "I need some excitement."
 
 str_0x80030B50:
 ;JP Text: "はあ　ヒマじゃ……"
-.string "はあ　ヒマじゃ……"
+.string "*Sigh* I got nothin' to do……"
 
 str_0x80030B38:
 ;JP Text: "ワシももう９０歳じゃ"
-.string "ワシももう９０歳じゃ"
+.string "I'm pushing 90 years old."
 
 str_0x80030B1C:
 ;JP Text: "確かこの塔に入ったときは"
-.string "確かこの塔に入ったときは"
+.string "I was 20 when I came to this"
 
 str_0x80030AFC:
 ;JP Text: "２０歳じゃったが　まだ出られん"
-.string "２０歳じゃったが　まだ出られん"
+.string "tower, but I'm still trapped."
 
 str_0x80030AE4:
 ;JP Text: "ううむ　どうもこの塔は"
-.string "ううむ　どうもこの塔は"
+.string "Hmm, it appears this tower is"
 
 str_0x80030AC8:
 ;JP Text: "少しずつ傾いているようじゃ"
-.string "少しずつ傾いているようじゃ"
+.string "slowly leaning more and more."
 
 str_0x80030AB8:
 ;JP Text: "このままだと"
-.string "このままだと"
+.string "At this rate, it may come"
 
 str_0x80030A9C:
 ;JP Text: "いずれ倒れるかもしれんのお"
-.string "いずれ倒れるかもしれんのお"
+.string "topplin' down someday."
 
 str_0x80030A84:
 ;JP Text: "最近耳が遠くなってのお"
-.string "最近耳が遠くなってのお"
+.string "My ears ain't so good no more."
 
 str_0x80030A74:
 ;JP Text: "え　なんだって"
-.string "え　なんだって"
+.string "Eh? What did ya say?"
 
 str_0x80030A60:
 ;JP Text: "よお聞こえんのお"
-.string "よお聞こえんのお"
+.string "I can't hear ya."
 
 str_0x80030A48:
 ;JP Text: "これでもワシだって昔は"
-.string "これでもワシだって昔は"
+.string "I may not look it, but I was the"
 
 str_0x80030A28:
 ;JP Text: "ブイブイいわせていたもんじゃ"
-.string "ブイブイいわせていたもんじゃ"
+.string "big cheese back in my day."
 
 str_0x80030A10:
 ;JP Text: "ピチピチギャルにだって"
-.string "ピチピチギャルにだって"
+.string "I was real popular with all the"
 
 str_0x800309FC:
 ;JP Text: "もててたんじゃぞい"
-.string "もててたんじゃぞい"
+.string "ladies, too."
 
 str_0x800309F0:
 ;JP Text: "かーっ！！"
-.string "かーっ！！"
+.string "Gaaaah!! You whippersnappers"
 
 str_0x800309CC:
 ;JP Text: "おまえら若いくせになっとらーん！"
-.string "おまえら若いくせになっとらーん！"
+.string "need to get your act together!!"
 
 str_0x800309B4:
 ;JP Text: "えーい　恥をしれ恥を"
-.string "えーい　恥をしれ恥を"
+.string "You oughtta be ashamed of"
 
 str_0x800309A0:
 ;JP Text: "この青二才がっ！！"
-.string "この青二才がっ！！"
+.string "yourself, you little punk!!"
 
 str_0x80030990:
 ;JP Text: "きゃっ　きゃっ"
-.string "きゃっ　きゃっ"
+.string "Eheheh."
 
 str_0x8003097C:
 ;JP Text: "まあ　めずらしい"
-.string "まあ　めずらしい"
+.string "How unusual."
 
 str_0x80030964:
 ;JP Text: "こんなところに人間が"
-.string "こんなところに人間が"
+.string "It's not common for a human"
 
 str_0x8003094C:
 ;JP Text: "入り込んでくるなんて"
-.string "入り込んでくるなんて"
+.string "to wander in here."
 
 str_0x800C05F4:
 ;JP Text: "つーん"
-.string "つーん"
+.string "Hmmph."
 
 str_0x8003092C:
 ;JP Text: "気安く話しかけないでちょうだい"
-.string "気安く話しかけないでちょうだい"
+.string "Don't you dare talk to me."
 
 str_0x8003090C:
 ;JP Text: "あなたたちみたいな野蛮人とは"
-.string "あなたたちみたいな野蛮人とは"
+.string "I want nothing to do with"
 
 str_0x800308F8:
 ;JP Text: "関わりたくないの"
-.string "関わりたくないの"
+.string "barbarians like yourself."
 
 str_0x800308DC:
 ;JP Text: "野蛮人と話しちゃダメって"
-.string "野蛮人と話しちゃダメって"
+.string "My mother told me not to talk"
 
 str_0x800308C8:
 ;JP Text: "ママに言われてるの"
-.string "ママに言われてるの"
+.string "to barbarians."
 
 str_0x800308B8:
 ;JP Text: "ごめんなさいネ"
-.string "ごめんなさいネ"
+.string "Sowwy!"
 
 str_0x80030898:
 ;JP Text: "ヘー　あなた魔物を倒せるんだ"
-.string "ヘー　あなた魔物を倒せるんだ"
+.string "Wow, you can take down"
 
 str_0x8003088C:
 ;JP Text: "強いのね"
-.string "強いのね"
+.string "monsters. You must be strong."
 
 str_0x80030878:
 ;JP Text: "でも　まだまだネ"
-.string "でも　まだまだネ"
+.string "Don't get cocky. There's plenty"
 
 str_0x80030854:
 ;JP Text: "もっと強い魔物はいっぱいいるわよ"
-.string "もっと強い魔物はいっぱいいるわよ"
+.string "more that are much stronger."
 
 str_0x80030838:
 ;JP Text: "キャー！！　たすけてー！！"
