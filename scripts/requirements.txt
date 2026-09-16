@@ -1,0 +1,11 @@
+pathlib
+pillow
+pandas
+numpy
+re
+os
+odf
+csv
+struct
+xlsxwriter
+math
