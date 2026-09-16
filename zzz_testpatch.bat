@@ -1,11 +1,11 @@
 @echo off
-python png2font.py
+python scripts\png2font.py
 copy SLPS_004.76 .\armips\SLPS_004.76
 cd armips
 armips spectraltower.asm
 copy SLPS_004_PATCHED.76 ..\out\SLPS_004.76
 cd ..
-python namingcsv2bin.py
+python scripts\namingcsv2bin.py
 copy "Spectral Tower (Japan).cue" "out\Spectral Tower (Japan).cue"
 copy "Spectral Tower (Japan).bin" "out\Spectral Tower (Japan).bin"
 cd out

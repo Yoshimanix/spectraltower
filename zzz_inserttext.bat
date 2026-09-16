@@ -1,2 +1,2 @@
 @echo off
-python ods_to_asm.py
+python scripts\ods_to_asm.py
