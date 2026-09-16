@@ -14,4 +14,3 @@ psxinject "Spectral Tower (Japan).bin" D2/WINDS.TIM "../replacements/WINDS.TIM"
 psxinject "Spectral Tower (Japan).bin" D1/NAME1.TIM "../replacements/NAME1.TIM"
 psxinject "Spectral Tower (Japan).bin" D1/SMETC2.TIM "../replacements/SMETC2.TIM"
 ../armips/armips ../armips/movies.asm
-../PCSX-Redux-HEAD-x86_64.AppImage -loadiso "Spectral Tower (Japan).cue" -run
