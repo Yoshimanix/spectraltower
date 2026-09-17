@@ -13,7 +13,7 @@ Then, running the provided XDelta program, patch `Spectral Tower (Japan).bin` ri
 
 ## How to build
 
-To build a patched image, first, place `Spectral Tower (Japan).bin` and `Spectral Tower (Japan).cue` ripped from your legally owned copy of the game to the root directory of this repository.
+To build a patched image, first, clone this repository, and place `Spectral Tower (Japan).bin` and `Spectral Tower (Japan).cue` ripped from your legally owned copy of the game to the root directory of this repository.
 
 Then, from the disc's image, extract `SLPS_004.76`, and place it in the same directory. This can be done by either mounting your disc or image and drag and dropping the file there, or by using the provided `psxrip` in the `psximager/` directory by opening a command prompt or terminal in the root directory of the repository, and running `psximager/psxrip Spectral Tower (Japan).cue`, which will extract every file out of the disc image.
 
