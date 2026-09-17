@@ -56,4 +56,7 @@ You just lost that bet! The patch has been tested from start to finish, and that
 - NicheTopic - Graphics Editing
 - SnowyAria - FMV Translations
 
-No generative AI was used in the creation of this patch.
+#### Special Thanks
+- whowasphone404, for their [incredibly useful guide on GameFAQs](https://gamefaqs.gamespot.com/ps/573572-spectral-tower/faqs/81460/).
+
+**No generative AI was used in the creation of this patch.**
