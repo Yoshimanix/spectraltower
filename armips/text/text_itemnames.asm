@@ -64,11 +64,11 @@ str_8003CC34:
 
 str_8003CC24:
 ;JP TEXT: "なぞのメダル"
-.string "Mysterious Medal"
+.string "Mystery Medal"
 
 str_8003CC18:
 ;JP TEXT: "命のしずく"
-.string "Droplets of Life"
+.string "Life Droplets"
 
 str_8003CC08:
 ;JP TEXT: "対鬼のメダル"
@@ -280,10 +280,10 @@ str_8003C934:
 
 str_8003C928:
 ;JP TEXT: "不明物体"
-.string "MysteriousObject"
+.string "Mystery Object"
 
 str_8003C918:
 ;JP TEXT: "最後の不明物体"
-.string "LastMysteryObjct"
+.string "LastMystryObjct"
 
 ItemNameTextEnd:
