@@ -536,7 +536,7 @@ str_0x800353BC:
 
 str_0x8003539C:
 ;JP Text: "なんて呼んでいるのか知ってる？"
-.string "worlds call this world?"
+.string "worlds call this one?"
 
 str_0x80035388:
 ;JP Text: "「ジゴク」ですって"
@@ -4340,231 +4340,231 @@ str_0x8002FAAC:
 
 str_0x8002FA94:
 ;JP Text: "最近　私たち妖精族の"
-.string "最近　私たち妖精族の"
+.string "These days, our fairy population"
 
 str_0x8002FA7C:
 ;JP Text: "数が減っているのです"
-.string "数が減っているのです"
+.string "is dwindling."
 
 str_0x8002FA64:
 ;JP Text: "なにか不吉な出来事の"
-.string "なにか不吉な出来事の"
+.string "I wonder if it's a sign of"
 
 str_0x8002FA48:
 ;JP Text: "前触れなのでしょうか……"
-.string "前触れなのでしょうか……"
+.string "something bad to come……"
 
 str_0x8002FA38:
 ;JP Text: "やーいやーい"
-.string "やーいやーい"
+.string "Nah, nah, nah-nah-nah!"
 
 str_0x8002FA28:
 ;JP Text: "鈍くさい野蛮人"
-.string "鈍くさい野蛮人"
+.string "Stupid slow brute!"
 
 str_0x8002FA10:
 ;JP Text: "悔しかったら飛んでみな"
-.string "悔しかったら飛んでみな"
+.string "Catch me if you can!"
 
 str_0x8002FA04:
 ;JP Text: "へへーんだ"
-.string "へへーんだ"
+.string "That is, if you can even fly!"
 
 str_0x8002F9E0:
 ;JP Text: "これ以上塔を登るのはおやめなさい"
-.string "これ以上塔を登るのはおやめなさい"
+.string "Give up your climb here,"
 
 str_0x8002F9CC:
 ;JP Text: "呪われし野蛮人よ"
-.string "呪われし野蛮人よ"
+.string "cursed brute."
 
 str_0x8002F9BC:
 ;JP Text: "我々の聖地を"
-.string "我々の聖地を"
+.string "We do not forgive those who"
 
 str_0x8002F9A0:
 ;JP Text: "踏み荒らすことは許しません"
-.string "踏み荒らすことは許しません"
+.string "desecrate our sacred grounds."
 
 str_0x8002F984:
 ;JP Text: "私は妖精の女王ウインダール"
-.string "私は妖精の女王ウインダール"
+.string "I am the Fairy Queen Wendale. I"
 
 str_0x8002F964:
 ;JP Text: "この塔の妖精たちを治める者です"
-.string "この塔の妖精たちを治める者です"
+.string "rule the fairies of this tower."
 
 str_0x8002F944:
 ;JP Text: "彼女たちはすべて我が子らです"
-.string "彼女たちはすべて我が子らです"
+.string "They are my beloved children."
 
 str_0x8002F928:
 ;JP Text: "無礼な真似は許しませんよ"
-.string "無礼な真似は許しませんよ"
+.string "I accept no insolence to them."
 
 str_0x8002F91C:
 ;JP Text: "きゃいーん"
-.string "きゃいーん"
+.string "Oh noes!"
 
 str_0x8002F908:
 ;JP Text: "忘れ物をしちゃった"
-.string "忘れ物をしちゃった"
+.string "I completely forgot!"
 
 str_0x8002F8F4:
 ;JP Text: "ママに叱られるぅ"
-.string "ママに叱られるぅ"
+.string "I'll be in trouble with Mother!"
 
 str_0x8002F8E4:
 ;JP Text: "どーしよーん"
-.string "どーしよーん"
+.string "What ever should I do??"
 
 str_0x8002F8D0:
 ;JP Text: "小人や野蛮人って"
-.string "小人や野蛮人って"
+.string "Why do Dwarves and Brutes"
 
 str_0x8002F8B0:
 ;JP Text: "どうして財宝が好きなのかしら"
-.string "どうして財宝が好きなのかしら"
+.string "like treasure so much?"
 
 str_0x8002F894:
 ;JP Text: "一番美しいものは自分の中に"
-.string "一番美しいものは自分の中に"
+.string "I guess you don't know that"
 
 str_0x8002F874:
 ;JP Text: "あるってコトに気づいてないのね"
-.string "あるってコトに気づいてないのね"
+.string "true beauty lies within."
 
 str_0x8002F864:
 ;JP Text: "かわいそーねー"
-.string "かわいそーねー"
+.string "You brutes are such"
 
 str_0x8002F84C:
 ;JP Text: "あなたたち野蛮人って"
-.string "あなたたち野蛮人って"
+.string "poor souls."
 
 str_0x8002F830:
 ;JP Text: "どうしてそんな不細工な顔に"
-.string "どうしてそんな不細工な顔に"
+.string "Why were you born with such"
 
 str_0x8002F81C:
 ;JP Text: "生まれるのかしら"
-.string "生まれるのかしら"
+.string "an ugly face?"
 
 str_0x8002F7FC:
 ;JP Text: "あらゴメンなさい　笑ったりして"
-.string "あらゴメンなさい　笑ったりして"
+.string "Oops, sorry for laughing."
 
 str_0x8002F7E0:
 ;JP Text: "あんまりひどい顔だったから"
-.string "あんまりひどい顔だったから"
+.string "It's just so ugly."
 
 str_0x8002F7BC:
 ;JP Text: "ホントのこと言ってゴメンなさいネ"
-.string "ホントのこと言ってゴメンなさいネ"
+.string "Excuse my bluntness."
 
 str_0x8002F7B0:
 ;JP Text: "ケケケッ"
-.string "ケケケッ"
+.string "Heheheheh. Back again, climber?"
 
 str_0x8002F794:
 ;JP Text: "また来たね　こりない冒険者"
-.string "また来たね　こりない冒険者"
+.string "You never learn."
 
 str_0x8002F770:
 ;JP Text: "キミなんかがこの塔に登ろうなんて"
-.string "キミなんかがこの塔に登ろうなんて"
+.string "It'll be 100 years of training"
 
 str_0x8002F754:
 ;JP Text: "１００年早いよ　出なおしな"
-.string "１００年早いよ　出なおしな"
+.string "before you can climb this tower."
 
 str_0x8002F730:
 ;JP Text: "キミみたいな無能な冒険者を見ると"
-.string "キミみたいな無能な冒険者を見ると"
+.string "Seeing chumps like you makes me"
 
 str_0x8002F718:
 ;JP Text: "ついからかいたくなるね"
-.string "ついからかいたくなるね"
+.string "wanna yank their chain."
 
 str_0x8002F708:
 ;JP Text: "やめちゃえば"
-.string "やめちゃえば"
+.string "How about you give up?"
 
 str_0x8002F6F8:
 ;JP Text: "どうせムダだよ"
-.string "どうせムダだよ"
+.string "You aren't cut out for this."
 
 str_0x8002F6EC:
 ;JP Text: "オイラは"
-.string "オイラは"
+.string "I'm just a"
 
 str_0x8002F6D0:
 ;JP Text: "ラブリーなウサギさんさっ！"
-.string "ラブリーなウサギさんさっ！"
+.string "lovely little rabbit!"
 
 str_0x8002F6B8:
 ;JP Text: "オイラたちのいうことを"
-.string "オイラたちのいうことを"
+.string "You can't go wrong listening"
 
 str_0x8002F69C:
 ;JP Text: "聞いていれば間違いないよ"
-.string "聞いていれば間違いないよ"
+.string "to our advice."
 
 str_0x8002F688:
 ;JP Text: "ダメだねえ　キミは"
-.string "ダメだねえ　キミは"
+.string "Jeez, you're hopeless. You can't"
 
 str_0x8002F66C:
 ;JP Text: "なにをやらしても鈍くさい"
-.string "なにをやらしても鈍くさい"
+.string "do anything without screwing up."
 
 str_0x8002F648:
 ;JP Text: "そんなんでこの塔を登ろうっての？"
-.string "そんなんでこの塔を登ろうっての？"
+.string "Yet, you're trying to climb the"
 
 str_0x8002F630:
 ;JP Text: "ムダだよ　ムダ　ムダ"
-.string "ムダだよ　ムダ　ムダ"
+.string "tower? In your dreams, bud."
 
 str_0x8002F614:
 ;JP Text: "さえない顔をしているねえ"
-.string "さえない顔をしているねえ"
+.string "Why the long face?"
 
 str_0x8002F5F8:
 ;JP Text: "アイテムを全部捨ててごらん"
-.string "アイテムを全部捨ててごらん"
+.string "Just throw away all your items."
 
 str_0x8002F5E0:
 ;JP Text: "身体が軽くなるからさ"
-.string "身体が軽くなるからさ"
+.string "You'll feel lighter."
 
 str_0x8002F5CC:
 ;JP Text: "ぴょんぴょんぴょん"
-.string "ぴょんぴょんぴょん"
+.string "*Hop* *Hop* *Hop*"
 
 str_0x8002F5B0:
 ;JP Text: "鬼さんこちら　手のなる方へ"
-.string "鬼さんこちら　手のなる方へ"
+.string "Follow the sounds, Oni-san."
 
 str_0x8002F590:
 ;JP Text: "トロいあんたにゃ捕まらないよ"
-.string "トロいあんたにゃ捕まらないよ"
+.string "You can't catch me, slowpoke!"
 
 str_0x8002F578:
 ;JP Text: "小人族ってからかうには"
-.string "小人族ってからかうには"
+.string "Dwarves are the best creatures"
 
 str_0x8002F564:
 ;JP Text: "サイコーの相手だぜ"
-.string "サイコーの相手だぜ"
+.string "To make fun of. It's too easy."
 
 str_0x8002F554:
 ;JP Text: "あんたも今度"
-.string "あんたも今度"
+.string "How about you join me in"
 
 str_0x8002F540:
 ;JP Text: "一緒にどうだい？"
-.string "一緒にどうだい？"
+.string "the antics sometime?"
 
 str_0x8002F520:
 ;JP Text: "オイラたちは憎まれ口を叩くけど"

@@ -65,6 +65,8 @@ str_dumb:
 .string "just a dumb girl! Kyahahaha!"
 str_waiting:
 .string "me waiting? Ugh!"
+str_long:
+.string "Heheheh."
 escape2:
 .string "escape the fight."
 smoothtalk2:

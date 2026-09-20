@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-20 17:16-0400\n"
+"PO-Revision-Date: 2026-02-09 07:16+0000\n"
+"Last-Translator: Quade <thequadehunter@gmail.com>\n"
+"Language-Team: English <https://translations.yuvi.app/projects/"
+"spectral-tower/text_special/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14.3\n"
+
+msgctxt "0"
+msgid "ステータス　"
+msgstr "Status"
+
+msgctxt "1"
+msgid "アイテム　　"
+msgstr "Items"
+
+msgctxt "2"
+msgid "戦　う　"
+msgstr "Attack"
+
+msgctxt "3"
+msgid "必殺技　"
+msgstr "Special"
+
+msgctxt "4"
+msgid "使用　"
+msgstr "Use"
+
+msgctxt "5"
+msgid "装備　　"
+msgstr "Equip"
+
+msgctxt "6"
+msgid "捨てる"
+msgstr "Discard"
+
+msgctxt "7"
+msgid "ー対戦レベルー"
+msgstr "ーMatchup Levelー"
+
+msgctxt "8"
+msgid "対鬼："
+msgstr "Monster:"
+
+msgctxt "9"
+msgid "対霊："
+msgstr "Spirit:"
+
+msgctxt "10"
+msgid "対霊："
+msgstr "Spirit:"
+
+msgctxt "11"
+msgid "対魔："
+msgstr "Familiar:"
+
+msgctxt "12"
+msgid "対竜："
+msgstr "Dragon:"
+
+msgctxt "13"
+msgid "対人："
+msgstr "Human:"
+
+msgctxt "14"
+msgid "対悪："
+msgstr "Demon:"
+
+msgctxt "15"
+msgid "対武："
+msgstr "Weapons:"
+
+msgctxt "16"
+msgid "対食："
+msgstr "Food:"
+
+msgctxt "17"
+msgid "対注："
+msgstr "Search:"
+
+msgctxt "18"
+msgid "呪："
+msgstr "Curses:"
+
+msgctxt "19"
+msgid "病："
+msgstr "Illnesses:"
+
+msgctxt "20"
+msgid "はい　"
+msgstr "Yes"
+
+msgctxt "21"
+msgid "いいえ"
+msgstr "No"
+
+msgctxt "22"
+msgid "開ける　"
+msgstr "Open"
+
+msgctxt "23"
+msgid "やめる　"
+msgstr "Cancel"

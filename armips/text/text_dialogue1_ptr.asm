@@ -4977,7 +4977,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x8002E264
-.word str_0x8002F7B0
+.word str_long
 .word str_0x8002F614
 .halfword 0x0002
 .halfword 0x0002
