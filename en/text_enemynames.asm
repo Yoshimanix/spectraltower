@@ -251,7 +251,7 @@ str_800C070C:
 
 str_8003A37C:
 ;JP TEXT: "パン屋のユウさん"
-.string "Yu-san The Baker"
+.string "Bakery Yu"
 
 str_800C0704:
 ;JP TEXT: "ベット"

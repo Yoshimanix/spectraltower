@@ -12,7 +12,7 @@ str_800C07F8:
 
 str_8003CCF0:
 ;JP TEXT: "さびた剣？"
-.string "Rusted Sword?"
+.string "Rusted Sword"
 
 str_800C07F0:
 ;JP TEXT: "ナイフ"
@@ -80,7 +80,7 @@ str_8003CBF8:
 
 str_8003CBE8:
 ;JP TEXT: "対魔のメダル"
-.string "Magic Medal"
+.string "Familiar Medal"
 
 str_8003CBD8:
 ;JP TEXT: "対竜のメダル"
@@ -148,7 +148,7 @@ str_8003CB20:
 
 str_8003CB14:
 ;JP TEXT: "石ロッド？"
-.string "Stone Rod?"
+.string "Stone Rod"
 
 str_8003CB04:
 ;JP TEXT: "ジャンプロッド"
@@ -204,15 +204,15 @@ str_8003CA58:
 
 str_800C07D0:
 ;JP TEXT: "天魔石"
-.string "Tenma Stone"
+.string "Godslayer Stone"
 
 str_8003CA48:
 ;JP TEXT: "天魔剣・流星"
-.string "Tenma Sword: Meteor"
+.string "Godslayer Sword: Meteor"
 
 str_8003CA38:
 ;JP TEXT: "天魔のしゃく"
-.string "Tenma Baton"
+.string "Godslayer Baton"
 
 str_8003CA24:
 ;JP TEXT: "フォースアックス"
@@ -272,7 +272,7 @@ str_8003C958:
 
 str_8003C944:
 ;JP TEXT: "イプシロンのつえ"
-.string "Ypsilon Rod"
+.string "Epsilon Rod"
 
 str_8003C934:
 ;JP TEXT: "ワープロッド"

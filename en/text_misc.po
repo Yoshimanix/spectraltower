@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-22 16:16-0400\n"
-"PO-Revision-Date: 2026-04-30 11:16+0000\n"
+"PO-Revision-Date: 2026-07-17 21:16+0000\n"
 "Last-Translator: Quade <thequadehunter@gmail.com>\n"
 "Language-Team: English <https://translations.yuvi.app/projects/"
 "spectral-tower/text_misc/en/>\n"
@@ -92,7 +92,7 @@ msgstr "Windflower Song "
 
 msgctxt "19"
 msgid "剣魔合成波　"
-msgstr "Demonblade Wave"
+msgstr "Godslayer Wave"
 
 msgctxt "20"
 msgid "天地破滅斬　"
@@ -104,7 +104,7 @@ msgstr "Smooch          "
 
 msgctxt "22"
 msgid "剣魔連撃　　"
-msgstr "Demonblade Combo"
+msgstr "Godslayer Combo"
 
 msgctxt "23"
 msgid "聖剣波　　　"
@@ -116,7 +116,7 @@ msgstr "Gale Spell      "
 
 msgctxt "25"
 msgid "呼ぶ口笛　　"
-msgstr "Summoner Whistle"
+msgstr "Calling"
 
 msgctxt "26"
 msgid "呼ぶさけび　"
@@ -156,7 +156,7 @@ msgstr "Card of Destiny "
 
 msgctxt "35"
 msgid "武器にする　"
-msgstr "Makeshift Weapon"
+msgstr "Improv Weapon"
 
 msgctxt "36"
 msgid "呪い殺す　　"
@@ -168,7 +168,7 @@ msgstr "Whirlpool Slash "
 
 msgctxt "38"
 msgid "空と光の歌　"
-msgstr "Shining Sky Song"
+msgstr "Light&Sky Song"
 
 msgctxt "39"
 msgid "味見する　　"
@@ -180,7 +180,7 @@ msgstr "Swap!           "
 
 msgctxt "41"
 msgid "身がわり君　"
-msgstr "Body Double     "
+msgstr "Defense Buddy   "
 
 msgctxt "42"
 msgid "攻撃君　　　"
@@ -192,7 +192,7 @@ msgstr "Smile           "
 
 msgctxt "44"
 msgid "分身　　　　"
-msgstr "Doppelganger    "
+msgstr "Clone Technique "
 
 msgctxt "45"
 msgid "混乱させる　"

@@ -88,7 +88,7 @@ str_800288A8:
 
 str_80028898:
 ;JP TEXT: "剣魔合成波　"
-.string "Demonblade Wave"
+.string "Godslayer Wave"
 
 str_80028888:
 ;JP TEXT: "天地破滅斬　"
@@ -100,7 +100,7 @@ str_80028878:
 
 str_80028868:
 ;JP TEXT: "剣魔連撃　　"
-.string "Demonblade Combo"
+.string "Godslayer Combo"
 
 str_80028858:
 ;JP TEXT: "聖剣波　　　"
@@ -112,7 +112,7 @@ str_80028848:
 
 str_80028838:
 ;JP TEXT: "呼ぶ口笛　　"
-.string "Summoner Whistle"
+.string "Calling"
 
 str_80028828:
 ;JP TEXT: "呼ぶさけび　"
@@ -152,7 +152,7 @@ str_800287A8:
 
 str_80028798:
 ;JP TEXT: "武器にする　"
-.string "Makeshift Weapon"
+.string "Improv Weapon"
 
 str_80028788:
 ;JP TEXT: "呪い殺す　　"
@@ -164,7 +164,7 @@ str_80028778:
 
 str_80028768:
 ;JP TEXT: "空と光の歌　"
-.string "Shining Sky Song"
+.string "Light&Sky Song"
 
 str_80028758:
 ;JP TEXT: "味見する　　"
@@ -176,7 +176,7 @@ str_80028748:
 
 str_80028738:
 ;JP TEXT: "身がわり君　"
-.string "Body Double     "
+.string "Defense Buddy   "
 
 str_80028728:
 ;JP TEXT: "攻撃君　　　"
@@ -188,7 +188,7 @@ str_80028718:
 
 str_80028708:
 ;JP TEXT: "分身　　　　"
-.string "Doppelganger    "
+.string "Clone Technique "
 
 str_800286F8:
 ;JP TEXT: "混乱させる　"

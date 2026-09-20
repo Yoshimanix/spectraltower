@@ -250,7 +250,7 @@ str_8003A3A4:
 
 str_8003A390:
 ;JP TEXT: "　　トイレ　　　"
-.string "     Toilet     "
+.string "    Restroom    "
 
 str_800C06F8:
 ;JP TEXT: "　"
