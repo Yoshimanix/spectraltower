@@ -59,6 +59,12 @@ str_feet:
 .string "dragging your feet."
 str_mumble:
 .string "*Mumbling*"
+str_sorry:
+.string "Oh no……I can't do it!"
+str_dumb:
+.string "just a dumb girl! Kyahahaha!"
+str_waiting:
+.string "me waiting? Ugh!"
 escape2:
 .string "escape the fight."
 smoothtalk2:
