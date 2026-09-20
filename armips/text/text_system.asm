@@ -207,11 +207,11 @@ str_0x8002AFE0:
 
 str_0x8002AFC4:
 ;JP Text: "別の場所に移動していた！"
-.string "begins to move to another location!"
+.string "begins to move somewhere else!"
 
 str_0x8002AFA8:
 ;JP Text: "しかも　下のステージに！"
-.string "It moved to the lower stage!"
+.string "It moved to a lower floor!"
 
 str_0x8002AF8C:
 ;JP Text: "「ぼくはパン屋のユウさん"

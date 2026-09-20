@@ -275,18 +275,18 @@ str_0x8002E938:
 
 str_0x8002E91C:
 ;JP Text: "さらに　アイテムもいくつか"
-.string "さらに　アイテムもいくつか"
+.string "You were able to gain"
 
 str_0x8002E900:
 ;JP Text: "手に入れることができた！"
-.string "手に入れることができた！"
+.string "even more items!"
 
 str_0x8002E8EC:
 ;JP Text: "しかし　アイテムを"
-.string "しかし　アイテムを"
+.string "However, you gained a few"
 
 str_0x8002E8D4:
 ;JP Text: "いくつか手に入れた！"
-.string "いくつか手に入れた！"
+.string "items!"
 
 MovedStringsEnd:

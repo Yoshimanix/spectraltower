@@ -4361,7 +4361,7 @@
 .halfword 0x0001
 
 ; Entry @ 0x8002DD94
-.word str_0x80035314
+.word str_sorry
 .word str_0x800303C8
 .halfword 0x0002
 .halfword 0x0002
@@ -4474,7 +4474,7 @@
 
 ; Entry @ 0x8002DE74
 .word str_0x80030158
-.word str_0x80030310
+.word str_dumb
 .halfword 0x0002
 .halfword 0x0002
 .halfword 0x0007
@@ -4602,7 +4602,7 @@
 
 ; Entry @ 0x8002DF74
 .word str_0x8002FE6C
-.word str_0x80033B94
+.word str_waiting
 .halfword 0x0002
 .halfword 0x0002
 .halfword 0x0007
@@ -4977,7 +4977,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x8002E264
-.word str_0x8002F7B0
+.word str_long
 .word str_0x8002F614
 .halfword 0x0002
 .halfword 0x0002
