@@ -67,6 +67,8 @@ str_waiting:
 .string "me waiting? Ugh!"
 str_long:
 .string "Heheheh."
+str_crouch:
+.string "crouched position."
 escape2:
 .string "escape the fight."
 smoothtalk2:

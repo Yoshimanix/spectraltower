@@ -4568,95 +4568,95 @@ str_0x8002F540:
 
 str_0x8002F520:
 ;JP Text: "オイラたちは憎まれ口を叩くけど"
-.string "オイラたちは憎まれ口を叩くけど"
+.string "We say lots of spiteful things,"
 
 str_0x8002F508:
 ;JP Text: "本当は寂しがりやなのさ"
-.string "本当は寂しがりやなのさ"
+.string "but we're actually quite lonely."
 
 str_0x8002F4F0:
 ;JP Text: "だから仲良くして……"
-.string "だから仲良くして……"
+.string "So please be nice to us……"
 
 str_0x8002F4CC:
 ;JP Text: "なんてウソだよーん　ひゃはははは"
-.string "なんてウソだよーん　ひゃはははは"
+.string "Haha, yeah right!! Hyahahahaha!"
 
 str_0x8002F4AC:
 ;JP Text: "妖精族なんてキライだ　キライだ"
-.string "妖精族なんてキライだ　キライだ"
+.string "I hate fairies. I hate 'em!"
 
 str_0x8002F48C:
 ;JP Text: "だってあいつら　オイラたちより"
-.string "だってあいつら　オイラたちより"
+.string "I makes me mad that they're"
 
 str_0x8002F468:
 ;JP Text: "白くてキレイじゃないか　キー！！"
-.string "白くてキレイじゃないか　キー！！"
+.string "shinier and prettier than us!"
 
 str_0x800C05D4:
 ;JP Text: "ふふん"
-.string "ふふん"
+.string "Huhun. You say you're gonna"
 
 str_0x8002F448:
 ;JP Text: "キミがこの塔にのぼるだって？"
-.string "キミがこの塔にのぼるだって？"
+.string "climb this tower?"
 
 str_0x8002F438:
 ;JP Text: "ひゃはははは"
-.string "ひゃはははは"
+.string "Hyahahaha!"
 
 str_0x8002F418:
 ;JP Text: "ムリムリムリ　ひー　おかしー"
-.string "ムリムリムリ　ひー　おかしー"
+.string "Hah! Oh man! That's a good one!"
 
 str_0x8002F40C:
 ;JP Text: "反応がない"
-.string "反応がない"
+.string "There is no reaction."
 
 str_0x8002F3F0:
 ;JP Text: "どうやら死んでいるようだ"
-.string "どうやら死んでいるようだ"
+.string "Looks like they're dead."
 
 str_0x8002F3D4:
 ;JP Text: "うずくまったまま動かない"
-.string "うずくまったまま動かない"
+.string "They are sitting still in a"
 
 str_0x8002F3B8:
 ;JP Text: "どうやら死体のようだ……"
-.string "どうやら死体のようだ……"
+.string "Looks like it's a dead body……"
 
 str_0x8002F3A4:
 ;JP Text: "呼びかけてみたが"
-.string "呼びかけてみたが"
+.string "You try to call out to them,"
 
 str_0x8002F38C:
 ;JP Text: "答えは返ってこなかった"
-.string "答えは返ってこなかった"
+.string "but there is no answer."
 
 str_0x8002F37C:
 ;JP Text: "剣を握ったまま"
-.string "剣を握ったまま"
+.string "They met a ghastly end with"
 
 str_0x8002F364:
 ;JP Text: "壮絶な最期を遂げていた"
-.string "壮絶な最期を遂げていた"
+.string "their sword in hand."
 
 str_0x8002F354:
 ;JP Text: "人が死んでいる"
-.string "人が死んでいる"
+.string "A body lays dead."
 
 str_0x8002F33C:
 ;JP Text: "だいぶ昔のもののようだ"
-.string "だいぶ昔のもののようだ"
+.string "It looks pretty old."
 
 str_0x8002F328:
 ;JP Text: "人が死んでいる……"
-.string "人が死んでいる……"
+.string "A body lays dead……"
 
 str_0x8002F310:
 ;JP Text: "どうやら女性のようだ"
-.string "どうやら女性のようだ"
+.string "It appears to be a woman."
 
 str_0x8002F300:
 ;JP Text: "髪飾りが悲く"

@@ -5090,7 +5090,7 @@
 
 ; Entry @ 0x8002E344
 .word str_0x8002F3D4
-.word str_0x800C0540
+.word str_crouch
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
