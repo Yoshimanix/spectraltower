@@ -4660,203 +4660,203 @@ str_0x8002F310:
 
 str_0x8002F300:
 ;JP Text: "髪飾りが悲く"
-.string "髪飾りが悲く"
+.string "Her hairpiece sorrowfully"
 
 str_0x8002F2E8:
 ;JP Text: "ほこりに汚れていた……"
-.string "ほこりに汚れていた……"
+.string "collects dust on the ground……"
 
 str_0x8002F2D4:
 ;JP Text: "白骨化した死体だ"
-.string "白骨化した死体だ"
+.string "A body rotted to a skeleton."
 
 str_0x8002F2B4:
 ;JP Text: "いまではどんな姿をしていたか"
-.string "いまではどんな姿をしていたか"
+.string "You cannot tell how they used"
 
 str_0x8002F2A0:
 ;JP Text: "まったくわからない"
-.string "まったくわからない"
+.string "to look."
 
 str_0x8002F28C:
 ;JP Text: "う……　うう……"
-.string "う……　うう……"
+.string "Ugh…… nnnh……"
 
 str_0x8002F26C:
 ;JP Text: "男はかすかにうめき声を上げる"
-.string "男はかすかにうめき声を上げる"
+.string "A man faintly moans in pain."
 
 str_0x8002F258:
 ;JP Text: "だが　この傷では"
-.string "だが　この傷では"
+.string "From the look of their wounds,"
 
 str_0x8002F240:
 ;JP Text: "もう助からないだろう"
-.string "もう助からないだろう"
+.string "there is no saving them."
 
 str_0x8002F230:
 ;JP Text: "死体を調べると"
-.string "死体を調べると"
+.string "Upon investigating the body,"
 
 str_0x8002F214:
 ;JP Text: "そこからネズミが走り出した"
-.string "そこからネズミが走り出した"
+.string "rats come scurrying out."
 
 str_0x8002F1FC:
 ;JP Text: "するとすさまじい悪臭が"
-.string "するとすさまじい悪臭が"
+.string "And then, a horrible smell fills"
 
 str_0x8002F1F0:
 ;JP Text: "漂ってきた"
-.string "漂ってきた"
+.string "the air."
 
 str_0x8002F1DC:
 ;JP Text: "あ、あなたは……"
-.string "あ、あなたは……"
+.string "“Y-you’re……”"
 
 str_0x8002F1C0:
 ;JP Text: "瀕死の女がかすかに声を出す"
-.string "瀕死の女がかすかに声を出す"
+.string "A dying woman faintly calls,"
 
 str_0x8002F1A0:
 ;JP Text: "だが　彼女はもう助からない……"
-.string "だが　彼女はもう助からない……"
+.string "but she cannot be saved."
 
 str_0x8002F190:
 ;JP Text: "若い男の死体だ"
-.string "若い男の死体だ"
+.string "A dead body of a young man."
 
 str_0x8002F180:
 ;JP Text: "しかしその顔は"
-.string "しかしその顔は"
+.string "Curiously, he seems to have"
 
 str_0x8002F164:
 ;JP Text: "ほほえんでいるようだった"
-.string "ほほえんでいるようだった"
+.string "died with a smile on his face."
 
 str_0x8002F144:
 ;JP Text: "汚れた衣服だけが残されている"
-.string "汚れた衣服だけが残されている"
+.string "Only dirty clothes remain."
 
 str_0x8002F128:
 ;JP Text: "遺体はすでに土に還っていた"
-.string "遺体はすでに土に還っていた"
+.string "The body has long turned to"
 
 str_0x8002F118:
 ;JP Text: "返事はなかった"
-.string "返事はなかった"
+.string "There was no answer."
 
 str_0x8002F10C:
 ;JP Text: "これから"
-.string "これから"
+.string "How many dead bodies will be"
 
 str_0x8002F0EC:
 ;JP Text: "いくつの遺体を見ていくのだろう"
-.string "いくつの遺体を見ていくのだろう"
+.string "encountered from here on out…?"
 
 str_0x8002F0D4:
 ;JP Text: "黒装束をまとった死体だ"
-.string "黒装束をまとった死体だ"
+.string "A dead body wearing Ninja"
 
 str_0x8002F0B8:
 ;JP Text: "指先で血文字が書かれている"
-.string "指先で血文字が書かれている"
+.string "clothes. "
 
 str_0x8002F094:
 ;JP Text: "「無念だ」とそこには記されていた"
-.string "「無念だ」とそこには記されていた"
+.string "They appear to have written"
 
 str_0x8002F084:
 ;JP Text: "むごい死体だ"
-.string "むごい死体だ"
+.string "A gruesome body."
 
 str_0x8002F068:
 ;JP Text: "とても見られ……ない！！"
-.string "とても見られ……ない！！"
+.string "You cannot bear……to look!!"
 
 str_0x8002F054:
 ;JP Text: "目を見開いたまま"
-.string "目を見開いたまま"
+.string "A man who drew his last breath"
 
 str_0x8002F040:
 ;JP Text: "男は息絶えていた"
-.string "男は息絶えていた"
+.string "with his eyes wide open."
 
 str_0x8002F024:
 ;JP Text: "そっとまぶたを閉じてやる"
-.string "そっとまぶたを閉じてやる"
+.string "You gently close his eyes."
 
 str_0x8002F00C:
 ;JP Text: "おびただしい血を流して"
-.string "おびただしい血を流して"
+.string "They seem to have died a"
 
 str_0x8002EFFC:
 ;JP Text: "いずれは自分も"
-.string "いずれは自分も"
+.string "You wonder if you will meet"
 
 str_0x8002EFD8:
 ;JP Text: "このような姿になるのだろうか……"
-.string "このような姿になるのだろうか……"
+.string "the same fate someday."
 
 str_0x8002EFC4:
 ;JP Text: "青ざめた顔の女……"
-.string "青ざめた顔の女……"
+.string "A woman with a pale face……"
 
 str_0x8002EFA8:
 ;JP Text: "その死に顔は安らかだった"
-.string "その死に顔は安らかだった"
+.string "She looks peaceful in death."
 
 str_0x8002EF94:
 ;JP Text: "首のない死体がある"
-.string "首のない死体がある"
+.string "A headless body. Its clothes"
 
 str_0x8002EF7C:
 ;JP Text: "衣服からして女だろうか"
-.string "衣服からして女だろうか"
+.string "indicate it was a woman."
 
 str_0x8002EF6C:
 ;JP Text: "マントをかけ"
-.string "マントをかけ"
+.string "You modestly lay her to rest"
 
 str_0x8002EF4C:
 ;JP Text: "ささやかではあるが弔いをする"
-.string "ささやかではあるが弔いをする"
+.string "with your cape."
 
 str_0x8002EF2C:
 ;JP Text: "寝ているのかと思ったが違った"
-.string "寝ているのかと思ったが違った"
+.string "You thought they were asleep."
 
 str_0x8002EF1C:
 ;JP Text: "すでに息はなく"
-.string "すでに息はなく"
+.string "However, their body lay cold,"
 
 str_0x8002EF00:
 ;JP Text: "身体は冷たくなっていた……"
-.string "身体は冷たくなっていた……"
+.string "and they draw no breath……"
 
 str_0x8002EEEC:
 ;JP Text: "この男は死んで……"
-.string "この男は死んで……"
+.string "A body that is……"
 
 str_0x800C05CC:
 ;JP Text: "いない"
-.string "いない"
+.string "not dead."
 
 str_0x8002EED8:
 ;JP Text: "高いびきをかいて"
-.string "高いびきをかいて"
+.string "Their loud snores indicate"
 
 str_0x8002EEC4:
 ;JP Text: "寝ているだけだった"
-.string "寝ているだけだった"
+.string "they are just sleeping."
 
 str_0x8002EEB0:
 ;JP Text: "死体だと思った？"
-.string "死体だと思った？"
+.string "Thought I was dead, huh?"
 
 str_0x8002EE90:
 ;JP Text: "チッチッチッ　まだまだ甘いねえ"
-.string "チッチッチッ　まだまだ甘いねえ"
+.string "Heheheh. You got a lot to learn."
 
 str_0x8002EE78:
 ;JP Text: "毒で死んだのだろうか"

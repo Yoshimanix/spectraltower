@@ -5242,7 +5242,7 @@
 
 ; Entry @ 0x8002E474
 .word str_0x8002F128
-.word str_0x800C0540
+.word str_dirt
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0007
@@ -5314,7 +5314,7 @@
 
 ; Entry @ 0x8002E504
 .word str_0x8002F00C
-.word str_0x8002F040
+.word str_gru
 .halfword 0x0002
 .halfword 0x0002
 .halfword 0x0000

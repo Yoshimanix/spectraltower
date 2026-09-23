@@ -69,6 +69,12 @@ str_long:
 .string "Heheheh."
 str_crouch:
 .string "crouched position."
+str_dirt:
+.string "dust."
+str_blood:
+.string "“Regret” with their blood."
+str_gru:
+.string "gruesome, bloody death."
 escape2:
 .string "escape the fight."
 smoothtalk2:
