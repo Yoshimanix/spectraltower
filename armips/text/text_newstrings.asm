@@ -68,13 +68,33 @@ str_waiting:
 str_long:
 .string "Heheheh."
 str_crouch:
-.string "crouched position."
+.string "slumped position."
 str_dirt:
 .string "dust."
 str_blood:
 .string "“Regret” with their blood."
 str_gru:
 .string "gruesome, bloody death."
+str_scratch:
+.string "scratch marks on the floor."
+str_slight:
+.string "slightly."
+str_chest:
+.string "their chest."
+str_tended:
+.string "tended to the deceased."
+str_cremated:
+.string "was cremated."
+str_wildchild:
+.string "Wild Child.”"
+str_dots:
+.string "…………No matter how many times you"
+str_lies:
+.string "lies on the ground."
+str_master:
+.string "its master."
+str_swollen:
+.string "swollen……"
 escape2:
 .string "escape the fight."
 smoothtalk2:
@@ -89,8 +109,6 @@ entrance2:
 .string "make an entrance."
 magic2:
 .string "magic trick."
-taste2:
-.string "taste."
 prayer2:
 .string "unheard."
 str_a_chants:

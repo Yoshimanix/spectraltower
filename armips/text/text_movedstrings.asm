@@ -251,27 +251,27 @@ str_0x80037E94:
 
 str_0x8002E990:
 ;JP Text: "遺体が腐りかけている"
-.string "遺体が腐りかけている"
+.string "A half-decomposed corpse."
 
 str_0x8002E980:
 ;JP Text: "小さな白い虫が"
-.string "小さな白い虫が"
+.string "Countless tiny, white insects"
 
 str_0x8002E968:
 ;JP Text: "大量にわいていた……"
-.string "大量にわいていた……"
+.string "dive in and out of it……"
 
 str_0x800C05B4:
 ;JP Text: "五体が"
-.string "五体が"
+.string "They seem to have been"
 
 str_0x8002E94C:
 ;JP Text: "バラバラに切り刻まれている"
-.string "バラバラに切り刻まれている"
+.string "brutally dismembered."
 
 str_0x8002E938:
 ;JP Text: "壮絶な死に様だった"
-.string "壮絶な死に様だった"
+.string "Quite a gruesome end."
 
 str_0x8002E91C:
 ;JP Text: "さらに　アイテムもいくつか"

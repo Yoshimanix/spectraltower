@@ -5418,7 +5418,7 @@
 
 ; Entry @ 0x8002E5D4
 .word str_0x8002EE54
-.word str_0x800C0540
+.word str_scratch
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0007
@@ -5458,7 +5458,7 @@
 
 ; Entry @ 0x8002E624
 .word str_0x8002EDD0
-.word str_0x8002F118
+.word str_0x8002F38C
 .halfword 0x0002
 .halfword 0x0002
 .halfword 0x0000
@@ -5490,7 +5490,7 @@
 
 ; Entry @ 0x8002E664
 .word str_0x8002ED48
-.word str_0x800C0540
+.word str_slight
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
@@ -5522,7 +5522,7 @@
 
 ; Entry @ 0x8002E6A4
 .word str_0x8002ECC4
-.word str_0x800C0540
+.word str_chest
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
@@ -5530,7 +5530,7 @@
 
 ; Entry @ 0x8002E6B4
 .word str_0x8002ECA8
-.word str_0x800C0540
+.word str_tended
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0007
@@ -5538,7 +5538,7 @@
 
 ; Entry @ 0x8002E6C4
 .word str_0x8002EC94
-.word str_0x800C0540
+.word str_cremated
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
@@ -5562,7 +5562,7 @@
 
 ; Entry @ 0x8002E6F4
 .word str_0x8002EC38
-.word str_0x800C0540
+.word str_wildchild
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0007
@@ -5585,7 +5585,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x8002E724
-.word str_0x800C060C
+.word str_dots
 .word str_0x8002EBE0
 .halfword 0x0002
 .halfword 0x0002
@@ -5602,7 +5602,7 @@
 
 ; Entry @ 0x8002E744
 .word str_0x8002EB9C
-.word str_0x800C0540
+.word str_lies
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000
@@ -5610,7 +5610,7 @@
 
 ; Entry @ 0x8002E754
 .word str_0x8002EB7C
-.word str_0x800C0540
+.word str_master
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0007
@@ -5722,7 +5722,7 @@
 
 ; Entry @ 0x8002E834
 .word str_0x8002E9EC
-.word str_0x800C0540
+.word str_swollen
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0007

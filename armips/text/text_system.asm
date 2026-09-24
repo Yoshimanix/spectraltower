@@ -363,7 +363,7 @@ str_0x8002AC30:
 
 str_0x8002AC10:
 ;JP Text: "しかもウデをケガしてしまった"
-.string "Also, you hurt your arm."
+.string "You also hurt your arm."
 
 str_0x8002ABFC:
 ;JP Text: "ａは１のダメージ！"

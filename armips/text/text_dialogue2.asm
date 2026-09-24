@@ -195,7 +195,7 @@ str_0x800367F8:
 
 str_0x800367E8:
 ;JP Text: "敵と戦います"
-.string "an unhinged attack."
+.string "a ridiculous attack."
 
 str_0x800367CC:
 ;JP Text: "聖なる力とアイテムにより"
@@ -219,7 +219,7 @@ str_0x80036768:
 
 str_0x80036754:
 ;JP Text: "敵に手品を見せます"
-.string "show the enemy a"
+.string "Show the enemy a"
 
 str_0x80036738:
 ;JP Text: "「ワールド」というカード"
@@ -247,7 +247,7 @@ str_0x800366D4:
 
 str_0x800366C4:
 ;JP Text: "敵を味見します"
-.string "Give the enemy a"
+.string "Taste the enemy."
 
 str_0x800366AC:
 ;JP Text: "サイコロの結果内容を"
@@ -275,11 +275,11 @@ str_0x80036650:
 
 str_0x80036640:
 ;JP Text: "敵にやさしく"
-.string "Give the enemy a"
+.string "Pleasantly smile"
 
 str_0x8003662C:
 ;JP Text: "ほほえみかけます"
-.string "pleasant smile."
+.string "at the enemy."
 
 str_0x80036614:
 ;JP Text: "分身をして３人がかりで"

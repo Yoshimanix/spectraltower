@@ -4596,7 +4596,7 @@ str_0x8002F468:
 
 str_0x800C05D4:
 ;JP Text: "ふふん"
-.string "Huhun. You say you're gonna"
+.string "You say you're gonna"
 
 str_0x8002F448:
 ;JP Text: "キミがこの塔にのぼるだって？"
@@ -4608,7 +4608,7 @@ str_0x8002F438:
 
 str_0x8002F418:
 ;JP Text: "ムリムリムリ　ひー　おかしー"
-.string "Hah! Oh man! That's a good one!"
+.string "Hah! Oh man, that's a good one!"
 
 str_0x8002F40C:
 ;JP Text: "反応がない"
@@ -4620,7 +4620,7 @@ str_0x8002F3F0:
 
 str_0x8002F3D4:
 ;JP Text: "うずくまったまま動かない"
-.string "They are sitting still in a"
+.string "They sit still in a"
 
 str_0x8002F3B8:
 ;JP Text: "どうやら死体のようだ……"
@@ -4668,15 +4668,15 @@ str_0x8002F2E8:
 
 str_0x8002F2D4:
 ;JP Text: "白骨化した死体だ"
-.string "A body rotted to a skeleton."
+.string "A corpse rotted to a skeleton."
 
 str_0x8002F2B4:
 ;JP Text: "いまではどんな姿をしていたか"
-.string "You cannot tell how they used"
+.string "Their former appearance is"
 
 str_0x8002F2A0:
 ;JP Text: "まったくわからない"
-.string "to look."
+.string "completely indistinguishable."
 
 str_0x8002F28C:
 ;JP Text: "う……　うう……"
@@ -4684,7 +4684,7 @@ str_0x8002F28C:
 
 str_0x8002F26C:
 ;JP Text: "男はかすかにうめき声を上げる"
-.string "A man faintly moans in pain."
+.string "A man weakly moans in pain."
 
 str_0x8002F258:
 ;JP Text: "だが　この傷では"
@@ -4704,15 +4704,15 @@ str_0x8002F214:
 
 str_0x8002F1FC:
 ;JP Text: "するとすさまじい悪臭が"
-.string "And then, a horrible smell fills"
+.string "Consequently, a horrible smell"
 
 str_0x8002F1F0:
 ;JP Text: "漂ってきた"
-.string "the air."
+.string "fills the air."
 
 str_0x8002F1DC:
 ;JP Text: "あ、あなたは……"
-.string "“Y-you’re……”"
+.string "“Y-you're……”"
 
 str_0x8002F1C0:
 ;JP Text: "瀕死の女がかすかに声を出す"
@@ -4736,7 +4736,7 @@ str_0x8002F164:
 
 str_0x8002F144:
 ;JP Text: "汚れた衣服だけが残されている"
-.string "Only dirty clothes remain."
+.string "Only stained clothes remain."
 
 str_0x8002F128:
 ;JP Text: "遺体はすでに土に還っていた"
@@ -4748,11 +4748,11 @@ str_0x8002F118:
 
 str_0x8002F10C:
 ;JP Text: "これから"
-.string "How many dead bodies will be"
+.string "You wonder how many more"
 
 str_0x8002F0EC:
 ;JP Text: "いくつの遺体を見ていくのだろう"
-.string "encountered from here on out…?"
+.string "corpses you will encounter."
 
 str_0x8002F0D4:
 ;JP Text: "黒装束をまとった死体だ"
@@ -4860,171 +4860,171 @@ str_0x8002EE90:
 
 str_0x8002EE78:
 ;JP Text: "毒で死んだのだろうか"
-.string "毒で死んだのだろうか"
+.string "They must have died from poison."
 
 str_0x8002EE54:
 ;JP Text: "爪で床をかきむしった跡がある……"
-.string "爪で床をかきむしった跡がある……"
+.string "There are visible fingernail"
 
 str_0x8002EE48:
 ;JP Text: "女の死体だ"
-.string "女の死体だ"
+.string "A dead body of a woman."
 
 str_0x800C05C4:
 ;JP Text: "胸元に"
-.string "胸元に"
+.string "A silver pendant on her chest"
 
 str_0x8002EE28:
 ;JP Text: "銀のペンダントが光っていた……"
-.string "銀のペンダントが光っていた……"
+.string "glows with light……"
 
 str_0x8002EE0C:
 ;JP Text: "屈強な戦士が息絶えている"
-.string "屈強な戦士が息絶えている"
+.string "A brawny Warrior lays deceased."
 
 str_0x8002EDFC:
 ;JP Text: "これほどの男が"
-.string "これほどの男が"
+.string "How could a man of this caliber"
 
 str_0x8002EDE0:
 ;JP Text: "命を落とすというのか……"
-.string "命を落とすというのか……"
+.string "meet such a grim fate…?"
 
 str_0x8002EDD0:
 ;JP Text: "話しかけたが"
-.string "話しかけたが"
+.string "You try to speak to them,"
 
 str_0x8002EDC4:
 ;JP Text: "遺体はただ"
-.string "遺体はただ"
+.string "The corpse is simply slumped"
 
 str_0x8002EDA4:
 ;JP Text: "しずかにうずくまっていた……"
-.string "しずかにうずくまっていた……"
+.string "in silence……"
 
 str_0x8002ED90:
 ;JP Text: "目を見開いた死体だ"
-.string "目を見開いた死体だ"
+.string "A corpse with eyes wide-open."
 
 str_0x8002ED80:
 ;JP Text: "その濁った瞳が"
-.string "その濁った瞳が"
+.string "Their clouded pupils stare"
 
 str_0x8002ED64:
 ;JP Text: "じっとこちらを見つめていた"
-.string "じっとこちらを見つめていた"
+.string "directly at you."
 
 str_0x8002ED48:
 ;JP Text: "遺体がかすかに動いている"
-.string "遺体がかすかに動いている"
+.string "The corpse moves ever so"
 
 str_0x8002ED3C:
 ;JP Text: "その身体は"
-.string "その身体は"
+.string "They are on the verge of"
 
 str_0x8002ED20:
 ;JP Text: "魔物になりかけていた……"
-.string "魔物になりかけていた……"
+.string "turning into a monster……"
 
 str_0x8002ED14:
 ;JP Text: "声をかけ"
-.string "声をかけ"
+.string "You call out and try to shake"
 
 str_0x8002ECF8:
 ;JP Text: "ゆすってみたが動かなかった"
-.string "ゆすってみたが動かなかった"
+.string "them, but they don't budge."
 
 str_0x8002ECDC:
 ;JP Text: "冷たい死体がそこにはあった"
-.string "冷たい死体がそこにはあった"
+.string "There lay a cold body."
 
 str_0x8002ECC4:
 ;JP Text: "胸の上で手を組んでいる"
-.string "胸の上で手を組んでいる"
+.string "Their hands are clasped over"
 
 str_0x8002ECA8:
 ;JP Text: "誰かがすでに弔ったようだ"
-.string "誰かがすでに弔ったようだ"
+.string "It seems someone has already"
 
 str_0x8002EC94:
 ;JP Text: "火葬された跡がある"
-.string "火葬された跡がある"
+.string "There are signs that a corpse"
 
 str_0x8002EC74:
 ;JP Text: "遺体はどこにも見あたらなかった"
-.string "遺体はどこにも見あたらなかった"
+.string "There is no sign of a body."
 
 str_0x8002EC58:
 ;JP Text: "小さな墓標が残されている"
-.string "小さな墓標が残されている"
+.string "Only a small tombstone remains."
 
 str_0x8002EC38:
 ;JP Text: "「野生児フナフチここに眠る」"
-.string "「野生児フナフチここに眠る」"
+.string "“Here lies Funafuchi the"
 
 str_0x8002EC2C:
 ;JP Text: "折れた剣に"
-.string "折れた剣に"
+.string "A name is etched on a"
 
 str_0x8002EC18:
 ;JP Text: "名前が刻まれていた"
-.string "名前が刻まれていた"
+.string "broken sword."
 
 str_0x8002EC04:
 ;JP Text: "女戦士ソフィア……"
-.string "女戦士ソフィア……"
+.string "Female Warrior Sofia……"
 
 str_0x8002EBE0:
 ;JP Text: "なんど呼びかけても返事はなかった"
-.string "なんど呼びかけても返事はなかった"
+.string "call out, there is no answer."
 
 str_0x8002EBC8:
 ;JP Text: "足元には冷たい死体が"
-.string "足元には冷たい死体が"
+.string "A cold body is balled up"
 
 str_0x8002EBB8:
 ;JP Text: "横たわっている"
-.string "横たわっている"
+.string "at your feet."
 
 str_0x8002EB9C:
 ;JP Text: "壊れた楽器が転がっている"
-.string "壊れた楽器が転がっている"
+.string "A broken musical instrument"
 
 str_0x8002EB7C:
 ;JP Text: "主人とともに旅立ったというのか"
-.string "主人とともに旅立ったというのか"
+.string "It seems to have departed with"
 
 str_0x8002EB68:
 ;JP Text: "美しい女の遺体だ"
-.string "美しい女の遺体だ"
+.string "A corpse of a beautiful woman."
 
 str_0x8002EB58:
 ;JP Text: "白い花が髪に"
-.string "白い花が髪に"
+.string "A white flower has been"
 
 str_0x8002EB44:
 ;JP Text: "供えられていた……"
-.string "供えられていた……"
+.string "posthumously placed in her hair…"
 
 str_0x800C05BC:
 ;JP Text: "死体だ"
-.string "死体だ"
+.string "A corpse."
 
 str_0x8002EB2C:
 ;JP Text: "盗賊に荒らされたのか"
-.string "盗賊に荒らされたのか"
+.string "It looks like robbers scavenged"
 
 str_0x8002EB0C:
 ;JP Text: "なにも身にまとっていなかった"
-.string "なにも身にまとっていなかった"
+.string "all of their clothes."
 
 str_0x8002EAFC:
 ;JP Text: "人が倒れている"
-.string "人が倒れている"
+.string "A person lays on the ground."
 
 str_0x8002EAE8:
 ;JP Text: "呼んでも返事がない"
-.string "呼んでも返事がない"
+.string "You call, but there is no reply."
 
 str_0x8002EAD8:
 ;JP Text: "………………"
@@ -5032,50 +5032,50 @@ str_0x8002EAD8:
 
 str_0x8002EAC8:
 ;JP Text: "くっ　臭い！"
-.string "くっ　臭い！"
+.string "Holy moly, that stinks!"
 
 str_0x8002EAAC:
 ;JP Text: "ひどく腐乱しているようだ"
-.string "ひどく腐乱しているようだ"
+.string "It looks horribly decomposed."
 
 str_0x8002EA94:
 ;JP Text: "女がうずくまっていた"
-.string "女がうずくまっていた"
+.string "A woman is slumped."
 
 str_0x8002EA84:
 ;JP Text: "話しかけても"
-.string "話しかけても"
+.string "Speaking to her only"
 
 str_0x8002EA64:
 ;JP Text: "帰ってくるのは沈黙だけだった"
-.string "帰ってくるのは沈黙だけだった"
+.string "returns silence."
 
 str_0x8002EA48:
 ;JP Text: "剣が床に突き立てられている"
-.string "剣が床に突き立てられている"
+.string "A sword is stuck in the ground."
 
 str_0x8002EA28:
 ;JP Text: "この男の墓標に違いないだろう"
-.string "この男の墓標に違いないだろう"
+.string "This must be a man's grave."
 
 str_0x8002EA0C:
 ;JP Text: "毒を受けて死んだのだろう"
-.string "毒を受けて死んだのだろう"
+.string "They must have died from poison."
 
 str_0x8002E9EC:
 ;JP Text: "顔が紫色に腫れ上がっていた……"
-.string "顔が紫色に腫れ上がっていた……"
+.string "Their face is purple and"
 
 str_0x8002E9D8:
 ;JP Text: "白骨化した遺体だ"
-.string "白骨化した遺体だ"
+.string "A corpse turned to bones."
 
 str_0x8002E9C0:
 ;JP Text: "あごの骨がカタカタと"
-.string "あごの骨がカタカタと"
+.string "Their jawbone is making a"
 
 str_0x8002E9A8:
 ;JP Text: "小さな音を立てていた"
-.string "小さな音を立てていた"
+.string "slight rattling noise."
 
 Dialogue1TextEnd:
