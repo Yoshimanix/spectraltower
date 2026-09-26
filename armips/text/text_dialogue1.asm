@@ -1364,7 +1364,7 @@ str_0x800C064C:
 
 str_0x800340A0:
 ;JP Text: "あ・な・た！"
-.string "Isn’t that right, sweetie~?"
+.string "Isn't that right, sweetie~?"
 
 str_0x8003408C:
 ;JP Text: "おいかけてくる敵が"
