@@ -10,9 +10,7 @@ start_over2:
 our_atonement:
 .string "are our “Atonement.”"
 knowanything2:
-.string "anything, huh?"
-keepclimbing2:
-.string "the towers…"
+.string "about the towers, do you?"
 str_stopped:
 .string "stand still. Give it a shot!"
 str_trap:
@@ -56,11 +54,13 @@ str_direc:
 str_youngster:
 .string "young one."
 str_feet:
-.string "dragging your feet."
+.string "draggin' your feet."
 str_mumble:
 .string "*Mumbling*"
+str_somany:
+.string "There's just so many creatures"
 str_sorry:
-.string "Oh no……I can't do it!"
+.string "Oh no……I can't say it!"
 str_dumb:
 .string "just a dumb girl! Kyahahaha!"
 str_waiting:
@@ -77,7 +77,7 @@ str_gru:
 .string "gruesome, bloody death."
 str_scratch:
 .string "scratch marks on the floor."
-str_slight:
+str_slightly:
 .string "slightly."
 str_chest:
 .string "their chest."
@@ -129,6 +129,8 @@ str_forthat:
 .string "for that."
 itemget2:
 .string "ｇ."
+str_achest:
+.string "ａ attempted"
 uselesssword2:
 .string "positive effects."
 uselessrod2:

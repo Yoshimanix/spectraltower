@@ -265,11 +265,11 @@ str_0x80039194:
 
 str_0x80039188:
 ;JP Text: "「ｃさん"
-.string "“ｃ, please take"
+.string "“ｃ, take this"
 
 str_0x8003916C:
 ;JP Text: "　いや〜これでもどうぞ」"
-.string "this as a token of appreciation.”"
+.string "as a token of my appreciation.”"
 
 str_0x80039158:
 ;JP Text: "ｇ　をてわたした"

@@ -578,7 +578,7 @@
 
 ; Entry @ 0x8002C004
 .word str_0x8003533C
-.word keepclimbing2
+.word str_0x800C0540
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0007
@@ -4289,7 +4289,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x8002DD04
-.word str_0x80030DBC
+.word str_somany
 .word str_0x80030564
 .halfword 0x0002
 .halfword 0x0002
@@ -5274,7 +5274,7 @@
 
 ; Entry @ 0x8002E4B4
 .word str_0x8002F094
-.word str_0x800C0540
+.word str_blood
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0007
@@ -5490,7 +5490,7 @@
 
 ; Entry @ 0x8002E664
 .word str_0x8002ED48
-.word str_slight
+.word str_slightly
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0000

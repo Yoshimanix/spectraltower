@@ -105,7 +105,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x8002A4C4
-.word str_0x800C0584
+.word str_achest
 .word str_0x8002B22C
 .halfword 0x0002
 .halfword 0x0000

@@ -118,7 +118,7 @@ str_0x800C0554:
 
 str_0x8002A27C:
 ;JP Text: "ステータスが完全回復！"
-.string "status was completely restored!"
+.string "status was fully restored!"
 
 str_0x8002A26C:
 ;JP Text: "ｆ　を使った"

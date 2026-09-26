@@ -59,11 +59,11 @@ str_0x8002B2C4:
 
 str_0x8002B2AC:
 ;JP Text: "病気レベル完全回復！"
-.string "Illness level completely restored!"
+.string "Illness level fully restored!"
 
 str_0x8002B294:
 ;JP Text: "呪いレベル完全回復！"
-.string "Curse level completely restored!"
+.string "Curse level fully restored!"
 
 str_0x8002B280:
 ;JP Text: "どれを捨てますか？"
@@ -95,7 +95,7 @@ str_0x800C0584:
 
 str_0x8002B22C:
 ;JP Text: "宝箱に　いどんだ"
-.string "attempted to open the Treasure Chest."
+.string "to open the Treasure Chest."
 
 str_0x8002B218:
 ;JP Text: "メモリーカードを"
