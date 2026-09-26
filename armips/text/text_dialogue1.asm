@@ -104,7 +104,7 @@ str_0x80035E64:
 
 str_0x80035E48:
 ;JP Text: "この前お化けが出てきたんで"
-.string "The other day, I saw a ghost,"
+.string "The other day, I saw a spirit,"
 
 str_0x80035E2C:
 ;JP Text: "おもわず　お祈りをしたんだ"
@@ -112,7 +112,7 @@ str_0x80035E2C:
 
 str_0x80035E0C:
 ;JP Text: "そしたらお化けは消えちゃった"
-.string "Then, the ghost vanished. It may"
+.string "Then, it vanished. This must"
 
 str_0x80035DEC:
 ;JP Text: "聖神コリーアさまのおかげかな"
@@ -1340,7 +1340,7 @@ str_0x800340F8:
 
 str_0x800340D8:
 ;JP Text: "右上ハジにカギがおいてあるよ"
-.string "There is a key in the top-right"
+.string "There is a key at the top-right"
 
 str_0x800C065C:
 ;JP Text: "えへへ"
@@ -1364,7 +1364,7 @@ str_0x800C064C:
 
 str_0x800340A0:
 ;JP Text: "あ・な・た！"
-.string "Yoooou theeere~!"
+.string "Isn’t that right, sweetie~?"
 
 str_0x8003408C:
 ;JP Text: "おいかけてくる敵が"
@@ -1396,7 +1396,7 @@ str_0x800C0644:
 
 str_0x80033FFC:
 ;JP Text: "これからが本番かな？"
-.string "deal from here on out."
+.string "deal from here."
 
 str_0x80033FDC:
 ;JP Text: "冒険の記録はセーブ像で行うの"

@@ -506,7 +506,7 @@
 
 ; Entry @ 0x80029DAC
 .word str_0x80029ED0
-.word str_0x800C0540
+.word str_intog
 .halfword 0x0002
 .halfword 0x0000
 .halfword 0x0002

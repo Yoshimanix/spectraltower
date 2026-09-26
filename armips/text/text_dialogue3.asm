@@ -77,7 +77,7 @@ str_0x80039544:
 
 str_0x80039528:
 ;JP Text: "みんなをやさしくてらすのよ"
-.string "softly shines upon us all,"
+.string "softly shines upon us all."
 
 str_0x80039518:
 ;JP Text: "不思議な光が"

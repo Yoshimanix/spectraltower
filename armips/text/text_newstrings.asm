@@ -131,6 +131,8 @@ itemget2:
 .string "ｇ."
 str_achest:
 .string "ａ attempted"
+str_intog:
+.string "ｇ."
 uselesssword2:
 .string "positive effects."
 uselessrod2:

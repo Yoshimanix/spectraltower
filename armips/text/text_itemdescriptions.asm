@@ -54,11 +54,11 @@ str_0x8002979C:
 
 str_0x80029780:
 ;JP Text: "使ってみるまで　わからない"
-.string "A medal whose properties are"
+.string "A medal with properties that"
 
 str_0x80029770:
 ;JP Text: "なぞのメダル"
-.string "unknown until it is used."
+.string "are unknown until it is used."
 
 str_0x800C0538:
 ;JP Text: "使うと"

@@ -46,39 +46,39 @@ str_0x8002A3C4:
 
 str_0x8002A3B4:
 ;JP Text: "対鬼レベルが"
-.string "Your Monster level was"
+.string "Your Monster level"
 
 str_0x8002A3A4:
 ;JP Text: "対霊レベルが"
-.string "Your Spirit level was"
+.string "Your Spirit level"
 
 str_0x8002A390:
 ;JP Text: "対使い魔レベルが"
-.string "Your Familiar level was"
+.string "Your Familiar level"
 
 str_0x8002A380:
 ;JP Text: "対竜レベルが"
-.string "Your Dragon level was"
+.string "Your Dragon level"
 
 str_0x8002A370:
 ;JP Text: "対人間レベルが"
-.string "Your Human level was"
+.string "Your Human level"
 
 str_0x8002A360:
 ;JP Text: "対悪魔レベルが"
-.string "Your Demon level was"
+.string "Your Demon level"
 
 str_0x8002A350:
 ;JP Text: "グルメレベルが"
-.string "Your Gourmet level was"
+.string "Your Gourmet level"
 
 str_0x8002A340:
 ;JP Text: "注意レベルが"
-.string "Your Search level was"
+.string "Your Search level"
 
 str_0x8002A330:
 ;JP Text: "武器レベルが"
-.string "Your Weapon level was"
+.string "Your Weapon level"
 
 str_0x8002A320:
 ;JP Text: "力がわいてくる"
@@ -130,11 +130,11 @@ str_0x8002A258:
 
 str_0x8002A248:
 ;JP Text: "なんと正体は"
-.string "Its true form is revealed to be"
+.string "Its original form is revealed"
 
 str_0x8002A23C:
 ;JP Text: "ｇ　だった"
-.string "ｇ."
+.string "To be ｇ."
 
 str_0x8002A228:
 ;JP Text: "意味がなかった…"

@@ -1458,7 +1458,7 @@
 
 ; Entry @ 0x8002C6E4
 .word str_0x800340D8
-.word str_0x800340F8
+.word str_thekey
 .halfword 0x0002
 .halfword 0x0002
 .halfword 0x0007

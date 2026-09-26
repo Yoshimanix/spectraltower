@@ -31,7 +31,7 @@ str_0x80029EE0:
 
 str_0x80029ED0:
 ;JP Text: "ｇ　に変わった"
-.string "It turned to ｇ."
+.string "The item turned into"
 
 str_0x80029EBC:
 ;JP Text: "ｅポイント下がった"
