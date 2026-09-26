@@ -289,4 +289,193 @@ str_0x8002E8D4:
 ;JP Text: "いくつか手に入れた！"
 .string "items!"
 
+
+str_0x8002EA64:
+;JP Text: "帰ってくるのは沈黙だけだった"
+.string "returns silence."
+
+str_0x8002EA48:
+;JP Text: "剣が床に突き立てられている"
+.string "A sword is stuck in the ground."
+
+str_0x8002EA28:
+;JP Text: "この男の墓標に違いないだろう"
+.string "This must be a man's grave."
+
+str_0x8002EA0C:
+;JP Text: "毒を受けて死んだのだろう"
+.string "They must have died from poison."
+
+str_0x8002E9EC:
+;JP Text: "顔が紫色に腫れ上がっていた……"
+.string "Their face is purple and"
+
+str_0x8002E9D8:
+;JP Text: "白骨化した遺体だ"
+.string "A corpse turned to bones."
+
+str_0x8002E9C0:
+;JP Text: "あごの骨がカタカタと"
+.string "Their jawbone is making a"
+
+str_0x8002E9A8:
+;JP Text: "小さな音を立てていた"
+.string "slight rattling noise."
+
+str_0x8002EDD0:
+;JP Text: "話しかけたが"
+.string "You try to speak to them,"
+
+str_0x8002EDC4:
+;JP Text: "遺体はただ"
+.string "The corpse is simply slumped"
+
+str_0x8002EDA4:
+;JP Text: "しずかにうずくまっていた……"
+.string "in silence……"
+
+str_0x8002ED90:
+;JP Text: "目を見開いた死体だ"
+.string "A corpse with eyes wide-open."
+
+str_0x8002ED80:
+;JP Text: "その濁った瞳が"
+.string "Their clouded pupils stare"
+
+str_0x8002ED64:
+;JP Text: "じっとこちらを見つめていた"
+.string "directly at you."
+
+str_0x8002ED48:
+;JP Text: "遺体がかすかに動いている"
+.string "The corpse moves ever so"
+
+str_0x8002ED3C:
+;JP Text: "その身体は"
+.string "They are on the verge of"
+
+str_0x8002ED20:
+;JP Text: "魔物になりかけていた……"
+.string "turning into a monster……"
+
+str_0x8002ED14:
+;JP Text: "声をかけ"
+.string "You call out and try to shake"
+
+str_0x8002ECF8:
+;JP Text: "ゆすってみたが動かなかった"
+.string "them, but they don't budge."
+
+str_0x8002ECDC:
+;JP Text: "冷たい死体がそこにはあった"
+.string "There lay a cold body."
+
+str_0x8002ECC4:
+;JP Text: "胸の上で手を組んでいる"
+.string "Their hands are clasped over"
+
+str_0x8002ECA8:
+;JP Text: "誰かがすでに弔ったようだ"
+.string "It seems someone has already"
+
+str_0x8002EC94:
+;JP Text: "火葬された跡がある"
+.string "There are signs that a corpse"
+
+str_0x8002EC74:
+;JP Text: "遺体はどこにも見あたらなかった"
+.string "There is no sign of a body."
+
+str_0x8002EC58:
+;JP Text: "小さな墓標が残されている"
+.string "Only a small tombstone remains."
+
+str_0x8002EC38:
+;JP Text: "「野生児フナフチここに眠る」"
+.string "“Here lies Funafuchi the"
+
+str_0x8002EC2C:
+;JP Text: "折れた剣に"
+.string "A name is etched on a"
+
+str_0x8002EC18:
+;JP Text: "名前が刻まれていた"
+.string "broken sword."
+
+str_0x8002EC04:
+;JP Text: "女戦士ソフィア……"
+.string "Female Warrior Sofia……"
+
+str_0x8002EBE0:
+;JP Text: "なんど呼びかけても返事はなかった"
+.string "call out, there is no answer."
+
+str_0x8002EBC8:
+;JP Text: "足元には冷たい死体が"
+.string "A cold body is balled up"
+
+str_0x8002EBB8:
+;JP Text: "横たわっている"
+.string "at your feet."
+
+str_0x8002EB9C:
+;JP Text: "壊れた楽器が転がっている"
+.string "A broken musical instrument"
+
+str_0x8002EB7C:
+;JP Text: "主人とともに旅立ったというのか"
+.string "It seems to have departed with"
+
+str_0x8002EB68:
+;JP Text: "美しい女の遺体だ"
+.string "A corpse of a beautiful woman."
+
+str_0x8002EB58:
+;JP Text: "白い花が髪に"
+.string "A white flower has been"
+
+str_0x8002EB44:
+;JP Text: "供えられていた……"
+.string "posthumously placed in her hair…"
+
+str_0x800C05BC:
+;JP Text: "死体だ"
+.string "A corpse."
+
+str_0x8002EB2C:
+;JP Text: "盗賊に荒らされたのか"
+.string "It looks like robbers scavenged"
+
+str_0x8002EB0C:
+;JP Text: "なにも身にまとっていなかった"
+.string "all of their clothes."
+
+str_0x8002EAFC:
+;JP Text: "人が倒れている"
+.string "A person lays on the ground."
+
+str_0x8002EAE8:
+;JP Text: "呼んでも返事がない"
+.string "You call, but there is no reply."
+
+str_0x8002EAD8:
+;JP Text: "………………"
+.string "………………"
+
+str_0x8002EAC8:
+;JP Text: "くっ　臭い！"
+.string "Holy moly, that stinks!"
+
+str_0x8002EAAC:
+;JP Text: "ひどく腐乱しているようだ"
+.string "It looks horribly decomposed."
+
+str_0x8002EA94:
+;JP Text: "女がうずくまっていた"
+.string "A woman is slumped."
+
+str_0x8002EA84:
+;JP Text: "話しかけても"
+.string "Speaking to her only"
+
 MovedStringsEnd:
