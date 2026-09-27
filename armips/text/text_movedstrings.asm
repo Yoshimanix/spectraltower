@@ -137,7 +137,7 @@ str_0x80029888:
 
 str_0x8002986C:
 ;JP Text: "なぜかやわらかい不思議な剣"
-.string "An odd, weirdly bendy sword."
+.string "A strange, weirdly bendy sword."
 
 str_0x80029858:
 ;JP Text: "コインマンに強い剣"
@@ -396,7 +396,7 @@ str_0x8002EC38:
 
 str_0x8002EC2C:
 ;JP Text: "折れた剣に"
-.string "A name is etched on a"
+.string "A name is etched into a"
 
 str_0x8002EC18:
 ;JP Text: "名前が刻まれていた"
@@ -404,7 +404,7 @@ str_0x8002EC18:
 
 str_0x8002EC04:
 ;JP Text: "女戦士ソフィア……"
-.string "Female Warrior Sofia……"
+.string "“Lady Sofia, The Warrior.”"
 
 str_0x8002EBE0:
 ;JP Text: "なんど呼びかけても返事はなかった"

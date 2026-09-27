@@ -239,7 +239,7 @@ str_0x8002AF14:
 
 str_0x8002AEFC:
 ;JP Text: "むしゃ　むしゃ　むしゃ"
-.string "*munch* *munch* *munch*"
+.string "*Munch* *Munch* *Munch*"
 
 str_0x8002AEE8:
 ;JP Text: "ａ　が食べたのは"

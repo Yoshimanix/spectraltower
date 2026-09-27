@@ -4648,7 +4648,7 @@ str_0x8002F354:
 
 str_0x8002F33C:
 ;JP Text: "だいぶ昔のもののようだ"
-.string "It looks pretty old."
+.string "It's been there for some time."
 
 str_0x8002F328:
 ;JP Text: "人が死んでいる……"
@@ -4676,7 +4676,7 @@ str_0x8002F2B4:
 
 str_0x8002F2A0:
 ;JP Text: "まったくわからない"
-.string "completely indistinguishable."
+.string "completely unrecognizable."
 
 str_0x8002F28C:
 ;JP Text: "う……　うう……"
