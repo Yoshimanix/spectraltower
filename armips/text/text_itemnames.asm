@@ -136,7 +136,7 @@ str_8003CB48:
 
 str_8003CB38:
 ;JP TEXT: "ねずみのしっぽ"
-.string "Mouse Tail"
+.string "Rat's Tail"
 
 str_8003CB2C:
 ;JP TEXT: "どくけし"

@@ -121,11 +121,11 @@ str_0x800298DC:
 
 str_0x800298C4:
 ;JP Text: "鬼斬り人サムライの剣"
-.string "A monster-slaying Samurai"
+.string "A sword forged for"
 
 str_0x800298B0:
 ;JP Text: "鬼を斬るための剣"
-.string "sword for killing Monsters."
+.string "slaying Monsters."
 
 str_0x8002989C:
 ;JP Text: "聖なる光をはなつ剣"

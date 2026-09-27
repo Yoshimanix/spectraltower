@@ -233,7 +233,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x80028C2C
-.word str_0x800295B8
+.word str_aposs
 .word str_0x800295A0
 .halfword 0x0002
 .halfword 0x0000
@@ -241,7 +241,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x80028C3C
-.word str_0x800295B8
+.word str_aposs
 .word str_0x80029584
 .halfword 0x0002
 .halfword 0x0000
@@ -249,7 +249,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x80028C4C
-.word str_0x800295B8
+.word str_aposs
 .word str_0x8002956C
 .halfword 0x0002
 .halfword 0x0000
@@ -257,7 +257,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x80028C5C
-.word str_0x800295B8
+.word str_aposs
 .word str_0x8002955C
 .halfword 0x0002
 .halfword 0x0000

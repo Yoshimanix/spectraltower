@@ -135,6 +135,8 @@ str_intog:
 .string "ｇ."
 uselesssword2:
 .string "positive effects."
+str_aposs:
+.string "A possibly edible"
 uselessrod2:
 .string "to stone."
 strange2:
