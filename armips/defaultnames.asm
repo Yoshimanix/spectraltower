@@ -116,7 +116,7 @@ ori v0,zero,0x7
 .byte 0x8
 ; Catherine
 .org 0x800101B8
-.stringn "Cather"
+.stringn "Cathe"
 ; 0xD1 is a unique "ri" ligature made to make "Catherine" into 8 characters
 .byte 0xd1
 .stringn "ne"
