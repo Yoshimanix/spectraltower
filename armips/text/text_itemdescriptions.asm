@@ -26,11 +26,11 @@ str_0x80029824:
 
 str_0x80029810:
 ;JP Text: "人を斬るための魔剣"
-.string "A magic Human-killing sword."
+.string "A magic sword that cuts through"
 
 str_0x80029804:
 ;JP Text: "人間に強い"
-.string "It is strong against Humans."
+.string "people. Strong against Humans."
 
 str_0x800297EC:
 ;JP Text: "神々が人に与えし聖剣"
@@ -174,7 +174,7 @@ str_0x800294F8:
 
 str_0x800294EC:
 ;JP Text: "ワープする"
-.string "to the next stage."
+.string "a higher floor."
 
 str_0x800294D0:
 ;JP Text: "ユニコーンの角でできている"
@@ -262,19 +262,19 @@ str_0x8002930C:
 
 str_0x80029300:
 ;JP Text: "使うと……"
-.string "“Tenma Stone.” When used……"
+.string "“Godslayer Stone.” When used……"
 
 str_0x800292E8:
 ;JP Text: "天魔石から削り出した剣"
-.string "A sword forged from the Tenma"
+.string "Forged from the Godslayer Stone."
 
 str_0x800292D0:
 ;JP Text: "不思議な力を秘めている"
-.string "Stone. It holds mystic power."
+.string "This sword holds mystic power."
 
 str_0x800292BC:
 ;JP Text: "天魔石で作った棒"
-.string "A baton created with the Tenma"
+.string "A baton made with the Godslayer"
 
 str_0x800292A8:
 ;JP Text: "武器として使えます"
@@ -282,11 +282,11 @@ str_0x800292A8:
 
 str_0x8002928C:
 ;JP Text: "装備するとレベルは下がるが"
-.string "When equipped, you lose a "
+.string "When equipped, you lose "
 
 str_0x80029274:
 ;JP Text: "１の出る確率が上がる"
-.string "level, but roll 1 more often."
+.string "levels, but roll 1 more often."
 
 str_0x80029268:
 ;JP Text: "装備すると"

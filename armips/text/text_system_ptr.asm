@@ -193,7 +193,7 @@
 .halfword 0x0001
 
 ; Entry @ 0x8002A574
-.word str_0x800C0584
+.word str_toiletill
 .word str_0x8002B0DC
 .halfword 0x0002
 .halfword 0x0001
@@ -209,7 +209,7 @@
 .halfword 0x0001
 
 ; Entry @ 0x8002A594
-.word str_0x800C0584
+.word str_feelsre
 .word str_0x8002B0B8
 .halfword 0x0002
 .halfword 0x0001

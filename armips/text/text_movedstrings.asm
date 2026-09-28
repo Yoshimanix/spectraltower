@@ -31,7 +31,7 @@ str_0x80029EE0:
 
 str_0x80029ED0:
 ;JP Text: "ｇ　に変わった"
-.string "The item turned into"
+.string "The item(s) turned into"
 
 str_0x80029EBC:
 ;JP Text: "ｅポイント下がった"
@@ -121,11 +121,11 @@ str_0x800298DC:
 
 str_0x800298C4:
 ;JP Text: "鬼斬り人サムライの剣"
-.string "A sword forged for"
+.string "A Samurai's sword that was"
 
 str_0x800298B0:
 ;JP Text: "鬼を斬るための剣"
-.string "slaying Monsters."
+.string "forged for slaying Monsters."
 
 str_0x8002989C:
 ;JP Text: "聖なる光をはなつ剣"
@@ -320,7 +320,7 @@ str_0x8002E9C0:
 
 str_0x8002E9A8:
 ;JP Text: "小さな音を立てていた"
-.string "slight rattling noise."
+.string "slight creaking noise."
 
 str_0x8002EDD0:
 ;JP Text: "話しかけたが"

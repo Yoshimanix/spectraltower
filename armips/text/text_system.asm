@@ -135,7 +135,7 @@ str_0x8002B164:
 
 str_0x8002B150:
 ;JP Text: "中に入りますか？"
-.string "Will you enter inside?"
+.string "Will you go inside?"
 
 str_0x8002B138:
 ;JP Text: "お化けトイレに入った"
@@ -155,11 +155,11 @@ str_0x8002B104:
 
 str_0x8002B0F0:
 ;JP Text: "こりゃ　たまらない"
-.string "This is unbearable…"
+.string "This is unbearable!"
 
 str_0x8002B0DC:
 ;JP Text: "病気をｅうけた！"
-.string "became ill by ｅ."
+.string "increased by ｅ."
 
 str_0x8002B0D0:
 ;JP Text: "ふう……"
@@ -167,7 +167,7 @@ str_0x8002B0D0:
 
 str_0x8002B0B8:
 ;JP Text: "スッキリと体力ｅ回復"
-.string "was relieved, recovered ｅ HP."
+.string "ｅ HP recovered."
 
 str_0x8002B0A4:
 ;JP Text: "ベッドゴーレムだ"
@@ -191,7 +191,7 @@ str_0x8002B048:
 
 str_0x8002B02C:
 ;JP Text: "それでは　おやすみなさい"
-.string "In that case, goodnight."
+.string "Have a good rest!"
 
 str_0x8002B010:
 ;JP Text: "「ぐっすりねむれたでしょ"

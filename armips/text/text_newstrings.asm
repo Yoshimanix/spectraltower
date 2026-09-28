@@ -11,6 +11,8 @@ our_atonement:
 .string "are our “Atonement.”"
 knowanything2:
 .string "about the towers, do you?"
+str_nothingnote:
+.string "notable about it."
 str_stopped:
 .string "stand still. Give it a shot!"
 str_trap:
@@ -131,6 +133,10 @@ itemget2:
 .string "ｇ."
 str_achest:
 .string "ａ attempted"
+str_toiletill:
+.string "ａ's Illness level"
+str_feelsre:
+.string "ａ feels relieved."
 str_intog:
 .string "ｇ."
 uselesssword2:

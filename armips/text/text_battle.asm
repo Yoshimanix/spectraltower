@@ -149,7 +149,7 @@ str_0x8002B920:
 
 str_0x8002B90C:
 ;JP Text: "ブタの息をはいた"
-.string "breathes in the pig's breath."
+.string "breathes out pig's breath."
 
 str_0x8002B8FC:
 ;JP Text: "ブタになった"
@@ -217,30 +217,30 @@ str_0x8002B7E0:
 
 str_0x8002B7D4:
 ;JP Text: "ｈ　ポイ！"
-.string "Discarded ｈ!"
+.string "You discarded ｈ!"
 
 str_0x8002B7C8:
 ;JP Text: "ｉ　ポイ！"
-.string "Discarded ｉ!"
+.string "You discarded ｉ!"
 
 str_0x8002B7BC:
 ;JP Text: "ｊ　ポイ！"
-.string "Discarded ｊ!"
+.string "You discarded ｊ!"
 
 str_0x8002B7B0:
 ;JP Text: "ｋ　ポイ！"
-.string "Discarded ｋ!"
+.string "You discarded ｋ!"
 
 str_0x8002B7A4:
 ;JP Text: "ｌ　ポイ！"
-.string "Discarded ｌ!"
+.string "You discarded ｌ!"
 
 str_0x8002B798:
 ;JP Text: "気がつくと"
-.string "Before you knew it,"
+.string "You wake up to realize that"
 
 str_0x8002B778:
 ;JP Text: "かってにアイテムを捨てていた！"
-.string "your items were discarded!"
+.string "you've been discarding items!"
 
 BattleTextEnd:

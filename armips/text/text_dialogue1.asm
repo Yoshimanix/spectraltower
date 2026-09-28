@@ -140,7 +140,7 @@ str_0x80035D68:
 
 str_0x80035D54:
 ;JP Text: "ユニコーンロッド…"
-.string "when you shake it…"
+.string "when you wave it…"
 
 str_0x80035D38:
 ;JP Text: "調子にのって使いまくったら"
@@ -576,7 +576,7 @@ str_0x800352E0:
 
 str_0x800352C8:
 ;JP Text: "文字がきざまれている…"
-.string "next to a dead body…"
+.string "next to a corpse…"
 
 str_0x800352BC:
 ;JP Text: "「無念」"
@@ -600,11 +600,11 @@ str_0x80035268:
 
 str_0x8003525C:
 ;JP Text: "しかばねだ"
-.string "There is a dead body."
+.string "It's a dead body."
 
 str_0x8003524C:
 ;JP Text: "別に何もない"
-.string "There is nothing here."
+.string "There is nothing particularly"
 
 str_0x80035230:
 ;JP Text: "俺はこう見えても呪術師だ"
@@ -1712,7 +1712,7 @@ str_0x8003388C:
 
 str_0x80033880:
 ;JP Text: "わっ！！"
-.string "Woah!!"
+.string "Boo!!"
 
 str_0x80033870:
 ;JP Text: "わーい　わーい"
@@ -1720,7 +1720,7 @@ str_0x80033870:
 
 str_0x80033860:
 ;JP Text: "ビックリしたー"
-.string "You scared me!"
+.string "I scared you!"
 
 str_0x800C063C:
 ;JP Text: "ちぇっ"
@@ -3412,7 +3412,7 @@ str_0x80031064:
 
 str_0x800C05FC:
 ;JP Text: "うーむ"
-.string "Hmm…"
+.string "Oh man…"
 
 str_0x80031044:
 ;JP Text: "悩みすぎると頭が薄くなるのお"
@@ -3480,11 +3480,11 @@ str_0x80030EF8:
 
 str_0x80030EDC:
 ;JP Text: "これこれ　そこのお若いの"
-.string "Hey you, youngster. Where you"
+.string "Hey you, youngster. Where are"
 
 str_0x80030EBC:
 ;JP Text: "そんなに急いでどこへ行くんじゃ"
-.string "going in such a hurry?"
+.string "you going in such a hurry?"
 
 str_0x80030E9C:
 ;JP Text: "人生は長い　後悔は先にたたんと"
@@ -4456,7 +4456,7 @@ str_0x8002F7FC:
 
 str_0x8002F7E0:
 ;JP Text: "あんまりひどい顔だったから"
-.string "It's just so ugly."
+.string "Your face is just so ugly."
 
 str_0x8002F7BC:
 ;JP Text: "ホントのこと言ってゴメンなさいネ"
