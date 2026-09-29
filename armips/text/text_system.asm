@@ -203,7 +203,7 @@ str_0x8002AFF8:
 
 str_0x8002AFE0:
 ;JP Text: "しかしベッドゴーレムは"
-.string "However, the Bed Golem"
+.string "Oh no! the Bed Golem"
 
 str_0x8002AFC4:
 ;JP Text: "別の場所に移動していた！"
@@ -211,7 +211,7 @@ str_0x8002AFC4:
 
 str_0x8002AFA8:
 ;JP Text: "しかも　下のステージに！"
-.string "It moved to a lower floor!"
+.string "it's moving to a lower floor!"
 
 str_0x8002AF8C:
 ;JP Text: "「ぼくはパン屋のユウさん"

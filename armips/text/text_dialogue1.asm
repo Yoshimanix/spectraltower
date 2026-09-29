@@ -4148,7 +4148,7 @@ str_0x8002FF24:
 
 str_0x8002FF10:
 ;JP Text: "サイテーの生き物ね"
-.string "of rotten creatures!"
+.string "rotten creatures!"
 
 str_0x8002FEEC:
 ;JP Text: "なによ　そんなに妖精が珍しいの？"

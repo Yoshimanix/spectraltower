@@ -265,8 +265,8 @@
 .halfword 0x0001
 
 ; Entry @ 0x8002A604
+.word str_evenworse
 .word str_0x8002AFA8
-.word str_0x800C0540
 .halfword 0x0001
 .halfword 0x0001
 .halfword 0x0008

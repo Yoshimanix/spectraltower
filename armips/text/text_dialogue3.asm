@@ -85,7 +85,7 @@ str_0x80039518:
 
 str_0x80039508:
 ;JP Text: "あたりをてらす"
-.string "illuminates all around."
+.string "illuminates the area."
 
 str_0x800394F8:
 ;JP Text: "体力がｅ回復！"
@@ -93,7 +93,7 @@ str_0x800394F8:
 
 str_0x800394E0:
 ;JP Text: "しかし何もおこらない"
-.string "However, nothing happens."
+.string "However, nothing happened."
 
 str_0x800394CC:
 ;JP Text: "商談をもちかけた"
@@ -297,7 +297,7 @@ str_0x80039108:
 
 str_0x800390F0:
 ;JP Text: "わたせるアイテムがない"
-.string "the ａ."
+.string "ａ."
 
 str_0x800390DC:
 ;JP Text: "花と風の歌を歌った"

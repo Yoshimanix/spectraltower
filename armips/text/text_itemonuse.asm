@@ -30,7 +30,7 @@ str_0x800C056C:
 
 str_0x800C0564:
 ;JP Text: "ふった"
-.string "was swung."
+.string "was waved."
 
 str_0x8002A3D8:
 ;JP Text: "しかし何もおこらなかった"
@@ -274,7 +274,7 @@ str_0x80029FB8:
 
 str_0x80029FA4:
 ;JP Text: "この地をあたえる"
-.string "The Demon King Janes."
+.string "The Demon King Janesse."
 
 str_0x80029F8C:
 ;JP Text: "基と基を　あわせし時"

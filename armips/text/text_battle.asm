@@ -73,7 +73,7 @@ str_0x8002BA64:
 
 str_0x8002BA4C:
 ;JP Text: "ｃ　は変なことをした"
-.string "ｃ did something"
+.string "ｃ does something"
 
 str_0x8002BA38:
 ;JP Text: "ｈ　をこわされた！"
@@ -93,15 +93,15 @@ str_0x8002B9FC:
 
 str_0x8002B9E0:
 ;JP Text: "ものすごく変なことをした"
-.string "did something very strange."
+.string "does something very strange."
 
 str_0x800C05A4:
 ;JP Text: "ｈ　と"
-.string "The ｈ and "
+.string "ｈ and ｉ"
 
 str_0x8002B9CC:
 ;JP Text: "ｉ　をこわされた！"
-.string "ｉ have been destroyed!"
+.string "have been destroyed!"
 
 str_0x8002B9BC:
 ;JP Text: "ｃ　の指先が"

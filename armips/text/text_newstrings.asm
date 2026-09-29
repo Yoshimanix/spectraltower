@@ -137,6 +137,8 @@ str_toiletill:
 .string "ａ's Illness level"
 str_feelsre:
 .string "ａ feels relieved."
+str_evenworse:
+.string "Even worse,"
 str_intog:
 .string "ｇ."
 uselesssword2:
