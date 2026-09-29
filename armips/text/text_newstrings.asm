@@ -117,6 +117,8 @@ str_a_chants:
 .string "ａ chants "
 incredible_strike:
 .string "obliterated ｃ."
+str_aisalso:
+.string "ａ also"
 str_cwas:
 .string "ｃ was"
 str_koshi:

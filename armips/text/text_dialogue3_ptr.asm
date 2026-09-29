@@ -1913,7 +1913,7 @@
 .halfword 0x0001
 
 ; Entry @ 0x80037B04
-.word str_0x800C06B8
+.word str_aisalso
 .word str_0x800382F8
 .halfword 0x0002
 .halfword 0x0001

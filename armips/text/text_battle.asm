@@ -77,7 +77,7 @@ str_0x8002BA4C:
 
 str_0x8002BA38:
 ;JP Text: "ｈ　をこわされた！"
-.string "The ｈ was destroyed!"
+.string "ｈ was destroyed!"
 
 str_0x8002BA28:
 ;JP Text: "ｃ　の目が光る"

@@ -581,7 +581,7 @@ str_0x80038B28:
 
 str_0x80038B10:
 ;JP Text: "自分の体に火をはなった"
-.string "lights themself on fire."
+.string "lights themselves on fire."
 
 str_0x80038AF8:
 ;JP Text: "敵にとっしんしていった"
