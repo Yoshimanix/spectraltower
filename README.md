@@ -6,10 +6,9 @@ All text and graphics have been translated, and subtitles have been added to the
 
 ## How to patch
 
-(TBD)
-
 To patch your game, download the latest version of the patch from the Releases page, and extract it.
-Then, running the provided XDelta program, patch `Spectral Tower (Japan).bin` ripped from your legally owned copy of the game.
+Then, drag and drop `Spectral Tower (Japan).bin`, ripped from your legally owned copy of the game, to `Drag and Drop your BIN file here.bat`.
+Your game will be automagically patched, and a corresponding CUE file will be created for it.
 
 ## How to build
 
