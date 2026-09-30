@@ -81,7 +81,7 @@ str_800284A4:
 
 str_80028498:
 ;JP TEXT: "美しき戦士"
-.string "Beautiful Warrior"
+.string "Handsome Warrior"
 
 str_8002848C:
 ;JP TEXT: "魔法戦士"
@@ -333,11 +333,11 @@ str_800BE4DC:
 
 str_800282A0:
 ;JP TEXT: "魔猿・悟空"
-.string "Magic Monkey Goku"
+.string "Magic Ape Goku"
 
 str_800BE4D4:
 ;JP TEXT: "軍師"
-.string "Military Strategist"
+.string "War Strategist"
 
 str_8002828C:
 ;JP TEXT: "カンフーマスター"
@@ -433,7 +433,7 @@ str_80028198:
 
 str_8002818C:
 ;JP TEXT: "無限戦闘兵"
-.string "Invincible Soldier"
+.string "Infinity Soldier"
 
 str_80028180:
 ;JP TEXT: "最後の勇者"
