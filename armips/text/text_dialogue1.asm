@@ -28,7 +28,7 @@ str_0x80036040:
 
 str_0x80036028:
 ;JP Text: "石化しているものもある"
-.string "Rusted that they turn to stone."
+.string "rusted that they turn to stone."
 
 str_0x8003600C:
 ;JP Text: "しかし　まほうのといしを"
@@ -60,7 +60,7 @@ str_0x80035F78:
 
 str_0x80035F60:
 ;JP Text: "彼女はやってこない…"
-.string "Yet she never shows up…"
+.string "yet she never shows up…"
 
 str_0x80035F54:
 ;JP Text: "やっぱり"
@@ -96,11 +96,11 @@ str_0x80035E98:
 
 str_0x80035E80:
 ;JP Text: "ヨユウのある時にふんで"
-.string "You should take a step"
+.string "You should step on them"
 
 str_0x80035E64:
 ;JP Text: "こうかを調べておくべきだな"
-.string "on them, and see what they do."
+.string "and see what they do."
 
 str_0x80035E48:
 ;JP Text: "この前お化けが出てきたんで"
@@ -112,7 +112,7 @@ str_0x80035E2C:
 
 str_0x80035E0C:
 ;JP Text: "そしたらお化けは消えちゃった"
-.string "Then, it vanished. This must"
+.string "Then, it vanished. It must"
 
 str_0x80035DEC:
 ;JP Text: "聖神コリーアさまのおかげかな"
@@ -484,7 +484,7 @@ str_0x800354FC:
 
 str_0x800354EC:
 ;JP Text: "しかしそれは"
-.string "However, that is our"
+.string "However, that is"
 
 str_0x800354D4:
 ;JP Text: "「つぐない」なのです"
@@ -580,7 +580,7 @@ str_0x800352C8:
 
 str_0x800352BC:
 ;JP Text: "「無念」"
-.string "“Regret”"
+.string "“Nirvana”"
 
 str_0x800352AC:
 ;JP Text: "わたしの力を"
@@ -708,7 +708,7 @@ str_0x80034FB8:
 
 str_0x80034F9C:
 ;JP Text: "先に進めませんよ　ブルブル"
-.string "to go any further. *shiver*"
+.string "to go any further. *shivers*"
 
 str_0x80034F7C:
 ;JP Text: "このままタワーをのぼるべきか"
@@ -848,7 +848,7 @@ str_0x80034C20:
 
 str_0x80034C00:
 ;JP Text: "戦士も魔法使いもタワー内では"
-.string "Warriors and mages all wear"
+.string "Warriors and Mages all wear"
 
 str_0x80034BE8:
 ;JP Text: "みなマントをつけている"
@@ -1364,7 +1364,7 @@ str_0x800C064C:
 
 str_0x800340A0:
 ;JP Text: "あ・な・た！"
-.string "Isn't that right, sweetie~?"
+.string "Isn't that right, dear?~"
 
 str_0x8003408C:
 ;JP Text: "おいかけてくる敵が"
@@ -1560,7 +1560,7 @@ str_0x80033C38:
 
 str_0x80033C20:
 ;JP Text: "ボクらは別に妖精族が"
-.string "We don't just hate fairies"
+.string "We don't hate fairies"
 
 str_0x80033C08:
 ;JP Text: "キライなわけじゃないよ"
@@ -1848,7 +1848,7 @@ str_0x800335A0:
 
 str_0x8003358C:
 ;JP Text: "ルーチェっていう"
-.string "There is a Bard name Luce."
+.string "There is a Bard named Luce."
 
 str_0x8003356C:
 ;JP Text: "吟遊詩人のお姉さんがいるんだ"
@@ -2076,7 +2076,7 @@ str_0x80033084:
 
 str_0x80033064:
 ;JP Text: "わからないって？　そうだよねえ"
-.string "tower? Yeah, that's true."
+.string "tower? Yeah, that's true…"
 
 str_0x80033050:
 ;JP Text: "そこの冒険者！！"
@@ -2196,7 +2196,7 @@ str_0x80032DD8:
 
 str_0x80032DBC:
 ;JP Text: "お風呂に入っていないなぁ…"
-.string "since entering this tower…"
+.string "since I came to this tower…"
 
 str_0x80032DB0:
 ;JP Text: "あのですネ"
@@ -2264,7 +2264,7 @@ str_0x80032C30:
 
 str_0x80032C0C:
 ;JP Text: "せっかくの剣を壊されてしまって…"
-.string "this sword I worked so hard for…"
+.string "the sword I worked so hard for…"
 
 str_0x80032BF4:
 ;JP Text: "また　探さないとなぁ…"
@@ -4032,7 +4032,7 @@ str_0x8003021C:
 
 str_0x80030200:
 ;JP Text: "妖精は死ぬと風にかわるのよ"
-.string "In death, fairies become the"
+.string "In death, Fairies become the"
 
 str_0x800301EC:
 ;JP Text: "世界を飛び回る風に"
@@ -4044,7 +4044,7 @@ str_0x800301C8:
 
 str_0x800301AC:
 ;JP Text: "どう　信じられるかしら？"
-.string "Again. So… what do you think?"
+.string "again…what do you think of that?"
 
 str_0x80030190:
 ;JP Text: "この塔の謎を知りたいの？"
@@ -4544,7 +4544,7 @@ str_0x8002F5CC:
 
 str_0x8002F5B0:
 ;JP Text: "鬼さんこちら　手のなる方へ"
-.string "Follow the sounds, Oni-san."
+.string "Catch me if you can!"
 
 str_0x8002F590:
 ;JP Text: "トロいあんたにゃ捕まらないよ"

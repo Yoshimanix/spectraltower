@@ -9,7 +9,7 @@ str_0x800C06D8:
 
 str_0x80039668:
 ;JP Text: "逃げられない！"
-.string "failed to escape!"
+.string "Failed to escape!"
 
 str_0x80039650:
 ;JP Text: "聖神コリーアに祈った"
@@ -33,7 +33,7 @@ str_0x8003961C:
 
 str_0x80039604:
 ;JP Text: "何も考えつかなかった…"
-.string "nothing came to mind."
+.string "nothing comes to mind."
 
 str_0x800395F0:
 ;JP Text: "戦いに役立てます！"
@@ -53,7 +53,7 @@ str_0x800395CC:
 
 str_0x800395B4:
 ;JP Text: "あまり効果がなかった…"
-.string "It wasn't very effective…"
+.string "it wasn't very effective…"
 
 str_0x800395A0:
 ;JP Text: "ぬすみを　働いた"
@@ -61,7 +61,7 @@ str_0x800395A0:
 
 str_0x8003958C:
 ;JP Text: "うまくぬすみだした"
-.string "The attempt was successful."
+.string "was skillfully stolen."
 
 str_0x80039570:
 ;JP Text: "しかし　何もぬすめなかった"
@@ -81,7 +81,7 @@ str_0x80039528:
 
 str_0x80039518:
 ;JP Text: "不思議な光が"
-.string "the mysterious light,"
+.string "A mysterious light"
 
 str_0x80039508:
 ;JP Text: "あたりをてらす"
@@ -189,7 +189,7 @@ str_0x800392E4:
 
 str_0x800392CC:
 ;JP Text: "アイテム取りを行った"
-.string "tries to steal an item."
+.string "tries to take an item."
 
 str_0x800392C0:
 ;JP Text: "ゲットした"
@@ -461,7 +461,7 @@ str_0x80038DB8:
 
 str_0x80038D9C:
 ;JP Text: "０Ｐのダメージをあたえた"
-.string "Did 0 points of damage."
+.string "did 0 points of damage."
 
 str_0x80038D8C:
 ;JP Text: "大声でさけんだ"
@@ -477,7 +477,7 @@ str_0x80038D54:
 
 str_0x80038D34:
 ;JP Text: "きまぐれまじんにふっとばされた"
-.string "was sent flying by the Majin."
+.string "flying by the fickle Majin."
 
 str_0x80038D1C:
 ;JP Text: "きまぐれ獣があらわれた"
@@ -501,7 +501,7 @@ str_0x80038CC0:
 
 str_0x80038CA4:
 ;JP Text: "きまぐれ君はさっていった"
-.string "Mr. Fickle guy left."
+.string "Mr. Fickle Guy left."
 
 str_0x80038C8C:
 ;JP Text: "変なおどりをおどった"
@@ -577,7 +577,7 @@ str_0x80038B40:
 
 str_0x80038B28:
 ;JP Text: "こうなりゃ、やけだー"
-.string "Time to light a fire on my ass!"
+.string "Time to burn it all down!"
 
 str_0x80038B10:
 ;JP Text: "自分の体に火をはなった"
@@ -609,7 +609,7 @@ str_0x80038A84:
 
 str_0x80038A6C:
 ;JP Text: "アイテムが消えていく"
-.string "loses all their items."
+.string "item disappears."
 
 str_0x80038A50:
 ;JP Text: "しかし　何もおこらなかった"
@@ -629,11 +629,11 @@ str_0x80038A14:
 
 str_0x800C06A4:
 ;JP Text: "ａ　に"
-.string "All of the flames bounce"
+.string "All of the flames are sent"
 
 str_0x800389F4:
 ;JP Text: "全ての炎がはね返ってきました"
-.string "off of ａ."
+.string "back to ａ."
 
 str_0x800389E4:
 ;JP Text: "祈りはじめた"
@@ -741,7 +741,7 @@ str_0x800387E8:
 
 str_0x800387D8:
 ;JP Text: "死のカードに"
-.string "their soul is sucked out"
+.string "Their soul is sucked out"
 
 str_0x800387C0:
 ;JP Text: "たましいをすいとられた"
@@ -961,7 +961,7 @@ str_0x80038380:
 
 str_0x800C069C:
 ;JP Text: "必殺"
-.string "Killer Technique"
+.string "Killer Technique,"
 
 str_0x80038370:
 ;JP Text: "月光１０連打！"
@@ -977,7 +977,7 @@ str_0x8003834C:
 
 str_0x80038340:
 ;JP Text: "幻の必殺技"
-.string "Legendary killer attack."
+.string "Legendary killer attack,"
 
 str_0x8003832C:
 ;JP Text: "やまあらし　だー"
@@ -1033,7 +1033,7 @@ str_0x8003822C:
 
 str_0x80038218:
 ;JP Text: "ザビレダブータリア"
-.string "Zabireda Butalia."
+.string "Zabireda Butalia…"
 
 str_0x80038204:
 ;JP Text: "ゾンビを呼びよせた"
@@ -1041,11 +1041,11 @@ str_0x80038204:
 
 str_0x800381EC:
 ;JP Text: "しかしゾンビはその場に"
-.string "However, the zombie crumbled"
+.string "However, the zombie instantly"
 
 str_0x800381DC:
 ;JP Text: "くずれ落ちた"
-.string "away on the spot."
+.string "crumbled away."
 
 str_0x800381CC:
 ;JP Text: "ゾンビはｃ　に"
@@ -1129,7 +1129,7 @@ str_0x80038014:
 
 str_0x80038004:
 ;JP Text: "「ぷぷぷっ」"
-.string "“Heh heh heh”"
+.string "“Heh heh heh.”"
 
 str_0x80037FE8:
 ;JP Text: "エッチなことをそうぞうした"

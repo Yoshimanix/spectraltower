@@ -969,7 +969,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x800373A4
-.word str_0x800C0584
+.word str_sentflying
 .word str_0x80038D34
 .halfword 0x0002
 .halfword 0x0001

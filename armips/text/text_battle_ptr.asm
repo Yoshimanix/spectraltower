@@ -362,7 +362,7 @@
 
 ; Entry @ 0x8002B654
 .word str_0x8002B7E0
-.word str_0x800C0540
+.word str_skilly
 .halfword 0x0001
 .halfword 0x0001
 .halfword 0x0000

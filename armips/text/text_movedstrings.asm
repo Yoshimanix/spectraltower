@@ -209,7 +209,7 @@ str_0x80037F84:
 
 str_0x80037F6C:
 ;JP Text: "自分にほれぼれとした"
-.string "gets into themselves"
+.string "gets into themselves."
 
 str_0x80037F58:
 ;JP Text: "「ふっ　きまった」"

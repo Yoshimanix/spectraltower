@@ -97,11 +97,11 @@ str_0x8002B9E0:
 
 str_0x800C05A4:
 ;JP Text: "ｈ　と"
-.string "ｈ and ｉ"
+.string "ｈ and"
 
 str_0x8002B9CC:
 ;JP Text: "ｉ　をこわされた！"
-.string "have been destroyed!"
+.string "ｉ destroyed!"
 
 str_0x8002B9BC:
 ;JP Text: "ｃ　の指先が"
@@ -205,7 +205,7 @@ str_0x8002B824:
 
 str_0x8002B80C:
 ;JP Text: "病気レベルが上がった"
-.string "Illness level increased,"
+.string "Illness level increased."
 
 str_0x8002B7F4:
 ;JP Text: "呪いレベルが上がった"
@@ -213,7 +213,7 @@ str_0x8002B7F4:
 
 str_0x8002B7E0:
 ;JP Text: "うまくかわした！"
-.string "skillfully dodged!"
+.string "The attack was"
 
 str_0x8002B7D4:
 ;JP Text: "ｈ　ポイ！"

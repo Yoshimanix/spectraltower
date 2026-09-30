@@ -8,7 +8,7 @@ NewStringsStart:
 start_over2:
 .string "start over? Just give it uuup!"
 our_atonement:
-.string "are our “Atonement.”"
+.string "are their “Atonement.”"
 knowanything2:
 .string "about the towers, do you?"
 str_nothingnote:
@@ -74,7 +74,7 @@ str_crouch:
 str_dirt:
 .string "dust."
 str_blood:
-.string "“Regret” with their blood."
+.string "“Nirvana” with their blood."
 str_gru:
 .string "gruesome, bloody death."
 str_scratch:
@@ -90,7 +90,7 @@ str_cremated:
 str_wildchild:
 .string "Wild Child.”"
 str_dots:
-.string "…………No matter how many times you"
+.string "…No matter how many times you"
 str_lies:
 .string "lies on the ground."
 str_master:
@@ -113,6 +113,8 @@ magic2:
 .string "magic trick."
 prayer2:
 .string "unheard."
+str_sentflying:
+.string "ａ was sent"
 str_a_chants:
 .string "ａ chants "
 incredible_strike:
@@ -149,6 +151,8 @@ str_aposs:
 .string "A possibly edible"
 uselessrod2:
 .string "to stone."
+str_skilly:
+.string "skillfully dodged!"
 strange2:
 .string "strange."
 resentment1:

@@ -538,7 +538,7 @@
 
 ; Entry @ 0x8002BFB4
 .word str_0x80035410
-.word str_0x800C0540
+.word str_0x800353F4
 .halfword 0x0002
 .halfword 0x0002
 .halfword 0x0000

@@ -362,7 +362,7 @@ str_0x800290E0:
 
 str_0x800290C0:
 ;JP Text: "敵の呪い攻撃をふせいでくれる"
-.string "it blocks curses and attacks."
+.string "it blocks curses."
 
 str_0x800290A4:
 ;JP Text: "アイテムをこわされなくなる"
@@ -370,7 +370,7 @@ str_0x800290A4:
 
 str_0x80029088:
 ;JP Text: "敵に乗りうつられなくなる"
-.string "you are immune to possession"
+.string "you are immune to possession."
 
 str_0x80029074:
 ;JP Text: "ただのがらくたを"
