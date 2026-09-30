@@ -255,7 +255,7 @@ str_0x800366AC:
 
 str_0x8003669C:
 ;JP Text: "入れ換えます"
-.string "results."
+.string "roll chart."
 
 str_0x80036684:
 ;JP Text: "身がわり君が敵の攻撃を"

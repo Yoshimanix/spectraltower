@@ -121,6 +121,10 @@ str_itemdis:
 .string "An item disappears from"
 str_a_chants:
 .string "ａ chants "
+str_singsong:
+.string "ａ sings a song"
+str_strengtho:
+.string "ａ feels strength"
 incredible_strike:
 .string "obliterated ｃ."
 str_aisalso:

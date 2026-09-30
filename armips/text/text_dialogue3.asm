@@ -261,7 +261,7 @@ str_0x800391AC:
 
 str_0x80039194:
 ;JP Text: "急にペコペコしだした"
-.string "Suddenly begins to flatter."
+.string "Suddenly begins to bow down."
 
 str_0x80039188:
 ;JP Text: "「ｃさん"
@@ -289,7 +289,7 @@ str_0x8003912C:
 
 str_0x80039114:
 ;JP Text: "きょうみをしめさない！"
-.string "Show some interest!"
+.string "is uninterested!"
 
 str_0x80039108:
 ;JP Text: "ａ　には"
@@ -385,7 +385,7 @@ str_0x80038F20:
 
 str_0x80038F14:
 ;JP Text: "剣魔連撃"
-.string "Demonblade Combo."
+.string "Godslayer Combo."
 
 str_0x80038F08:
 ;JP Text: "パワーの"
@@ -441,7 +441,7 @@ str_0x80038E1C:
 
 str_0x80038E04:
 ;JP Text: "ノグノグを呼びだした"
-.string "summons Nogunogu."
+.string "summons Nogu Nogu."
 
 str_0x80038DF4:
 ;JP Text: "「じゃ！！」"
@@ -449,7 +449,7 @@ str_0x80038DF4:
 
 str_0x80038DDC:
 ;JP Text: "ノグノグは帰っていった"
-.string "Nogunogu went home."
+.string "Nogu Nogu went home."
 
 str_0x80038DC4:
 ;JP Text: "ホヘホヘを呼びだした"
@@ -525,7 +525,7 @@ str_0x80038C40:
 
 str_0x80038C24:
 ;JP Text: "まんぞくして帰っていった"
-.string "walks away, feeling fulfilled."
+.string "leaves after a fun time dancing."
 
 str_0x800C06AC:
 ;JP Text: "！"
@@ -537,7 +537,7 @@ str_0x80038C0C:
 
 str_0x80038BF8:
 ;JP Text: "きげんが悪くなった"
-.string "got in a bad mood."
+.string "gets in a bad mood."
 
 str_0x80038BE0:
 ;JP Text: "太古の神々にいのった"
@@ -669,7 +669,7 @@ str_0x80038950:
 
 str_0x80038938:
 ;JP Text: "ノグノグがあらわれた"
-.string "NoguNogu appears."
+.string "Nogu Nogu appears."
 
 str_0x8003892C:
 ;JP Text: "「ノグ？」"
@@ -677,7 +677,7 @@ str_0x8003892C:
 
 str_0x80038914:
 ;JP Text: "ノグノグは去っていった"
-.string "NoguNogu leaves."
+.string "Nogu Nogu leaves."
 
 str_0x800388F8:
 ;JP Text: "カードマジックをひろうした"
@@ -741,7 +741,7 @@ str_0x800387E8:
 
 str_0x800387D8:
 ;JP Text: "死のカードに"
-.string "Their soul is sucked out"
+.string "Your soul is sucked out"
 
 str_0x800387C0:
 ;JP Text: "たましいをすいとられた"
@@ -773,7 +773,7 @@ str_0x80038740:
 
 str_0x8003872C:
 ;JP Text: "空と光の歌を歌った"
-.string "sings a song of sky & light."
+.string "of skies and shining light."
 
 str_0x80038714:
 ;JP Text: "大空を飛ぶ鳥のように"
@@ -793,7 +793,7 @@ str_0x800386D0:
 
 str_0x800386BC:
 ;JP Text: "体に力がみなぎった"
-.string "body feels strength well up."
+.string "well up in their body."
 
 str_0x800386A0:
 ;JP Text: "歌はあたりにひびきわたった"
@@ -829,7 +829,7 @@ str_0x80038618:
 
 str_0x80038600:
 ;JP Text: "チェンジをして攻撃！"
-.string "swaps their attack!"
+.string "swaps the dice and attacks!"
 
 str_0x800385F0:
 ;JP Text: "「チェンジ！」"

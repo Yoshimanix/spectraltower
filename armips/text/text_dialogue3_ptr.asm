@@ -1537,7 +1537,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x80037814
-.word str_0x800C0584
+.word str_singsong
 .word str_0x8003872C
 .halfword 0x0002
 .halfword 0x0001
@@ -1569,7 +1569,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x80037854
-.word str_0x800C0554
+.word str_strengtho
 .word str_0x800386BC
 .halfword 0x0002
 .halfword 0x0001
@@ -1585,7 +1585,7 @@
 .halfword 0x0001
 
 ; Entry @ 0x80037874
-.word str_0x80038A50
+.word str_0x8002A3D8
 .word str_0x800C0540
 .halfword 0x0001
 .halfword 0x0001
