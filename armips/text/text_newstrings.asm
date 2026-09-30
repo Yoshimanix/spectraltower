@@ -11,6 +11,8 @@ our_atonement:
 .string "are their “Atonement.”"
 knowanything2:
 .string "about the towers, do you?"
+str_uponyou:
+.string "The previous player's power"
 str_nothingnote:
 .string "notable about it."
 str_stopped:
@@ -115,6 +117,8 @@ prayer2:
 .string "unheard."
 str_sentflying:
 .string "ａ was sent"
+str_itemdis:
+.string "An item disappears from"
 str_a_chants:
 .string "ａ chants "
 incredible_strike:

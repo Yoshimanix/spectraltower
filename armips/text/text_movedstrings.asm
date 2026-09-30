@@ -221,11 +221,11 @@ str_0x80037F3C:
 
 str_0x80037F24:
 ;JP Text: "「ぼーくは　かっこいい"
-.string "“I'm a badass, super"
+.string "“I'm a dashingly handsome,"
 
 str_0x80037F0C:
 ;JP Text: "　てーんさーいだー」"
-.string "geeeeeniuuus~!”"
+.string "super geeeeeniuuus~!”"
 
 str_0x80037EF0:
 ;JP Text: "すべてがめんどうになった"
@@ -275,19 +275,19 @@ str_0x8002E938:
 
 str_0x8002E91C:
 ;JP Text: "さらに　アイテムもいくつか"
-.string "You were able to gain"
+.string "What's more,"
 
 str_0x8002E900:
 ;JP Text: "手に入れることができた！"
-.string "even more items!"
+.string "you received some items!"
 
 str_0x8002E8EC:
 ;JP Text: "しかし　アイテムを"
-.string "However, you gained a few"
+.string "You received some items!"
 
 str_0x8002E8D4:
 ;JP Text: "いくつか手に入れた！"
-.string "items!"
+.string " "
 
 
 str_0x8002EA64:

@@ -580,7 +580,7 @@ str_0x800352C8:
 
 str_0x800352BC:
 ;JP Text: "「無念」"
-.string "“Nirvana”"
+.string "“Lingering regret.”"
 
 str_0x800352AC:
 ;JP Text: "わたしの力を"
@@ -592,7 +592,7 @@ str_0x8003529C:
 
 str_0x8003527C:
 ;JP Text: "前回のプレーヤーの力を得た！"
-.string "You got the last player's power!"
+.string "is bestowed upon ａ!"
 
 str_0x80035268:
 ;JP Text: "……ような気がした"
@@ -1080,7 +1080,7 @@ str_0x8003469C:
 
 str_0x8003467C:
 ;JP Text: "そしたら　こんな大きな部屋に…"
-.string "And then…I found this room,"
+.string "Then…I found this room,"
 
 str_0x8003465C:
 ;JP Text: "でも　ぼくは穴をほり続けるぞ！"
@@ -1108,7 +1108,7 @@ str_0x800345E0:
 
 str_0x800345CC:
 ;JP Text: "ウフフフフ…………"
-.string "important! Heh heh heh…………"
+.string "important! Heh heh heh…"
 
 str_0x800C066C:
 ;JP Text: "フン！"
@@ -1160,7 +1160,7 @@ str_0x800344D0:
 
 str_0x800344B4:
 ;JP Text: "体力回復できるけど………"
-.string "food, but………"
+.string "food, but…"
 
 str_0x800344A0:
 ;JP Text: "変なモノを食べると"
@@ -1360,11 +1360,11 @@ str_0x800340B0:
 
 str_0x800C064C:
 ;JP Text: "ねっ"
-.string "Hey!"
+.string "Isn't that right, "
 
 str_0x800340A0:
 ;JP Text: "あ・な・た！"
-.string "Isn't that right, dear?~"
+.string "dear~?"
 
 str_0x8003408C:
 ;JP Text: "おいかけてくる敵が"
@@ -1804,7 +1804,7 @@ str_0x80033690:
 
 str_0x8003367C:
 ;JP Text: "ふあぁ　ねむい……"
-.string "*Yawn* I'm tired………"
+.string "*Yawn* I'm tired…"
 
 str_0x80033660:
 ;JP Text: "今日はもう帰って寝よっと"
@@ -1812,7 +1812,7 @@ str_0x80033660:
 
 str_0x80033654:
 ;JP Text: "ふあぁ……"
-.string "*Yawn*………"
+.string "*Yawn*…"
 
 str_0x80033640:
 ;JP Text: "ボク思うんだけど"
@@ -1996,7 +1996,7 @@ str_0x80033284:
 
 str_0x8003326C:
 ;JP Text: "なんだろう　フシギ……"
-.string "fighting? It's so strange……"
+.string "fighting? It's so strange…"
 
 str_0x8003324C:
 ;JP Text: "ボクたちの王様に会いたいって？"
@@ -2460,7 +2460,7 @@ str_0x80032718:
 
 str_0x80032704:
 ;JP Text: "ほっといてくれ……"
-.string "alone……"
+.string "alone…"
 
 str_0x800326F4:
 ;JP Text: "見てくれ！！"

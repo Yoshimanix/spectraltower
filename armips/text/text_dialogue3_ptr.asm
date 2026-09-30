@@ -1185,7 +1185,7 @@
 .halfword 0x0001
 
 ; Entry @ 0x80037554
-.word str_0x800C0554
+.word str_itemdis
 .word str_0x80038A6C
 .halfword 0x0002
 .halfword 0x0001

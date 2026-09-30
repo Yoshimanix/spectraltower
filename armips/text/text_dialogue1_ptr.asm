@@ -625,7 +625,7 @@
 .halfword 0x0001
 
 ; Entry @ 0x8002C064
-.word str_0x800C0584
+.word str_uponyou
 .word str_0x8003527C
 .halfword 0x0002
 .halfword 0x0002

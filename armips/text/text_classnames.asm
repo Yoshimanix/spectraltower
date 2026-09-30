@@ -193,7 +193,7 @@ str_8002836C:
 
 str_80028360:
 ;JP TEXT: "聖獣使い"
-.string "Sacred Beast Tamer"
+.string "Summon Tamer"
 
 str_800BE578:
 ;JP TEXT: "案内人"

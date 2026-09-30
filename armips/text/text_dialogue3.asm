@@ -425,7 +425,7 @@ str_0x80038E74:
 
 str_0x80038E58:
 ;JP Text: "１００のダメージをうけた"
-.string "Takes 100 damage."
+.string "takes 100 damage."
 
 str_0x80038E48:
 ;JP Text: "口笛を吹いた"
@@ -469,15 +469,15 @@ str_0x80038D8C:
 
 str_0x80038D70:
 ;JP Text: "きまぐれまじんがあらわれた"
-.string "A fickle Majin appears."
+.string "A Fickle Majin appears."
 
 str_0x80038D54:
 ;JP Text: "きまぐれまじんにつぶされた"
-.string "was crushed by the fickle Majin."
+.string "was crushed by the Fickle Majin."
 
 str_0x80038D34:
 ;JP Text: "きまぐれまじんにふっとばされた"
-.string "flying by the fickle Majin."
+.string "flying by the Fickle Majin."
 
 str_0x80038D1C:
 ;JP Text: "きまぐれ獣があらわれた"
@@ -545,11 +545,11 @@ str_0x80038BE0:
 
 str_0x80038BCC:
 ;JP Text: "大地がはげしくゆれ"
-.string "The ground shakes violently and"
+.string "The ground shakes violently, and"
 
 str_0x80038BB8:
 ;JP Text: "ｃ　を飲み込んだ"
-.string "sucks in ｃ."
+.string "ｃ was sucked in."
 
 str_0x80038BA4:
 ;JP Text: "大地が少しゆれた"
@@ -561,7 +561,7 @@ str_0x80038B8C:
 
 str_0x80038B74:
 ;JP Text: "突然、大雨がふってきた"
-.string "It suddenly begins to pour rain."
+.string "Rain suddenly begins to pour."
 
 str_0x80038B5C:
 ;JP Text: "全員、ずぶぬれになった"
@@ -609,7 +609,7 @@ str_0x80038A84:
 
 str_0x80038A6C:
 ;JP Text: "アイテムが消えていく"
-.string "item disappears."
+.string "ａ's inventory."
 
 str_0x80038A50:
 ;JP Text: "しかし　何もおこらなかった"
