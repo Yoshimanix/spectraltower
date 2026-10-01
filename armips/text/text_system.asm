@@ -299,7 +299,7 @@ str_0x8002ADBC:
 
 str_0x8002ADA4:
 ;JP Text: "宝箱は消えてなくなった"
-.string "vanished without a trace."
+.string "vanishes without a trace."
 
 str_0x8002AD88:
 ;JP Text: "出口のカギを入手しました"

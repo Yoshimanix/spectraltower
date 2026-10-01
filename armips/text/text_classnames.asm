@@ -193,7 +193,7 @@ str_8002836C:
 
 str_80028360:
 ;JP TEXT: "聖獣使い"
-.string "Summon Tamer"
+.string "Holy Beast Tamer"
 
 str_800BE578:
 ;JP TEXT: "案内人"
@@ -333,7 +333,7 @@ str_800BE4DC:
 
 str_800282A0:
 ;JP TEXT: "魔猿・悟空"
-.string "Magic Ape Goku"
+.string "Wukong"
 
 str_800BE4D4:
 ;JP TEXT: "軍師"

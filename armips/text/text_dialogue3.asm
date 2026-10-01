@@ -101,11 +101,11 @@ str_0x800394CC:
 
 str_0x800394AC:
 ;JP Text: "商談をもちかけようとしたが…"
-.string "tried to make a deal, but…"
+.string "tries to make a deal, but…"
 
 str_0x80039494:
 ;JP Text: "アイテムが　なかった"
-.string "they had no items."
+.string "they have no items."
 
 str_0x80039484:
 ;JP Text: "しかしｃ　は"
@@ -113,7 +113,7 @@ str_0x80039484:
 
 str_0x8003946C:
 ;JP Text: "きにいらなかったようだ"
-.string "was not pleased."
+.string "is not pleased."
 
 str_0x80039450:
 ;JP Text: "ものすごくよろこんでいる"
@@ -233,7 +233,7 @@ str_0x80039218:
 
 str_0x80039208:
 ;JP Text: "ｃ　を口説いた"
-.string "Smooth-talksｃ."
+.string "Smooth-talks ｃ."
 
 str_0x800391F0:
 ;JP Text: "わかってくれなかった"
@@ -241,7 +241,7 @@ str_0x800391F0:
 
 str_0x800391E4:
 ;JP Text: "てれている"
-.string "is blushing."
+.string "blushes."
 
 str_0x800391D8:
 ;JP Text: "逃げだした"
@@ -261,7 +261,7 @@ str_0x800391AC:
 
 str_0x80039194:
 ;JP Text: "急にペコペコしだした"
-.string "Suddenly begins to bow down."
+.string "Suddenly begins to bow."
 
 str_0x80039188:
 ;JP Text: "「ｃさん"
@@ -405,7 +405,7 @@ str_0x80038EC0:
 
 str_0x80038EB4:
 ;JP Text: "聖なる力で"
-.string "They attack ｃ"
+.string "You attack ｃ"
 
 str_0x80038EA8:
 ;JP Text: "ｃ　を攻撃"
@@ -621,7 +621,7 @@ str_0x80038A38:
 
 str_0x80038A28:
 ;JP Text: "もえあがった"
-.string "catches on fire."
+.string "caught on fire."
 
 str_0x80038A14:
 ;JP Text: "炎にまきこまれた"
@@ -901,11 +901,11 @@ str_0x80038490:
 
 str_0x80038474:
 ;JP Text: "ぶきみな笑みをうかべている"
-.string "gives a creepy smile."
+.string "returns a creepy smile."
 
 str_0x80038468:
 ;JP Text: "ｃ　には"
-.string "It does not seem to work on"
+.string "It did not seem to work on"
 
 str_0x80038454:
 ;JP Text: "きかなかったようだ"
@@ -917,7 +917,7 @@ str_0x80038444:
 
 str_0x80038430:
 ;JP Text: "アイテムをおいて"
-.string "They put down an item and"
+.string "They leave an item and"
 
 str_0x80038418:
 ;JP Text: "走って逃げてしまった"
@@ -977,7 +977,7 @@ str_0x8003834C:
 
 str_0x80038340:
 ;JP Text: "幻の必殺技"
-.string "Legendary killer attack,"
+.string "Legendary killer technique,"
 
 str_0x8003832C:
 ;JP Text: "やまあらし　だー"
@@ -1001,11 +1001,11 @@ str_0x800382D4:
 
 str_0x800382C4:
 ;JP Text: "ｃ　の生気を"
-.string "ｃ gets ｅ points"
+.string "ｅ points of vitality were"
 
 str_0x800382B8:
 ;JP Text: "ｅ吸収した"
-.string "of vitality sucked out of them."
+.string "sucked out of ｃ!"
 
 str_0x800382A4:
 ;JP Text: "しかし　かわされた"
@@ -1045,7 +1045,7 @@ str_0x800381EC:
 
 str_0x800381DC:
 ;JP Text: "くずれ落ちた"
-.string "crumbled away."
+.string "crumbles away."
 
 str_0x800381CC:
 ;JP Text: "ゾンビはｃ　に"
@@ -1053,7 +1053,7 @@ str_0x800381CC:
 
 str_0x800381BC:
 ;JP Text: "だきついた！"
-.string "ｃ！"
+.string "ｃ!"
 
 str_0x800381AC:
 ;JP Text: "しめつけられた"
