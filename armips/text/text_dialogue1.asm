@@ -2116,7 +2116,7 @@ str_0x80032FB0:
 
 str_0x80032F98:
 ;JP Text: "ああ…装備してみたい…"
-.string "Aah…I'd love to equip it…"
+.string "Ah…I'd love to equip it…"
 
 str_0x80032F8C:
 ;JP Text: "この塔から"
@@ -3276,7 +3276,7 @@ str_0x800313C8:
 
 str_0x800313AC:
 ;JP Text: "ワシはとっても元気だぜ！！"
-.string "I've bee feeling great!!"
+.string "I've been feeling great!!"
 
 str_0x8003138C:
 ;JP Text: "チッチッチッ　年寄りがみんな"

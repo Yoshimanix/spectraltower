@@ -97,6 +97,8 @@ str_lies:
 .string "lies on the ground."
 str_master:
 .string "its master."
+str_decomp:
+.string "horribly decomposed."
 str_swollen:
 .string "swollen……"
 escape2:

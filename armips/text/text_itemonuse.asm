@@ -274,7 +274,7 @@ str_0x80029FB8:
 
 str_0x80029FA4:
 ;JP Text: "この地をあたえる"
-.string "The Demon King Janesse."
+.string "the Demon King Janesse."
 
 str_0x80029F8C:
 ;JP Text: "基と基を　あわせし時"

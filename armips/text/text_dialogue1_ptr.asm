@@ -5674,7 +5674,7 @@
 
 ; Entry @ 0x8002E7D4
 .word str_0x8002EAAC
-.word str_0x800C0540
+.word str_decomp
 .halfword 0x0001
 .halfword 0x0002
 .halfword 0x0007

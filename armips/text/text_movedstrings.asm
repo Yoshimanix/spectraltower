@@ -468,7 +468,7 @@ str_0x8002EAC8:
 
 str_0x8002EAAC:
 ;JP Text: "ひどく腐乱しているようだ"
-.string "It looks horribly decomposed."
+.string "The body looks"
 
 str_0x8002EA94:
 ;JP Text: "女がうずくまっていた"

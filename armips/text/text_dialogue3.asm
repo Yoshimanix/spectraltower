@@ -233,7 +233,7 @@ str_0x80039218:
 
 str_0x80039208:
 ;JP Text: "ｃ　を口説いた"
-.string "Smooth-talks ｃ."
+.string "smooth-talks ｃ."
 
 str_0x800391F0:
 ;JP Text: "わかってくれなかった"
