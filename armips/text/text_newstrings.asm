@@ -118,13 +118,15 @@ prayer2:
 str_sentflying:
 .string "ａ was sent"
 str_itemdis:
-.string "An item disappears from"
+.string "An item disappeared from"
 str_a_chants:
 .string "ａ chants "
 str_singsong:
 .string "ａ sings a song"
 str_strengtho:
 .string "ａ feels strength"
+str_diceswap:
+.string "ａ swaps the dice,"
 incredible_strike:
 .string "obliterated ｃ."
 str_aisalso:

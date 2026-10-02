@@ -389,7 +389,7 @@ str_0x80038F14:
 
 str_0x80038F08:
 ;JP Text: "パワーの"
-.string "They can't control their power!"
+.string "You can't control your power!"
 
 str_0x80038EF0:
 ;JP Text: "せいぎょができない！"
@@ -397,7 +397,7 @@ str_0x80038EF0:
 
 str_0x80038ED8:
 ;JP Text: "２０のダメージをうけた"
-.string "takes 20 damage."
+.string "took 20 damage."
 
 str_0x80038EC0:
 ;JP Text: "祈りながら剣をかまえた"
@@ -545,7 +545,7 @@ str_0x80038BE0:
 
 str_0x80038BCC:
 ;JP Text: "大地がはげしくゆれ"
-.string "The ground shakes violently, and"
+.string "The ground shook violently, and"
 
 str_0x80038BB8:
 ;JP Text: "ｃ　を飲み込んだ"
@@ -829,7 +829,7 @@ str_0x80038618:
 
 str_0x80038600:
 ;JP Text: "チェンジをして攻撃！"
-.string "swaps the dice and attacks!"
+.string "and unleashes an attack!"
 
 str_0x800385F0:
 ;JP Text: "「チェンジ！」"

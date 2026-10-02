@@ -1641,7 +1641,7 @@
 .halfword 0x0000
 
 ; Entry @ 0x800378E4
-.word str_0x800C0584
+.word str_diceswap
 .word str_0x80038600
 .halfword 0x0002
 .halfword 0x0001
