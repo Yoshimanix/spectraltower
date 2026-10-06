@@ -112,7 +112,7 @@ str_80028848:
 
 str_80028838:
 ;JP TEXT: "呼ぶ口笛　　"
-.string "Calling"
+.string "Calling        "
 
 str_80028828:
 ;JP TEXT: "呼ぶさけび　"
