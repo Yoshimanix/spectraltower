@@ -101,7 +101,7 @@ str_0x800C05A4:
 
 str_0x8002B9CC:
 ;JP Text: "ｉ　をこわされた！"
-.string "ｉ destroyed!"
+.string "ｉ were destroyed!"
 
 str_0x8002B9BC:
 ;JP Text: "ｃ　の指先が"

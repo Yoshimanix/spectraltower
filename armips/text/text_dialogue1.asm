@@ -1796,11 +1796,11 @@ str_0x800336B8:
 
 str_0x800336A0:
 ;JP Text: "あ　このことは誰にも"
-.string "Oh, uh…don't tell anyone I"
+.string "Oh, uh… don't tell anyone"
 
 str_0x80033690:
 ;JP Text: "言わないでね"
-.string "said that."
+.string "I said that."
 
 str_0x8003367C:
 ;JP Text: "ふあぁ　ねむい……"
@@ -1828,7 +1828,7 @@ str_0x80033610:
 
 str_0x800335F4:
 ;JP Text: "あそんでくれてもいいのに"
-.string "with me more."
+.string "with us more."
 
 str_0x800335D8:
 ;JP Text: "お歌の上手なお姉ちゃんが"
@@ -1880,11 +1880,11 @@ str_0x800334FC:
 
 str_0x800C0624:
 ;JP Text: "ボク"
-.string "I just hate"
+.string "I just hate those"
 
 str_0x800334DC:
 ;JP Text: "アイテムハンターはキライなんだ"
-.string "those Item Hunters."
+.string "Item Hunters."
 
 str_0x800334C4:
 ;JP Text: "だってボクの好きな宝物"
@@ -4196,7 +4196,7 @@ str_0x8002FDF8:
 
 str_0x8002FDE8:
 ;JP Text: "カ・ン・ジ・ル"
-.string "~*……I can feel the heat……*~"
+.string "~*I can feel the heat*~"
 
 str_0x8002FDD8:
 ;JP Text: "立ち去りなさい"

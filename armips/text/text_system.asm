@@ -371,7 +371,7 @@ str_0x8002ABFC:
 
 str_0x8002ABE4:
 ;JP Text: "メチャクチャつかれた"
-.string "You got incredibly tired."
+.string "You overexerted yourself."
 
 str_0x8002ABC0:
 ;JP Text: "しかも宝箱にはドクがぬられていた"
